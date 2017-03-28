@@ -1,13 +1,12 @@
 package utils;
 
 import sort.ISort;
+import utils.compare.Comparable;
 
 import java.util.Arrays;
 import java.util.Random;
 
-/**
- * Created by Inno Fang on 2017/3/28.
- */
+
 public class SortTestHelper {
 
     /**
@@ -16,9 +15,9 @@ public class SortTestHelper {
      * @param rangeRight the right side of the range
      * @return an array containing N array element sizes between rangeLeft and rangeRight
      */
-    public static int[] generateRandomArray(int n, int rangeLeft, int rangeRight) {
+    public static Integer[] generateRandomIntegerArray(int n, int rangeLeft, int rangeRight) {
 
-        int[] arr = new int[n];
+        Integer[] arr = new Integer[n];
         Random random = new Random();
         for (int i = 0; i < n; i++) {
             arr[i] = random.nextInt(rangeRight) % (rangeRight - rangeLeft + 1) + rangeLeft;
@@ -26,9 +25,14 @@ public class SortTestHelper {
         return arr;
     }
 
-    public static int[] generateNearlyOrderedArray(int n, int swapTimes) {
+    /**
+     * @param n         the number of array elements
+     * @param swapTimes number of array swaps
+     * @return an almost ordered array
+     */
+    public static Integer[] generateNearlyOrderedIntegerArray(int n, int swapTimes) {
 
-        int[] arr = new int[n];
+        Integer[] arr = new Integer[n];
         for (int i = 0; i < n; i++) {
             arr[i] = i;
         }
@@ -37,7 +41,7 @@ public class SortTestHelper {
         for (int i = 0; i < swapTimes; i++) {
             int posx = random.nextInt(n);
             int posy = random.nextInt(n);
-            swap(arr, posx, posy);
+            SwapUtil.swap(arr, posx, posy);
         }
         return arr;
     }
@@ -46,31 +50,39 @@ public class SortTestHelper {
         return Arrays.copyOf(arr, arr.length);
     }
 
-    public static void printArray(int arr[]) {
-        for (Integer t : arr) {
+    public static <T> void printArray(T arr[]) {
+        for (T t : arr) {
             System.out.print(t + " ");
         }
         System.out.println();
     }
 
-    public static boolean isSorted(int arr[], int n) {
-        for (int i = 0; i < arr.length - 1; i++) {
-            if (arr[i] > arr[i + 1])
+    @SuppressWarnings("unchecked")
+    public static <T> boolean isAscending(T arr[], Comparable comparable) {
+        for (int i = 0; i < arr.length; i++) {
+            if (comparable.moreThanOrEqualTo(arr[i], arr[i + 1])) {
                 return false;
+            }
         }
         return true;
     }
 
-    public static void testSort(String sortName, ISort sort, int arr[]){
+    @SuppressWarnings("unchecked")
+    public static <T> boolean isDescending(T arr[], Comparable comparable) {
+        for (int i = 0; i < arr.length; i++) {
+            if (comparable.lessThanOrEqualTo(arr[i], arr[i + 1])) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    @SuppressWarnings("unchecked")
+    public static <T> void testSort(String sortName, ISort sort, T arr[]) {
         long startTime = System.currentTimeMillis();
         sort.sort(arr);
         long endTime = System.currentTimeMillis();
         System.out.println(sortName + " : " + (endTime - startTime) + "s");
     }
 
-    public static void swap(int[] arr, int x, int y) {
-        int temp = arr[x];
-        arr[x] = arr[y];
-        arr[y] = temp;
-    }
 }
