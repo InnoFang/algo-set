@@ -46,10 +46,6 @@ public class SortTestHelper {
         return arr;
     }
 
-    public static int[] copyIntArray(int arr[]) {
-        return Arrays.copyOf(arr, arr.length);
-    }
-
     public static <T> void printArray(T arr[]) {
         for (T t : arr) {
             System.out.print(t + " ");
