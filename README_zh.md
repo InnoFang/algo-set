@@ -9,12 +9,12 @@
 ## _项目进度_
 
  + 排序
-   - [Bubble Sort](https://github.com/InnoFang/Algorithms/blob/master/src/sort/impl/BubbleSort.java)
-   - [Selection Sort](https://github.com/InnoFang/Algorithms/blob/master/src/sort/impl/SelectionSort.java)
-   - Insertion Sort
-   - Shell Sort
-   - Quick Sort
-   - Merge Sort
+   - [冒泡排序](https://github.com/InnoFang/Algorithms/blob/master/src/sort/impl/BubbleSort.java)
+   - [选择排序](https://github.com/InnoFang/Algorithms/blob/master/src/sort/impl/SelectionSort.java)
+   - 插入排序 
+   - 希尔排序 
+   - 快速排序
+   - 归并排序
 
  + 堆
  
