@@ -17,29 +17,25 @@ public abstract class ISort {
         this.comparable = comparable;
     }
 
-    public void setComparision(Comparable comparable){
-        this.comparable = comparable;
-    }
-
     public abstract <T> void sort(T[] arr);
 
-    void sort(char[] arr) {
+    public void sort(char[] arr) {
         sort(WrapperUtil.wrapperCharArray(arr));
     }
 
-    void sort(int[] arr) {
+    public void sort(int[] arr) {
         sort(WrapperUtil.wrapperIntArray(arr));
     }
 
-    void sort(float[] arr) {
+    public void sort(float[] arr) {
         sort(WrapperUtil.wrapperFloatArray(arr));
     }
 
-    void sort(double[] arr) {
+    public void sort(double[] arr) {
         sort(WrapperUtil.wrapperDoubleArray(arr));
     }
 
-    void sort(long[] arr) {
+    public void sort(long[] arr) {
         sort(WrapperUtil.wrapperLongArray(arr));
     }
 

@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/sort" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/WrapperUtil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithms/utils/SortTestHelper.class" afterPath="$PROJECT_DIR$/out/production/Algorithms/utils/SortTestHelper.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SortTest.java" afterPath="$PROJECT_DIR$/src/SortTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sort/BubbleSort.java" afterPath="$PROJECT_DIR$/src/sort/BubbleSort.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sort/ISort.java" afterPath="$PROJECT_DIR$/src/sort/ISort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/utils/SortTestHelper.java" afterPath="$PROJECT_DIR$/src/utils/SortTestHelper.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +17,54 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="SortTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ISort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort/ISort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#775#776#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,6 +75,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -44,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/utils/SwapUtil.java" />
         <option value="$PROJECT_DIR$/src/utils/Comparable.java" />
         <option value="$PROJECT_DIR$/src/utils/IntegerComparison.java" />
         <option value="$PROJECT_DIR$/src/utils/compare/Comparable.java" />
@@ -52,10 +93,11 @@
         <option value="$PROJECT_DIR$/src/utils/BoxingUtil.java" />
         <option value="$PROJECT_DIR$/src/utils/WrapperClass.java" />
         <option value="$PROJECT_DIR$/src/utils/WrapperUtil.java" />
+        <option value="$PROJECT_DIR$/src/utils/SortTestHelper.java" />
+        <option value="$PROJECT_DIR$/src/utils/SwapUtil.java" />
+        <option value="$PROJECT_DIR$/src/SortTest.java" />
         <option value="$PROJECT_DIR$/src/sort/ISort.java" />
         <option value="$PROJECT_DIR$/src/sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/utils/SortTestHelper.java" />
-        <option value="$PROJECT_DIR$/src/SortTest.java" />
       </list>
     </option>
   </component>
@@ -622,7 +664,7 @@
       <updated>1490668822041</updated>
       <workItem from="1490668823619" duration="4815000" />
       <workItem from="1490700103667" duration="9935000" />
-      <workItem from="1490765014916" duration="4379000" />
+      <workItem from="1490765014916" duration="5723000" />
     </task>
     <task id="LOCAL-00001" summary="add some utils">
       <created>1490705781494</created>
@@ -638,14 +680,22 @@
       <option name="project" value="LOCAL" />
       <updated>1490765062269</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add wrapper util">
+      <created>1490769418517</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1490769418517</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19129000" />
+    <option name="totallyTimeSpent" value="20473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="-9" width="1726" height="978" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -662,7 +712,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2863196" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2863196" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -687,7 +737,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add some utils" />
     <MESSAGE value="commit bubble sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit bubble sort" />
+    <MESSAGE value="add wrapper util" />
+    <option name="LAST_COMMIT_MESSAGE" value="add wrapper util" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -714,8 +765,8 @@
           <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -734,10 +785,6 @@
           <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2128#2158#0" expanded="true" />
-            <element signature="e#2617#2647#0" expanded="true" />
-            <element signature="e#2799#2829#0" expanded="true" />
-            <element signature="e#3136#3166#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -775,20 +822,16 @@
           <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#811#812#0" expanded="true" />
-            <element signature="e#840#841#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -809,20 +852,16 @@
           <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#811#812#0" expanded="true" />
-            <element signature="e#840#841#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -833,10 +872,6 @@
           <caret line="66" column="24" lean-forward="true" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2128#2158#0" expanded="true" />
-            <element signature="e#2617#2647#0" expanded="true" />
-            <element signature="e#2799#2829#0" expanded="true" />
-            <element signature="e#3136#3166#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -888,70 +923,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/WrapperUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="79" column="18" lean-forward="false" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/ISort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#811#812#0" expanded="true" />
-            <element signature="e#840#841#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/compare/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/SortTestHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="105" column="24" lean-forward="false" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2128#2158#0" expanded="true" />
-            <element signature="e#2617#2647#0" expanded="true" />
-            <element signature="e#2799#2829#0" expanded="true" />
-            <element signature="e#3136#3166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/compare/IntegerComparison.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -971,22 +942,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/WrapperUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="79" column="18" lean-forward="false" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/compare/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/SortTestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="69" column="26" lean-forward="false" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/SwapUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="162">
+          <caret line="57" column="24" lean-forward="true" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/ISort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sort/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="382">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
