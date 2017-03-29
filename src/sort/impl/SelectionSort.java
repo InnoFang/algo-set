@@ -1,5 +1,6 @@
-package sort;
+package sort.impl;
 
+import sort.ISort;
 import utils.compare.Comparable;
 
 /**

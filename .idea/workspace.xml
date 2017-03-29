@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sort/SelectionSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithms/utils/SortTestHelper.class" afterPath="$PROJECT_DIR$/out/production/Algorithms/utils/SortTestHelper.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SortTest.java" afterPath="$PROJECT_DIR$/src/SortTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sort/BubbleSort.java" afterPath="$PROJECT_DIR$/src/sort/impl/BubbleSort.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sort/SelectionSort.java" afterPath="$PROJECT_DIR$/src/sort/impl/SelectionSort.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +20,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="SelectionSort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sort/SelectionSort.java">
+        <entry file="file://$PROJECT_DIR$/src/sort/impl/SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="148">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort/impl/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,6 +81,7 @@
         <option value="$PROJECT_DIR$/src/utils/SortTestHelper.java" />
         <option value="$PROJECT_DIR$/src/SortTest.java" />
         <option value="$PROJECT_DIR$/src/sort/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/sort/impl/SelectionSort.java" />
       </list>
     </option>
   </component>
@@ -631,7 +648,7 @@
       <updated>1490668822041</updated>
       <workItem from="1490668823619" duration="4815000" />
       <workItem from="1490700103667" duration="9935000" />
-      <workItem from="1490765014916" duration="7639000" />
+      <workItem from="1490765014916" duration="7828000" />
     </task>
     <task id="LOCAL-00001" summary="add some utils">
       <created>1490705781494</created>
@@ -668,15 +685,21 @@
       <option name="project" value="LOCAL" />
       <updated>1490772680095</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add Selection Sort">
+      <created>1490772764179</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1490772764179</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22389000" />
+    <option name="totallyTimeSpent" value="22578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="-9" width="1726" height="978" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -693,7 +716,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2863196" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2863196" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -720,7 +743,8 @@
     <MESSAGE value="commit bubble sort" />
     <MESSAGE value="add wrapper util" />
     <MESSAGE value="fix some bugs" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix some bugs" />
+    <MESSAGE value="add Selection Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Selection Sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -750,14 +774,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/sort/impl/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -965,23 +989,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/sort/impl/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/sort/impl/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="148">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
           </folding>
         </state>
       </provider>

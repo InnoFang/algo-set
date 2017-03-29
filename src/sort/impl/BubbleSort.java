@@ -1,5 +1,6 @@
-package sort;
+package sort.impl;
 
+import sort.ISort;
 import utils.SortTestHelper;
 import utils.SwapUtil;
 import utils.compare.Comparable;

@@ -1,10 +1,6 @@
-import sort.BubbleSort;
+import sort.impl.BubbleSort;
 import utils.SortTestHelper;
 import utils.compare.IntegerComparison;
-
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Random;
 
 /**
  * Created by Inno Fang on 2017/3/28.
