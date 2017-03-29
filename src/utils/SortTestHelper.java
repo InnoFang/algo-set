@@ -17,6 +17,9 @@ public class SortTestHelper {
      */
     public static Integer[] generateRandomIntegerArray(int n, int rangeLeft, int rangeRight) {
 
+        if (rangeLeft > rangeRight)
+            throw new RuntimeException("Range is incorrect, rangeLeft must be greater than rangeRight");
+
         Integer[] arr = new Integer[n];
         Random random = new Random();
         for (int i = 0; i < n; i++) {
@@ -78,7 +81,7 @@ public class SortTestHelper {
         long startTime = System.currentTimeMillis();
         sort.sort(arr);
         long endTime = System.currentTimeMillis();
-        System.out.println(sortName + " : " + (endTime - startTime) + "s");
+        System.out.printf("%s : %.6fs\n",sortName, ((endTime - startTime) * 0.1) / 1000);
     }
 
 }
