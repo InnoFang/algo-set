@@ -11,13 +11,14 @@ import java.util.Random;
  */
 public final class SortTest {
 
+    private SortTest(){}
+
     public static void main(String[] args) {
-        Integer[] arr = SortTestHelper.generateRandomIntegerArray(100, 10, 1000);
-//        Integer[] arr1 = Arrays.copyOf(arr, arr.length);
+        int[] arr = SortTestHelper.generateRandomIntegerArray(100, 10, 1000);
         SortTestHelper.printArray(arr);
-        SortTestHelper.testSort("Bubble Sort", new BubbleSort(), arr);
+        SortTestHelper.testSort("Bubble Sort", new BubbleSort(new IntegerComparison()), arr);
         SortTestHelper.printArray(arr);
-        System.out.println(SortTestHelper.isAscending(arr, new IntegerComparison()));
+        System.out.println(SortTestHelper.isAscending(arr));
     }
 
 }
