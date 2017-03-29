@@ -65,8 +65,8 @@ public class SortTestHelper {
 
     @SuppressWarnings("unchecked")
     public static <T> boolean isAscending(T arr[], Comparable comparable) {
-        for (int i = 0; i < arr.length; i++) {
-            if (comparable.moreThanOrEqualTo(arr[i], arr[i + 1])) {
+        for (int i = 0; i < arr.length - 1; i++) {
+            if (comparable.moreThan(arr[i], arr[i + 1])) {
                 return false;
             }
         }
@@ -81,7 +81,7 @@ public class SortTestHelper {
     @SuppressWarnings("unchecked")
     public static <T> boolean isDescending(T arr[], Comparable comparable) {
         for (int i = 0; i < arr.length; i++) {
-            if (comparable.lessThanOrEqualTo(arr[i], arr[i + 1])) {
+            if (comparable.lessThan(arr[i], arr[i + 1])) {
                 return false;
             }
         }
@@ -103,7 +103,11 @@ public class SortTestHelper {
 
     @SuppressWarnings("unchecked")
     public static void testSort(String sortName, ISort sort, int arr[]) {
-        testSort(sortName, sort, WrapperUtil.wrapperIntArray(arr));
+        Integer[] wrapArr = WrapperUtil.wrapperIntArray(arr);
+        testSort(sortName, sort, wrapArr);
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = wrapArr[i];
+        }
     }
 
 }

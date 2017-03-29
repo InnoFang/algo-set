@@ -20,23 +20,43 @@ public abstract class ISort {
     public abstract <T> void sort(T[] arr);
 
     public void sort(char[] arr) {
-        sort(WrapperUtil.wrapperCharArray(arr));
+        Character[] wrapArr = WrapperUtil.wrapperCharArray(arr);
+        sort(wrapArr);
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = wrapArr[i];
+        }
     }
 
     public void sort(int[] arr) {
-        sort(WrapperUtil.wrapperIntArray(arr));
+        Integer[] wrapArr = WrapperUtil.wrapperIntArray(arr);
+        sort(wrapArr);
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = wrapArr[i];
+        }
     }
 
     public void sort(float[] arr) {
-        sort(WrapperUtil.wrapperFloatArray(arr));
+        Float[] wrapArr = WrapperUtil.wrapperFloatArray(arr);
+        sort(wrapArr);
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = wrapArr[i];
+        }
     }
 
     public void sort(double[] arr) {
-        sort(WrapperUtil.wrapperDoubleArray(arr));
+        Double[] wrapArr = WrapperUtil.wrapperDoubleArray(arr);
+        sort(wrapArr);
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = wrapArr[i];
+        }
     }
 
     public void sort(long[] arr) {
-        sort(WrapperUtil.wrapperLongArray(arr));
+        Long[] wrapArr = WrapperUtil.wrapperLongArray(arr);
+        sort(wrapArr);
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = wrapArr[i];
+        }
     }
 
 }
