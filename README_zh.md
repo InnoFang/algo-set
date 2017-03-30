@@ -11,10 +11,14 @@
  + 排序
    - [冒泡排序](https://github.com/InnoFang/Algorithms/blob/master/src/sort/impl/BubbleSort.java)
    - [选择排序](https://github.com/InnoFang/Algorithms/blob/master/src/sort/impl/SelectionSort.java)
-   - 插入排序 
+   - [插入排序](https://github.com/InnoFang/Algorithms/blob/master/src/sort/impl/InsertionSort.java)
    - 希尔排序 
    - 快速排序
    - 归并排序
+
+ + 搜索
+
+   ...
 
  + 堆
  

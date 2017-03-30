@@ -10,10 +10,14 @@ This project is the practice of data structures and algorithms. In order to comp
  + Sort
    - [Bubble Sort](https://github.com/InnoFang/Algorithms/blob/master/src/sort/impl/BubbleSort.java)
    - [Selection Sort](https://github.com/InnoFang/Algorithms/blob/master/src/sort/impl/SelectionSort.java)
-   - Insertion Sort
+   - [Insertion Sort](https://github.com/InnoFang/Algorithms/blob/master/src/sort/impl/InsertionSort.java)
    - Shell Sort
    - Quick Sort
    - Merge Sort
+
+ + Search
+
+   ...
 
  + Heap
  
