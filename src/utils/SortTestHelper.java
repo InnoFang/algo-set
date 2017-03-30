@@ -6,7 +6,10 @@ import utils.compare.IntegerComparison;
 
 import java.util.Random;
 
-
+/**
+ * Created by Inno Fang on 2017/3/28.
+ *
+ */
 public class SortTestHelper {
 
     /**
@@ -94,7 +97,8 @@ public class SortTestHelper {
     }
 
     @SuppressWarnings("unchecked")
-    public static <T> void testSort(String sortName, ISort sort, T arr[]) {
+    public static <T> void testSort(ISort sort, T arr[]) {
+        String sortName = sort.getClass().getSimpleName();
         long startTime = System.currentTimeMillis();
         sort.sort(arr);
         long endTime = System.currentTimeMillis();
@@ -102,12 +106,10 @@ public class SortTestHelper {
     }
 
     @SuppressWarnings("unchecked")
-    public static void testSort(String sortName, ISort sort, int arr[]) {
+    public static void testSort(ISort sort, int arr[]) {
         Integer[] wrapArr = WrapperUtil.wrapperIntArray(arr);
-        testSort(sortName, sort, wrapArr);
-        for (int i = 0; i < arr.length; i++) {
-            arr[i] = wrapArr[i];
-        }
+        testSort(sort, wrapArr);
+        WrapperUtil.conversion(arr, wrapArr);
     }
 
 }

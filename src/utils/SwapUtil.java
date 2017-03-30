@@ -2,6 +2,7 @@ package utils;
 
 /**
  * Created by Inno Fang on 2017/3/28.
+ *
  */
 public class SwapUtil {
 

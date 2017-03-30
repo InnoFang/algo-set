@@ -2,6 +2,8 @@ package utils.compare;
 
 /**
  * Created by Inno Fang on 2017/3/28.
+ *
+ * This interface is used for two types of comparisons
  */
 public interface Comparable<T> {
 

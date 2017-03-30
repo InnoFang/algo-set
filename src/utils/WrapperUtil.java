@@ -1,7 +1,8 @@
 package utils;
 
 /**
- * Created by Inno Fang on 2017/3/29.
+ * Created by Inno Fang on 2017/3/28.
+ *
  */
 public class WrapperUtil {
 
@@ -84,4 +85,35 @@ public class WrapperUtil {
         }
         return newArr;
     }
+
+    public static void conversion(char[] arr, Character[] wrapArr) {
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = wrapArr[i];
+        }
+    }
+
+    public static void conversion(int[] arr, Integer[] wrapArr) {
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = wrapArr[i];
+        }
+    }
+
+    public static void conversion(long[] arr, Long[] wrapArr) {
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = wrapArr[i];
+        }
+    }
+
+    public static void conversion(float[] arr, Float[] wrapArr) {
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = wrapArr[i];
+        }
+    }
+
+    public static void conversion(double[] arr, Double[] wrapArr) {
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = wrapArr[i];
+        }
+    }
+
 }
