@@ -2,7 +2,7 @@ package utils;
 
 import sort.ISort;
 import utils.compare.Comparable;
-import utils.compare.IntegerComparison;
+import utils.compare.impl.IntegerComparison;
 
 import java.util.Random;
 

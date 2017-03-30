@@ -1,4 +1,6 @@
-package utils.compare;
+package utils.compare.impl;
+
+import utils.compare.Comparable;
 
 /**
  * Created by Inno Fang on 2017/3/28.

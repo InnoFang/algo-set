@@ -1,6 +1,6 @@
 import sort.impl.BubbleSort;
 import utils.SortTestHelper;
-import utils.compare.IntegerComparison;
+import utils.compare.impl.IntegerComparison;
 
 /**
  * Created by Inno Fang on 2017/3/27.
