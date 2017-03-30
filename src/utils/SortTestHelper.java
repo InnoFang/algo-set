@@ -2,13 +2,12 @@ package utils;
 
 import sort.ISort;
 import utils.compare.Comparable;
-import utils.compare.impl.IntegerComparison;
+import utils.compare.impl.*;
 
 import java.util.Random;
 
 /**
  * Created by Inno Fang on 2017/3/28.
- *
  */
 public class SortTestHelper {
 
@@ -66,6 +65,35 @@ public class SortTestHelper {
         System.out.println();
     }
 
+    public static void printArray(long arr[]) {
+        for (long t : arr) {
+            System.out.print(t + " ");
+        }
+        System.out.println();
+    }
+
+    public static void printArray(float arr[]) {
+        for (float t : arr) {
+            System.out.print(t + " ");
+        }
+        System.out.println();
+    }
+
+    public static void printArray(double arr[]) {
+        for (double t : arr) {
+            System.out.print(t + " ");
+        }
+        System.out.println();
+    }
+
+    public static void printArray(char arr[]) {
+        for (char t : arr) {
+            System.out.print(t + " ");
+        }
+        System.out.println();
+    }
+
+
     @SuppressWarnings("unchecked")
     public static <T> boolean isAscending(T arr[], Comparable comparable) {
         for (int i = 0; i < arr.length - 1; i++) {
@@ -80,6 +108,27 @@ public class SortTestHelper {
     public static boolean isAscending(int arr[]) {
         return isAscending(WrapperUtil.wrapperIntArray(arr), new IntegerComparison());
     }
+
+    @SuppressWarnings("unchecked")
+    public static boolean isAscending(long arr[]) {
+        return isAscending(WrapperUtil.wrapperLongArray(arr), new LongComparison());
+    }
+
+    @SuppressWarnings("unchecked")
+    public static boolean isAscending(float arr[]) {
+        return isAscending(WrapperUtil.wrapperFloatArray(arr), new FloatComparison());
+    }
+
+    @SuppressWarnings("unchecked")
+    public static boolean isAscending(double arr[]) {
+        return isAscending(WrapperUtil.wrapperDoubleArray(arr), new DoubleComparison());
+    }
+
+    @SuppressWarnings("unchecked")
+    public static boolean isAscending(char arr[]) {
+        return isAscending(WrapperUtil.wrapperCharArray(arr), new CharacterComparison());
+    }
+
 
     @SuppressWarnings("unchecked")
     public static <T> boolean isDescending(T arr[], Comparable comparable) {
@@ -97,6 +146,27 @@ public class SortTestHelper {
     }
 
     @SuppressWarnings("unchecked")
+    public static boolean isDescending(long arr[]) {
+        return isDescending(WrapperUtil.wrapperLongArray(arr), new LongComparison());
+    }
+
+    @SuppressWarnings("unchecked")
+    public static boolean isDescending(float arr[]) {
+        return isDescending(WrapperUtil.wrapperFloatArray(arr), new FloatComparison());
+    }
+
+    @SuppressWarnings("unchecked")
+    public static boolean isDescending(double arr[]) {
+        return isDescending(WrapperUtil.wrapperDoubleArray(arr), new DoubleComparison());
+    }
+
+    @SuppressWarnings("unchecked")
+    public static boolean isDescending(char arr[]) {
+        return isDescending(WrapperUtil.wrapperCharArray(arr), new CharacterComparison());
+    }
+
+
+    @SuppressWarnings("unchecked")
     public static <T> void testSort(ISort sort, T arr[]) {
         String sortName = sort.getClass().getSimpleName();
         long startTime = System.currentTimeMillis();
@@ -108,6 +178,34 @@ public class SortTestHelper {
     @SuppressWarnings("unchecked")
     public static void testSort(ISort sort, int arr[]) {
         Integer[] wrapArr = WrapperUtil.wrapperIntArray(arr);
+        testSort(sort, wrapArr);
+        WrapperUtil.conversion(arr, wrapArr);
+    }
+
+    @SuppressWarnings("unchecked")
+    public static void testSort(ISort sort, long arr[]) {
+        Long[] wrapArr = WrapperUtil.wrapperLongArray(arr);
+        testSort(sort, wrapArr);
+        WrapperUtil.conversion(arr, wrapArr);
+    }
+
+    @SuppressWarnings("unchecked")
+    public static void testSort(ISort sort, float arr[]) {
+        Float[] wrapArr = WrapperUtil.wrapperFloatArray(arr);
+        testSort(sort, wrapArr);
+        WrapperUtil.conversion(arr, wrapArr);
+    }
+
+    @SuppressWarnings("unchecked")
+    public static void testSort(ISort sort, double arr[]) {
+        Double[] wrapArr = WrapperUtil.wrapperDoubleArray(arr);
+        testSort(sort, wrapArr);
+        WrapperUtil.conversion(arr, wrapArr);
+    }
+
+    @SuppressWarnings("unchecked")
+    public static void testSort(ISort sort, char arr[]) {
+        Character[] wrapArr = WrapperUtil.wrapperCharArray(arr);
         testSort(sort, wrapArr);
         WrapperUtil.conversion(arr, wrapArr);
     }

@@ -2,6 +2,8 @@ import sort.impl.BubbleSort;
 import utils.SortTestHelper;
 import utils.compare.impl.IntegerComparison;
 
+import java.util.Random;
+
 /**
  * Created by Inno Fang on 2017/3/27.
  *
