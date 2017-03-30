@@ -8,6 +8,7 @@ import java.util.Random;
 
 /**
  * Created by Inno Fang on 2017/3/28.
+ *
  */
 public class SortTestHelper {
 
@@ -172,7 +173,7 @@ public class SortTestHelper {
         long startTime = System.currentTimeMillis();
         sort.sort(arr);
         long endTime = System.currentTimeMillis();
-        System.out.printf("%s : %.6fs\n", sortName, ((endTime - startTime) * 0.1) / 1000);
+        System.out.printf("%s : %.6fs\n", sortName, ((endTime - startTime) * 1.0) / 1000);
     }
 
     @SuppressWarnings("unchecked")
