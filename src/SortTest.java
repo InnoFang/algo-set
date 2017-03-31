@@ -14,8 +14,7 @@ import java.util.Arrays;
  */
 public final class SortTest {
 
-    private SortTest() {
-    }
+    private SortTest() {}
 
     public static void main(String[] args) {
         final int n = 50000;
@@ -29,7 +28,7 @@ public final class SortTest {
         int[] arr3 = Arrays.copyOf(arr, arr.length);
 
         System.out.println("Test for Random Array, size = " + n + ", random range [0, " + n + "]");
-//        SortTestHelper.testSort(new BubbleSort(comparison), arr);
+        SortTestHelper.testSort(new BubbleSort(comparison), arr);
         SortTestHelper.testSort(new SelectionSort(comparison), arr1);
         SortTestHelper.testSort(new InsertionSort(comparison), arr2);
         SortTestHelper.testSort(new MergeSort(comparison), arr3);
@@ -43,7 +42,7 @@ public final class SortTest {
         arr3 = Arrays.copyOf(arr, arr.length);
 
         System.out.println("Test for Nearly Ordered Array, size = " + n + ", range [0, " + n + "]");
-//        SortTestHelper.testSort(new BubbleSort(comparison), arr);
+        SortTestHelper.testSort(new BubbleSort(comparison), arr);
         SortTestHelper.testSort(new SelectionSort(comparison), arr1);
         SortTestHelper.testSort(new InsertionSort(comparison), arr2);
         SortTestHelper.testSort(new MergeSort(comparison), arr3);

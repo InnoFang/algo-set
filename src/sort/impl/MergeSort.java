@@ -34,7 +34,7 @@ public class MergeSort extends ISort {
     @SuppressWarnings("unchecked")
     private <T> void merge(T[] arr, int l, int mid, int r) {
         T[] aux = (T[]) new Object[r - l + 1]; // Auxiliary Space
-        /* Copy the array arr from l to (r-l+1) to array aux*/
+        /* Copy the array arr from l to (r-l+1) to array aux */
         System.arraycopy(arr, l, aux, 0, r - l + 1);
         int i = l, j = mid + 1;
         for (int k = l; k <= r; k++) {
