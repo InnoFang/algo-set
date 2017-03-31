@@ -21,7 +21,7 @@
       <file leaf-file-name="SortTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
+            <state relative-caret-position="619">
               <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
@@ -686,7 +686,7 @@
       <workItem from="1490794039969" duration="1325000" />
       <workItem from="1490847321536" duration="10846000" />
       <workItem from="1490859521921" duration="1367000" />
-      <workItem from="1490958724509" duration="10000" />
+      <workItem from="1490958724509" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary="add some utils">
       <created>1490705781494</created>
@@ -786,11 +786,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490857717598</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="implement the insertion sort.">
+      <created>1490958790490</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1490958790490</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36749000" />
+    <option name="totallyTimeSpent" value="36821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="880" extended-state="6" />
@@ -877,7 +884,8 @@
     <MESSAGE value="Write and test the selection sort." />
     <MESSAGE value="add Insertion Sort." />
     <MESSAGE value="update README" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README" />
+    <MESSAGE value="implement the insertion sort." />
+    <option name="LAST_COMMIT_MESSAGE" value="implement the insertion sort." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1208,7 +1216,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
+        <state relative-caret-position="619">
           <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
