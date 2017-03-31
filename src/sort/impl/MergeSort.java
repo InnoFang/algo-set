@@ -7,8 +7,8 @@ import utils.compare.Comparable;
  * Created by Inno Fang on 2017/3/31.
  *
  */
-public class QuickSort extends ISort {
-    public QuickSort(Comparable comparable) {
+public class MergeSort extends ISort {
+    public MergeSort(Comparable comparable) {
         super(comparable);
     }
 
