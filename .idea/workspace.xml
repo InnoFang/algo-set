@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README_zh.md" afterPath="$PROJECT_DIR$/README_zh.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,12 +68,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="338">
-                <caret line="13" column="104" lean-forward="false" selection-start-line="13" selection-start-column="104" selection-end-line="13" selection-end-column="104" />
+              <first_editor relative-caret-position="390">
+                <caret line="13" column="105" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="105" />
+                <caret line="14" column="105" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="105" />
+                <caret line="15" column="105" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="105" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README_zh.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README_zh.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="428">
+                <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -144,7 +161,6 @@
         <option value="$PROJECT_DIR$/src/utils/SwapUtil.java" />
         <option value="$PROJECT_DIR$/src/sort/impl/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/utils/SortTestHelper.java" />
-        <option value="$PROJECT_DIR$/README_zh.md" />
         <option value="$PROJECT_DIR$/src/sort/impl/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/sort/impl/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/SortTest.java" />
@@ -152,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/sort/impl/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/sort/impl/ShellSort.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/README_zh.md" />
       </list>
     </option>
   </component>
@@ -722,7 +739,7 @@
       <workItem from="1490794039969" duration="1325000" />
       <workItem from="1490847321536" duration="10846000" />
       <workItem from="1490859521921" duration="1367000" />
-      <workItem from="1490958724509" duration="2239000" />
+      <workItem from="1490958724509" duration="2303000" />
     </task>
     <task id="LOCAL-00001" summary="add some utils">
       <created>1490705781494</created>
@@ -850,11 +867,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490961178951</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update README">
+      <created>1490961321849</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1490961321849</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38978000" />
+    <option name="totallyTimeSpent" value="39042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="880" extended-state="6" />
@@ -940,12 +964,12 @@
     <MESSAGE value="update sortable type" />
     <MESSAGE value="Write and test the selection sort." />
     <MESSAGE value="add Insertion Sort." />
-    <MESSAGE value="update README" />
     <MESSAGE value="implement the insertion sort." />
     <MESSAGE value="add Quick Sort." />
     <MESSAGE value="add Merge Sort." />
     <MESSAGE value="add Shell Sort." />
-    <option name="LAST_COMMIT_MESSAGE" value="add Shell Sort." />
+    <MESSAGE value="update README" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1232,19 +1256,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README_zh.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sort/impl/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
@@ -1308,8 +1319,23 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="338">
-            <caret line="13" column="104" lean-forward="false" selection-start-line="13" selection-start-column="104" selection-end-line="13" selection-end-column="104" />
+          <first_editor relative-caret-position="390">
+            <caret line="13" column="105" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="105" />
+            <caret line="14" column="105" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="105" />
+            <caret line="15" column="105" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="105" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README_zh.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="428">
+            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
