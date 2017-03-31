@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithms/SortTest.class" afterPath="$PROJECT_DIR$/out/production/Algorithms/SortTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SortTest.java" afterPath="$PROJECT_DIR$/src/SortTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sort/impl/MergeSort.java" afterPath="$PROJECT_DIR$/src/sort/impl/MergeSort.java" />
@@ -18,11 +17,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SortTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SortTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+            <state relative-caret-position="246">
+              <caret line="46" column="42" lean-forward="false" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,13 +29,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sort/impl/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            <state relative-caret-position="364">
+              <caret line="35" column="65" lean-forward="false" selection-start-line="35" selection-start-column="65" selection-end-line="35" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#400#430#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,8 +89,8 @@
         <option value="$PROJECT_DIR$/src/sort/impl/ShellSort.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/README_zh.md" />
-        <option value="$PROJECT_DIR$/src/sort/impl/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/SortTest.java" />
+        <option value="$PROJECT_DIR$/src/sort/impl/MergeSort.java" />
       </list>
     </option>
   </component>
@@ -668,7 +668,7 @@
       <workItem from="1490794039969" duration="1325000" />
       <workItem from="1490847321536" duration="10846000" />
       <workItem from="1490859521921" duration="1367000" />
-      <workItem from="1490958724509" duration="6938000" />
+      <workItem from="1490958724509" duration="7619000" />
     </task>
     <task id="LOCAL-00001" summary="add some utils">
       <created>1490705781494</created>
@@ -810,11 +810,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490961384640</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="implement Merge Sort">
+      <created>1490966031876</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1490966031876</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43677000" />
+    <option name="totallyTimeSpent" value="44358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="880" extended-state="6" />
@@ -830,7 +837,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3727399" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36717662" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -906,7 +913,8 @@
     <MESSAGE value="add Shell Sort." />
     <MESSAGE value="update README" />
     <MESSAGE value="update README_zh" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README_zh" />
+    <MESSAGE value="implement Merge Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="implement Merge Sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1297,22 +1305,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/impl/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/src/SortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        <state relative-caret-position="246">
+          <caret line="46" column="42" lean-forward="false" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortTest.java">
+    <entry file="file://$PROJECT_DIR$/src/sort/impl/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        <state relative-caret-position="364">
+          <caret line="35" column="65" lean-forward="false" selection-start-line="35" selection-start-column="65" selection-end-line="35" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#400#430#0" expanded="true" />
           </folding>
         </state>
       </provider>
