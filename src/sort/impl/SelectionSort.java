@@ -26,9 +26,7 @@ public class SelectionSort extends ISort {
                     index = j;
                 }
             }
-            if (i != index) {
-                SwapUtil.swap(arr, index, i);
-            }
+            SwapUtil.swap(arr, index, i);
         }
     }
 }
