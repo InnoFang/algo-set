@@ -1,9 +1,9 @@
-# Algorithms
-Data Structs and Algorithms
+# Algorithm-Library
 
 English | [中文](https://github.com/InnoFang/Algorithms/blob/master/README_zh.md)
 
-This project is the practice of data structures and algorithms. In order to complete a reusable, support for basic data types and reference data types of the library, in this library will also use the design pattern to package.
+The algorithm library that support basic data types and reference data types. You can generate the jar file in this library and add the jar file to your own project so that you can use the implemented algorithm to implement the function you want.
+
 
 ## _Project Progress_
 
