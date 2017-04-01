@@ -52,12 +52,6 @@ public final class SortTest {
         testSort(new SelectionSort(comparison), arr1);
         testSort(new InsertionSort(comparison), arr2);
         testSort(new MergeSort(comparison), arr3);
-        testSort(new QuickSort(comparison), arr4); // FIXME: 2017/4/1 (When n is greater than 50000, prone to java.lang.StackOverflowError)
-    /*    int[] arr = generateNearlyOrderedIntegerArray(60000, 20);
-        printArray(arr);
-        System.out.println(isAscending(arr));
-        testSort(new QuickSort(new IntegerComparison()), arr);
-        printArray(arr);
-        System.out.println(isAscending(arr));*/
+        testSort(new QuickSort(comparison), arr4);
     }
 }

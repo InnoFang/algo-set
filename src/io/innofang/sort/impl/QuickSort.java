@@ -4,12 +4,17 @@ import io.innofang.sort.ISort;
 import io.innofang.utils.SwapUtil;
 import io.innofang.utils.compare.Comparable;
 
+import java.util.Random;
+
 /**
  * Created by Inno Fang on 2017/3/31.
  * <p>
  * Quick Sort
  */
 public class QuickSort extends ISort {
+
+    private Random random = new Random();
+
     public QuickSort(Comparable comparable) {
         super(comparable);
     }
@@ -29,6 +34,8 @@ public class QuickSort extends ISort {
 
     @SuppressWarnings("unchecked")
     private <T> int partition(T[] arr, int rangeLeft, int rangeRight) {
+        /* Optimization, exchange a with a random location */
+        SwapUtil.swap(arr, rangeLeft, random.nextInt(rangeRight - rangeLeft + 1) + rangeLeft);
         int l = rangeLeft;
         int r = rangeRight;
         T temp = arr[rangeLeft];
