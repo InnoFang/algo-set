@@ -1,7 +1,7 @@
-package sort;
+package io.innofang.sort;
 
-import utils.WrapperUtil;
-import utils.compare.Comparable;
+import io.innofang.utils.WrapperUtil;
+import io.innofang.utils.compare.Comparable;
 
 /**
  * Created by Inno Fang on 2017/3/28.

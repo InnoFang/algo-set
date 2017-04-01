@@ -1,10 +1,12 @@
-import sort.impl.BubbleSort;
-import sort.impl.InsertionSort;
-import sort.impl.MergeSort;
-import sort.impl.SelectionSort;
-import utils.SortTestHelper;
-import utils.compare.Comparable;
-import utils.compare.impl.IntegerComparison;
+package io.innofang;
+
+import io.innofang.sort.impl.BubbleSort;
+import io.innofang.sort.impl.InsertionSort;
+import io.innofang.sort.impl.MergeSort;
+import io.innofang.sort.impl.SelectionSort;
+import io.innofang.utils.SortTestHelper;
+import io.innofang.utils.compare.Comparable;
+import io.innofang.utils.compare.impl.IntegerComparison;
 
 import java.util.Arrays;
 

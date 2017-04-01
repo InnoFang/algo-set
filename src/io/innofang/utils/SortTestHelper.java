@@ -1,8 +1,8 @@
-package utils;
+package io.innofang.utils;
 
-import sort.ISort;
-import utils.compare.Comparable;
-import utils.compare.impl.*;
+import io.innofang.sort.ISort;
+import io.innofang.utils.compare.Comparable;
+import io.innofang.utils.compare.impl.*;
 
 import java.util.Random;
 

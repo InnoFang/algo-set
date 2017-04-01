@@ -1,6 +1,6 @@
-package utils.compare.impl;
+package io.innofang.utils.compare.impl;
 
-import utils.compare.Comparable;
+import io.innofang.utils.compare.Comparable;
 
 /**
  * Created by Inno Fang on 2017/3/30.

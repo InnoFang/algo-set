@@ -1,7 +1,7 @@
-package sort.impl;
+package io.innofang.sort.impl;
 
-import sort.ISort;
-import utils.compare.Comparable;
+import io.innofang.sort.ISort;
+import io.innofang.utils.compare.Comparable;
 
 /**
  * Created by Inno Fang on 2017/3/31.
@@ -17,7 +17,7 @@ public class MergeSort extends ISort {
         mergeSort(arr, 0, arr.length - 1);
     }
 
-    /* Sort the array from [l...r] using merge sort */
+    /* Sort the array from [l...r] using merge io.innofang.sort */
     @SuppressWarnings("unchecked")
     private <T> void mergeSort(T[] arr, int l, int r) {
         if (l >= r)

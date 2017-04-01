@@ -1,4 +1,4 @@
-package utils.compare;
+package io.innofang.utils.compare;
 
 /**
  * Created by Inno Fang on 2017/3/28.

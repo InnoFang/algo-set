@@ -1,4 +1,4 @@
-package utils;
+package io.innofang.utils;
 
 /**
  * Created by Inno Fang on 2017/3/28.

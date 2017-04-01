@@ -1,8 +1,8 @@
-package sort.impl;
+package io.innofang.sort.impl;
 
-import sort.ISort;
-import utils.SwapUtil;
-import utils.compare.Comparable;
+import io.innofang.sort.ISort;
+import io.innofang.utils.SwapUtil;
+import io.innofang.utils.compare.Comparable;
 
 /**
  * Created by Inno Fang on 2017/3/29.
