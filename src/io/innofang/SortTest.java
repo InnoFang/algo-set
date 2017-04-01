@@ -1,14 +1,14 @@
 package io.innofang;
 
-import io.innofang.sort.impl.BubbleSort;
-import io.innofang.sort.impl.InsertionSort;
-import io.innofang.sort.impl.MergeSort;
-import io.innofang.sort.impl.SelectionSort;
+import io.innofang.sort.impl.*;
 import io.innofang.utils.SortTestHelper;
 import io.innofang.utils.compare.Comparable;
 import io.innofang.utils.compare.impl.IntegerComparison;
 
 import java.util.Arrays;
+
+import static io.innofang.utils.SortTestHelper.*;
+import static io.innofang.utils.SortTestHelper.generateRandomIntegerArray;
 
 /**
  * Created by Inno Fang on 2017/3/27.
@@ -19,7 +19,7 @@ public final class SortTest {
     private SortTest() {}
 
     public static void main(String[] args) {
-        final int n = 50000;
+        /*final int n = 50000;
         final int rangeLeft = 10;
         final int rangeRight = 1000;
         Comparable comparison = new IntegerComparison();
@@ -47,7 +47,13 @@ public final class SortTest {
         SortTestHelper.testSort(new BubbleSort(comparison), arr);
         SortTestHelper.testSort(new SelectionSort(comparison), arr1);
         SortTestHelper.testSort(new InsertionSort(comparison), arr2);
-        SortTestHelper.testSort(new MergeSort(comparison), arr3);
+        SortTestHelper.testSort(new MergeSort(comparison), arr3);*/
 
+        int[] arr = generateRandomIntegerArray(20, 1, 100);
+        printArray(arr);
+        QuickSort quickSort = new QuickSort(new IntegerComparison());
+        quickSort.sort(arr);
+        printArray(arr);
+        System.out.println(isAscending(arr));
     }
 }
