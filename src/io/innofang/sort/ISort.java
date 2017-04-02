@@ -9,10 +9,10 @@ import io.innofang.utils.comparator.Comparator;
  */
 public abstract class ISort {
 
-    protected Comparator comparable;
+    protected Comparator comparator;
 
-    public ISort(Comparator comparable) {
-        this.comparable = comparable;
+    public ISort(Comparator comparator) {
+        this.comparator = comparator;
     }
 
     public abstract <T> void sort(T[] arr);

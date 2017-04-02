@@ -22,7 +22,7 @@ public class SelectionSort extends ISort {
         for (int i = 0; i < arr.length; i++) {
             int index = i;
             for (int j = i + 1; j < arr.length; j++) {
-                if (comparable.moreThan(arr[index], arr[j])) {
+                if (comparator.moreThan(arr[index], arr[j])) {
                     index = j;
                 }
             }

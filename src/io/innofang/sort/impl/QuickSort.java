@@ -40,9 +40,9 @@ public class QuickSort extends ISort {
         int r = rangeRight;
         T temp = arr[rangeLeft];
         while (l != r) {
-            while (comparable.moreThanOrEqualTo(arr[r], temp) && r > l)
+            while (comparator.moreThanOrEqualTo(arr[r], temp) && r > l)
                 r--;
-            while (comparable.lessThanOrEqualTo(arr[l], temp) && r > l)
+            while (comparator.lessThanOrEqualTo(arr[l], temp) && r > l)
                 l++;
             if (r > l)
                 SwapUtil.swap(arr, l, r);

@@ -20,7 +20,7 @@ public class BubbleSort extends ISort {
     public <T> void sort(T[] arr) {
         for (int i = arr.length - 2; i >= 0; i--) {
             for (int j = 0; j <= i; j++) {
-                if (comparable.moreThan(arr[j], arr[j + 1])) {
+                if (comparator.moreThan(arr[j], arr[j + 1])) {
                     SwapUtil.swap(arr, j, j + 1);
                 }
             }

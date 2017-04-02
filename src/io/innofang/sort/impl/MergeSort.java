@@ -26,7 +26,7 @@ public class MergeSort extends ISort {
         mergeSort(arr, l, mid);
         mergeSort(arr, mid + 1, r);
         // optimization, merge arr when arr is out of order
-        if (comparable.moreThan(arr[mid], arr[mid + 1]))
+        if (comparator.moreThan(arr[mid], arr[mid + 1]))
             merge(arr, l, mid, r);
     }
 
@@ -44,7 +44,7 @@ public class MergeSort extends ISort {
             } else if (j > r) {
                 arr[k] = aux[i - l];
                 i++;
-            } else if (comparable.moreThan(aux[i - l], aux[j - l])) {
+            } else if (comparator.moreThan(aux[i - l], aux[j - l])) {
                 arr[k] = aux[j - l];
                 j++;
             } else {

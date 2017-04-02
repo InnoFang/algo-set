@@ -19,7 +19,7 @@ public class InsertionSort extends ISort {
         for (int i = 1; i < arr.length; i++) {
             T temp = arr[i];
             int j; // save the location where the element temp should be inserted.
-            for (j = i; j > 0 && comparable.lessThan(temp, arr[j - 1]); j--) {
+            for (j = i; j > 0 && comparator.lessThan(temp, arr[j - 1]); j--) {
                 arr[j] = arr[j - 1];
             }
             arr[j] = temp;
