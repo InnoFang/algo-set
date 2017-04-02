@@ -1,7 +1,7 @@
 package io.innofang.sort;
 
 import io.innofang.utils.WrapperUtil;
-import io.innofang.utils.compare.Comparable;
+import io.innofang.utils.comparator.Comparator;
 
 /**
  * Created by Inno Fang on 2017/3/28.
@@ -9,9 +9,9 @@ import io.innofang.utils.compare.Comparable;
  */
 public abstract class ISort {
 
-    protected Comparable comparable;
+    protected Comparator comparable;
 
-    public ISort(Comparable comparable) {
+    public ISort(Comparator comparable) {
         this.comparable = comparable;
     }
 

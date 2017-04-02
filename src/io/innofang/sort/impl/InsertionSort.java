@@ -1,7 +1,7 @@
 package io.innofang.sort.impl;
 
 import io.innofang.sort.ISort;
-import io.innofang.utils.compare.Comparable;
+import io.innofang.utils.comparator.Comparator;
 
 /**
  * Created by Inno Fang on 2017/3/30.
@@ -9,7 +9,7 @@ import io.innofang.utils.compare.Comparable;
  */
 public class InsertionSort extends ISort {
 
-    public InsertionSort(Comparable comparable) {
+    public InsertionSort(Comparator comparable) {
         super(comparable);
     }
 

@@ -1,8 +1,8 @@
 package io.innofang.utils;
 
 import io.innofang.sort.ISort;
-import io.innofang.utils.compare.Comparable;
-import io.innofang.utils.compare.impl.*;
+import io.innofang.utils.comparator.Comparator;
+import io.innofang.utils.comparator.impl.*;
 
 import java.util.Random;
 
@@ -96,7 +96,7 @@ public class SortTestHelper {
 
 
     @SuppressWarnings("unchecked")
-    public static <T> boolean isAscending(T arr[], Comparable comparable) {
+    public static <T> boolean isAscending(T arr[], Comparator comparable) {
         for (int i = 0; i < arr.length - 1; i++) {
             if (comparable.moreThan(arr[i], arr[i + 1])) {
                 return false;
@@ -132,7 +132,7 @@ public class SortTestHelper {
 
 
     @SuppressWarnings("unchecked")
-    public static <T> boolean isDescending(T arr[], Comparable comparable) {
+    public static <T> boolean isDescending(T arr[], Comparator comparable) {
         for (int i = 0; i < arr.length; i++) {
             if (comparable.lessThan(arr[i], arr[i + 1])) {
                 return false;

@@ -2,7 +2,7 @@ package io.innofang.sort.impl;
 
 import io.innofang.sort.ISort;
 import io.innofang.utils.SwapUtil;
-import io.innofang.utils.compare.Comparable;
+import io.innofang.utils.comparator.Comparator;
 
 /**
  * Created by Inno Fang on 2017/3/29.
@@ -11,7 +11,7 @@ import io.innofang.utils.compare.Comparable;
 
 public class SelectionSort extends ISort {
 
-    public SelectionSort(Comparable comparable) {
+    public SelectionSort(Comparator comparable) {
         super(comparable);
     }
 

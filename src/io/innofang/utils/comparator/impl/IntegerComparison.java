@@ -1,12 +1,12 @@
-package io.innofang.utils.compare.impl;
+package io.innofang.utils.comparator.impl;
 
-import io.innofang.utils.compare.Comparable;
+import io.innofang.utils.comparator.Comparator;
 
 /**
  * Created by Inno Fang on 2017/3/28.
  *
  */
-public class IntegerComparison implements Comparable<Integer> {
+public class IntegerComparison implements Comparator<Integer> {
     @Override
     public boolean moreThan(Integer obj1, Integer obj2) {
         return obj1 > obj2;

@@ -1,9 +1,8 @@
 package io.innofang;
 
 import io.innofang.sort.impl.*;
-import io.innofang.utils.SortTestHelper;
-import io.innofang.utils.compare.Comparable;
-import io.innofang.utils.compare.impl.IntegerComparison;
+import io.innofang.utils.comparator.Comparator;
+import io.innofang.utils.comparator.impl.IntegerComparison;
 
 import java.util.Arrays;
 
@@ -23,7 +22,7 @@ public final class SortTest {
         final int n = 50000;
         final int rangeLeft = 10;
         final int rangeRight = 1000;
-        Comparable comparison = new IntegerComparison();
+        Comparator comparison = new IntegerComparison();
 
         int[] arr = generateRandomIntegerArray(n, rangeLeft, rangeRight);
         int[] arr1 = Arrays.copyOf(arr, arr.length);

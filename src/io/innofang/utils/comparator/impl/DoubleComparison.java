@@ -1,6 +1,6 @@
-package io.innofang.utils.compare.impl;
+package io.innofang.utils.comparator.impl;
 
-import io.innofang.utils.compare.Comparable;
+import io.innofang.utils.comparator.Comparator;
 
 import java.math.BigDecimal;
 
@@ -8,7 +8,7 @@ import java.math.BigDecimal;
  * Created by Inno Fang on 2017/3/30.
  *
  */
-public class DoubleComparison implements Comparable<Double> {
+public class DoubleComparison implements Comparator<Double> {
     @Override
     public boolean moreThan(Double obj1, Double obj2) {
         BigDecimal bd1 = new BigDecimal(obj1.toString());

@@ -1,11 +1,11 @@
-package io.innofang.utils.compare;
+package io.innofang.utils.comparator;
 
 /**
  * Created by Inno Fang on 2017/3/28.
  * <p>
  * This interface is used for two types of comparisons
  */
-public interface Comparable<T> {
+public interface Comparator<T> {
 
     boolean moreThan(T obj1, T obj2);
 

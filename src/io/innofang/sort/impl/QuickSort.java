@@ -2,7 +2,7 @@ package io.innofang.sort.impl;
 
 import io.innofang.sort.ISort;
 import io.innofang.utils.SwapUtil;
-import io.innofang.utils.compare.Comparable;
+import io.innofang.utils.comparator.Comparator;
 
 import java.util.Random;
 
@@ -15,7 +15,7 @@ public class QuickSort extends ISort {
 
     private Random random = new Random();
 
-    public QuickSort(Comparable comparable) {
+    public QuickSort(Comparator comparable) {
         super(comparable);
     }
 

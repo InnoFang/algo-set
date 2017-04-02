@@ -1,14 +1,14 @@
 package io.innofang.sort.impl;
 
 import io.innofang.sort.ISort;
-import io.innofang.utils.compare.Comparable;
+import io.innofang.utils.comparator.Comparator;
 
 /**
  * Created by Inno Fang on 2017/3/31.
  *
  */
 public class ShellSort extends ISort {
-    public ShellSort(Comparable comparable) {
+    public ShellSort(Comparator comparable) {
         super(comparable);
     }
 

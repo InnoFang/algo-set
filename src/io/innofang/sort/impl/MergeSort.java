@@ -1,14 +1,14 @@
 package io.innofang.sort.impl;
 
 import io.innofang.sort.ISort;
-import io.innofang.utils.compare.Comparable;
+import io.innofang.utils.comparator.Comparator;
 
 /**
  * Created by Inno Fang on 2017/3/31.
  *
  */
 public class MergeSort extends ISort {
-    public MergeSort(Comparable comparable) {
+    public MergeSort(Comparator comparable) {
         super(comparable);
     }
 

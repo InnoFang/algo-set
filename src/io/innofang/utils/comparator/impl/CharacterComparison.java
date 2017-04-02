@@ -1,12 +1,12 @@
-package io.innofang.utils.compare.impl;
+package io.innofang.utils.comparator.impl;
 
-import io.innofang.utils.compare.Comparable;
+import io.innofang.utils.comparator.Comparator;
 
 /**
  * Created by Inno Fang on 2017/3/30.
  *
  */
-public class CharacterComparison implements Comparable<Character> {
+public class CharacterComparison implements Comparator<Character> {
     @Override
     public boolean moreThan(Character obj1, Character obj2) {
         return obj1 - obj2 > 0;
