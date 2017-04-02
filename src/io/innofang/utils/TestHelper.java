@@ -10,7 +10,7 @@ import java.util.Random;
  * Created by Inno Fang on 2017/3/28.
  *
  */
-public class SortTestHelper {
+public class TestHelper {
 
     /**
      * @param n          the number of array elements

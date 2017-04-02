@@ -6,8 +6,7 @@ import io.innofang.utils.comparator.impl.IntegerComparison;
 
 import java.util.Arrays;
 
-import static io.innofang.utils.SortTestHelper.*;
-import static io.innofang.utils.SortTestHelper.generateRandomIntegerArray;
+import static io.innofang.utils.TestHelper.*;
 
 /**
  * Created by Inno Fang on 2017/3/27.

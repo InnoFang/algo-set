@@ -1,6 +1,6 @@
 package io.innofang.search;
 
-import io.innofang.utils.SortTestHelper;
+import io.innofang.utils.TestHelper;
 import io.innofang.utils.comparator.Comparator;
 
 /**
@@ -14,13 +14,14 @@ public class BinarySearch extends ISearch {
     }
 
     @Override
-    public <T> int[] search(T[] arr, T target) {
-        if (SortTestHelper.isAscending(arr, comparator)
-                && SortTestHelper.isDescending(arr, comparator))
+    @SuppressWarnings("unchecked")
+    public <T> Indices search(T[] arr, T target) {
+        if (TestHelper.isAscending(arr, comparator)
+                && TestHelper.isDescending(arr, comparator))
             throw new RuntimeException("The array must be ordered");
         int floorIndex = floor(arr, target);
         int ceilIndex = ceil(arr, target);
-        return new int[]{floorIndex, ceilIndex};
+        return new Indices(floorIndex, ceilIndex);
     }
 
 
@@ -45,7 +46,7 @@ public class BinarySearch extends ISearch {
                 l = mid;
         }
         // 如果该索引+1就是target本身, 该索引+1即为返回值
-        if (l < arr.length && arr[l+1] == target)
+        if (l + 1 < arr.length && arr[l+1] == target)
             return l + 1;
         // 否则, 该索引即为返回值
         return l;
