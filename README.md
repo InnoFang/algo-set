@@ -15,8 +15,9 @@ The algorithm library that support basic data types and reference data types. Yo
    - [Quick Sort](https://github.com/InnoFang/Algorithm-Library/blob/master/src/sort/impl/QuickSort.java)
    - [Merge Sort](https://github.com/InnoFang/Algorithm-Library/blob/master/src/sort/impl/MergeSort.java)
 
- + Search
-   - [Binary Search](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/search/BinarySearch.java)
+ + Search  
+ 
+   - [Binary Search](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/search/BinarySearch.java)
    
  + Heap
  
