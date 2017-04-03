@@ -16,7 +16,7 @@
 
  + 搜索
 
-   ...
+   - [二分查找](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/search/BinarySearch.java)
 
  + 堆
  
