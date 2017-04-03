@@ -7,12 +7,12 @@
 ## _项目进度_
 
  + 排序
-   - [冒泡排序](https://github.com/InnoFang/Algorithms/blob/master/src/sort/impl/BubbleSort.java)
-   - [选择排序](https://github.com/InnoFang/Algorithms/blob/master/src/sort/impl/SelectionSort.java)
-   - [插入排序](https://github.com/InnoFang/Algorithms/blob/master/src/sort/impl/InsertionSort.java)
-   - [希尔排序](https://github.com/InnoFang/Algorithm-Library/blob/master/src/sort/impl/ShellSort.java)
-   - [快速排序](https://github.com/InnoFang/Algorithm-Library/blob/master/src/sort/impl/QuickSort.java)
-   - [归并排序](https://github.com/InnoFang/Algorithm-Library/blob/master/src/sort/impl/MergeSort.java)
+   - [冒泡排序](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/BubbleSort.java)
+   - [选择排序](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/SelectionSort.java)
+   - [插入排序](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/InsertionSort.java)
+   - [希尔排序](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/ShellSort.java)
+   - [快速排序](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/QuickSort.java)
+   - [归并排序](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/MergeSort.java)
 
  + 搜索
 
