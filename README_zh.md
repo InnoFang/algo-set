@@ -1,4 +1,4 @@
-# Algorithm-Library
+# Algorithms
 
 [English](https://github.com/InnoFang/Algorithms/blob/master/README.md) | 中文
 
@@ -14,6 +14,24 @@
    - [快速排序](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/QuickSort.java)
    - [归并排序](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/MergeSort.java)
 
+    给相同的数组（数组长度等于100,000）进行排序， 各个排序算法的时间复杂度结果如下
+    ```console
+    Test for Random Array, size = 100000, random range [0, 100000]
+    BubbleSort : 48.446000s
+    SelectionSort : 16.273000s
+    InsertionSort : 17.110000s
+    ShellSort : 0.048000s
+    MergeSort : 0.067000s
+    QuickSort : 0.070000s
+
+    Test for Nearly Ordered Array, size = 100000, range [0, 100000]
+    BubbleSort : 16.588000s
+    SelectionSort : 13.123000s
+    InsertionSort : 0.005000s
+    ShellSort : 0.013000s
+    MergeSort : 0.033000s
+    QuickSort : 0.010000s
+    ```
  + 搜索
    
    - [二分查找](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/search/BinarySearch.java)

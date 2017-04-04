@@ -1,4 +1,4 @@
-# Algorithm-Library
+# Algorithms
 
 English | [中文](https://github.com/InnoFang/Algorithms/blob/master/README_zh.md)
 
