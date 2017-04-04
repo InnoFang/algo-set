@@ -10,9 +10,9 @@
    - [冒泡排序](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/BubbleSort.java)
    - [选择排序](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/SelectionSort.java)
    - [插入排序](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/InsertionSort.java)
-   - [希尔排序](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/ShellSort.java)
-   - [快速排序](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/QuickSort.java)
-   - [归并排序](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/MergeSort.java)
+   - [希尔排序](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/ShellSort.java)
+   - [快速排序](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/QuickSort.java)
+   - [归并排序](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/MergeSort.java)
 
     给相同的数组（数组长度等于100,000）进行排序， 各个排序算法的时间复杂度结果如下
     ```console
@@ -34,7 +34,7 @@
     ```
  + 搜索
    
-   - [二分查找](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/search/BinarySearch.java)
+   - [二分查找](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/search/BinarySearch.java)
 
  + 堆
  

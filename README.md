@@ -8,12 +8,12 @@ The algorithm library that support basic data types and reference data types. Yo
 ## _Project Progress_
 
  + Sort
-   - [Bubble Sort](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/BubbleSort.java)
+   - [Bubble Sort](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/BubbleSort.java)
    - [Selection Sort](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/SelectionSort.java)
    - [Insertion Sort](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/InsertionSort.java)
-   - [Shell Sort](https://github.com/InnoFang/Algorithm-Library/blob/master/io/innofang/src/sort/impl/ShellSort.java)
-   - [Quick Sort](https://github.com/InnoFang/Algorithm-Library/blob/master/io/innofang/src/sort/impl/QuickSort.java)
-   - [Merge Sort](https://github.com/InnoFang/Algorithm-Library/blob/master/io/innofang/src/sort/impl/MergeSort.java)
+   - [Shell Sort](https://github.com/InnoFang/Algorithms/blob/master/io/innofang/src/sort/impl/ShellSort.java)
+   - [Quick Sort](https://github.com/InnoFang/Algorithms/blob/master/io/innofang/src/sort/impl/QuickSort.java)
+   - [Merge Sort](https://github.com/InnoFang/Algorithms/blob/master/io/innofang/src/sort/impl/MergeSort.java)
 
    Sorting the same array(array length is 100,000), and the time complexity of each sorting algorithm is as follows
    ```console
@@ -35,7 +35,7 @@ The algorithm library that support basic data types and reference data types. Yo
    ```
  + Search  
  
-   - [Binary Search](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/search/BinarySearch.java)
+   - [Binary Search](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/search/BinarySearch.java)
    
  + Heap
  
