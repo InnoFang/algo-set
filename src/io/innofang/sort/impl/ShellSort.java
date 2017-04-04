@@ -13,7 +13,21 @@ public class ShellSort extends ISort {
     }
 
     @Override
+    @SuppressWarnings("unchecked")
     public <T> void sort(T[] arr) {
-
+        int len = arr.length;
+        int div = 1;
+        while (div < len / 3) div = div * 3 + 1;
+        while (div >= 1) {
+            for (int i = div; i < len; i++) {
+                T temp = arr[i];
+                int j;
+                for (j = i; j >= div && comparator.lessThan(temp, arr[j - div]); j -= div) {
+                    arr[j] = arr[j - div];
+                }
+                arr[j] = temp;
+            }
+            div /= 3;
+        }
     }
 }
