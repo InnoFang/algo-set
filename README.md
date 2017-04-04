@@ -11,9 +11,9 @@ The algorithm library that support basic data types and reference data types. Yo
    - [Bubble Sort](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/BubbleSort.java)
    - [Selection Sort](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/SelectionSort.java)
    - [Insertion Sort](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/InsertionSort.java)
-   - [Shell Sort](https://github.com/InnoFang/Algorithms/blob/master/io/innofang/src/sort/impl/ShellSort.java)
-   - [Quick Sort](https://github.com/InnoFang/Algorithms/blob/master/io/innofang/src/sort/impl/QuickSort.java)
-   - [Merge Sort](https://github.com/InnoFang/Algorithms/blob/master/io/innofang/src/sort/impl/MergeSort.java)
+   - [Shell Sort](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/ShellSort.java)
+   - [Quick Sort](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/QuickSort.java)
+   - [Merge Sort](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/MergeSort.java)
 
    Sorting the same array(array length is 100,000), and the time complexity of each sorting algorithm is as follows
    ```console
