@@ -32,6 +32,8 @@
     MergeSort : 0.033000s
     QuickSort : 0.010000s
     ```
+    [示例代码](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/SortTest.java)
+
  + 搜索
    
    - [二分查找](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/search/BinarySearch.java)

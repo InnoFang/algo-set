@@ -33,6 +33,9 @@ The algorithm library that support basic data types and reference data types. Yo
     MergeSort : 0.033000s
     QuickSort : 0.010000s
    ```
+
+   [Example Code](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/SortTest.java)
+
  + Search  
  
    - [Binary Search](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/search/BinarySearch.java)
