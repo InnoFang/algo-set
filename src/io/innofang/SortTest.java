@@ -18,7 +18,7 @@ public final class SortTest {
     private SortTest() {}
 
     public static void main(String[] args) {
-        final int n = 50000;
+        final int n = 100000;
         final int rangeLeft = 10;
         final int rangeRight = 1000;
         Comparator comparison = new IntegerComparison();

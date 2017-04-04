@@ -15,6 +15,24 @@ The algorithm library that support basic data types and reference data types. Yo
    - [Quick Sort](https://github.com/InnoFang/Algorithm-Library/blob/master/io/innofang/src/sort/impl/QuickSort.java)
    - [Merge Sort](https://github.com/InnoFang/Algorithm-Library/blob/master/io/innofang/src/sort/impl/MergeSort.java)
 
+   Sorting the same array(array length is 100,000), and the time complexity of each sorting algorithm is as follows
+   ```console
+    Test for Random Array, size = 100000, random range [0, 100000]
+    BubbleSort : 48.446000s
+    SelectionSort : 16.273000s
+    InsertionSort : 17.110000s
+    ShellSort : 0.048000s
+    MergeSort : 0.067000s
+    QuickSort : 0.070000s
+
+    Test for Nearly Ordered Array, size = 100000, range [0, 100000]
+    BubbleSort : 16.588000s
+    SelectionSort : 13.123000s
+    InsertionSort : 0.005000s
+    ShellSort : 0.013000s
+    MergeSort : 0.033000s
+    QuickSort : 0.010000s
+   ```
  + Search  
  
    - [Binary Search](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/search/BinarySearch.java)
