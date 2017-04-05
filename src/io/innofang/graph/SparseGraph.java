@@ -9,46 +9,46 @@ import java.util.Vector;
  */
 public class SparseGraph<T> {
 
-    private int vertexNum, edgeNum;
+    private int vertexes, edges;
     private boolean directed;
     private Vector<Vector<T>> graph;
 
-    public SparseGraph(int vertexNum, boolean directed) {
-        this.vertexNum = vertexNum;
+    public SparseGraph(int vertexes, boolean directed) {
+        this.vertexes = vertexes;
         this.directed = directed;
-        this.edgeNum = 0;
+        this.edges = 0;
         graph  = new Vector<>();
-        for (int i = 0; i < vertexNum; i++) {
+        for (int i = 0; i < vertexes; i++) {
             graph.add(new Vector<T>());
         }
     }
 
     public void addEdge(int v1, int v2, T element) {
-        if (!(v1 >= 0 && v1 < vertexNum)) return;
-        if (!(v2 >= 0 && v2 < vertexNum)) return;
+        if (!(v1 >= 0 && v1 < vertexes)) return;
+        if (!(v2 >= 0 && v2 < vertexes)) return;
 
         graph.get(v1).add(v2, element);
         if (v1 != v2 && !directed)
             graph.get(v2).add(v1, element);
 
-        edgeNum++;
+        edges++;
     }
 
     @SuppressWarnings("unchecked")
     public void addEdge(int v1, int v2) {
-        if (!(v1 >= 0 && v1 < vertexNum)) return;
-        if (!(v2 >= 0 && v2 < vertexNum)) return;
+        if (!(v1 >= 0 && v1 < vertexes)) return;
+        if (!(v2 >= 0 && v2 < vertexes)) return;
 
         graph.get(v1).add((T)Integer.valueOf(v2));
         if (v1 != v2 && !directed)
             graph.get(v2).add((T)Integer.valueOf(v1));
 
-        edgeNum++;
+        edges++;
     }
 
     public boolean hasEdge(int v1, int v2, T element) {
-        if (!(v1 >= 0 && v1 < vertexNum)) return false;
-        if (!(v2 >= 0 && v2 < vertexNum)) return false;
+        if (!(v1 >= 0 && v1 < vertexes)) return false;
+        if (!(v2 >= 0 && v2 < vertexes)) return false;
 
         for (int i = 0; i < graph.get(v1).size(); i++) {
             if (graph.get(v1).get(v2).equals(element))
@@ -71,12 +71,12 @@ public class SparseGraph<T> {
         return new SparseIterator(vertex);
     }
 
-    public int getvertexNum() {
-        return vertexNum;
+    public int getvertexes() {
+        return vertexes;
     }
 
-    public int getedgeNum() {
-        return edgeNum;
+    public int getedges() {
+        return edges;
     }
 
     public boolean isDirected() {
