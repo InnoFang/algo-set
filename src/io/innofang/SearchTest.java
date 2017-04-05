@@ -6,11 +6,12 @@ import io.innofang.utils.comparator.impl.IntegerComparison;
 
 /**
  * Created by Inno Fang on 2017/4/2.
+ *
+ * Search Test
  */
 public final class SearchTest {
 
-    private SearchTest() {
-    }
+    private SearchTest() {}
 
     public static void main(String[] args) {
         BinarySearch binarySearch = new BinarySearch(new IntegerComparison());
