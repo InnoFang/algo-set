@@ -4,20 +4,20 @@ import java.util.Vector;
 
 /**
  * Created by Inno Fang on 2017/4/5.
- *
+ * <p>
  * 稀疏图 - 邻接表
  */
 public class SparseGraph<T> {
 
     private int vertexes, edges;
-    private boolean directed;
+    private boolean directed; // 是否有向
     private Vector<Vector<T>> graph;
 
     public SparseGraph(int vertexes, boolean directed) {
         this.vertexes = vertexes;
         this.directed = directed;
         this.edges = 0;
-        graph  = new Vector<>();
+        graph = new Vector<>();
         for (int i = 0; i < vertexes; i++) {
             graph.add(new Vector<T>());
         }
@@ -27,21 +27,22 @@ public class SparseGraph<T> {
         if (!(v1 >= 0 && v1 < vertexes)) return;
         if (!(v2 >= 0 && v2 < vertexes)) return;
 
-        graph.get(v1).add(v2, element);
+        graph.get(v1).add(element);
         if (v1 != v2 && !directed)
-            graph.get(v2).add(v1, element);
+            graph.get(v2).add(element);
 
         edges++;
     }
 
     @SuppressWarnings("unchecked")
     public void addEdge(int v1, int v2) {
+//        addEdge(v1, v2, directed ? (T) Integer.valueOf(v1) : (T) Integer.valueOf(v2));
         if (!(v1 >= 0 && v1 < vertexes)) return;
         if (!(v2 >= 0 && v2 < vertexes)) return;
 
-        graph.get(v1).add((T)Integer.valueOf(v2));
+        graph.get(v1).add((T) Integer.valueOf(v2));
         if (v1 != v2 && !directed)
-            graph.get(v2).add((T)Integer.valueOf(v1));
+            graph.get(v2).add((T) Integer.valueOf(v1));
 
         edges++;
     }
@@ -85,11 +86,11 @@ public class SparseGraph<T> {
 
     private class SparseIterator implements Iterator<T> {
 
-        private int index;
-        private int vertex;
+        private int index, vertex;
+
         public SparseIterator(int vertex) {
-            index = 0;
             this.vertex = vertex;
+            index = 0;
         }
 
         @Override

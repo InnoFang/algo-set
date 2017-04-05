@@ -1,5 +1,6 @@
 package io.innofang;
 
+import io.innofang.graph.DenseGraph;
 import io.innofang.graph.Iterator;
 import io.innofang.graph.SparseGraph;
 
@@ -27,6 +28,19 @@ public final class GraphTest {
         }
         for (int i = 0; i < vertexes; i++) {
             itr(sparseGraph.iterator(i));
+        }
+
+        System.out.println("+---------------Divider---------------+");
+
+        DenseGraph<Integer> denseGraph = new DenseGraph<>(vertexes, false);
+        for (int i = 0; i < edges; i++) {
+            int v1 = random.nextInt(vertexes);
+            int v2 = random.nextInt(vertexes);
+            denseGraph.addEdge(v1, v2, v2);
+        }
+
+        for (int i = 0; i < vertexes; i++) {
+            itr(denseGraph.iterator(i));
         }
     }
 
