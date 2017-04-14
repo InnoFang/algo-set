@@ -18,6 +18,7 @@ public class Heap<T> {
         this.capacity = capacity;
         this.comparator = comparator;
         data = new ArrayList<>();
+        data.add((T) new Object());
     }
 
     private void shiftUp(int k) {
@@ -52,7 +53,7 @@ public class Heap<T> {
         return count == 0;
     }
 
-    void insert(T t) {
+    public void insert(T t) {
         if (count + 1 > capacity) {
             throw new ArrayIndexOutOfBoundsException("out of capacity : " + capacity);
         }
