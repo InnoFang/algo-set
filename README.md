@@ -38,7 +38,9 @@ The algorithm library that support basic data types and reference data types. Yo
 
  + Search  
  
-   - [Binary Search](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/search/BinarySearch.java)
+   - [Binary Search](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/search/BinarySearch.java)  
+   
+   [Example Code](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/SearchTest.java)
    
  + Heap
  

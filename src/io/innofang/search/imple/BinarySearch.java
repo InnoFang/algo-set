@@ -1,5 +1,6 @@
-package io.innofang.search;
+package io.innofang.search.imple;
 
+import io.innofang.search.ISearch;
 import io.innofang.utils.TestHelper;
 import io.innofang.utils.comparator.Comparator;
 

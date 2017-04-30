@@ -1,6 +1,6 @@
 package io.innofang;
 
-import io.innofang.search.BinarySearch;
+import io.innofang.search.imple.BinarySearch;
 import io.innofang.search.ISearch;
 import io.innofang.utils.comparator.impl.IntegerComparison;
 
