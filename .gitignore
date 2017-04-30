@@ -1,0 +1,11 @@
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+build/
+
+# Eclipse project files
+.classpath
+.project
