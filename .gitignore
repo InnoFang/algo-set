@@ -1,3 +1,7 @@
+*.iml
+/.idea/workspace.xml
+/.idea/libraries
+
 # Java class files
 *.class
 
@@ -9,3 +13,6 @@ build/
 # Eclipse project files
 .classpath
 .project
+
+# Build floder
+/build
