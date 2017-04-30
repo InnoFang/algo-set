@@ -44,7 +44,9 @@ The algorithm library that support basic data types and reference data types. Yo
    
  + Heap
  
-   ...
+   - [Max Heap](https://github.com/innofang/Algorithms/blob/master/src/io/innofang/heap/Heap.java)
+
+   [Example Code](https://github.com/innofang/Algorithms/blob/master/src/io/innofang/HeapTest.java)
 
  + Graph
  
