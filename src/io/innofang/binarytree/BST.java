@@ -2,6 +2,9 @@ package io.innofang.binarytree;
 
 import io.innofang.utils.comparator.Comparator;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 /**
  * Created by Inno Fang on 2017/4/30.
  * <p>
@@ -92,7 +95,8 @@ public class BST<K, V> {
 
 
     /**
-     *Traverse the BST to query the value of the corresponding key
+     * Traverse the BST to query the value of the corresponding key
+     *
      * @param key the node with value of key
      * @return the value if search successfully, otherwise <code>null</code>
      */
@@ -109,6 +113,145 @@ public class BST<K, V> {
             return search(node.left, key);
         else // key > node.key
             return search(node.right, key);
+    }
+
+    public void preOrder() {
+        preOrder(root);
+    }
+
+    private void preOrder(Node node) {
+        if (null != node) {
+            System.out.println(node.value);
+            preOrder(node.left);
+            preOrder(node.right);
+        }
+    }
+
+    public void inOrder() {
+        inOrder(root);
+    }
+
+    private void inOrder(Node node) {
+        if (null != node) {
+            inOrder(node.left);
+            System.out.println(node.value);
+            inOrder(node.right);
+        }
+    }
+
+    private void postOrder() {
+        postOrder(root);
+    }
+
+    private void postOrder(Node node) {
+        if (null != node) {
+            postOrder(node.left);
+            postOrder(node.right);
+            System.out.println(node.value);
+        }
+    }
+
+    public void levelOrder() {
+        Queue<Node> nodeQueue = new LinkedList<>();
+        nodeQueue.add(root);
+        while (!nodeQueue.isEmpty()) {
+            Node node = nodeQueue.poll();
+            System.out.println(node.value);
+            if (null != node.left) {
+                nodeQueue.add(node.left);
+            }
+            if (null != node.right) {
+                nodeQueue.add(node.right);
+            }
+        }
+    }
+
+    /**
+     * get the minimum in this BST
+     *
+     * @return the key of the minimum
+     */
+    public K minimum() {
+        if (isEmpty()) {
+            throw new RuntimeException("cannot get the minimum when the BST is empty");
+        }
+        return minimum(root).key;
+    }
+
+    private Node minimum(Node node) {
+        if (null == node.left) {
+            return node;
+        }
+        return minimum(node.left);
+    }
+
+    /**
+     * get the maximum in this BST
+     *
+     * @return the key of the maximum
+     */
+    public K maximum() {
+        if (isEmpty()) {
+            throw new RuntimeException("cannot get the maximum when the BST is empty");
+        }
+        return maximum(root).key;
+    }
+
+    private Node maximum(Node node) {
+        if (null == node.right) {
+            return node;
+        }
+        return maximum(node.right);
+    }
+
+    /**
+     * remove the minimum in this BST
+     */
+    public void removeMin() {
+        if (null != root) {
+            root = removeMin(root);
+        }
+    }
+
+    /**
+     * remove the minimum in this BST
+     *
+     * @param node the root of BST
+     * @return after remove the minimum, the root of BST
+     */
+    private Node removeMin(Node node) {
+        if (null == node.left) {
+            Node rightNode = node.right;
+            count--;
+            return rightNode;
+        }
+        node.left = removeMin(node.left);
+        return node;
+    }
+
+    /**
+     * remove the maximum in this BST
+     */
+    public void removeMax() {
+        if (null != root) {
+            root = removeMax(root);
+        }
+    }
+
+    /**
+     * remove the maximum in this BST
+     *
+     * @param node the root of BST
+     * @return after remove the maximum, the root of BST
+     */
+    private Node removeMax(Node node) {
+        if (null == node.right) {
+            Node leftNode = node.left;
+            count --;
+            return leftNode;
+        }
+        node.right = removeMax(node.right);
+        return node;
     }
 
     /**
@@ -133,5 +276,24 @@ public class BST<K, V> {
             this.right = node.right;
             this.left = node.left;
         }
+    }
+
+    /**
+     * remove the node with the key in this BST
+     * @param key the key of the node you want to remove
+     */
+    public void remove(K key) {
+        root = remove(root, key);
+    }
+
+    /**
+     *
+     * @param node
+     * @param key
+     * @return
+     */
+    private Node remove(Node node, K key) {
+
+        return null;
     }
 }
