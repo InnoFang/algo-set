@@ -38,9 +38,13 @@
    
    - [二分查找](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/search/BinarySearch.java)
 
+    [示例代码](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/SearchTest.java)
+
  + 堆
  
-   ...
+   - [最大堆](https://github.com/innofang/Algorithms/blob/master/src/io/innofang/heap/Heap.java)
+
+    [示例代码](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/HeapTest.java)
 
  + 图
  
