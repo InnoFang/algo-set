@@ -247,7 +247,7 @@ public class BST<K, V> {
     private Node removeMax(Node node) {
         if (null == node.right) {
             Node leftNode = node.left;
-            count --;
+            count--;
             return leftNode;
         }
         node.right = removeMax(node.right);
@@ -280,6 +280,7 @@ public class BST<K, V> {
 
     /**
      * remove the node with the key in this BST
+     *
      * @param key the key of the node you want to remove
      */
     public void remove(K key) {
@@ -287,13 +288,37 @@ public class BST<K, V> {
     }
 
     /**
-     *
      * @param node
      * @param key
      * @return
      */
     private Node remove(Node node, K key) {
-
-        return null;
+        if (null == node) {
+            return null;
+        }
+        if (kComparator.lessThan(key, node.key)) {
+            node.left = remove(node.left, key);
+            return node;
+        } else if (kComparator.moreThan(key, node.key)) {
+            node.right = remove(node.right, key);
+            return node;
+        } else {
+            if (null == node.left) {
+                Node rightNode = node.right;
+                count--;
+                return rightNode;
+            } else if (null == node.right) {
+                Node leftNode = node.left;
+                count--;
+                return leftNode;
+            } else {
+                Node successor = new Node(minimum(node.right));
+                count++;
+                successor.right = removeMin(node.right);
+                successor.left = node.left;
+                count--;
+                return successor;
+            }
+        }
     }
 }
