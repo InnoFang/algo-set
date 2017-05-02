@@ -121,7 +121,7 @@ public class BST<K, V> {
 
     private void preOrder(Node node) {
         if (null != node) {
-            System.out.println(node.value);
+            System.out.print(node.value + " ");
             preOrder(node.left);
             preOrder(node.right);
         }
@@ -134,12 +134,12 @@ public class BST<K, V> {
     private void inOrder(Node node) {
         if (null != node) {
             inOrder(node.left);
-            System.out.println(node.value);
+            System.out.print(node.value + " ");
             inOrder(node.right);
         }
     }
 
-    private void postOrder() {
+    public void postOrder() {
         postOrder(root);
     }
 
@@ -147,7 +147,7 @@ public class BST<K, V> {
         if (null != node) {
             postOrder(node.left);
             postOrder(node.right);
-            System.out.println(node.value);
+            System.out.print(node.value + " ");
         }
     }
 
@@ -156,7 +156,7 @@ public class BST<K, V> {
         nodeQueue.add(root);
         while (!nodeQueue.isEmpty()) {
             Node node = nodeQueue.poll();
-            System.out.println(node.value);
+            System.out.print(node.value + " ");
             if (null != node.left) {
                 nodeQueue.add(node.left);
             }
