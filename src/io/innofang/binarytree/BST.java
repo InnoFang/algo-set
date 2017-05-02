@@ -10,14 +10,12 @@ import java.util.Queue;
  * <p>
  * the Binary Search Tree
  */
-public class BST<K, V> {
+public class BST<K extends Comparable<K>, V> {
 
     private Node root;
     private int count;
-    private Comparator<K> comparator;
 
-    public BST(Comparator<K> comparator) {
-        this.comparator = comparator;
+    public BST() {
         root = null;
         count = 0;
     }
@@ -56,9 +54,9 @@ public class BST<K, V> {
             return new Node(key, value);
         }
 
-        if (comparator.equal(key, node.key)) {
+        if (key.compareTo(node.key) == 0) {
             node.value = value;
-        } else if (comparator.lessThan(key, node.key)) {
+        } else if (key.compareTo(node.key) < 0 ) {
             node.left = insert(node.left, key, value);
         } else { // key > node.key (comparator.lessThan(key, node.key))
             node.right = insert(node.right, key, value);
@@ -82,9 +80,9 @@ public class BST<K, V> {
             return false;
         }
 
-        if (comparator.equal(key, node.key)) {
+        if (key.compareTo(node.key) == 0) {
             return true;
-        } else if (comparator.lessThan(key, node.key)) {
+        } else if (key.compareTo(node.key) < 0) {
             return contain(node.left, key);
         } else { // key > node.key
             return contain(node.right, key);
@@ -105,9 +103,9 @@ public class BST<K, V> {
     private V search(Node node, K key) {
         if (null == node)
             return null;
-        if (comparator.equal(key, node.key))
+        if (key.compareTo(node.key) == 0)
             return node.value;
-        else if (comparator.lessThan(key, node.key))
+        else if (key.compareTo(node.key) < 0)
             return search(node.left, key);
         else // key > node.key
             return search(node.right, key);
@@ -294,10 +292,10 @@ public class BST<K, V> {
         if (null == node) {
             return null;
         }
-        if (comparator.lessThan(key, node.key)) {
+        if (key.compareTo(node.key) < 0) {
             node.left = remove(node.left, key);
             return node;
-        } else if (comparator.moreThan(key, node.key)) {
+        } else if (key.compareTo(node.key) > 0) {
             node.right = remove(node.right, key);
             return node;
         } else {
