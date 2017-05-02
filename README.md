@@ -56,3 +56,4 @@ The algorithm library that support basic data types and reference data types. Yo
  
    - [Binary Search Tree](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/binarytree/BST.java)
    
+   [Example Code](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/BSTTest.java)

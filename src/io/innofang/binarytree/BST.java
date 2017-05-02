@@ -14,12 +14,10 @@ public class BST<K, V> {
 
     private Node root;
     private int count;
-    private Comparator<K> kComparator;
-    private Comparator<V> VComparator;
+    private Comparator<K> comparator;
 
-    public BST(Comparator<K> kComparator, Comparator<V> VComparator) {
-        this.kComparator = kComparator;
-        this.VComparator = VComparator;
+    public BST(Comparator<K> comparator) {
+        this.comparator = comparator;
         root = null;
         count = 0;
     }
@@ -58,11 +56,11 @@ public class BST<K, V> {
             return new Node(key, value);
         }
 
-        if (kComparator.equal(key, node.key)) {
+        if (comparator.equal(key, node.key)) {
             node.value = value;
-        } else if (kComparator.lessThan(key, node.key)) {
+        } else if (comparator.lessThan(key, node.key)) {
             node.left = insert(node.left, key, value);
-        } else { // key > node.key (kComparator.lessThan(key, node.key))
+        } else { // key > node.key (comparator.lessThan(key, node.key))
             node.right = insert(node.right, key, value);
         }
         return node;
@@ -84,9 +82,9 @@ public class BST<K, V> {
             return false;
         }
 
-        if (kComparator.equal(key, node.key)) {
+        if (comparator.equal(key, node.key)) {
             return true;
-        } else if (kComparator.lessThan(key, node.key)) {
+        } else if (comparator.lessThan(key, node.key)) {
             return contain(node.left, key);
         } else { // key > node.key
             return contain(node.right, key);
@@ -107,9 +105,9 @@ public class BST<K, V> {
     private V search(Node node, K key) {
         if (null == node)
             return null;
-        if (kComparator.equal(key, node.key))
+        if (comparator.equal(key, node.key))
             return node.value;
-        else if (kComparator.lessThan(key, node.key))
+        else if (comparator.lessThan(key, node.key))
             return search(node.left, key);
         else // key > node.key
             return search(node.right, key);
@@ -296,10 +294,10 @@ public class BST<K, V> {
         if (null == node) {
             return null;
         }
-        if (kComparator.lessThan(key, node.key)) {
+        if (comparator.lessThan(key, node.key)) {
             node.left = remove(node.left, key);
             return node;
-        } else if (kComparator.moreThan(key, node.key)) {
+        } else if (comparator.moreThan(key, node.key)) {
             node.right = remove(node.right, key);
             return node;
         } else {

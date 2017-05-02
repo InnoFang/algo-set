@@ -15,7 +15,7 @@ public final class BSTTest {
     public static void main(String[] args) {
         Random random = new Random();
         IntegerComparison integerComparison = new IntegerComparison();
-        BST<Integer, Integer> bst = new BST<>(integerComparison, integerComparison);
+        BST<Integer, Integer> bst = new BST<>(integerComparison);
         int n = 10;
         for (int i = 0; i < n; i++) {
             int key = random.nextInt(1000);

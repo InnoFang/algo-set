@@ -53,4 +53,6 @@
  + 二叉树
  
    - [二分搜索树](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/binarytree/BST.java)
+
+   [示例代码](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/BSTTest.java)
    
