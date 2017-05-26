@@ -64,8 +64,8 @@ The algorithm library that support basic data types and reference data types. Yo
    ```java
    // example code
    public static void main(String[] args) {
-       Integer[] list = {1, 2, 3, 4};
-               Permutation.permutation(list, 0, list.length - 1);
+           Integer[] list = {1, 2, 3, 4};
+           Permutation.permutation(list, 0, list.length - 1);
    }
    ```
 
