@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README_zh.md" afterPath="$PROJECT_DIR$/README_zh.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,12 +62,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="234">
-                <caret line="62" column="113" lean-forward="false" selection-start-line="62" selection-start-column="113" selection-end-line="62" selection-end-column="113" />
+                <caret line="62" column="216" lean-forward="false" selection-start-line="62" selection-start-column="109" selection-end-line="62" selection-end-column="216" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -77,12 +77,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README_zh.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README_zh.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README_zh.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="636">
-                <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+              <first_editor relative-caret-position="298">
+                <caret line="60" column="109" lean-forward="false" selection-start-line="60" selection-start-column="109" selection-end-line="60" selection-end-column="109" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -192,11 +192,11 @@
         <option value="$PROJECT_DIR$/src/io/innofang/BSTTest.java" />
         <option value="$PROJECT_DIR$/src/io/innofang/heap/Heap.java" />
         <option value="$PROJECT_DIR$/src/io/innofang/SearchTest.java" />
-        <option value="$PROJECT_DIR$/README_zh.md" />
         <option value="$PROJECT_DIR$/src/io/innofang/PermutationTest.java" />
         <option value="$PROJECT_DIR$/src/io/innofang/utils/event/CallBack.java" />
         <option value="$PROJECT_DIR$/src/io/innofang/other/Permutation.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/README_zh.md" />
       </list>
     </option>
   </component>
@@ -899,14 +899,7 @@
       <workItem from="1493617088844" duration="231000" />
       <workItem from="1493687109761" duration="1208000" />
       <workItem from="1493705780580" duration="6208000" />
-      <workItem from="1495758066297" duration="2147000" />
-    </task>
-    <task id="LOCAL-00008" summary="Code optimization">
-      <created>1490847415291</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1490847415291</updated>
+      <workItem from="1495758066297" duration="2196000" />
     </task>
     <task id="LOCAL-00009" summary="update Comparable class">
       <created>1490849783489</created>
@@ -1244,11 +1237,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495760249042</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="update">
+      <created>1495760293247</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1495760293247</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92165000" />
+    <option name="totallyTimeSpent" value="92214000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1751,19 +1751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README_zh.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="636">
-            <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/io/innofang/HeapTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -1800,7 +1787,20 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="234">
-            <caret line="62" column="113" lean-forward="false" selection-start-line="62" selection-start-column="113" selection-end-line="62" selection-end-column="113" />
+            <caret line="62" column="216" lean-forward="false" selection-start-line="62" selection-start-column="109" selection-end-line="62" selection-end-column="216" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README_zh.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="298">
+            <caret line="60" column="109" lean-forward="false" selection-start-line="60" selection-start-column="109" selection-end-line="60" selection-end-column="109" />
             <folding />
           </first_editor>
           <second_editor>
