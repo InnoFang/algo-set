@@ -56,3 +56,13 @@
 
    [示例代码](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/BSTTest.java)
    
+ + 其他
+
+   - [排列](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/other/Permutation.java)
+   ```java
+  // example code
+  public static void main(String[] args) {
+          Integer[] list = {1, 2, 3, 4};
+          Permutation.permutation(list, 0, list.length - 1);
+  }
+  ```

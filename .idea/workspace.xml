@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="update README">
+    <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/innofang/other/Permutation.java" afterPath="$PROJECT_DIR$/src/io/innofang/other/Permutation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README_zh.md" afterPath="$PROJECT_DIR$/README_zh.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,12 +52,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="380">
-                <caret line="67" column="65" lean-forward="false" selection-start-line="67" selection-start-column="65" selection-end-line="67" selection-end-column="65" />
+              <first_editor relative-caret-position="444">
+                <caret line="69" column="6" lean-forward="false" selection-start-line="62" selection-start-column="3" selection-end-line="69" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README_zh.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README_zh.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="284">
+                <caret line="63" column="2" lean-forward="true" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -162,7 +176,6 @@
         <option value="$PROJECT_DIR$/src/io/innofang/heap/MaxHeap.java" />
         <option value="$PROJECT_DIR$/src/io/innofang/HeapTest.java" />
         <option value="$PROJECT_DIR$/src/io/innofang/search/imple/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/README_zh.md" />
         <option value="$PROJECT_DIR$/src/io/innofang/utils/ReadFileUtil.java" />
         <option value="$PROJECT_DIR$/src/io/innofang/bible.txt" />
         <option value="$PROJECT_DIR$/src/io/innofang/communist.txt" />
@@ -173,6 +186,7 @@
         <option value="$PROJECT_DIR$/src/io/innofang/other/Permutation.java" />
         <option value="$PROJECT_DIR$/src/io/innofang/SearchTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/README_zh.md" />
       </list>
     </option>
   </component>
@@ -831,14 +845,7 @@
       <workItem from="1493617088844" duration="231000" />
       <workItem from="1493687109761" duration="1208000" />
       <workItem from="1493705780580" duration="6208000" />
-      <workItem from="1495758066297" duration="599000" />
-    </task>
-    <task id="LOCAL-00002" summary="commit bubble sort">
-      <created>1490765062269</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1490765062269</updated>
+      <workItem from="1495758066297" duration="678000" />
     </task>
     <task id="LOCAL-00003" summary="add wrapper util">
       <created>1490769418517</created>
@@ -1176,11 +1183,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495758340172</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="update">
+      <created>1495758676529</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1495758676529</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90617000" />
+    <option name="totallyTimeSpent" value="90696000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1285,11 +1299,11 @@
     <MESSAGE value="test for heap" />
     <MESSAGE value="implement basic BST" />
     <MESSAGE value="BST Test" />
-    <MESSAGE value="update" />
     <MESSAGE value="test BST" />
     <MESSAGE value="Add Permutation Algorithm Implementation" />
     <MESSAGE value="update README" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1524,19 +1538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README_zh.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="630">
-            <caret line="56" column="3" lean-forward="false" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="90" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/io/innofang/GraphTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1408">
@@ -1694,8 +1695,21 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="380">
-            <caret line="67" column="65" lean-forward="false" selection-start-line="67" selection-start-column="65" selection-end-line="67" selection-end-column="65" />
+          <first_editor relative-caret-position="444">
+            <caret line="69" column="6" lean-forward="false" selection-start-line="62" selection-start-column="3" selection-end-line="69" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README_zh.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="284">
+            <caret line="63" column="2" lean-forward="true" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor>
