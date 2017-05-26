@@ -57,3 +57,15 @@ The algorithm library that support basic data types and reference data types. Yo
    - [Binary Search Tree](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/binarytree/BST.java)
    
    [Example Code](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/BSTTest.java)
+
+ + Other
+
+   - [Permutation](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/other/Permutation.java)
+   ```java
+   // example code
+   public static void main(String[] args) {
+       Integer[] list = {1, 2, 3, 4};
+               Permutation.permutation(list, 0, list.length - 1);
+   }
+   ```
+

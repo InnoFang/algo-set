@@ -23,11 +23,4 @@ public class Permutation {
             }
         }
     }
-
-/*  //example
-    public static void main(String[] args) {
-        Integer[] list = {1, 2, 3, 4};
-        permutation(list, 0, list.length - 1);
-    }
-*/
 }
