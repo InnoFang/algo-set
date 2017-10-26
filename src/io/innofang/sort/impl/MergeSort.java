@@ -22,7 +22,8 @@ public class MergeSort extends ISort {
     private <T> void mergeSort(T[] arr, int l, int r) {
         if (l >= r)
             return;
-        int mid = (l + r) / 2; // FIXME: 2017/3/31
+//        int mid = (l + r) / 2;
+        int mid = l + (r - l) / 2; // prevent overflows.
         mergeSort(arr, l, mid);
         mergeSort(arr, mid + 1, r);
         // optimization, merge arr when arr is out of order

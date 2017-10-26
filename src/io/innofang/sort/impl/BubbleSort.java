@@ -6,7 +6,6 @@ import io.innofang.utils.comparator.Comparator;
 
 /**
  * Created by Inno Fang on 2017/3/27.
- *
  */
 
 public class BubbleSort extends ISort {
