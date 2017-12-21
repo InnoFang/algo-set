@@ -1,14 +1,11 @@
 package leetcode._202_Happy_Number
 
-import algorithm.PerfectSquares.numSquares
-import algorithm.fibnacci.num
-import com.sun.org.apache.xpath.internal.operations.Bool
 
 /**
  * Created by Inno Fang on 2017/12/18.
  */
 class Solution {
-    val memo = HashSet<Int>()
+    private val memo = HashSet<Int>()
     fun isHappy(n: Int): Boolean {
         var num = n
         while (!memo.contains(num)) {
