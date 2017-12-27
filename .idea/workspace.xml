@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_136_Single_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_136_Single_Number/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_198_House_Robber/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_198_House_Robber/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_202_Happy_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_202_Happy_Number/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_203_Remove_Linked_List_Elements/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_203_Remove_Linked_List_Elements/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_206_Reverse_Linked_List/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_206_Reverse_Linked_List/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_344_Reverse_String/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_344_Reverse_String/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_371_Sum_of_Two_Integers/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_371_Sum_of_Two_Integers/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_397_Integer_Replacement/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_397_Integer_Replacement/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_405_Convert_a_Number_to_Hexadecimal/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_405_Convert_a_Number_to_Hexadecimal/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_412_Fizz_Buzz/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_412_Fizz_Buzz/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_415_Add_Strings/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_415_Add_Strings/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_416_Partition_Equal_Subset_Sum/Soution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_416_Partition_Equal_Subset_Sum/Soution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_461_Hamming_Distance/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_461_Hamming_Distance/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_500_Keyboard_Row/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_500_Keyboard_Row/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_504_Base_7/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_504_Base_7/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_745_Prefix_and_Suffix_Search/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_745_Prefix_and_Suffix_Search/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/_83_Remove_Duplicates_from_Sorted_List/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_83_Remove_Duplicates_from_Sorted_List/Solution.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
+    <ignored path="$PROJECT_DIR$/leetcode/build/" />
+    <ignored path="$PROJECT_DIR$/leetcode/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,8 +34,121 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/leetcode">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_461_Hamming_Distance/Solution.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_83_Remove_Duplicates_from_Sorted_List/Solution.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1355">
+              <caret line="84" column="27" lean-forward="true" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_203_Remove_Linked_List_Elements/Solution.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2656">
+              <caret line="83" column="8" lean-forward="false" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Algorithms.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_202_Happy_Number/Solution.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_500_Keyboard_Row/Solution.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_136_Single_Number/Solution.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_344_Reverse_String/Solution.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,6 +187,376 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$/leetcode" value="F:\gradle\gradle-4.0.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$/leetcode" value="4.0.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="leetcode" />
+              <option name="path" value="$PROJECT_DIR$/leetcode" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="leetcode" />
+                <option name="path" value="$PROJECT_DIR$/leetcode" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$/leetcode">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'leetcode'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'leetcode'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'leetcode'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'leetcode'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'leetcode'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'leetcode'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the source set 'test'.kotlin." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="compileTestKotlin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'leetcode'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'leetcode'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the source set 'main'.kotlin." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="compileKotlin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'leetcode'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/leetcode" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/leetcode" value="3028704494049" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$/leetcode">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/leetcode">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.1.51/f1ba9fb14391d73aa87d16fa003ba8cb4127a699/kotlin-gradle-plugin-1.1.51-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.1.51/1b52dc196b624b3df76dd5ed3a3d8ddcd22736ab/kotlin-gradle-plugin-1.1.51.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.1.51/f0479353d23c7f62798d09da65240e5a87cb436/kotlin-gradle-plugin-api-1.1.51-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.1.51/94fc9409f2f88c4d2084a7eb9a5fb12f5f7ae125/kotlin-gradle-plugin-api-1.1.51.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/b44aed5fe16fe27bb75488a2274d435e875fdb44/kotlin-stdlib-1.1.51-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/e34fe80c9714240525f665113dd3749415515655/kotlin-stdlib-1.1.51.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.1.51/2f78bd9e3c22e799de831fc5ea2ae1f00731235a/kotlin-android-extensions-1.1.51-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.1.51/5c33f0c440fdd8416f77824bda078426c3f3dc94/kotlin-android-extensions-1.1.51.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.1.51/a1e271d08c102b7d1878d46f9983c664fe6ad364/kotlin-compiler-embeddable-1.1.51-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.1.51/e87f62328a705dc5c5b857f1aa50d1732c8bc3d6/kotlin-compiler-embeddable-1.1.51.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.1.51/8c6bad7973ed1c31f19763bc8759a5ed8bee183c/kotlin-compiler-runner-1.1.51-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.1.51/307b950831a67e1e3db3afa15281575441e8dc21/kotlin-compiler-runner-1.1.51.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing/1.1.51/e1e659536386d4c1a03375027163efd87869f640/kotlin-annotation-processing-1.1.51-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing/1.1.51/236f9e54c9f2fa4fd75efade8d07092fdf86e424/kotlin-annotation-processing-1.1.51.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/leetcode" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="leetcode" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="F:/gradle/gradle-4.0.1/src/announce" />
+                  <option value="F:/gradle/gradle-4.0.1/src/antlr" />
+                  <option value="F:/gradle/gradle-4.0.1/src/base-services" />
+                  <option value="F:/gradle/gradle-4.0.1/src/base-services-groovy" />
+                  <option value="F:/gradle/gradle-4.0.1/src/build-cache-http" />
+                  <option value="F:/gradle/gradle-4.0.1/src/build-comparison" />
+                  <option value="F:/gradle/gradle-4.0.1/src/build-init" />
+                  <option value="F:/gradle/gradle-4.0.1/src/cli" />
+                  <option value="F:/gradle/gradle-4.0.1/src/code-quality" />
+                  <option value="F:/gradle/gradle-4.0.1/src/composite-builds" />
+                  <option value="F:/gradle/gradle-4.0.1/src/core" />
+                  <option value="F:/gradle/gradle-4.0.1/src/dependency-management" />
+                  <option value="F:/gradle/gradle-4.0.1/src/diagnostics" />
+                  <option value="F:/gradle/gradle-4.0.1/src/ear" />
+                  <option value="F:/gradle/gradle-4.0.1/src/ide" />
+                  <option value="F:/gradle/gradle-4.0.1/src/ide-native" />
+                  <option value="F:/gradle/gradle-4.0.1/src/ide-play" />
+                  <option value="F:/gradle/gradle-4.0.1/src/installation-beacon" />
+                  <option value="F:/gradle/gradle-4.0.1/src/internal-android-performance-testing" />
+                  <option value="F:/gradle/gradle-4.0.1/src/internal-integ-testing" />
+                  <option value="F:/gradle/gradle-4.0.1/src/internal-performance-testing" />
+                  <option value="F:/gradle/gradle-4.0.1/src/internal-testing" />
+                  <option value="F:/gradle/gradle-4.0.1/src/ivy" />
+                  <option value="F:/gradle/gradle-4.0.1/src/jacoco" />
+                  <option value="F:/gradle/gradle-4.0.1/src/javascript" />
+                  <option value="F:/gradle/gradle-4.0.1/src/jvm-services" />
+                  <option value="F:/gradle/gradle-4.0.1/src/language-groovy" />
+                  <option value="F:/gradle/gradle-4.0.1/src/language-java" />
+                  <option value="F:/gradle/gradle-4.0.1/src/language-jvm" />
+                  <option value="F:/gradle/gradle-4.0.1/src/language-native" />
+                  <option value="F:/gradle/gradle-4.0.1/src/language-scala" />
+                  <option value="F:/gradle/gradle-4.0.1/src/launcher" />
+                  <option value="F:/gradle/gradle-4.0.1/src/logging" />
+                  <option value="F:/gradle/gradle-4.0.1/src/maven" />
+                  <option value="F:/gradle/gradle-4.0.1/src/messaging" />
+                  <option value="F:/gradle/gradle-4.0.1/src/model-core" />
+                  <option value="F:/gradle/gradle-4.0.1/src/model-groovy" />
+                  <option value="F:/gradle/gradle-4.0.1/src/native" />
+                  <option value="F:/gradle/gradle-4.0.1/src/osgi" />
+                  <option value="F:/gradle/gradle-4.0.1/src/platform-base" />
+                  <option value="F:/gradle/gradle-4.0.1/src/platform-jvm" />
+                  <option value="F:/gradle/gradle-4.0.1/src/platform-native" />
+                  <option value="F:/gradle/gradle-4.0.1/src/platform-play" />
+                  <option value="F:/gradle/gradle-4.0.1/src/plugin-development" />
+                  <option value="F:/gradle/gradle-4.0.1/src/plugin-use" />
+                  <option value="F:/gradle/gradle-4.0.1/src/plugins" />
+                  <option value="F:/gradle/gradle-4.0.1/src/process-services" />
+                  <option value="F:/gradle/gradle-4.0.1/src/publish" />
+                  <option value="F:/gradle/gradle-4.0.1/src/reporting" />
+                  <option value="F:/gradle/gradle-4.0.1/src/resources" />
+                  <option value="F:/gradle/gradle-4.0.1/src/resources-http" />
+                  <option value="F:/gradle/gradle-4.0.1/src/resources-s3" />
+                  <option value="F:/gradle/gradle-4.0.1/src/resources-sftp" />
+                  <option value="F:/gradle/gradle-4.0.1/src/scala" />
+                  <option value="F:/gradle/gradle-4.0.1/src/signing" />
+                  <option value="F:/gradle/gradle-4.0.1/src/test-kit" />
+                  <option value="F:/gradle/gradle-4.0.1/src/testing-base" />
+                  <option value="F:/gradle/gradle-4.0.1/src/testing-jvm" />
+                  <option value="F:/gradle/gradle-4.0.1/src/testing-native" />
+                  <option value="F:/gradle/gradle-4.0.1/src/tooling-api" />
+                  <option value="F:/gradle/gradle-4.0.1/src/tooling-api-builders" />
+                  <option value="F:/gradle/gradle-4.0.1/src/workers" />
+                  <option value="F:/gradle/gradle-4.0.1/src/wrapper" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/ant-1.9.6.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-base-services-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-base-services-groovy-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-cli-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-core-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-docs-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-installation-beacon-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-jvm-services-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-launcher-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-logging-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-messaging-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-model-core-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-model-groovy-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-native-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-process-services-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-resources-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-runtime-api-info-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-script-kotlin-0.9.0.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-script-kotlin-compiler-plugin-0.9.0.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-script-kotlin-tooling-builders-0.9.0.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-script-kotlin-tooling-models-0.9.0.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-tooling-api-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/gradle-wrapper-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/groovy-all-2.4.11.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-announce-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-antlr-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-build-cache-http-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-build-comparison-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-build-init-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-code-quality-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-composite-builds-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-dependency-management-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-diagnostics-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-ear-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-ide-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-ide-native-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-ide-play-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-ivy-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-jacoco-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-javascript-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-language-groovy-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-language-java-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-language-jvm-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-language-native-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-language-scala-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-maven-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-osgi-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-platform-base-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-platform-jvm-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-platform-native-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-platform-play-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-plugin-development-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-plugin-use-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-plugins-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-publish-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-reporting-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-resources-http-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-resources-s3-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-resources-sftp-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-scala-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-signing-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-test-kit-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-testing-base-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-testing-jvm-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-testing-native-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-tooling-api-builders-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/gradle-workers-4.0.1.jar" />
+                  <option value="F:/gradle/gradle-4.0.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/leetcode/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/leetcode/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
@@ -59,8 +564,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/utils/compare/Comparable.java" />
-        <option value="$PROJECT_DIR$/src/utils/compare/IntegerComparison.java" />
         <option value="$PROJECT_DIR$/src/utils/compare/DoubleComparison.java" />
         <option value="$PROJECT_DIR$/src/utils/compare/FloatComparison.java" />
         <option value="$PROJECT_DIR$/src/utils/compare/LongComparison.java" />
@@ -110,6 +613,8 @@
         <option value="$PROJECT_DIR$/src/io/innofang/sort/impl/ShellSort.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/leetcode/_202_Happy_Number/Solution.kt" />
+        <option value="$PROJECT_DIR$/leetcod/src/_83_Remove_Duplicates_from_Sorted_List/Solution.kt" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_83_Remove_Duplicates_from_Sorted_List/Solution.kt" />
       </list>
     </option>
   </component>
@@ -120,9 +625,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="976" />
-    <option name="height" value="1088" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -140,10 +646,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,25 +658,21 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="SearchEverywhereHistoryKey" value="Lis&#9;PSI&#9;JAVA://java.util.List&#10;String&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/String.java&#10;Integer&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java&#10;ArrayList&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/util/ArrayList.java&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;Sys&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/System.java" />
@@ -180,6 +680,12 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\IDEA\Algorithms\src\leetcode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEA\Algorithms\leetcod\src" />
+      <recent name="F:\IDEA\Algorithms\leetcod" />
+      <recent name="F:\IDEA\Algorithms\src" />
+      <recent name="F:\IDEA\Algorithms" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -292,6 +798,21 @@
       <module name="" />
       <envs />
     </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
@@ -327,6 +848,18 @@
       </option>
       <envs />
       <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithms" />
+      <envs />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -553,22 +1086,6 @@
       <option name="trusted" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <envs />
@@ -604,19 +1121,6 @@
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithms" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
@@ -729,7 +1233,10 @@
       <workItem from="1513903722975" duration="323000" />
       <workItem from="1514122827739" duration="866000" />
       <workItem from="1514175120837" duration="317000" />
-      <workItem from="1514256566546" duration="411000" />
+      <workItem from="1514256566546" duration="646000" />
+      <workItem from="1514350349154" duration="450000" />
+      <workItem from="1514350813805" duration="1319000" />
+      <workItem from="1514352162804" duration="286000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1078,7 +1585,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97844000" />
+    <option name="totallyTimeSpent" value="100134000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1099,19 +1606,20 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36762226" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.454343" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36762226" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4538376" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36748928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28218883" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18669528" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3973363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3973363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1120,6 +1628,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1209,62 +1718,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Java/jdk1.8.0_91/src.zip!/java/util/ListIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="59" column="17" lean-forward="false" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_91/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="389" column="58" lean-forward="false" selection-start-line="389" selection-start-column="58" selection-end-line="389" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_91/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="1086" column="28" lean-forward="true" selection-start-line="1086" selection-start-column="28" selection-end-line="1086" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/innofang/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/innofang/graph/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_91/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="779" column="32" lean-forward="false" selection-start-line="779" selection-start-column="32" selection-end-line="779" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396">
-          <caret line="1232" column="22" lean-forward="false" selection-start-line="1232" selection-start-column="22" selection-end-line="1232" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_91/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1748">
-          <caret line="198" column="6" lean-forward="false" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30240">
@@ -1495,28 +1948,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/_83_Remove_Duplicates_from_Sorted_List/Solution.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/_371_Sum_of_Two_Integers/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_397_Integer_Replacement/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1524,7 +1956,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/_344_Reverse_String/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_206_Reverse_Linked_List/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_371_Sum_of_Two_Integers/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_504_Base_7/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/leetcode.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_412_Fizz_Buzz/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_415_Add_Strings/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_198_House_Robber/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1792">
+          <caret line="56" column="24" lean-forward="false" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_202_Happy_Number/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_500_Keyboard_Row/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_344_Reverse_String/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
@@ -1532,7 +2036,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/_206_Reverse_Linked_List/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_461_Hamming_Distance/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_203_Remove_Linked_List_Elements/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2656">
+          <caret line="83" column="8" lean-forward="false" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1540,33 +2060,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/_203_Remove_Linked_List_Elements/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="224">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/_202_Happy_Number/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="352">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/_136_Single_Number/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_136_Single_Number/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
+        <state relative-caret-position="267">
           <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/_397_Integer_Replacement/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_83_Remove_Duplicates_from_Sorted_List/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1355">
+          <caret line="84" column="27" lean-forward="true" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -1588,7 +2109,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Kotlin</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1623,7 +2144,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Algorithms</last-edited>
+          <last-edited>leetcode_main|leetcode</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1647,6 +2168,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>KotlinJavaRuntime</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

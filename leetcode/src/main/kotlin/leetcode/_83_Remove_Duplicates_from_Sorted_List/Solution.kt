@@ -93,7 +93,7 @@ fun main(args: Array<String>) {
     var p: ListNode? = head
     while (p != null) {
         print("${p.`val`} ")
-        p = p!!.next
+        p = p.next
     }
     println()
 }
