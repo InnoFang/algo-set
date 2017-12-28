@@ -1,6 +1,5 @@
 package leetcode._416_Partition_Equal_Subset_Sum
 
-import algorithm.fibnacci.num
 
 /**
  * Created by Inno Fang on 2017/12/9.
