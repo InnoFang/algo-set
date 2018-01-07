@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_017_Letter_Combinations_of_a_Phone_Number/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_17_Letter_Combinations_of_a_Phone_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_017_Letter_Combinations_of_a_Phone_Number/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_83_Remove_Duplicates_from_Sorted_List/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_083_Remove_Duplicates_from_Sorted_List/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_83_Remove_Duplicates_from_Sorted_List/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_083_Remove_Duplicates_from_Sorted_List/Solution.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -18,31 +14,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DockManager">
-    <window id="2">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/README.md">
-                <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-                  <state split_layout="FIRST">
-                    <first_editor relative-caret-position="182">
-                      <caret line="7" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-                      <folding />
-                    </first_editor>
-                    <second_editor>
-                      <js_state />
-                    </second_editor>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/leetcode">
@@ -63,7 +34,22 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="52">
-                <caret line="2" column="59" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="59" />
+                <caret line="2" column="59" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="59" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_083_Remove_Duplicates_from_Sorted_List/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="104">
+                <caret line="4" column="115" lean-forward="false" selection-start-line="4" selection-start-column="115" selection-end-line="4" selection-end-column="115" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -74,11 +60,11 @@
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_083_Remove_Duplicates_from_Sorted_List/README.md">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="104">
-                <caret line="4" column="115" lean-forward="false" selection-start-line="4" selection-start-column="115" selection-end-line="4" selection-end-column="115" />
+              <first_editor relative-caret-position="286">
+                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -552,10 +538,10 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_760_Find_Anagram_Mappings/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_760_Find_Anagram_Mappings/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/README_zh.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_017_Letter_Combinations_of_a_Phone_Number/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_083_Remove_Duplicates_from_Sorted_List/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1218,7 +1204,7 @@
       <workItem from="1514602275050" duration="1498000" />
       <workItem from="1514684789433" duration="138000" />
       <workItem from="1514686784638" duration="2565000" />
-      <workItem from="1515291157089" duration="3416000" />
+      <workItem from="1515291157089" duration="3751000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1567,7 +1553,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122083000" />
+    <option name="totallyTimeSpent" value="122418000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2088,19 +2074,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="182">
-            <caret line="7" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_017_Letter_Combinations_of_a_Phone_Number/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="670">
@@ -2126,7 +2099,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="52">
-            <caret line="2" column="59" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="59" />
+            <caret line="2" column="59" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="59" />
             <folding />
           </first_editor>
           <second_editor>
@@ -2140,6 +2113,19 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="104">
             <caret line="4" column="115" lean-forward="false" selection-start-line="4" selection-start-column="115" selection-end-line="4" selection-end-column="115" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="286">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>

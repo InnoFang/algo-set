@@ -6,6 +6,10 @@ English | [中文](https://github.com/InnoFang/Algorithms/blob/master/README_zh.
 
 [Leetcode Solution](https://github.com/InnoFang/Algorithms/tree/master/leetcode/src/main/kotlin/leetcode)
 
+![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
+![](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)
+![](https://img.shields.io/badge/Difficulty-Hard-red.svg)
+
 ## _Data Struct and Algorithm Practice_
 
  + Sort
