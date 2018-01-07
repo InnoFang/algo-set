@@ -1,4 +1,4 @@
-package leetcode._83_Remove_Duplicates_from_Sorted_List
+package leetcode._083_Remove_Duplicates_from_Sorted_List
 
 /**
  * Created by Inno Fang on 2017/12/13.

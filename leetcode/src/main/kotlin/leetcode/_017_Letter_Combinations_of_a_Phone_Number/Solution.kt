@@ -1,4 +1,4 @@
-package leetcode._17_Letter_Combinations_of_a_Phone_Number
+package leetcode._017_Letter_Combinations_of_a_Phone_Number
 
 /**
  * Created by Inno Fang on 2017/12/31.
