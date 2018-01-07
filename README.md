@@ -2,10 +2,11 @@
 
 English | [中文](https://github.com/InnoFang/Algorithms/blob/master/README_zh.md)
 
-The algorithm library that support basic data types and reference data types. You can generate the jar file in this library and add the jar file to your own project so that you can use the implemented algorithm to implement the function you want.
+## _Leetcode Solution_
 
+[Leetcode Solution](https://github.com/InnoFang/Algorithms/tree/master/leetcode/src/main/kotlin/leetcode)
 
-## _Project Progress_
+## _Data Struct and Algorithm Practice_
 
  + Sort
    - [Bubble Sort](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/BubbleSort.java)
