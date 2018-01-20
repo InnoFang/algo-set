@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_079_Word_Search/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/settings.gradle" afterPath="$PROJECT_DIR$/leetcode/settings.gradle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_017_Letter_Combinations_of_a_Phone_Number/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_017_Letter_Combinations_of_a_Phone_Number/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_017_Letter_Combinations_of_a_Phone_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_017_Letter_Combinations_of_a_Phone_Number/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_083_Remove_Duplicates_from_Sorted_List/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_083_Remove_Duplicates_from_Sorted_List/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_083_Remove_Duplicates_from_Sorted_List/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_083_Remove_Duplicates_from_Sorted_List/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_136_Single_Number/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_136_Single_Number/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_136_Single_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_136_Single_Number/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_198_House_Robber/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_198_House_Robber/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_198_House_Robber/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_198_House_Robber/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_202_Happy_Number/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_202_Happy_Number/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_202_Happy_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_202_Happy_Number/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_203_Remove_Linked_List_Elements/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_203_Remove_Linked_List_Elements/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_203_Remove_Linked_List_Elements/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_203_Remove_Linked_List_Elements/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_206_Reverse_Linked_List/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_206_Reverse_Linked_List/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_268_Missing_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_268_Missing_Number/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_300_Longest_Increasing_Subsequence/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_300_Longest_Increasing_Subsequence/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_344_Reverse_String/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_344_Reverse_String/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_371_Sum_of_Two_Integers/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_371_Sum_of_Two_Integers/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_397_Integer_Replacement/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_397_Integer_Replacement/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_405_Convert_a_Number_to_Hexadecimal/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_405_Convert_a_Number_to_Hexadecimal/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_412_Fizz_Buzz/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_412_Fizz_Buzz/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_415_Add_Strings/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_415_Add_Strings/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_416_Partition_Equal_Subset_Sum/Soution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_416_Partition_Equal_Subset_Sum/Soution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_461_Hamming_Distance/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_461_Hamming_Distance/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_46_Permutations/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_046_Permutations/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_46_Permutations/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_046_Permutations/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_476_Number_Complement/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_476_Number_Complement/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_500_Keyboard_Row/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_500_Keyboard_Row/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_504_Base_7/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_504_Base_7/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_520_Detect_Capital/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_520_Detect_Capital/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_541_Reverse_String_II/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_541_Reverse_String_II/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_541_Reverse_String_II/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_541_Reverse_String_II/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_561_Array_Partition_I/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_561_Array_Partition_I/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_561_Array_Partition_I/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_561_Array_Partition_I/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_693_Binary_Number_with_Alternating_Bits/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_693_Binary_Number_with_Alternating_Bits/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_745_Prefix_and_Suffix_Search/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_745_Prefix_and_Suffix_Search/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_760_Find_Anagram_Mappings/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_760_Find_Anagram_Mappings/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_760_Find_Anagram_Mappings/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_760_Find_Anagram_Mappings/Solution.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -103,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_079_Word_Search/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
@@ -114,6 +76,16 @@
               <second_editor>
                 <js_state />
               </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="818">
+              <caret line="106" column="58" lean-forward="false" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -596,7 +568,6 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_17_ Letter_ Combinations_of_a_Phone_Number/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_17_Letter_Combinations_of_a_Phone_Number/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_561_Array_Partition_I/README.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_760_Find_Anagram_Mappings/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_760_Find_Anagram_Mappings/README.md" />
         <option value="$PROJECT_DIR$/README_zh.md" />
@@ -611,6 +582,7 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_203_Remove_Linked_List_Elements/README.md" />
         <option value="$PROJECT_DIR$/../LearnKotlin/src/algorithm/_263_Ugly_Number/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_079_Word_Search/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1272,7 +1244,7 @@
       <workItem from="1515383174260" duration="812000" />
       <workItem from="1515470320200" duration="631000" />
       <workItem from="1516025308393" duration="724000" />
-      <workItem from="1516448718744" duration="872000" />
+      <workItem from="1516448718744" duration="969000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1621,7 +1593,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126070000" />
+    <option name="totallyTimeSpent" value="126167000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1967,13 +1939,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_760_Find_Anagram_Mappings/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -2185,6 +2150,14 @@
           <second_editor>
             <js_state />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="106" column="58" lean-forward="false" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
