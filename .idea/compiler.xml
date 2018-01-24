@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="leetcode_main" target="1.8" />
       <module name="leetcode_test" target="1.8" />
+      <module name="solution_main" target="1.8" />
+      <module name="solution_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
