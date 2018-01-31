@@ -2,58 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/classes/META-INF/leetcode_main.kotlin_module" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/.gradle/4.0.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/leetcode/.gradle/4.0.1/fileHashes/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/.gradle/4.0.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/leetcode/.gradle/4.0.1/fileHashes/fileHashes.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_435_Non_overlapping_Intervals/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_435_Non_overlapping_Intervals/Solution.kt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/classes/META-INF/solution_main.kotlin_module" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_017_Letter_Combinations_of_a_Phone_Number/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_017_Letter_Combinations_of_a_Phone_Number/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_017_Letter_Combinations_of_a_Phone_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_017_Letter_Combinations_of_a_Phone_Number/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_027_Remove_Element/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_027_Remove_Element/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_035_Search_Insert_Position/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_035_Search_Insert_Position/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_035_Search_Insert_Position/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_035_Search_Insert_Position/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_046_Permutations/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_046_Permutations/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_046_Permutations/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_046_Permutations/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_079_Word_Search/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_079_Word_Search/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_079_Word_Search/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_079_Word_Search/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_083_Remove_Duplicates_from_Sorted_List/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_083_Remove_Duplicates_from_Sorted_List/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_136_Single_Number/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_136_Single_Number/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_136_Single_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_136_Single_Number/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_198_House_Robber/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_198_House_Robber/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_198_House_Robber/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_198_House_Robber/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_202_Happy_Number/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_202_Happy_Number/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_202_Happy_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_202_Happy_Number/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_203_Remove_Linked_List_Elements/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_203_Remove_Linked_List_Elements/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_203_Remove_Linked_List_Elements/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_203_Remove_Linked_List_Elements/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_206_Reverse_Linked_List/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_206_Reverse_Linked_List/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_206_Reverse_Linked_List/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_206_Reverse_Linked_List/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_242_Valid_Anagram/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_242_Valid_Anagram/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_242_Valid_Anagram/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_242_Valid_Anagram/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_268_Missing_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_268_Missing_Number/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_300_Longest_Increasing_Subsequence/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_300_Longest_Increasing_Subsequence/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_344_Reverse_String/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_344_Reverse_String/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_371_Sum_of_Two_Integers/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_371_Sum_of_Two_Integers/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_397_Integer_Replacement/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_397_Integer_Replacement/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_405_Convert_a_Number_to_Hexadecimal/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_405_Convert_a_Number_to_Hexadecimal/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_412_Fizz_Buzz/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_412_Fizz_Buzz/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_415_Add_Strings/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_415_Add_Strings/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_416_Partition_Equal_Subset_Sum/Soution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_416_Partition_Equal_Subset_Sum/Soution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_461_Hamming_Distance/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_461_Hamming_Distance/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_476_Number_Complement/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_476_Number_Complement/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_500_Keyboard_Row/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_500_Keyboard_Row/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_504_Base_7/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_504_Base_7/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_520_Detect_Capital/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_520_Detect_Capital/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_541_Reverse_String_II/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_541_Reverse_String_II/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_541_Reverse_String_II/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_541_Reverse_String_II/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_561_Array_Partition_I/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_561_Array_Partition_I/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_561_Array_Partition_I/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_561_Array_Partition_I/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_693_Binary_Number_with_Alternating_Bits/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_693_Binary_Number_with_Alternating_Bits/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_745_Prefix_and_Suffix_Search/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_745_Prefix_and_Suffix_Search/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_760_Find_Anagram_Mappings/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_760_Find_Anagram_Mappings/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_760_Find_Anagram_Mappings/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_760_Find_Anagram_Mappings/Solution.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/leetcode.iml" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/leetcode.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -80,12 +32,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_435_Non_overlapping_Intervals/Solution.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_435_Non_overlapping_Intervals/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="260">
+                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="156">
-                <caret line="6" column="88" lean-forward="true" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+              <first_editor relative-caret-position="234">
+                <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="62" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -515,7 +492,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/io/innofang/search/imple/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/io/innofang/utils/ReadFileUtil.java" />
         <option value="$PROJECT_DIR$/src/io/innofang/bible.txt" />
         <option value="$PROJECT_DIR$/src/io/innofang/communist.txt" />
@@ -566,6 +542,7 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_541_Reverse_String_II/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/Solution.kt" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/solution/_435_Non_overlapping_Intervals/README.md" />
       </list>
     </option>
   </component>
@@ -576,10 +553,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1608" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="886" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -614,14 +591,14 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin-build" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -650,11 +627,11 @@
       <recent name="F:\IDEA\Algorithms\src\leetcode" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEA\Algorithms\leetcode\src\main\solution" />
       <recent name="F:\IDEA\Algorithms\leetcode\src\main" />
       <recent name="F:\IDEA\Algorithms\leetcod\src" />
       <recent name="F:\IDEA\Algorithms\leetcod" />
       <recent name="F:\IDEA\Algorithms\src" />
-      <recent name="F:\IDEA\Algorithms" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1197,7 +1174,7 @@
       <workItem from="1516718384661" duration="561000" />
       <workItem from="1516764298073" duration="1012000" />
       <workItem from="1517041927053" duration="434000" />
-      <workItem from="1517380858794" duration="357000" />
+      <workItem from="1517380858794" duration="983000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1546,7 +1523,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130072000" />
+    <option name="totallyTimeSpent" value="130698000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1558,12 +1535,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1608" y="-8" width="1616" height="886" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36636972" sideWeight="0.50214595" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1571,20 +1548,20 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3646922" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32805756" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.82446045" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8234611" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33290157" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27575108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18937768" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18937768" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3973363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1683,27 +1660,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_136_Single_Number/Solution.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/Solution.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="95" column="18" lean-forward="false" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_416_Partition_Equal_Subset_Sum/Soution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-96">
@@ -2123,11 +2079,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_435_Non_overlapping_Intervals/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="156">
-            <caret line="6" column="88" lean-forward="true" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+          <first_editor relative-caret-position="234">
+            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="62" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/build/kotlin-build/version.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_435_Non_overlapping_Intervals/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="260">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
