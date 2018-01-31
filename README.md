@@ -61,6 +61,7 @@ QuickSort : 0.010000s
 ```
 
 </details>
+<br />
 
 <details>
 <summary>Search</summary>
@@ -69,6 +70,7 @@ QuickSort : 0.010000s
 + [Example Code](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/SearchTest.java)
 
 </details>
+<br />
 
 <details>
 <summary>Heap</summary>
@@ -77,6 +79,7 @@ QuickSort : 0.010000s
 + [Example Code](https://github.com/innofang/Algorithms/blob/master/src/io/innofang/HeapTest.java)
 
 </details>
+<br />
 
 <details>
 <summary>Graph</summary>
@@ -84,6 +87,7 @@ QuickSort : 0.010000s
 + nothing, but soon
 
 </details>
+<br />
 
 <details>
 <summary>BinaryTree</summary>
@@ -93,6 +97,7 @@ QuickSort : 0.010000s
 
 
 </details>
+<br />
 
 <details>
 <summary>Other</summary>
@@ -100,19 +105,20 @@ QuickSort : 0.010000s
 + [Permutation](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/other/Permutation.java) -> [Example Code](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/PermutationTest.java)
 
 </details>
+<br />
 
 
 # [License](https://github.com/InnoFang/Algorithms/blob/master/LICENSE)
 
 
     Copyright 2017 InnoFang
-
+  
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
-
+ 
         http://www.apache.org/licenses/LICENSE-2.0
-
+ 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
