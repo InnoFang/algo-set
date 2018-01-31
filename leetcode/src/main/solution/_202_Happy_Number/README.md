@@ -1,6 +1,15 @@
-# 202. Happy Number
+# [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
 
 ![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
+
+<details>
+<summary style="color:#4FC3F7">Related Topics</summary>
+
+* [`Hash Table`](https://leetcode.com/tag/hash-table/)
+* [`Math`](https://leetcode.com/tag/math/)
+
+</details>
+<br />
 
 Write an algorithm to determine if a number is "happy".
 

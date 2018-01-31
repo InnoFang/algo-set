@@ -1,6 +1,15 @@
-# 17. Letter Combinations of a Phone Number
+# [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 
 ![](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)
+
+<details>
+<summary style="color:#4FC3F7">Related Topics</summary>
+
+* [`String`](https://leetcode.com/tag/string/)
+* [`Backtracking`](https://leetcode.com/tag/backtracking/)
+
+</details>
+<br />
 
 Given a digit string, return all possible letter combinations that the number could represent.
 

@@ -1,6 +1,15 @@
-# 27. Remove Element
+# [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
 
 ![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
+
+<details>
+<summary style="color:#4FC3F7">Related Topics</summary>
+
+* [`Array`](https://leetcode.com/tag/array/)
+* [`Two Pointers`](https://leetcode.com/tag/two-pointers/)
+
+</details>
+<br />
 
 Given an array and a value, remove all instances of that value [in-place](https://en.wikipedia.org/wiki/In-place_algorithm) and return the new length.
 

@@ -1,6 +1,13 @@
-# 268. Missing Number
+# [268. Missing Number](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 
 ![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
+
+<summary style="color:#4FC3F7">Related Topics</summary>
+
+* [`Linked List`](https://leetcode.com/tag/linked-list/)
+
+</details>
+<br />
 
 Given an array containing _n_ distinct numbers from `0, 1, 2, ..., n`, find the one that is missing from the array.
 

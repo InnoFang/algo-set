@@ -1,6 +1,14 @@
-# 203. Remove Linked List Elements
+# [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
 
 ![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
+
+<details>
+<summary style="color:#4FC3F7">Related Topics</summary>
+
+* [`Linked List`](https://leetcode.com/tag/linked-list/)
+
+</details>
+<br />
 
 Remove all elements from a linked list of integers that have value _**val**_.
 

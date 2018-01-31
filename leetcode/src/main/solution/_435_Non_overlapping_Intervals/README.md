@@ -3,12 +3,12 @@
 ![](https://img.shields.io/badge/Difficulty-Medium-F8AF40.svg)
 
 <details>
-<summary>Related Topics</summary>
+<summary style="color:#4FC3F7">Related Topics</summary>
 
-* `Greedy`
+* [`Greedy`](https://leetcode.com/tag/greedy/)
 
 </details>
-
+<br />
 
 Given a collection of intervals, find the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.
 

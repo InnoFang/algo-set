@@ -1,6 +1,15 @@
-# 35. Search Insert Position
+# [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 
 ![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
+
+<details>
+<summary style="color:#4FC3F7">Related Topics</summary>
+
+* [`Array`](https://leetcode.com/tag/array/)
+* [`Binary Search`](https://leetcode.com/tag/binary-search/)
+
+</details>
+<br />
 
 Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 

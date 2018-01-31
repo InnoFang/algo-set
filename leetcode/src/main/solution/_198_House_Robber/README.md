@@ -1,7 +1,14 @@
-# 198. House Robber
+# [198. House Robber](https://leetcode.com/problems/house-robber/description/)
 
 ![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
 
+<details>
+<summary style="color:#4FC3F7">Related Topics</summary>
+
+* [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/)
+
+</details>
+<br />
 
 You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security system connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
 
