@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,8 +48,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="626">
-                <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+              <first_editor relative-caret-position="1068">
+                <caret line="111" column="8" lean-forward="true" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -176,6 +175,7 @@
       <find>l +</find>
       <find>in-place</find>
       <find>t</find>
+      <find>&lt;br /&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>int[]</replace>
@@ -186,6 +186,7 @@
       <replace>vertexes</replace>
       <replace>edges</replace>
       <replace>_t_</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -1390,7 +1391,7 @@
       <workItem from="1516718384661" duration="561000" />
       <workItem from="1516764298073" duration="1012000" />
       <workItem from="1517041927053" duration="434000" />
-      <workItem from="1517380858794" duration="3677000" />
+      <workItem from="1517380858794" duration="3870000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1739,7 +1740,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133392000" />
+    <option name="totallyTimeSpent" value="133585000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2330,8 +2331,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="626">
-            <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+          <first_editor relative-caret-position="1068">
+            <caret line="111" column="8" lean-forward="true" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor>
