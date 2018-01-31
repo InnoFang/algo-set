@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/src/main/solution/_017_Letter_Combinations_of_a_Phone_Number/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_017_Letter_Combinations_of_a_Phone_Number/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/src/main/solution/_027_Remove_Element/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_027_Remove_Element/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/src/main/solution/_035_Search_Insert_Position/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_035_Search_Insert_Position/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/src/main/solution/_046_Permutations/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_046_Permutations/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/src/main/solution/_079_Word_Search/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_079_Word_Search/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/src/main/solution/_136_Single_Number/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_136_Single_Number/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/src/main/solution/_198_House_Robber/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_198_House_Robber/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/src/main/solution/_202_Happy_Number/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_202_Happy_Number/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/src/main/solution/_203_Remove_Linked_List_Elements/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_203_Remove_Linked_List_Elements/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/src/main/solution/_206_Reverse_Linked_List/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_206_Reverse_Linked_List/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/src/main/solution/_242_Valid_Anagram/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_242_Valid_Anagram/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/src/main/solution/_435_Non_overlapping_Intervals/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_435_Non_overlapping_Intervals/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -45,8 +34,23 @@
         <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_136_Single_Number/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="208">
-                <caret line="8" column="66" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="66" />
+              <first_editor relative-caret-position="494">
+                <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="436">
+                <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -76,7 +80,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="286">
-                <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+                <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -91,7 +95,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="78">
-                <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="6" />
+                <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -106,7 +110,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="234">
-                <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+                <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -116,12 +120,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_242_Valid_Anagram/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="390">
-                <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <first_editor relative-caret-position="182">
+                <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="78">
+                <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -588,20 +607,20 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_035_Search_Insert_Position/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_541_Reverse_String_II/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/Solution.kt" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_017_Letter_Combinations_of_a_Phone_Number/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_435_Non_overlapping_Intervals/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_027_Remove_Element/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_035_Search_Insert_Position/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_046_Permutations/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_079_Word_Search/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_136_Single_Number/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_198_House_Robber/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_202_Happy_Number/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_203_Remove_Linked_List_Elements/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_206_Reverse_Linked_List/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_242_Valid_Anagram/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1371,7 +1390,7 @@
       <workItem from="1516718384661" duration="561000" />
       <workItem from="1516764298073" duration="1012000" />
       <workItem from="1517041927053" duration="434000" />
-      <workItem from="1517380858794" duration="2544000" />
+      <workItem from="1517380858794" duration="2814000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1720,7 +1739,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132259000" />
+    <option name="totallyTimeSpent" value="132529000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2131,19 +2150,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="234">
-            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="62" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/build/kotlin-build/version.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2217,37 +2223,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="208">
-            <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_079_Word_Search/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="208">
             <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_136_Single_Number/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="8" column="66" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="66" />
             <folding />
           </first_editor>
           <second_editor>
@@ -2273,7 +2253,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="286">
-            <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor>
@@ -2286,7 +2266,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="78">
-            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="6" />
+            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor>
@@ -2299,7 +2279,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="234">
-            <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor>
@@ -2311,8 +2291,47 @@
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_242_Valid_Anagram/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <first_editor relative-caret-position="182">
+            <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="78">
+            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_136_Single_Number/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="494">
+            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="436">
+            <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
             <folding />
           </first_editor>
           <second_editor>
