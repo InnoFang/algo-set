@@ -2,8 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_206_Reverse_Linked_List/README.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/classes/META-INF/leetcode_main.kotlin_module" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/.gradle/4.0.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/leetcode/.gradle/4.0.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/.gradle/4.0.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/leetcode/.gradle/4.0.1/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_017_Letter_Combinations_of_a_Phone_Number/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_017_Letter_Combinations_of_a_Phone_Number/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_017_Letter_Combinations_of_a_Phone_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_017_Letter_Combinations_of_a_Phone_Number/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_027_Remove_Element/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_027_Remove_Element/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_035_Search_Insert_Position/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_035_Search_Insert_Position/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_035_Search_Insert_Position/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_035_Search_Insert_Position/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_046_Permutations/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_046_Permutations/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_046_Permutations/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_046_Permutations/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_079_Word_Search/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_079_Word_Search/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_079_Word_Search/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_079_Word_Search/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_083_Remove_Duplicates_from_Sorted_List/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_083_Remove_Duplicates_from_Sorted_List/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_136_Single_Number/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_136_Single_Number/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_136_Single_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_136_Single_Number/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_198_House_Robber/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_198_House_Robber/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_198_House_Robber/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_198_House_Robber/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_202_Happy_Number/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_202_Happy_Number/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_202_Happy_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_202_Happy_Number/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_203_Remove_Linked_List_Elements/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_203_Remove_Linked_List_Elements/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_203_Remove_Linked_List_Elements/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_203_Remove_Linked_List_Elements/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_206_Reverse_Linked_List/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_206_Reverse_Linked_List/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_206_Reverse_Linked_List/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_206_Reverse_Linked_List/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_242_Valid_Anagram/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_242_Valid_Anagram/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_242_Valid_Anagram/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_242_Valid_Anagram/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_268_Missing_Number/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_268_Missing_Number/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_300_Longest_Increasing_Subsequence/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_300_Longest_Increasing_Subsequence/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_344_Reverse_String/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_344_Reverse_String/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_371_Sum_of_Two_Integers/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_371_Sum_of_Two_Integers/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_397_Integer_Replacement/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_397_Integer_Replacement/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_405_Convert_a_Number_to_Hexadecimal/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_405_Convert_a_Number_to_Hexadecimal/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_412_Fizz_Buzz/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_412_Fizz_Buzz/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_415_Add_Strings/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_415_Add_Strings/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_416_Partition_Equal_Subset_Sum/Soution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_416_Partition_Equal_Subset_Sum/Soution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_461_Hamming_Distance/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_461_Hamming_Distance/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_476_Number_Complement/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_476_Number_Complement/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_500_Keyboard_Row/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_500_Keyboard_Row/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_504_Base_7/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_504_Base_7/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_520_Detect_Capital/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_520_Detect_Capital/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_541_Reverse_String_II/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_541_Reverse_String_II/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_541_Reverse_String_II/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_541_Reverse_String_II/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_561_Array_Partition_I/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_561_Array_Partition_I/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_561_Array_Partition_I/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_561_Array_Partition_I/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_693_Binary_Number_with_Alternating_Bits/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_693_Binary_Number_with_Alternating_Bits/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_745_Prefix_and_Suffix_Search/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_745_Prefix_and_Suffix_Search/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_760_Find_Anagram_Mappings/README.md" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_760_Find_Anagram_Mappings/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_760_Find_Anagram_Mappings/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/_760_Find_Anagram_Mappings/Solution.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/leetcode.iml" afterPath="$PROJECT_DIR$/leetcode/src/main/solution/leetcode.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -30,107 +80,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/Solution.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="208">
-                <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_035_Search_Insert_Position/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="236">
-                <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_242_Valid_Anagram/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="52">
-                <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_202_Happy_Number/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="338">
-                <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_202_Happy_Number/Solution.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1352">
-              <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_206_Reverse_Linked_List/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="52">
-                <caret line="2" column="59" lean-forward="false" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="312">
-                <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <first_editor relative-caret-position="156">
+                <caret line="6" column="88" lean-forward="true" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -368,6 +323,11 @@
         </entry>
       </map>
     </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/leetcode" value="3030801587446" />
+      </map>
+    </option>
     <option name="projectBuildClasspath">
       <map>
         <entry key="$PROJECT_DIR$/leetcode">
@@ -555,8 +515,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/io/innofang/heap/MaxHeap.java" />
-        <option value="$PROJECT_DIR$/src/io/innofang/HeapTest.java" />
         <option value="$PROJECT_DIR$/src/io/innofang/search/imple/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/io/innofang/utils/ReadFileUtil.java" />
         <option value="$PROJECT_DIR$/src/io/innofang/bible.txt" />
@@ -591,7 +549,6 @@
         <option value="$PROJECT_DIR$/README_zh.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_017_Letter_Combinations_of_a_Phone_Number/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_083_Remove_Duplicates_from_Sorted_List/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_541_Reverse_String_II/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_136_Single_Number/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_198_House_Robber/README.md" />
@@ -601,11 +558,14 @@
         <option value="$PROJECT_DIR$/../LearnKotlin/src/algorithm/_263_Ugly_Number/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_079_Word_Search/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_035_Search_Insert_Position/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_242_Valid_Anagram/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_206_Reverse_Linked_List/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_035_Search_Insert_Position/Solution.kt" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_541_Reverse_String_II/Solution.kt" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/Solution.kt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -616,10 +576,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1098" />
+    <option name="x" value="-1608" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -637,6 +597,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -662,70 +623,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="solution" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="solution" type="462c0819:PsiDirectoryNode" />
-              <item name="_202_Happy_Number" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="solution" type="462c0819:PsiDirectoryNode" />
-              <item name="_203_Remove_Linked_List_Elements" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="solution" type="462c0819:PsiDirectoryNode" />
-              <item name="_206_Reverse_Linked_List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="solution" type="462c0819:PsiDirectoryNode" />
-              <item name="_242_Valid_Anagram" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -739,18 +642,19 @@
     <property name="SearchEverywhereHistoryKey" value="Inte&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java&#10;Integer&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java&#10;ArrayLis&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Lis&#9;PSI&#9;JAVA://java.util.List&#10;String&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/String.java&#10;ArrayList&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/util/ArrayList.java&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;Sys&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/System.java" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\IDEA\Algorithms\leetcod\src" />
-      <recent name="F:\IDEA\Algorithms\leetcod" />
-      <recent name="F:\IDEA\Algorithms\src" />
-      <recent name="F:\IDEA\Algorithms" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\IDEA\Algorithms\leetcode\src\main\kotlin\leetcode" />
       <recent name="F:\IDEA\Algorithms\src\leetcode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEA\Algorithms\leetcode\src\main" />
+      <recent name="F:\IDEA\Algorithms\leetcod\src" />
+      <recent name="F:\IDEA\Algorithms\leetcod" />
+      <recent name="F:\IDEA\Algorithms\src" />
+      <recent name="F:\IDEA\Algorithms" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -765,7 +669,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.solution._760_Find_Anagram_Mappings.SolutionKt">
+  <component name="RunManager" selected="Kotlin.solution._027_Remove_Element.SolutionKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -837,6 +741,18 @@
       </option>
       <envs />
       <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithms" />
+      <envs />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -1100,18 +1016,6 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithms" />
-      <envs />
-    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="filePath" />
@@ -1155,33 +1059,33 @@
       <module name="leetcode_main" />
       <envs />
     </configuration>
+    <configuration name="solution._027_Remove_Element.SolutionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="solution._027_Remove_Element.SolutionKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="solution_main" />
+      <envs />
+    </configuration>
+    <configuration name="solution._035_Search_Insert_Position.SolutionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="solution._035_Search_Insert_Position.SolutionKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="solution_main" />
+      <envs />
+    </configuration>
     <configuration name="solution._17_ Letter_ Combinations_of_a_Phone_Number.SolutionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="solution._17_ Letter_ Combinations_of_a_Phone_Number.SolutionKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode_main" />
-      <envs />
-    </configuration>
-    <configuration name="solution._520_Detect_Capital.SolutionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="solution._520_Detect_Capital.SolutionKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode_main" />
-      <envs />
-    </configuration>
-    <configuration name="solution._693_Binary_Number_with_Alternating_Bits.SolutionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="solution._693_Binary_Number_with_Alternating_Bits.SolutionKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -1204,19 +1108,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.solution._693_Binary_Number_with_Alternating_Bits.SolutionKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.solution._520_Detect_Capital.SolutionKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.solution._17_ Letter_ Combinations_of_a_Phone_Number.SolutionKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.solution._017_Letter_Combinations_of_a_Phone_Number.SolutionKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.solution._760_Find_Anagram_Mappings.SolutionKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.solution._17_ Letter_ Combinations_of_a_Phone_Number.SolutionKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.solution._017_Letter_Combinations_of_a_Phone_Number.SolutionKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.solution._760_Find_Anagram_Mappings.SolutionKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.solution._027_Remove_Element.SolutionKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.solution._035_Search_Insert_Position.SolutionKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.solution._760_Find_Anagram_Mappings.SolutionKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.solution._017_Letter_Combinations_of_a_Phone_Number.SolutionKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.solution._17_ Letter_ Combinations_of_a_Phone_Number.SolutionKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.solution._520_Detect_Capital.SolutionKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.solution._693_Binary_Number_with_Alternating_Bits.SolutionKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.solution._027_Remove_Element.SolutionKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.solution._035_Search_Insert_Position.SolutionKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.solution._760_Find_Anagram_Mappings.SolutionKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.solution._017_Letter_Combinations_of_a_Phone_Number.SolutionKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.solution._17_ Letter_ Combinations_of_a_Phone_Number.SolutionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -1291,7 +1195,9 @@
       <workItem from="1516544271009" duration="501000" />
       <workItem from="1516546324031" duration="1014000" />
       <workItem from="1516718384661" duration="561000" />
-      <workItem from="1516764298073" duration="454000" />
+      <workItem from="1516764298073" duration="1012000" />
+      <workItem from="1517041927053" duration="434000" />
+      <workItem from="1517380858794" duration="357000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1640,7 +1546,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128723000" />
+    <option name="totallyTimeSpent" value="130072000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1652,7 +1558,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <frame x="-1608" y="-8" width="1616" height="886" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1661,12 +1567,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36636972" sideWeight="0.50214595" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36484984" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.82578397" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3646922" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32805756" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.82446045" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35139486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33290157" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18937768" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1681,7 +1589,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32480535" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3240418" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1775,63 +1683,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_412_Fizz_Buzz/Solution.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_415_Add_Strings/Solution.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_198_House_Robber/Solution.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1792">
-          <caret line="56" column="24" lean-forward="false" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_500_Keyboard_Row/Solution.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_344_Reverse_String/Solution.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_461_Hamming_Distance/Solution.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_136_Single_Number/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_136_Single_Number/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
@@ -1845,14 +1697,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_083_Remove_Duplicates_from_Sorted_List/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="659">
           <caret line="95" column="18" lean-forward="false" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_416_Partition_Equal_Subset_Sum/Soution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_416_Partition_Equal_Subset_Sum/Soution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-96">
           <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
@@ -1873,7 +1725,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_300_Longest_Increasing_Subsequence/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_300_Longest_Increasing_Subsequence/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="30" column="45" lean-forward="true" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
@@ -1887,7 +1739,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_693_Binary_Number_with_Alternating_Bits/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_693_Binary_Number_with_Alternating_Bits/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
@@ -1922,7 +1774,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_520_Detect_Capital/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_520_Detect_Capital/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="676">
           <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
@@ -1930,14 +1782,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_17_ Letter_ Combinations_of_a_Phone_Number/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_561_Array_Partition_I/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_561_Array_Partition_I/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_760_Find_Anagram_Mappings/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_760_Find_Anagram_Mappings/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="364">
@@ -1949,11 +1801,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_760_Find_Anagram_Mappings/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_760_Find_Anagram_Mappings/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1970,14 +1821,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_017_Letter_Combinations_of_a_Phone_Number/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_017_Letter_Combinations_of_a_Phone_Number/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="670">
           <caret line="52" column="25" lean-forward="false" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_017_Letter_Combinations_of_a_Phone_Number/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_017_Letter_Combinations_of_a_Phone_Number/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="416">
@@ -1989,7 +1840,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_561_Array_Partition_I/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_561_Array_Partition_I/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="52">
@@ -2001,19 +1852,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_083_Remove_Duplicates_from_Sorted_List/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="104">
-            <caret line="4" column="115" lean-forward="false" selection-start-line="4" selection-start-column="115" selection-end-line="4" selection-end-column="115" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_541_Reverse_String_II/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_541_Reverse_String_II/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="52">
@@ -2025,42 +1864,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_136_Single_Number/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_136_Single_Number/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="26">
             <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="59" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_198_House_Robber/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="104">
-            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_046_Permutations/Solution.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_046_Permutations/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="234">
-            <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
           </first_editor>
           <second_editor>
             <js_state />
@@ -2082,14 +1890,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_203_Remove_Linked_List_Elements/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_203_Remove_Linked_List_Elements/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2158">
           <caret line="83" column="8" lean-forward="false" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_203_Remove_Linked_List_Elements/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_203_Remove_Linked_List_Elements/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="208">
@@ -2101,51 +1909,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_079_Word_Search/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="52">
-            <caret line="2" column="62" lean-forward="false" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="76" column="6" lean-forward="true" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_003_Longest_Substring_Without_Repeating_Charachters/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/Solution.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_035_Search_Insert_Position/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_035_Search_Insert_Position/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="236">
+          <first_editor relative-caret-position="338">
             <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -2155,20 +1923,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="312">
-            <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_202_Happy_Number/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_202_Happy_Number/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="338">
@@ -2181,15 +1936,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_202_Happy_Number/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_202_Happy_Number/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1352">
-          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_242_Valid_Anagram/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_242_Valid_Anagram/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="52">
@@ -2202,11 +1957,177 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_206_Reverse_Linked_List/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_206_Reverse_Linked_List/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="52">
             <caret line="2" column="59" lean-forward="false" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="104">
+            <caret line="4" column="115" lean-forward="false" selection-start-line="4" selection-start-column="115" selection-end-line="4" selection-end-column="115" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_027_Remove_Element/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_035_Search_Insert_Position/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_541_Reverse_String_II/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="76" column="6" lean-forward="true" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_027_Remove_Element/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_504_Base_7/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/leetcode.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_412_Fizz_Buzz/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_079_Word_Search/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="52">
+            <caret line="2" column="62" lean-forward="false" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_079_Word_Search/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_415_Add_Strings/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_046_Permutations/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="234">
+            <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_046_Permutations/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_198_House_Robber/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="104">
+            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_198_House_Robber/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="156">
+            <caret line="6" column="88" lean-forward="true" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
             <folding />
           </first_editor>
           <second_editor>

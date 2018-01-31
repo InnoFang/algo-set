@@ -1,6 +1,5 @@
 package solution._035_Search_Insert_Position
 
-import algorithm.fibnacci.num
 
 /**
  * Created by Inno Fang on 2018/1/23.

@@ -4,7 +4,7 @@ English | [中文](https://github.com/InnoFang/Algorithms/blob/master/README_zh.
 
 ## _Leetcode Solution_
 
-[Leetcode Solution](https://github.com/InnoFang/Algorithms/tree/master/leetcode/src/main/kotlin/solution)
+[Leetcode Solution](https://github.com/InnoFang/Algorithms/tree/master/leetcode/src/main/solution)
 
 ![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
 ![](https://img.shields.io/badge/Difficulty-Medium-F8AF40.svg)
