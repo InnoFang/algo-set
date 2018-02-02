@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/300. Longest Increasing Subsequence/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/344. Reverse String/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README_zh.md" afterPath="$PROJECT_DIR$/README_zh.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/017. Letter Combinations of a Phone Number/README.md" afterPath="$PROJECT_DIR$/leetcode/017. Letter Combinations of a Phone Number/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/035. Search Insert Position/README.md" afterPath="$PROJECT_DIR$/leetcode/035. Search Insert Position/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/079. Word Search/README.md" afterPath="$PROJECT_DIR$/leetcode/079. Word Search/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/083. Remove Duplicates from Sorted List/README.md" afterPath="$PROJECT_DIR$/leetcode/083. Remove Duplicates from Sorted List/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/203. Remove Linked List Elements/README.md" afterPath="$PROJECT_DIR$/leetcode/203. Remove Linked List Elements/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/242. Valid Anagram/README.md" afterPath="$PROJECT_DIR$/leetcode/242. Valid Anagram/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/268. Missing Number/README.md" afterPath="$PROJECT_DIR$/leetcode/268. Missing Number/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/344. Reverse String/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/344. Reverse String/Solution.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -24,6 +16,31 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/README.md">
+                <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+                  <state split_layout="FIRST">
+                    <first_editor relative-caret-position="442">
+                      <caret line="28" column="6" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="28" selection-end-column="6" />
+                      <folding />
+                    </first_editor>
+                    <second_editor>
+                      <js_state />
+                    </second_editor>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/leetcode">
@@ -39,72 +56,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/203. Remove Linked List Elements/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="442">
-                <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/242. Valid Anagram/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="546">
-                <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/268. Missing Number/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="313">
-                <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/344. Reverse String/Solution.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/300. Longest Increasing Subsequence/README.md">
+        <entry file="file://$PROJECT_DIR$/leetcode/344. Reverse String/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="625">
-                <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="286">
-                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <first_editor relative-caret-position="243">
+                <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -538,8 +505,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_693_Binary_Number_with_Alternating_Bits/Solution.kt" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_520_Detect_Capital/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_17_ Letter_ Combinations_of_a_Phone_Number/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_17_Letter_Combinations_of_a_Phone_Number/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_561_Array_Partition_I/README.md" />
@@ -589,6 +554,8 @@
         <option value="$PROJECT_DIR$/leetcode/242. Valid Anagram/README.md" />
         <option value="$PROJECT_DIR$/leetcode/268. Missing Number/README.md" />
         <option value="$PROJECT_DIR$/leetcode/300. Longest Increasing Subsequence/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/344. Reverse String/Solution.kt" />
+        <option value="$PROJECT_DIR$/leetcode/344. Reverse String/README.md" />
       </list>
     </option>
   </component>
@@ -599,10 +566,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1060" />
+    <option name="x" value="-1608" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -639,67 +606,7 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="017. Letter Combinations of a Phone Number" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="027. Remove Element" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="035. Search Insert Position" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="046. Permutations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="079. Word Search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="083. Remove Duplicates from Sorted List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="136. Single Number" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="203. Remove Linked List Elements" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="242. Valid Anagram" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="268. Missing Number" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="300. Longest Increasing Subsequence" type="462c0819:PsiDirectoryNode" />
+              <item name="344. Reverse String" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1275,7 +1182,7 @@
       <workItem from="1517041927053" duration="434000" />
       <workItem from="1517380858794" duration="5916000" />
       <workItem from="1517489806066" duration="956000" />
-      <workItem from="1517539590047" duration="939000" />
+      <workItem from="1517539590047" duration="1593000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1624,7 +1531,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137526000" />
+    <option name="totallyTimeSpent" value="138180000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1636,7 +1543,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <frame x="-1608" y="-8" width="1616" height="886" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32790697" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1649,10 +1556,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3646922" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32790697" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.82325584" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.82276654" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2832618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34196892" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1761,14 +1668,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_541_Reverse_String_II/README.md" />
-    <entry file="file://$PROJECT_DIR$/../LearnKotlin/src/algorithm/_263_Ugly_Number/Solution.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1955,11 +1854,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/300. Longest Increasing Subsequence/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="286">
-            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <first_editor relative-caret-position="625">
+            <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1968,11 +1867,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/300. Longest Increasing Subsequence/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/344. Reverse String/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="442">
+            <caret line="28" column="6" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="28" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/344. Reverse String/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="625">
-            <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <first_editor relative-caret-position="243">
+            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
