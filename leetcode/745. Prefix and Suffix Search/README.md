@@ -1,5 +1,16 @@
 # [745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/description/)
 
+![](https://img.shields.io/badge/Difficulty-Hard-red.svg)
+
+<details>
+<summary style="color:#4FC3F7">Topics</summary>
+
+* [`Trie`](https://leetcode.com/tag/trie/)
+
+</details>
+<br />
+
+
 Given many `words`, `words[i]` has weight `i`.
 
 Design a class `WordFilter` that supports one function, `WordFilter.f(String prefix, String suffix).` It will return the word with given `prefix` and `suffix` with maximum weight. If no word exists, return -1.

@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/461. Hamming Distance/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/476. Number Complement/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/500. Keyboard Row/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/504. Base 7/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/520. Detect Capital/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/693. Binary Number with Alternating Bits/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/745. Prefix and Suffix Search/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/415. Add Strings/README.md" afterPath="$PROJECT_DIR$/leetcode/415. Add Strings/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/541. Reverse String II/README.md" afterPath="$PROJECT_DIR$/leetcode/541. Reverse String II/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/561. Array Partition I/README.md" afterPath="$PROJECT_DIR$/leetcode/561. Array Partition I/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/760. Find Anagram Mappings/README.md" afterPath="$PROJECT_DIR$/leetcode/760. Find Anagram Mappings/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/745. Prefix and Suffix Search/README.md" afterPath="$PROJECT_DIR$/leetcode/745. Prefix and Suffix Search/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -35,8 +26,8 @@
               <entry file="file://$PROJECT_DIR$/README.md">
                 <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
                   <state split_layout="FIRST">
-                    <first_editor relative-caret-position="321">
-                      <caret line="22" column="16" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="28" selection-end-column="6" />
+                    <first_editor relative-caret-position="503">
+                      <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="42" />
                       <folding />
                     </first_editor>
                     <second_editor>
@@ -85,7 +76,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="286">
-                <caret line="11" column="6" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="11" selection-end-column="6" />
+                <caret line="11" column="6" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="11" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -100,7 +91,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="26">
-                <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -145,7 +136,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="234">
-                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -174,7 +165,7 @@
         <entry file="file://$PROJECT_DIR$/leetcode/693. Binary Number with Alternating Bits/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="217">
+              <first_editor relative-caret-position="676">
                 <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -189,8 +180,8 @@
         <entry file="file://$PROJECT_DIR$/leetcode/745. Prefix and Suffix Search/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="581">
-                <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+              <first_editor relative-caret-position="208">
+                <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -662,7 +653,6 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/README.clj" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_017_Letter_Combinations_of_a_Phone_Number/Solution.kt" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/README_zh.md" />
         <option value="$PROJECT_DIR$/leetcode/017. Letter Combinations of a Phone Number/README.md" />
         <option value="$PROJECT_DIR$/leetcode/035. Search Insert Position/README.md" />
@@ -689,6 +679,7 @@
         <option value="$PROJECT_DIR$/leetcode/760. Find Anagram Mappings/README.md" />
         <option value="$PROJECT_DIR$/leetcode/561. Array Partition I/README.md" />
         <option value="$PROJECT_DIR$/leetcode/693. Binary Number with Alternating Bits/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/leetcode/745. Prefix and Suffix Search/README.md" />
       </list>
     </option>
@@ -1412,7 +1403,7 @@
       <workItem from="1517041927053" duration="434000" />
       <workItem from="1517380858794" duration="5916000" />
       <workItem from="1517489806066" duration="956000" />
-      <workItem from="1517539590047" duration="6459000" />
+      <workItem from="1517539590047" duration="6578000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1761,7 +1752,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143046000" />
+    <option name="totallyTimeSpent" value="143165000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1789,7 +1780,7 @@
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.81556195" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21826425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21826425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2197,7 +2188,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="286">
-            <caret line="11" column="6" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="11" selection-end-column="6" />
+            <caret line="11" column="6" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="11" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor>
@@ -2210,7 +2201,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="26">
-            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
@@ -2245,19 +2236,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/541. Reverse String II/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="234">
-            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/760. Find Anagram Mappings/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -2284,11 +2262,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/541. Reverse String II/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="321">
-            <caret line="22" column="16" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="28" selection-end-column="6" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="234">
+            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
@@ -2300,8 +2278,21 @@
     <entry file="file://$PROJECT_DIR$/leetcode/693. Binary Number with Alternating Bits/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="217">
+          <first_editor relative-caret-position="676">
             <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="503">
+            <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="42" />
             <folding />
           </first_editor>
           <second_editor>
@@ -2313,8 +2304,8 @@
     <entry file="file://$PROJECT_DIR$/leetcode/745. Prefix and Suffix Search/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="581">
-            <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <first_editor relative-caret-position="208">
+            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
