@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/397. Integer Replacement/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/405. Convert a Number to Hexadecimal/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/412. Fizz Buzz/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/415. Add Strings/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/416. Partition Equal Subset Sum/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/461. Hamming Distance/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/476. Number Complement/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/500. Keyboard Row/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/504. Base 7/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/520. Detect Capital/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/693. Binary Number with Alternating Bits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/745. Prefix and Suffix Search/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/415. Add Strings/README.md" afterPath="$PROJECT_DIR$/leetcode/415. Add Strings/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/541. Reverse String II/README.md" afterPath="$PROJECT_DIR$/leetcode/541. Reverse String II/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/561. Array Partition I/README.md" afterPath="$PROJECT_DIR$/leetcode/561. Array Partition I/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/760. Find Anagram Mappings/README.md" afterPath="$PROJECT_DIR$/leetcode/760. Find Anagram Mappings/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -29,8 +35,8 @@
               <entry file="file://$PROJECT_DIR$/README.md">
                 <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
                   <state split_layout="FIRST">
-                    <first_editor relative-caret-position="61">
-                      <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+                    <first_editor relative-caret-position="321">
+                      <caret line="22" column="16" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="28" selection-end-column="6" />
                       <folding />
                     </first_editor>
                     <second_editor>
@@ -60,11 +66,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/415. Add Strings/README.md">
+        <entry file="file://$PROJECT_DIR$/leetcode/461. Hamming Distance/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="52">
+                <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -75,11 +81,101 @@
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/416. Partition Equal Subset Sum/README.md">
+        <entry file="file://$PROJECT_DIR$/leetcode/476. Number Complement/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="355">
-                <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="34" selection-end-column="72" />
+              <first_editor relative-caret-position="286">
+                <caret line="11" column="6" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="11" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/500. Keyboard Row/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="26">
+                <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/504. Base 7/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="468">
+                <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/520. Detect Capital/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="581">
+                <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/541. Reverse String II/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="234">
+                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/561. Array Partition I/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="78">
+                <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/693. Binary Number with Alternating Bits/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="217">
+                <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -90,11 +186,26 @@
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/435. Non overlapping Intervals/README.md">
+        <entry file="file://$PROJECT_DIR$/leetcode/745. Prefix and Suffix Search/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-624">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="581">
+                <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/760. Find Anagram Mappings/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="381">
+                <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -528,17 +639,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_017_Letter_Combinations_of_a_Phone_Number/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_083_Remove_Duplicates_from_Sorted_List/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_541_Reverse_String_II/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_136_Single_Number/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_198_House_Robber/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_202_Happy_Number/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_46_Permutations/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_203_Remove_Linked_List_Elements/README.md" />
-        <option value="$PROJECT_DIR$/../LearnKotlin/src/algorithm/_263_Ugly_Number/Solution.kt" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_079_Word_Search/README.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_035_Search_Insert_Position/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_242_Valid_Anagram/README.md" />
@@ -579,6 +679,17 @@
         <option value="$PROJECT_DIR$/leetcode/412. Fizz Buzz/README.md" />
         <option value="$PROJECT_DIR$/leetcode/405. Convert a Number to Hexadecimal/README.md" />
         <option value="$PROJECT_DIR$/leetcode/416. Partition Equal Subset Sum/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/415. Add Strings/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/461. Hamming Distance/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/476. Number Complement/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/500. Keyboard Row/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/504. Base 7/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/520. Detect Capital/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/541. Reverse String II/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/760. Find Anagram Mappings/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/561. Array Partition I/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/693. Binary Number with Alternating Bits/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/745. Prefix and Suffix Search/README.md" />
       </list>
     </option>
   </component>
@@ -673,6 +784,60 @@
               <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="461. Hamming Distance" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="476. Number Complement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="500. Keyboard Row" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="504. Base 7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="520. Detect Capital" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="541. Reverse String II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="561. Array Partition I" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="693. Binary Number with Alternating Bits" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="745. Prefix and Suffix Search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="760. Find Anagram Mappings" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -690,19 +855,19 @@
     <property name="SearchEverywhereHistoryKey" value="Inte&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java&#10;Integer&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java&#10;ArrayLis&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Lis&#9;PSI&#9;JAVA://java.util.List&#10;String&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/String.java&#10;ArrayList&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/util/ArrayList.java&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;Sys&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/System.java" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\IDEA\Algorithms\leetcode\src\main\kotlin\leetcode" />
-      <recent name="F:\IDEA\Algorithms\src\leetcode" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\IDEA\Algorithms\leetcode\src\main\solution" />
       <recent name="F:\IDEA\Algorithms\leetcode\src\main" />
       <recent name="F:\IDEA\Algorithms\leetcod\src" />
       <recent name="F:\IDEA\Algorithms\leetcod" />
       <recent name="F:\IDEA\Algorithms\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA\Algorithms\leetcode\src\main\kotlin\leetcode" />
+      <recent name="F:\IDEA\Algorithms\src\leetcode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1247,7 +1412,7 @@
       <workItem from="1517041927053" duration="434000" />
       <workItem from="1517380858794" duration="5916000" />
       <workItem from="1517489806066" duration="956000" />
-      <workItem from="1517539590047" duration="3973000" />
+      <workItem from="1517539590047" duration="6459000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1596,7 +1761,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140560000" />
+    <option name="totallyTimeSpent" value="143046000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1624,7 +1789,7 @@
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.81556195" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21826425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21826425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1733,16 +1898,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_027_Remove_Element/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_504_Base_7/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/leetcode.iml" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_412_Fizz_Buzz/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_079_Word_Search/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_415_Add_Strings/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_046_Permutations/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_198_House_Robber/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_435_Non_overlapping_Intervals/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/leetcode/build/kotlin-build/version.txt" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_435_Non_overlapping_Intervals/README.md" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_027_Remove_Element/README.md" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_017_Letter_Combinations_of_a_Phone_Number/README.md" />
@@ -1989,21 +2144,8 @@
     <entry file="file://$PROJECT_DIR$/leetcode/415. Add Strings/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="61">
-            <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <first_editor relative-caret-position="52">
+            <caret line="2" column="59" lean-forward="false" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
             <folding />
           </first_editor>
           <second_editor>
@@ -2028,8 +2170,151 @@
     <entry file="file://$PROJECT_DIR$/leetcode/435. Non overlapping Intervals/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-624">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="329">
+            <caret line="37" column="28" lean-forward="false" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/461. Hamming Distance/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="52">
+            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/476. Number Complement/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="286">
+            <caret line="11" column="6" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="11" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/500. Keyboard Row/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="26">
+            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/504. Base 7/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="468">
+            <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/520. Detect Capital/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="581">
+            <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/541. Reverse String II/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="234">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/760. Find Anagram Mappings/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="381">
+            <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/561. Array Partition I/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="78">
+            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="321">
+            <caret line="22" column="16" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="28" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/693. Binary Number with Alternating Bits/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="217">
+            <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/745. Prefix and Suffix Search/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="581">
+            <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
             <folding />
           </first_editor>
           <second_editor>
