@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/371. Sum of Two Integers/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/397. Integer Replacement/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/405. Convert a Number to Hexadecimal/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/412. Fizz Buzz/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/415. Add Strings/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/416. Partition Equal Subset Sum/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,8 +29,8 @@
               <entry file="file://$PROJECT_DIR$/README.md">
                 <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
                   <state split_layout="FIRST">
-                    <first_editor relative-caret-position="104">
-                      <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+                    <first_editor relative-caret-position="61">
+                      <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
                       <folding />
                     </first_editor>
                     <second_editor>
@@ -55,12 +59,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/371. Sum of Two Integers/README.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/415. Add Strings/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="208">
-                <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/416. Partition Equal Subset Sum/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="355">
+                <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="34" selection-end-column="72" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/435. Non overlapping Intervals/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-624">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -494,10 +528,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_17_Letter_Combinations_of_a_Phone_Number/Solution.kt" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_561_Array_Partition_I/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_760_Find_Anagram_Mappings/Solution.kt" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_760_Find_Anagram_Mappings/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_017_Letter_Combinations_of_a_Phone_Number/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_083_Remove_Duplicates_from_Sorted_List/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/leetcode/_541_Reverse_String_II/README.md" />
@@ -545,6 +575,10 @@
         <option value="$PROJECT_DIR$/leetcode/344. Reverse String/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/344. Reverse String/README.md" />
         <option value="$PROJECT_DIR$/leetcode/371. Sum of Two Integers/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/397. Integer Replacement/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/412. Fizz Buzz/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/405. Convert a Number to Hexadecimal/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/416. Partition Equal Subset Sum/README.md" />
       </list>
     </option>
   </component>
@@ -595,13 +629,49 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="344. Reverse String" type="462c0819:PsiDirectoryNode" />
+              <item name="371. Sum of Two Integers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="371. Sum of Two Integers" type="462c0819:PsiDirectoryNode" />
+              <item name="397. Integer Replacement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="405. Convert a Number to Hexadecimal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="412. Fizz Buzz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="415. Add Strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="416. Partition Equal Subset Sum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="435. Non overlapping Intervals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="461. Hamming Distance" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1177,7 +1247,7 @@
       <workItem from="1517041927053" duration="434000" />
       <workItem from="1517380858794" duration="5916000" />
       <workItem from="1517489806066" duration="956000" />
-      <workItem from="1517539590047" duration="1971000" />
+      <workItem from="1517539590047" duration="3973000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1526,7 +1596,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138558000" />
+    <option name="totallyTimeSpent" value="140560000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1554,7 +1624,7 @@
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.81556195" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34196892" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21826425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1663,18 +1733,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_203_Remove_Linked_List_Elements/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_003_Longest_Substring_Without_Repeating_Charachters/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_202_Happy_Number/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_035_Search_Insert_Position/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_541_Reverse_String_II/Solution.kt" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1976">
-          <caret line="76" column="6" lean-forward="true" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_027_Remove_Element/Solution.kt" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_504_Base_7/Solution.kt" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/leetcode.iml" />
@@ -1876,11 +1934,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/371. Sum of Two Integers/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="104">
-            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1889,11 +1947,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/371. Sum of Two Integers/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/397. Integer Replacement/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <first_editor relative-caret-position="-208">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/412. Fizz Buzz/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="43">
+            <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/405. Convert a Number to Hexadecimal/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="563">
+            <caret line="39" column="14" lean-forward="false" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/415. Add Strings/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="61">
+            <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/416. Partition Equal Subset Sum/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="355">
+            <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="34" selection-end-column="72" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/435. Non overlapping Intervals/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-624">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
