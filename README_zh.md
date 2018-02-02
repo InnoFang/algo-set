@@ -5,7 +5,7 @@
 
 ## _Leetcode Solution_
 
-[Leetcode Solution](https://github.com/InnoFang/Algorithms/tree/master/leetcode/src/main/kotlin/leetcode)
+[Leetcode Solution](https://github.com/InnoFang/Algorithms/tree/master/leetcode)
 
 
 

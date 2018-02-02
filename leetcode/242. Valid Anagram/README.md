@@ -18,3 +18,8 @@ For example,
 _s_ = "anagram", _t_ = "nagaram", return true.
 
 _s_ = "rat", _t_ = "car", return false.
+
+
+**Note:**
+
+You may assume the string contains only lowercase alphabets.
