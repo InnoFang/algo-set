@@ -25,6 +25,7 @@ English | [中文](https://github.com/InnoFang/Algorithms/blob/master/README_zh.
 * [`Math`](https://leetcode.com/tag/math/)
 * [`Greedy`](https://leetcode.com/tag/greedy/)
 * [`Trie`](https://leetcode.com/tag/trie/)
+* [`Stack`](https://leetcode.com/tag/stack/)
 
 </details>
 <br />
