@@ -1,6 +1,12 @@
 /**
  * Created by Inno Fang on 2018/2/3.
  */
+
+/**
+ * 20 / 20 test cases passed.
+ * Status: Accepted
+ * Runtime: 13 ms
+ */
 class Solution {
     public int evalRPN(String[] tokens) {
         java.util.Stack<Integer> vals = new java.util.Stack<>();
