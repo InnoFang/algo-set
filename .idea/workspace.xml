@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/Solution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -31,17 +30,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="260">
-                <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+                <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor>
                 <js_state />
               </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/Solution.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-183">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -67,9 +86,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Kotlin Class" />
         <option value="Clojure Namespace" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -90,6 +109,7 @@
       <find>t</find>
       <find>&lt;br /&gt;</find>
       <find>&lt;/details&gt;</find>
+      <find>int v</find>
     </findStrings>
     <replaceStrings>
       <replace>int[]</replace>
@@ -101,6 +121,7 @@
       <replace>edges</replace>
       <replace>_t_</replace>
       <replace />
+      <replace>v</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -485,8 +506,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_242_Valid_Anagram/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_206_Reverse_Linked_List/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_035_Search_Insert_Position/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_541_Reverse_String_II/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/src/main/kotlin/solution/_027_Remove_Element/Solution.kt" />
@@ -536,6 +555,8 @@
         <option value="$PROJECT_DIR$/leetcode/007. Reverse Integer/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/README.md" />
+        <option value="$PROJECT_DIR$/src/io/innofang/Solution.java" />
+        <option value="$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/Solution.java" />
       </list>
     </option>
   </component>
@@ -604,6 +625,17 @@
               <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="150. Evaluate Reverse Polish Notation" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="innofang" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -631,11 +663,11 @@
       <recent name="F:\IDEA\Algorithms\src\leetcode" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEA\Algorithms\leetcode\150. Evaluate Reverse Polish Notation" />
       <recent name="F:\IDEA\Algorithms\leetcode" />
       <recent name="F:\IDEA\Algorithms\leetcode\src\main\solution" />
       <recent name="F:\IDEA\Algorithms\leetcode\src\main" />
       <recent name="F:\IDEA\Algorithms\leetcod\src" />
-      <recent name="F:\IDEA\Algorithms\leetcod" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1181,7 +1213,7 @@
       <workItem from="1517380858794" duration="5916000" />
       <workItem from="1517489806066" duration="956000" />
       <workItem from="1517539590047" duration="7863000" />
-      <workItem from="1517627510244" duration="157000" />
+      <workItem from="1517627510244" duration="646000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1530,7 +1562,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144607000" />
+    <option name="totallyTimeSpent" value="145096000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1667,8 +1699,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_017_Letter_Combinations_of_a_Phone_Number/README.md" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_035_Search_Insert_Position/README.md" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_046_Permutations/README.md" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_079_Word_Search/README.md" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_198_House_Robber/README.md" />
@@ -2079,12 +2109,28 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="260">
-            <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor>
             <js_state />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-183">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
