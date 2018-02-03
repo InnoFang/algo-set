@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/Solution.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/Solution.java" afterPath="$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/Solution.java" />
-    </list>
+    <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
     <ignored path="$PROJECT_DIR$/leetcode/build/" />
@@ -1225,7 +1221,7 @@
       <workItem from="1517380858794" duration="5916000" />
       <workItem from="1517489806066" duration="956000" />
       <workItem from="1517539590047" duration="7863000" />
-      <workItem from="1517627510244" duration="1549000" />
+      <workItem from="1517627510244" duration="1692000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1574,7 +1570,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145999000" />
+    <option name="totallyTimeSpent" value="146142000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
