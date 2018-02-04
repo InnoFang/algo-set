@@ -1,5 +1,7 @@
 package algorithm._150_Evaluate_Reverse_Polish_Notation
 
+import java.util.function.Function
+
 /**
  * Created by Inno Fang on 2018/2/3.
  */
@@ -26,7 +28,8 @@ class Solution {
                 "*" -> {
                     val v = vals.pop()
                     vals.push(vals.pop() * v)
-                }"/" -> {
+                }
+                "/" -> {
                     val v = vals.pop()
                     vals.push(vals.pop() / v)
                 }
@@ -37,7 +40,24 @@ class Solution {
     }
 }
 
+class Solution2 {
+    fun evalRPN(tokens: Array<String>): Int {
+        val ops = mapOf(
+                "+" to fun(x: Int, y: Int) = y + x,
+                "-" to fun(x: Int, y: Int) = y - x,
+                "*" to fun(x: Int, y: Int) = y * x,
+                "/" to fun(x: Int, y: Int) = y / x)
+        val vals = java.util.Stack<Int>()
+        tokens.forEach { t ->
+            ops[t]?.let { vals.push(it(vals.pop(), vals.pop())) }
+                    ?: let { vals.push(t.toInt()) }
+        }
+        return vals.pop()
+    }
+}
+
 fun main(args: Array<String>) {
-    Solution().evalRPN(arrayOf("2", "1", "+", "3", "*")).let(::println)
-    Solution().evalRPN(arrayOf("4", "13", "5", "/", "+")).let(::println)
+    Solution2().evalRPN(arrayOf("2", "1", "+", "3", "*")).let(::println)
+    Solution2().evalRPN(arrayOf("4", "13", "5", "/", "+")).let(::println)
+    Solution2().evalRPN(arrayOf("10", "6", "9", "3", "+", "-11", "*", "/", "*", "17", "+", "5", "+")).let(::println)
 }
