@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/283. Move Zeroes/Solution.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/283. Move Zeroes/Solution.js" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -49,8 +49,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/283. Move Zeroes/Solution.py">
+      <file leaf-file-name="Solution.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/283. Move Zeroes/Solution.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1198,7 +1198,7 @@
       <workItem from="1517539590047" duration="7863000" />
       <workItem from="1517627510244" duration="1692000" />
       <workItem from="1517652523106" duration="2531000" />
-      <workItem from="1517747382106" duration="2824000" />
+      <workItem from="1517747382106" duration="4052000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1547,7 +1547,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151497000" />
+    <option name="totallyTimeSpent" value="152725000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1684,7 +1684,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/README.clj" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/README.md" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/README.java" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/solution/_017_Letter_Combinations_of_a_Phone_Number/Solution.kt" />
@@ -2160,6 +2159,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/283. Move Zeroes/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/283. Move Zeroes/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -2168,7 +2175,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/283. Move Zeroes/Solution.py">
+    <entry file="file://$PROJECT_DIR$/leetcode/283. Move Zeroes/Solution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
