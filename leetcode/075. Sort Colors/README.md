@@ -74,13 +74,18 @@ public void sortColors(int[] nums) {
 因此当取得一个数 ？时
 
  + 如果 ？是 0，则
-  - `nums[ones]` 和 `nums[zeros+1]` 进行交换
-  - `ones` 加一 ; `zeros`加一
+
+   - `nums[ones]` 和 `nums[zeros+1]` 进行交换
+   - `ones` 加一 ; `zeros`加一
+
  + 如果 ？是 1，则
-  - `ones` 加一
+
+   - `ones` 加一
+
  + 如果 ？是 2，则
-  - `nums[ones]` 和 `nums[twos-1]` 进行交换
-  - `ones` 加一 ; `twos`减一
+
+   - `nums[ones]` 和 `nums[twos-1]` 进行交换
+   - `ones` 加一 ; `twos`减一
 
 循环终止条件为，`ones < twos`
 
