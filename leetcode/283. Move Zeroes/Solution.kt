@@ -1,5 +1,3 @@
-package algorithm._283_Move_Zeroes
-
 /**
  * Created by Inno Fang on 2018/1/4.
  */

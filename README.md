@@ -26,6 +26,7 @@ English | [中文](https://github.com/InnoFang/Algorithms/blob/master/README_zh.
 * [`Greedy`](https://leetcode.com/tag/greedy/)
 * [`Trie`](https://leetcode.com/tag/trie/)
 * [`Stack`](https://leetcode.com/tag/stack/)
+* [`Sort`](https://leetcode.com/tag/sort)
 
 </details>
 <br />

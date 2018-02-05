@@ -1,7 +1,3 @@
-package algorithm._150_Evaluate_Reverse_Polish_Notation
-
-import java.util.function.Function
-
 /**
  * Created by Inno Fang on 2018/2/3.
  */

@@ -1,5 +1,3 @@
-package algorithm;
-
 /**
  * Created by Inno Fang on 2018/2/4.
  */
