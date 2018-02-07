@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -83,17 +82,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="286">
-                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
                 <js_state />
               </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -138,25 +147,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/075. Sort Colors/Solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Kotlin Class" />
         <option value="Clojure Namespace" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -612,7 +611,6 @@
         <option value="$PROJECT_DIR$/leetcode/007. Reverse Integer/README.md" />
         <option value="$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/README.md" />
         <option value="$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/Solution.java" />
-        <option value="$PROJECT_DIR$/src/io/innofang/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/150. Evaluate Reverse Polish Notation/Solution.cpp" />
         <option value="$PROJECT_DIR$/leetcode/283. Move Zeroes/README.md" />
         <option value="$PROJECT_DIR$/leetcode/075. Sort Colors/Solution.kt" />
@@ -627,6 +625,7 @@
         <option value="$PROJECT_DIR$/src/io/innofang/utils/Solution.java" />
         <option value="$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.java" />
         <option value="$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/README.md" />
+        <option value="$PROJECT_DIR$/src/io/innofang/Solution.kt" />
       </list>
     </option>
   </component>
@@ -691,13 +690,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="innofang" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="innofang" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -744,7 +736,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.algorithm._150_Evaluate_Reverse_Polish_Notation.SolutionKt">
+  <component name="RunManager" selected="Kotlin.io.innofang.SolutionKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -1134,16 +1126,16 @@
       <module name="Algorithms" />
       <envs />
     </configuration>
-    <configuration name="solution._017_Letter_Combinations_of_a_Phone_Number.SolutionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="io.innofang.SolutionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="solution._017_Letter_Combinations_of_a_Phone_Number.SolutionKt" />
+      <option name="MAIN_CLASS_NAME" value="io.innofang.SolutionKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode_main" />
+      <module name="Algorithms" />
       <envs />
     </configuration>
     <configuration name="solution._027_Remove_Element.SolutionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -1183,19 +1175,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.solution._017_Letter_Combinations_of_a_Phone_Number.SolutionKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.solution._760_Find_Anagram_Mappings.SolutionKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.solution._027_Remove_Element.SolutionKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.solution._035_Search_Insert_Position.SolutionKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.algorithm._150_Evaluate_Reverse_Polish_Notation.SolutionKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.solution._760_Find_Anagram_Mappings.SolutionKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.solution._027_Remove_Element.SolutionKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.solution._035_Search_Insert_Position.SolutionKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.algorithm._150_Evaluate_Reverse_Polish_Notation.SolutionKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.io.innofang.SolutionKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.algorithm._150_Evaluate_Reverse_Polish_Notation.SolutionKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.solution._027_Remove_Element.SolutionKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.solution._035_Search_Insert_Position.SolutionKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.solution._760_Find_Anagram_Mappings.SolutionKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.solution._017_Letter_Combinations_of_a_Phone_Number.SolutionKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.io.innofang.SolutionKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.algorithm._150_Evaluate_Reverse_Polish_Notation.SolutionKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.solution._027_Remove_Element.SolutionKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.solution._035_Search_Insert_Position.SolutionKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.solution._760_Find_Anagram_Mappings.SolutionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -1281,7 +1273,7 @@
       <workItem from="1517752456374" duration="51000" />
       <workItem from="1517831993448" duration="6661000" />
       <workItem from="1517900178272" duration="3107000" />
-      <workItem from="1517976915054" duration="323000" />
+      <workItem from="1517976915054" duration="1633000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1630,7 +1622,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162964000" />
+    <option name="totallyTimeSpent" value="164274000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1646,6 +1638,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32790697" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3240418" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1673,7 +1666,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3240418" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1767,18 +1759,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/242. Valid Anagram/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="546">
-            <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/268. Missing Number/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -2277,12 +2257,20 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="286">
-            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
             <js_state />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
