@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,7 +44,7 @@
       <file leaf-file-name="Solution.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/075. Sort Colors/Solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
+            <state relative-caret-position="208">
               <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding />
             </state>
@@ -53,21 +54,46 @@
       <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/Solution.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-731">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3">
+            <state relative-caret-position="26">
               <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-261">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="286">
+                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -90,8 +116,8 @@
       <file leaf-file-name="Solution.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-364">
-              <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <state relative-caret-position="312">
+              <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -550,9 +576,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/solution/_198_House_Robber/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/solution/_202_Happy_Number/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/solution/_203_Remove_Linked_List_Elements/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_206_Reverse_Linked_List/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_242_Valid_Anagram/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/README.md" />
@@ -601,6 +624,9 @@
         <option value="$PROJECT_DIR$/leetcode/075. Sort Colors/README.md" />
         <option value="$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/README.md" />
         <option value="$PROJECT_DIR$/src/io/innofang/Solution.java" />
+        <option value="$PROJECT_DIR$/src/io/innofang/utils/Solution.java" />
+        <option value="$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.java" />
+        <option value="$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/README.md" />
       </list>
     </option>
   </component>
@@ -633,6 +659,9 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -649,7 +678,7 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="167. Two Sum II - Input array is sorted" type="462c0819:PsiDirectoryNode" />
+              <item name="209. Minimum Size Subarray Sum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -662,13 +691,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="innofang" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="innofang" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -681,6 +714,13 @@
     <property name="SearchEverywhereHistoryKey" value="Inte&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java&#10;Integer&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java&#10;ArrayLis&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Lis&#9;PSI&#9;JAVA://java.util.List&#10;String&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/String.java&#10;ArrayList&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/util/ArrayList.java&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;Sys&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/System.java" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEA\Algorithms\leetcode\209. Minimum Size Subarray Sum" />
+      <recent name="F:\IDEA\Algorithms\leetcode\167. Two Sum II - Input array is sorted" />
+      <recent name="F:\IDEA\Algorithms\leetcode\075. Sort Colors" />
+      <recent name="F:\IDEA\Algorithms\leetcode\150. Evaluate Reverse Polish Notation" />
+      <recent name="F:\IDEA\Algorithms\leetcode" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -690,13 +730,6 @@
       <recent name="F:\IDEA\Algorithms\leetcode\283. Move Zeroes" />
       <recent name="F:\IDEA\Algorithms\src\io\innofang" />
       <recent name="F:\IDEA\Algorithms\leetcode\150. Evaluate Reverse Polish Notation" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\IDEA\Algorithms\leetcode\167. Two Sum II - Input array is sorted" />
-      <recent name="F:\IDEA\Algorithms\leetcode\075. Sort Colors" />
-      <recent name="F:\IDEA\Algorithms\leetcode\150. Evaluate Reverse Polish Notation" />
-      <recent name="F:\IDEA\Algorithms\leetcode" />
-      <recent name="F:\IDEA\Algorithms\leetcode\283. Move Zeroes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1247,7 +1280,8 @@
       <workItem from="1517747382106" duration="4149000" />
       <workItem from="1517752456374" duration="51000" />
       <workItem from="1517831993448" duration="6661000" />
-      <workItem from="1517900178272" duration="1909000" />
+      <workItem from="1517900178272" duration="3107000" />
+      <workItem from="1517976915054" duration="323000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1596,7 +1630,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161443000" />
+    <option name="totallyTimeSpent" value="162964000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1621,10 +1655,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3646922" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32790697" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4244186" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42392567" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19796138" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20064378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18937768" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1733,30 +1767,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/083. Remove Duplicates from Sorted List/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="209">
-            <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/203. Remove Linked List Elements/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="442">
-            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/242. Valid Anagram/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -2164,7 +2174,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2186,7 +2195,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/075. Sort Colors/Solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
+        <state relative-caret-position="208">
           <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding />
         </state>
@@ -2197,20 +2206,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="253">
             <caret line="75" column="12" lean-forward="true" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="253">
-            <caret line="10" column="10" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="31" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor>
             <js_state />
@@ -2233,15 +2228,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-364">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state relative-caret-position="312">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-731">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -2249,11 +2244,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
+        <state relative-caret-position="26">
           <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="253">
+            <caret line="10" column="10" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="31" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="286">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
