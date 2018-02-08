@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/003. Longest Substring Without Repeating Characters/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/003. Longest Substring Without Repeating Characters/Solution.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,16 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Solution.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/075. Sort Colors/Solution.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/Solution.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,7 +44,7 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
+            <state relative-caret-position="468">
               <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -65,7 +56,7 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-261">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -90,29 +81,39 @@
       <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
+            <state relative-caret-position="234">
               <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="234">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/003. Longest Substring Without Repeating Characters/Solution.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-393">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/README.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/003. Longest Substring Without Repeating Characters/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="26">
-                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <first_editor relative-caret-position="104">
+                <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -122,11 +123,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/Solution.py">
+      <file leaf-file-name="Arrays.kt" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/kotlin/Arrays.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <state relative-caret-position="68">
+              <caret line="93" column="21" lean-forward="false" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -136,8 +137,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="253">
-                <caret line="10" column="10" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="31" selection-end-column="6" />
+              <first_editor relative-caret-position="279">
+                <caret line="11" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="31" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -575,9 +576,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/solution/_206_Reverse_Linked_List/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/solution/_242_Valid_Anagram/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/solution/_083_Remove_Duplicates_from_Sorted_List/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/README.md" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/README.clj" />
         <option value="$PROJECT_DIR$/leetcode/src/main/solution/_017_Letter_Combinations_of_a_Phone_Number/Solution.kt" />
@@ -625,7 +623,10 @@
         <option value="$PROJECT_DIR$/src/io/innofang/utils/Solution.java" />
         <option value="$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.java" />
         <option value="$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/README.md" />
+        <option value="$PROJECT_DIR$/src/io/innofang/Soluiton.kt" />
         <option value="$PROJECT_DIR$/src/io/innofang/Solution.kt" />
+        <option value="$PROJECT_DIR$/leetcode/003. Longest Substring Without Repeating Characters/Solution.kt" />
+        <option value="$PROJECT_DIR$/leetcode/003. Longest Substring Without Repeating Characters/README.md" />
       </list>
     </option>
   </component>
@@ -657,8 +658,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -677,18 +678,7 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="209. Minimum Size Subarray Sum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="innofang" type="462c0819:PsiDirectoryNode" />
+              <item name="003. Longest Substring Without Repeating Characters" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -706,13 +696,6 @@
     <property name="SearchEverywhereHistoryKey" value="Inte&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java&#10;Integer&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java&#10;ArrayLis&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Lis&#9;PSI&#9;JAVA://java.util.List&#10;String&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/String.java&#10;ArrayList&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/util/ArrayList.java&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;Sys&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/System.java" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\IDEA\Algorithms\leetcode\209. Minimum Size Subarray Sum" />
-      <recent name="F:\IDEA\Algorithms\leetcode\167. Two Sum II - Input array is sorted" />
-      <recent name="F:\IDEA\Algorithms\leetcode\075. Sort Colors" />
-      <recent name="F:\IDEA\Algorithms\leetcode\150. Evaluate Reverse Polish Notation" />
-      <recent name="F:\IDEA\Algorithms\leetcode" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -722,6 +705,13 @@
       <recent name="F:\IDEA\Algorithms\leetcode\075. Sort Colors" />
       <recent name="F:\IDEA\Algorithms\leetcode\283. Move Zeroes" />
       <recent name="F:\IDEA\Algorithms\src\io\innofang" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEA\Algorithms\leetcode\3. Longest Substring Without Repeating Characters" />
+      <recent name="F:\IDEA\Algorithms\leetcode\209. Minimum Size Subarray Sum" />
+      <recent name="F:\IDEA\Algorithms\leetcode\167. Two Sum II - Input array is sorted" />
+      <recent name="F:\IDEA\Algorithms\leetcode\075. Sort Colors" />
+      <recent name="F:\IDEA\Algorithms\leetcode\150. Evaluate Reverse Polish Notation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1273,7 +1263,8 @@
       <workItem from="1517752456374" duration="51000" />
       <workItem from="1517831993448" duration="6661000" />
       <workItem from="1517900178272" duration="3107000" />
-      <workItem from="1517976915054" duration="2393000" />
+      <workItem from="1517976915054" duration="2523000" />
+      <workItem from="1518071259400" duration="1526000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1622,7 +1613,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165034000" />
+    <option name="totallyTimeSpent" value="166690000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1759,37 +1750,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/300. Longest Increasing Subsequence/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="625">
-            <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/344. Reverse String/Solution.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/344. Reverse String/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="243">
-            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/371. Sum of Two Integers/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -2157,7 +2117,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2212,7 +2171,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
+        <state relative-caret-position="468">
           <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2222,22 +2181,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-261">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="253">
-            <caret line="10" column="10" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="31" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
         </state>
       </provider>
     </entry>
@@ -2256,7 +2202,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="234">
           <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
           <folding />
         </state>
@@ -2264,9 +2210,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="234">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/kotlin/Arrays.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="93" column="21" lean-forward="false" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/003. Longest Substring Without Repeating Characters/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-393">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="279">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="31" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/003. Longest Substring Without Repeating Characters/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="104">
+            <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
