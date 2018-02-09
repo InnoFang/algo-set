@@ -1,7 +1,12 @@
-package io.innofang
-
 /**
  * Created by Inno Fang on 2018/2/9.
+ */
+
+
+/**
+ * 23 / 23 test cases passed.
+ * Status: Accepted
+ * Runtime: 458 ms
  */
 class Solution {
     fun containsNearbyDuplicate(nums: IntArray, k: Int): Boolean {
