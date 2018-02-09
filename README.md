@@ -27,6 +27,7 @@ English | [中文](https://github.com/InnoFang/Algorithms/blob/master/README_zh.
 * [`Trie`](https://leetcode.com/tag/trie/)
 * [`Stack`](https://leetcode.com/tag/stack/)
 * [`Sort`](https://leetcode.com/tag/sort)
+* [`Binary Search Tree`](https://leetcode.com/tag/binary-search-tree/)
 
 </details>
 <br />
