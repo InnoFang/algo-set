@@ -28,6 +28,8 @@ English | [中文](https://github.com/InnoFang/Algorithms/blob/master/README_zh.
 * [`Stack`](https://leetcode.com/tag/stack/)
 * [`Sort`](https://leetcode.com/tag/sort)
 * [`Binary Search Tree`](https://leetcode.com/tag/binary-search-tree/)
+* [`Tree`](https://leetcode.com/tag/tree/)
+* [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/)
 
 </details>
 <br />
