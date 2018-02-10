@@ -34,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/leetcode/279. Perfect Squares/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="260">
+              <first_editor relative-caret-position="54">
                 <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
                 <folding />
               </first_editor>
@@ -48,8 +48,8 @@
       <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="1534">
+              <caret line="61" column="50" lean-forward="false" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -487,7 +487,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/242. Valid Anagram/README.md" />
         <option value="$PROJECT_DIR$/leetcode/268. Missing Number/README.md" />
         <option value="$PROJECT_DIR$/leetcode/300. Longest Increasing Subsequence/README.md" />
         <option value="$PROJECT_DIR$/leetcode/344. Reverse String/Solution.kt" />
@@ -537,6 +536,7 @@
         <option value="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/README.md" />
         <option value="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/279. Perfect Squares/README.md" />
+        <option value="$PROJECT_DIR$/src/io/innofang/test.kt" />
         <option value="$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt" />
       </list>
     </option>
@@ -588,6 +588,17 @@
               <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="279. Perfect Squares" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="innofang" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -611,11 +622,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA\Algorithms\src\io\innofang" />
       <recent name="F:\IDEA\Algorithms\leetcode\217. Contains Duplicate" />
       <recent name="F:\IDEA\Algorithms\leetcode\209. Minimum Size Subarray Sum" />
       <recent name="F:\IDEA\Algorithms\leetcode\167. Two Sum II - Input array is sorted" />
       <recent name="F:\IDEA\Algorithms\leetcode\075. Sort Colors" />
-      <recent name="F:\IDEA\Algorithms\leetcode\283. Move Zeroes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\IDEA\Algorithms\leetcode\102. Binary Tree Level Order Traversal" />
@@ -637,7 +648,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.io.innofang.SolutionKt">
+  <component name="RunManager" selected="Kotlin.SolutionKt">
+    <configuration name="SolutionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="SolutionKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithms" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -1039,6 +1062,18 @@
       <module name="Algorithms" />
       <envs />
     </configuration>
+    <configuration name="io.innofang.TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="io.innofang.TestKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithms" />
+      <envs />
+    </configuration>
     <configuration name="solution._027_Remove_Element.SolutionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="solution._027_Remove_Element.SolutionKt" />
@@ -1051,44 +1086,20 @@
       <module name="solution_main" />
       <envs />
     </configuration>
-    <configuration name="solution._035_Search_Insert_Position.SolutionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="solution._035_Search_Insert_Position.SolutionKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="solution_main" />
-      <envs />
-    </configuration>
-    <configuration name="solution._760_Find_Anagram_Mappings.SolutionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="solution._760_Find_Anagram_Mappings.SolutionKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode_main" />
-      <envs />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.solution._760_Find_Anagram_Mappings.SolutionKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.solution._027_Remove_Element.SolutionKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.solution._035_Search_Insert_Position.SolutionKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.algorithm._150_Evaluate_Reverse_Polish_Notation.SolutionKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.io.innofang.SolutionKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.solution._027_Remove_Element.SolutionKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.algorithm._150_Evaluate_Reverse_Polish_Notation.SolutionKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.io.innofang.SolutionKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.io.innofang.TestKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.SolutionKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.io.innofang.SolutionKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.algorithm._150_Evaluate_Reverse_Polish_Notation.SolutionKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.solution._027_Remove_Element.SolutionKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.solution._035_Search_Insert_Position.SolutionKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.solution._760_Find_Anagram_Mappings.SolutionKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.SolutionKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.io.innofang.TestKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.io.innofang.SolutionKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.algorithm._150_Evaluate_Reverse_Polish_Notation.SolutionKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.solution._027_Remove_Element.SolutionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -1177,7 +1188,7 @@
       <workItem from="1517976915054" duration="2523000" />
       <workItem from="1518071259400" duration="5169000" />
       <workItem from="1518158793307" duration="4887000" />
-      <workItem from="1518255478245" duration="3640000" />
+      <workItem from="1518255478245" duration="5244000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1526,7 +1537,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178860000" />
+    <option name="totallyTimeSpent" value="180464000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1663,30 +1674,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/541. Reverse String II/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="234">
-            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/745. Prefix and Suffix Search/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/693. Binary Number with Alternating Bits/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -2109,7 +2096,7 @@
     <entry file="file://$PROJECT_DIR$/leetcode/279. Perfect Squares/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="260">
+          <first_editor relative-caret-position="54">
             <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             <folding />
           </first_editor>
@@ -2119,10 +2106,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/innofang/test.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/innofang/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-572">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="1534">
+          <caret line="61" column="50" lean-forward="false" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
           <folding />
         </state>
       </provider>
