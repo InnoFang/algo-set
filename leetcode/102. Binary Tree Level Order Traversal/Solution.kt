@@ -1,11 +1,8 @@
-package io.innofang
-
-import java.util.*
-import kotlin.collections.ArrayList
-
 /**
  * Created by Inno Fang on 2018/2/10.
  */
+
+import java.util.*
 class TreeNode(var `val`: Int = 0) {
     var left: TreeNode? = null
     var right: TreeNode? = null

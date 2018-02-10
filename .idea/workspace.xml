@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/Solution.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -73,11 +72,9 @@
       <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/Solution.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-              <folding>
-                <element signature="e#21#75#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -514,7 +511,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/083. Remove Duplicates from Sorted List/README.md" />
         <option value="$PROJECT_DIR$/leetcode/203. Remove Linked List Elements/README.md" />
         <option value="$PROJECT_DIR$/leetcode/242. Valid Anagram/README.md" />
         <option value="$PROJECT_DIR$/leetcode/268. Missing Number/README.md" />
@@ -565,6 +561,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/README.md" />
         <option value="$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt" />
+        <option value="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/Solution.kt" />
       </list>
     </option>
   </component>
@@ -1210,7 +1207,7 @@
       <workItem from="1517976915054" duration="2523000" />
       <workItem from="1518071259400" duration="5169000" />
       <workItem from="1518158793307" duration="4887000" />
-      <workItem from="1518255478245" duration="2635000" />
+      <workItem from="1518255478245" duration="2679000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1559,7 +1556,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177855000" />
+    <option name="totallyTimeSpent" value="177899000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2153,11 +2150,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-          <folding>
-            <element signature="e#21#75#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
