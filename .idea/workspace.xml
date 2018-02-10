@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/Solution.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/README.md" afterPath="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -32,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="332">
+              <first_editor relative-caret-position="410">
                 <caret line="29" column="70" lean-forward="false" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
                 <folding />
               </first_editor>
@@ -47,12 +44,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="156">
-                <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <first_editor relative-caret-position="262">
+                <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -543,8 +540,8 @@
         <option value="$PROJECT_DIR$/leetcode/217. Contains Duplicate/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/220. Contains Duplicate III/README.md" />
         <option value="$PROJECT_DIR$/src/io/innofang/Solution.kt" />
-        <option value="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/README.md" />
       </list>
     </option>
   </component>
@@ -1184,7 +1181,7 @@
       <workItem from="1517976915054" duration="2523000" />
       <workItem from="1518071259400" duration="5169000" />
       <workItem from="1518158793307" duration="4887000" />
-      <workItem from="1518255478245" duration="2240000" />
+      <workItem from="1518255478245" duration="2579000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1533,7 +1530,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177460000" />
+    <option name="totallyTimeSpent" value="177799000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2113,11 +2110,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/README.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="156">
-            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="410">
+            <caret line="29" column="70" lean-forward="false" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
             <folding />
           </first_editor>
           <second_editor>
@@ -2126,11 +2123,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="332">
-            <caret line="29" column="70" lean-forward="false" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="262">
+            <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
             <folding />
           </first_editor>
           <second_editor>
