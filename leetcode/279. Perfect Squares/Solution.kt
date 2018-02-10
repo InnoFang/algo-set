@@ -1,3 +1,7 @@
+/**
+ * Created by Inno Fang on 2017/12/3.
+ */
+
 class Solution {
     fun numSquares(n: Int): Int {
         val dp = (0..n + 1).toMutableList()
@@ -12,4 +16,13 @@ class Solution {
         return dp[n]
     }
 
+}
+
+fun main(args: Array<String>) {
+    Solution().numSquares(4).let(::println) // 1
+    Solution().numSquares(12).let(::println) // 3
+    Solution().numSquares(13).let(::println) // 2
+    Solution().numSquares(16).let(::println) // 1
+    Solution().numSquares(24).let(::println) // 3
+    Solution().numSquares(50).let(::println) // 2
 }

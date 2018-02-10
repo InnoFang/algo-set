@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/Solution.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -59,20 +59,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="-2">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc;n#Solution#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/Solution.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-208">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -560,8 +562,8 @@
         <option value="$PROJECT_DIR$/src/io/innofang/Solution.kt" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/Solution.kt" />
+        <option value="$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt" />
       </list>
     </option>
   </component>
@@ -605,12 +607,6 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="102. Binary Tree Level Order Traversal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -1207,7 +1203,7 @@
       <workItem from="1517976915054" duration="2523000" />
       <workItem from="1518071259400" duration="5169000" />
       <workItem from="1518158793307" duration="4887000" />
-      <workItem from="1518255478245" duration="2679000" />
+      <workItem from="1518255478245" duration="2990000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1556,7 +1552,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177899000" />
+    <option name="totallyTimeSpent" value="178210000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2140,19 +2136,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="-208">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/102. Binary Tree Level Order Traversal/Solution.kt">
+    <entry file="file://$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-2">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc;n#Solution#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
