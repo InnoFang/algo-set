@@ -2,6 +2,11 @@
  * Created by Inno Fang on 2017/12/3.
  */
 
+/**
+ * 586 / 586 test cases passed.
+ * Status: Accepted
+ * Runtime: 1112 ms
+ */
 class Solution {
     fun numSquares(n: Int): Int {
         val dp = (0..n + 1).toMutableList()
