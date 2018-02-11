@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/001. Two Sum/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/001. Two Sum/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/001. Two Sum/Solution.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -34,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/leetcode/279. Perfect Squares/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="54">
+              <first_editor relative-caret-position="0">
                 <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
                 <folding />
               </first_editor>
@@ -45,12 +47,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1534">
+            <state relative-caret-position="259">
               <caret line="61" column="50" lean-forward="false" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/001. Two Sum/Solution.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-494">
+              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/001. Two Sum/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-235">
+              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/001. Two Sum/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="236">
+                <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -62,9 +99,9 @@
       <list>
         <option value="Interface" />
         <option value="Clojure Namespace" />
-        <option value="Class" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -487,9 +524,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/268. Missing Number/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/300. Longest Increasing Subsequence/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/344. Reverse String/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/344. Reverse String/README.md" />
         <option value="$PROJECT_DIR$/leetcode/371. Sum of Two Integers/README.md" />
         <option value="$PROJECT_DIR$/leetcode/397. Integer Replacement/README.md" />
@@ -519,7 +553,6 @@
         <option value="$PROJECT_DIR$/leetcode/075. Sort Colors/Solution.java" />
         <option value="$PROJECT_DIR$/leetcode/075. Sort Colors/README.md" />
         <option value="$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/README.md" />
-        <option value="$PROJECT_DIR$/src/io/innofang/Solution.java" />
         <option value="$PROJECT_DIR$/src/io/innofang/utils/Solution.java" />
         <option value="$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/Solution.java" />
         <option value="$PROJECT_DIR$/leetcode/209. Minimum Size Subarray Sum/README.md" />
@@ -538,6 +571,10 @@
         <option value="$PROJECT_DIR$/leetcode/279. Perfect Squares/README.md" />
         <option value="$PROJECT_DIR$/src/io/innofang/test.kt" />
         <option value="$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt" />
+        <option value="$PROJECT_DIR$/leetcode/001. Two Sum/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/001. Two Sum/Solution.kt" />
+        <option value="$PROJECT_DIR$/src/io/innofang/Solution.java" />
+        <option value="$PROJECT_DIR$/leetcode/001. Two Sum/Solution.java" />
       </list>
     </option>
   </component>
@@ -569,7 +606,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -581,6 +617,12 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="001. Two Sum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -604,8 +646,9 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -618,6 +661,13 @@
     <property name="SearchEverywhereHistoryKey" value="Queue&#9;PSI&#9;JAVA://java.util.Queue&#10;Inte&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java&#10;Integer&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java&#10;ArrayLis&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Lis&#9;PSI&#9;JAVA://java.util.List&#10;String&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/String.java&#10;ArrayList&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/util/ArrayList.java&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;Sys&#9;FILE&#9;jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/System.java" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEA\Algorithms\leetcode\001. Two Sum" />
+      <recent name="F:\IDEA\Algorithms\leetcode" />
+      <recent name="F:\IDEA\Algorithms\leetcode\102. Binary Tree Level Order Traversal" />
+      <recent name="F:\IDEA\Algorithms\leetcode\220. Contains Duplicate III" />
+      <recent name="F:\IDEA\Algorithms\leetcode\219. Contains Duplicate II" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -627,13 +677,6 @@
       <recent name="F:\IDEA\Algorithms\leetcode\209. Minimum Size Subarray Sum" />
       <recent name="F:\IDEA\Algorithms\leetcode\167. Two Sum II - Input array is sorted" />
       <recent name="F:\IDEA\Algorithms\leetcode\075. Sort Colors" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\IDEA\Algorithms\leetcode\102. Binary Tree Level Order Traversal" />
-      <recent name="F:\IDEA\Algorithms\leetcode\220. Contains Duplicate III" />
-      <recent name="F:\IDEA\Algorithms\leetcode\219. Contains Duplicate II" />
-      <recent name="F:\IDEA\Algorithms\leetcode\3. Longest Substring Without Repeating Characters" />
-      <recent name="F:\IDEA\Algorithms\leetcode\209. Minimum Size Subarray Sum" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1188,7 +1231,8 @@
       <workItem from="1517976915054" duration="2523000" />
       <workItem from="1518071259400" duration="5169000" />
       <workItem from="1518158793307" duration="4887000" />
-      <workItem from="1518255478245" duration="5244000" />
+      <workItem from="1518255478245" duration="5843000" />
+      <workItem from="1518330260437" duration="511000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1537,7 +1581,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180464000" />
+    <option name="totallyTimeSpent" value="181574000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1553,7 +1597,6 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32790697" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32171893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1566,7 +1609,7 @@
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42276424" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24517168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24839056" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18937768" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1581,6 +1624,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32171893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1674,42 +1718,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/693. Binary Number with Alternating Bits/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="26">
-            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/017. Letter Combinations of a Phone Number/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="546">
-            <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/027. Remove Element/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="52">
-            <caret line="2" column="59" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="59" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/007. Reverse Integer/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1817,7 +1825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1863,7 +1870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1911,7 +1917,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1982,7 +1987,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="442">
             <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor>
             <js_state />
@@ -2008,10 +2012,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="434" column="13" lean-forward="false" selection-start-line="434" selection-start-column="13" selection-end-line="434" selection-end-column="13" />
-          <folding>
-            <element signature="e#16227#16228#0" expanded="false" />
-            <element signature="e#16265#16266#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2027,7 +2027,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="304">
             <caret line="12" column="256" lean-forward="false" selection-start-line="12" selection-start-column="256" selection-end-line="12" selection-end-column="256" />
-            <folding />
           </first_editor>
           <second_editor>
             <js_state />
@@ -2039,7 +2038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="192" column="17" lean-forward="false" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2047,7 +2045,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1353">
           <caret line="143" column="17" lean-forward="false" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2055,7 +2052,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-78">
           <caret line="632" column="22" lean-forward="true" selection-start-line="632" selection-start-column="22" selection-end-line="632" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2063,7 +2059,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-208">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2085,7 +2080,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="600">
             <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-            <folding />
           </first_editor>
           <second_editor>
             <js_state />
@@ -2096,7 +2090,7 @@
     <entry file="file://$PROJECT_DIR$/leetcode/279. Perfect Squares/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
+          <first_editor relative-caret-position="0">
             <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             <folding />
           </first_editor>
@@ -2106,26 +2100,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/innofang/test.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/innofang/Solution.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-572">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/innofang/test.kt" />
+    <entry file="file://$PROJECT_DIR$/src/io/innofang/Solution.kt" />
     <entry file="file://$PROJECT_DIR$/leetcode/279. Perfect Squares/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1534">
+        <state relative-caret-position="259">
           <caret line="61" column="50" lean-forward="false" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/001. Two Sum/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="236">
+            <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/001. Two Sum/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/001. Two Sum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-235">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding />
         </state>
       </provider>
