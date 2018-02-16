@@ -23,9 +23,27 @@ class Solution {
     }
 }
 
+/**
+ * 30 / 30 test cases passed.
+ * Status: Accepted
+ * Runtime: 322 ms
+ */
+class Solution2 {
+    fun isIsomorphic(s: String, t: String): Boolean {
+        val m1 = IntArray(256) { -1 }
+        val m2 = IntArray(256) { -1 }
+        (0 until s.length).forEach {
+            if (m1[s[it].toInt()] != m2[t[it].toInt()]) return false
+            m1[s[it].toInt()] = it
+            m2[t[it].toInt()] = it
+        }
+        return true
+    }
+}
+
 fun main(args: Array<String>) {
-    Solution().isIsomorphic("egg", "add").let(::println)
-    Solution().isIsomorphic("foo", "bar").let(::println)
-    Solution().isIsomorphic("paper", "title").let(::println)
-    Solution().isIsomorphic("ab", "aa").let(::println)
+    Solution2().isIsomorphic("egg", "add").let(::println)
+    Solution2().isIsomorphic("foo", "bar").let(::println)
+    Solution2().isIsomorphic("paper", "title").let(::println)
+    Solution2().isIsomorphic("ab", "aa").let(::println)
 }

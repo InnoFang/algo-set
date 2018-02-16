@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/205. Isomorphic Strings/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/205. Isomorphic Strings/Solution.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/205. Isomorphic Strings/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/205. Isomorphic Strings/Solution.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -44,8 +43,8 @@
       <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetcode/205. Isomorphic Strings/Solution.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-116">
-              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="312">
+              <caret line="28" column="3" lean-forward="false" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -71,7 +70,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="312">
-                <caret line="12" column="9" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+                <caret line="12" column="9" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -583,8 +582,8 @@
         <option value="$PROJECT_DIR$/leetcode/004. Median of Two Sorted Arrays/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/204. Count Primes/README.md" />
         <option value="$PROJECT_DIR$/leetcode/204. Count Primes/Solution.kt" />
-        <option value="$PROJECT_DIR$/src/io/innofang/Solution.kt" />
         <option value="$PROJECT_DIR$/leetcode/205. Isomorphic Strings/README.md" />
+        <option value="$PROJECT_DIR$/src/io/innofang/Solution.kt" />
       </list>
     </option>
   </component>
@@ -1248,7 +1247,7 @@
       <workItem from="1518506344382" duration="3928000" />
       <workItem from="1518590088596" duration="3158000" />
       <workItem from="1518656185596" duration="4349000" />
-      <workItem from="1518777674138" duration="4226000" />
+      <workItem from="1518777674138" duration="5021000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1597,7 +1596,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198772000" />
+    <option name="totallyTimeSpent" value="199567000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1736,18 +1735,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="26">
-            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/167. Two Sum II - Input array is sorted/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -2154,7 +2141,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="312">
-            <caret line="12" column="9" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <caret line="12" column="9" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
@@ -2191,8 +2178,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/205. Isomorphic Strings/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
-          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="416">
+          <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/205. Isomorphic Strings/Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="28" column="3" lean-forward="false" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
           <folding />
         </state>
       </provider>
