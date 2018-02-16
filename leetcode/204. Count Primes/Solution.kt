@@ -21,6 +21,22 @@ class Solution {
     }
 }
 
+
+/**
+ * 20 / 20 test cases passed.
+ * Status: Accepted
+ * Runtime: 385 ms
+ */
+class Solution2 {
+    fun countPrimes(n: Int): Int {
+        val isPrime = BooleanArray(n) { true }
+        return (2 until n).count { i ->
+            if (isPrime[i]) (2 * i until n step i).forEach { isPrime[it] = false }
+            isPrime[i]
+        }
+    }
+}
+
 fun main(args: Array<String>) {
-    Solution().countPrimes(10).let(::println)
+    Solution2().countPrimes(10).let(::println)
 }
