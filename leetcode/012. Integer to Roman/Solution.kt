@@ -5,7 +5,7 @@
 /**
  * 3999 / 3999 test cases passed.
  * Status: Accepted
- * Runtime: 252 ms
+ * Runtime: 228 ms
  */
 class Solution {
     fun intToRoman(num: Int): String {
@@ -14,12 +14,11 @@ class Solution {
                 arrayOf("", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"),
                 arrayOf("", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"),
                 arrayOf("", "M", "MM", "MMM"))
-
         return StringBuilder()
+                .append(roman[3][(num / 1000) % 10])
+                .append(roman[2][(num / 100) % 10])
+                .append(roman[1][(num / 10) % 10])
                 .append(roman[0][num % 10])
-                .insert(0, roman[1][(num / 10) % 10])
-                .insert(0, roman[2][(num / 100) % 10])
-                .insert(0, roman[3][(num / 1000) % 10])
                 .toString()
     }
 }
