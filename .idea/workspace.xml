@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f134735-265e-4fc0-b6e5-46136730c1b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/012. Integer to Roman/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/012. Integer to Roman/Solution.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/012. Integer to Roman/Solution.kt" afterPath="$PROJECT_DIR$/leetcode/012. Integer to Roman/Solution.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/leetcode/.gradle/" />
@@ -34,8 +32,8 @@
       <file leaf-file-name="Solution.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetcode/012. Integer to Roman/Solution.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="125">
+              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -1189,7 +1187,7 @@
       <workItem from="1518790610083" duration="2131000" />
       <workItem from="1518831374361" duration="4020000" />
       <workItem from="1518922397189" duration="72000" />
-      <workItem from="1519004000780" duration="1230000" />
+      <workItem from="1519004000780" duration="1311000" />
     </task>
     <task id="LOCAL-00010" summary="update comparable type">
       <created>1490851967597</created>
@@ -1538,7 +1536,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="207947000" />
+    <option name="totallyTimeSpent" value="208028000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2114,8 +2112,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/012. Integer to Roman/Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="125">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding />
         </state>
       </provider>

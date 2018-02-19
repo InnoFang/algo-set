@@ -2,6 +2,11 @@
  * Created by Inno Fang on 2018/2/19.
  */]
 
+/**
+ * 3999 / 3999 test cases passed.
+ * Status: Accepted
+ * Runtime: 252 ms
+ */
 class Solution {
     fun intToRoman(num: Int): String {
         val roman = arrayOf(
