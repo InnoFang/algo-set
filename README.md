@@ -30,6 +30,7 @@ English | [中文](https://github.com/InnoFang/Algorithms/blob/master/README_zh.
 * [`Binary Search Tree`](https://leetcode.com/tag/binary-search-tree/)
 * [`Tree`](https://leetcode.com/tag/tree/)
 * [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/)
+* [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)
 * [`Divide and Conquer`](https://leetcode.com/tag/divide-and-conquer/)
 
 </details>
