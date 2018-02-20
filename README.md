@@ -31,6 +31,7 @@ English | [中文](https://github.com/InnoFang/Algorithms/blob/master/README_zh.
 * [`Tree`](https://leetcode.com/tag/tree/)
 * [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/)
 * [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)
+* [`Union Find`](https://leetcode.com/tag/union-find/)
 * [`Divide and Conquer`](https://leetcode.com/tag/divide-and-conquer/)
 
 </details>
