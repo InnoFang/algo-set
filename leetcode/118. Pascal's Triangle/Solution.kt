@@ -11,11 +11,11 @@ class Solution {
     fun generate(numRows: Int): List<List<Int>> {
         val triangle = mutableListOf<List<Int>>()
         (1..numRows).forEach { r ->
-            val rows = MutableList(r) { c ->
+            val row = MutableList(r) { c ->
                 if (c == 0 || c == r - 1) 1
                 else triangle[r - 2][c - 1] + triangle[r - 2][c]
             }
-            triangle.add(rows)
+            triangle.add(row)
         }
         return triangle
     }
