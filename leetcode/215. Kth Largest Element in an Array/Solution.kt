@@ -31,6 +31,22 @@ class Solution {
     }
 }
 
+/**
+ * 31 / 31 test cases passed.
+ * Status: Accepted
+ * Runtime: 332 ms
+ */
+class Solution2 {
+    fun findKthLargest(nums: IntArray, k: Int): Int {
+        val que = java.util.PriorityQueue<Int>()
+        nums.forEach {
+            que.offer(it)
+            if (que.size > k) que.poll()
+        }
+        return que.peek()
+    }
+}
+
 fun main(args: Array<String>) {
-    Solution().findKthLargest(intArrayOf(3,5,9,1,4,7,2,6,8,0), 3).let(::println)
+    Solution2().findKthLargest(intArrayOf(3, 5, 9, 1, 4, 7, 2, 6, 8, 0), 3).let(::println)
 }
