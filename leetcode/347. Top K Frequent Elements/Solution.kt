@@ -10,8 +10,7 @@
 class Solution {
 
     class Obj(val v: Int, val freq: Int) : Comparable<Obj> {
-        override fun compareTo(other: Obj)
-                = if (this.freq != other.freq) other.freq - this.freq else other.v - this.v
+        override fun compareTo(other: Obj) = if (this.freq != other.freq) other.freq - this.freq else other.v - this.v
     }
 
     fun topKFrequent(nums: IntArray, k: Int): List<Int> {
