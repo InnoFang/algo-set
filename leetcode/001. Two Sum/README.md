@@ -1,5 +1,16 @@
 # [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 
+![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
+
+<details>
+<summary style="color:#4FC3F7">Topics</summary>
+
+* [`Array`](https://leetcode.com/tag/array/)
+* [`Hash Table`](https://leetcode.com/tag/hash-table/)
+
+</details>
+<br />
+
 
 Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.
 
