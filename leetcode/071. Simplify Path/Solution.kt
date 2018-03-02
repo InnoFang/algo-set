@@ -16,7 +16,7 @@ class Solution {
             it.slice(1..it.lastIndex).forEach {
                 when (it) {
                     ".", "" -> return@forEach
-                    ".." -> if (stack.isNotEmpty()) stack.removeAt(stack.lastIndex)
+                    "" -> if (stack.isNotEmpty()) stack.removeAt(stack.lastIndex)
                     else -> if (it.isNotEmpty()) stack.add("/$it")
                 }
             }
