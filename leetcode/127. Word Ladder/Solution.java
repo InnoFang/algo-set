@@ -1,7 +1,4 @@
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
+import java.util.*;
 
 /**
  * Created by Inno Fang on 2018/3/6.
@@ -13,11 +10,12 @@ class Solution {
         Queue<String> que = new LinkedList<>();
         que.add(beginWord);
         int level = 1;
-        while(!que.isEmpty()) {
+        while (!que.isEmpty()) {
             for (int i = 0, size = que.size(); i < size; i++) {
                 String word = que.poll();
                 for (int j = 0, length = word.length(); j < length; j++) {
                     char[] chars = word.toCharArray();
+                    char tmp = chars[j];
                     for (char c = 'a'; c <= 'z'; c++) {
                         chars[j] = c;
                         String newWord = new String(chars);
@@ -26,11 +24,27 @@ class Solution {
                             dict.remove(newWord);
                             que.add(newWord);
                         }
+                        chars[j] = tmp;
                     }
+
                 }
             }
             level++;
         }
-        return level;
+        return 0;
+    }
+
+    public static void main(String[] args) {
+        int res;
+        res = new Solution().ladderLength(
+                "hit",
+                "cog",
+                Arrays.asList("hot", "dot", "dog", "lot", "log", "cog"));
+        System.out.println(res);
+        res = new Solution().ladderLength(
+                "hit",
+                "cog",
+                Arrays.asList("hot", "dot", "dog", "lot", "log"));
+        System.out.println(res);
     }
 }
