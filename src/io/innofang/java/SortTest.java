@@ -1,7 +1,6 @@
 package io.innofang.java;
 
 import io.innofang.java.sort.impl.*;
-import io.innofang.sort.impl.*;
 import io.innofang.java.utils.comparator.Comparator;
 import io.innofang.java.utils.comparator.impl.IntegerComparison;
 
