@@ -5,24 +5,31 @@ package io.innofang.kotlin.unionfind
  */
 
 class UnionFind(val count: Int) {
-    var id: IntArray = IntArray(count) { it }
+    private val parent: IntArray = IntArray(count) { it }
+    private val size: IntArray = IntArray(count) { 1 }
 
     public fun find(idx: Int): Int {
         assert(idx in 0..(count - 1))
-        return this.id[idx]
+        var idx = idx
+        while (idx != parent[idx])
+            idx = parent[idx]
+        return idx
     }
 
     public fun isConnected(idx1: Int, idx2: Int) = find(idx1) == find(idx2)
 
     public fun union(idx1: Int, idx2: Int) {
-        val id1 = find(idx1)
-        val id2 = find(idx2)
+        val root1 = find(idx1)
+        val root2 = find(idx2)
 
-        if (id1 == id2) return
+        if (root1 == root2) return
 
-        for (i in 0 until count) {
-            if (id[i] == id1)
-                id[i] = id2
+        if (size[root1] < size[root2]) {
+            parent[root1] = root2
+            size[root2] += size[root1]
+        } else{
+            parent[root2] = root1
+            size[root1] += size[root2]
         }
     }
 }

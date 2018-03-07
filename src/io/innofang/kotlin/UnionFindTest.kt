@@ -7,8 +7,7 @@ import java.util.*
  * Created by Inno Fang on 2018/3/7.
  */
 
-fun main(args: Array<String>) {
-    val n = 100000
+fun testUnionFind(n: Int) {
     val unionFind = UnionFind(n)
     val rand = Random()
     val start = System.currentTimeMillis()
@@ -24,5 +23,9 @@ fun main(args: Array<String>) {
     }
     val end = System.currentTimeMillis()
     println("Union Find ${2*n} ops, use ${end - start}ms.")
+}
 
+fun main(args: Array<String>) {
+    val n = 100000
+    testUnionFind(n)
 }
