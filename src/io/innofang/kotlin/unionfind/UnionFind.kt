@@ -11,8 +11,10 @@ class UnionFind(val count: Int) {
     public fun find(idx: Int): Int {
         assert(idx in 0..(count - 1))
         var idx = idx
-        while (idx != parent[idx])
+        while (idx != parent[idx]) {
+            parent[idx] = parent[parent[idx]]
             idx = parent[idx]
+        }
         return idx
     }
 
