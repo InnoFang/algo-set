@@ -40,3 +40,28 @@ class Solution {
         return res
     }
 }
+
+
+
+/**
+ * 68 / 68 test cases passed.
+ * Status: Accepted
+ * Runtime: 276 ms
+ */
+class Solution2 {
+    fun inorderTraversal(root: TreeNode?): List<Int> {
+        val res = ArrayList<Int>()
+        val stack = java.util.Stack<TreeNode>()
+        var node = root
+        while (null != node || stack.isNotEmpty()) {
+            while(null != node) {
+                stack.add(node)
+                node = node.left
+            }
+            node = stack.pop()
+            res.add(node.`val`)
+            node = node.right
+        }
+        return res
+    }
+}
