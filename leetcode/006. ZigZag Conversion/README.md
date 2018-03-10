@@ -98,11 +98,49 @@ _综上_
 
  + 每一个间距与行数的关系为 n = 2 * row - 2
  + 每个大的间距都相等，如果有中间的数，该数的位置为当前行 i + 2 * row - 2 - 2 * i
+ + 获取字符时要注意不要越界
  + 第一列的数不适用于这个公式，所以要特殊处理
  + 第一行和最后一行要特殊处理
  + 需要注意，若**输入字符串为空**或者**输入行数为1**或者**字符串长度小于行数**，直接返回输入字符串即可
 
 -----
+
+
+Java 代码如下：
+
+```java
+/**
+ * 1158 / 1158 test cases passed.
+ * Status: Accepted
+ * Runtime: 63 ms
+ */
+class Solution {
+    public String convert(String s, int numRows) {
+        int len = s.length();
+        if (len == 0 || len < numRows || numRows == 1) return s;
+        StringBuilder res = new StringBuilder();
+        for (int i = 0; i < numRows; i++) {
+            int idx = i;
+            res.append(s.charAt(idx));
+            while (idx < len) {
+                if (i != numRows - 1) {
+                    idx += 2 * numRows - 2 - 2 * i;
+                    if (idx < len) res.append(s.charAt(idx));
+                }
+
+                if (i != 0) {
+                    idx += 2 * i;
+                    if (idx < len) res.append(s.charAt(idx));
+                }
+            }
+        }
+        return res.toString();
+    }
+}
+```
+
+<br /><br />
+
 
 kotlin 代码如下：
 
