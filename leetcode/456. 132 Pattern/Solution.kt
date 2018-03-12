@@ -21,6 +21,25 @@ class Solution {
     }
 }
 
+/**
+ * 95 / 95 test cases passed.
+ * Status: Accepted
+ * Runtime: 308 ms
+ */
+class Solution2 {
+    fun find132pattern(nums: IntArray): Boolean {
+        var s3 = Int.MIN_VALUE
+        var idx = nums.size
+        for (i in (nums.lastIndex downTo 0)) {
+            if (nums[i] < s3) return true
+            while (idx < nums.size && nums[i] > nums[idx]) s3 = nums[idx++]
+            nums[--idx] = nums[i]
+        }
+        return false
+    }
+}
+
 fun main(args: Array<String>) {
     Solution().find132pattern(intArrayOf(3, 5, 0, 3, 4)).let(::println)
+    Solution().find132pattern(intArrayOf(3, 1, 4, 2)).let(::println)
 }
