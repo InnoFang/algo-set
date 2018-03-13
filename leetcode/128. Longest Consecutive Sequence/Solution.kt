@@ -9,7 +9,6 @@
  */
 class Solution {
     fun longestConsecutive(nums: IntArray): Int {
-
         val uf = UnionFind(nums)
         val store = HashMap<Int, Int>()
         nums.forEach { i ->
@@ -46,8 +45,40 @@ class Solution {
     }
 }
 
+/**
+ * 68 / 68 test cases passed.
+ * Status: Accepted
+ * Runtime: 264 ms
+ */
+class Solution2 {
+
+    val map = HashMap<Int, Int>()
+
+    private fun find(idx: Int): Int {
+       var i = idx
+        while (map[i] != i) {
+            map[i] = map[map[i]!!]!!
+            i = map[i]!!
+        }
+        return i
+    }
+
+    fun longestConsecutive(nums: IntArray): Int {
+        var res = 0
+        nums.forEach { i ->
+            if (!map.containsKey(i)) {
+                map[i] = i
+                map[i - 1]?.let { map[i] = find(i - 1) }
+                map[i + 1]?.let { map[i + 1] = find(i) }
+            }
+        }
+        nums.forEach { res = maxOf(res, it - find(it) + 1) }
+        return res
+    }
+}
+
 fun main(args: Array<String>) {
-    Solution().longestConsecutive(intArrayOf(100, 4, 200, 1, 3, 2)).let(::println)
-    Solution().longestConsecutive(intArrayOf(0, -1)).let(::println)
-    Solution().longestConsecutive(intArrayOf(1, 3, 5, 2, 4)).let(::println)
+    Solution2().longestConsecutive(intArrayOf(100, 4, 200, 1, 3, 2)).let(::println)
+    Solution2().longestConsecutive(intArrayOf(0, -1)).let(::println)
+    Solution2().longestConsecutive(intArrayOf(1, 3, 5, 2, 4)).let(::println)
 }
