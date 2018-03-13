@@ -77,8 +77,28 @@ class Solution2 {
     }
 }
 
+/**
+ * 68 / 68 test cases passed.
+ * Status: Accepted
+ * Runtime: 260 ms
+ */
+class Solution3 {
+    fun longestConsecutive(nums: IntArray): Int {
+        val set = nums.toHashSet()
+        var longestStreak = 0
+        set.forEach {
+            if (!set.contains(it-1)){
+                var currentStreak = 1
+                while (set.contains(it + currentStreak)) currentStreak++
+                longestStreak = maxOf(longestStreak, currentStreak)
+            }
+        }
+        return longestStreak
+    }
+}
+
 fun main(args: Array<String>) {
-    Solution2().longestConsecutive(intArrayOf(100, 4, 200, 1, 3, 2)).let(::println)
-    Solution2().longestConsecutive(intArrayOf(0, -1)).let(::println)
-    Solution2().longestConsecutive(intArrayOf(1, 3, 5, 2, 4)).let(::println)
+    Solution3().longestConsecutive(intArrayOf(100, 4, 200, 1, 3, 2)).let(::println)
+    Solution3().longestConsecutive(intArrayOf(0, -1)).let(::println)
+    Solution3().longestConsecutive(intArrayOf(1, 3, 5, 2, 4)).let(::println)
 }
