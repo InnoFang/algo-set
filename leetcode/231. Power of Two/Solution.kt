@@ -22,7 +22,6 @@ class Solution {
  */
 class Solution2 {
     fun isPowerOfTwo(n: Int): Boolean {
-        //Modulo n with the largest number in the Int.MAX_VALUE( 2 ^ 32 / 2 - 1 ) range
         return n > 0 && (1073741824 % n == 0)
     }
 }
@@ -39,12 +38,11 @@ class Solution3 {
 }
 
 fun main(args: Array<String>) {
-    println(Math.log10(Int.MAX_VALUE.toDouble())/Math.log10(2.0))
-    Solution2().isPowerOfTwo(2).let(::println)  // T
-    Solution2().isPowerOfTwo(4).let(::println)  // T
-    Solution2().isPowerOfTwo(6).let(::println)  // F
-    Solution2().isPowerOfTwo(8).let(::println)  // T
-    Solution2().isPowerOfTwo(10).let(::println) // F
-    Solution2().isPowerOfTwo(12).let(::println) // F
-    Solution2().isPowerOfTwo(16).let(::println) // T
+    Solution3().isPowerOfTwo(2).let(::println)  // T
+    Solution3().isPowerOfTwo(4).let(::println)  // T
+    Solution3().isPowerOfTwo(6).let(::println)  // F
+    Solution3().isPowerOfTwo(8).let(::println)  // T
+    Solution3().isPowerOfTwo(10).let(::println) // F
+    Solution3().isPowerOfTwo(12).let(::println) // F
+    Solution3().isPowerOfTwo(16).let(::println) // T
 }
