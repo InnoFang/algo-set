@@ -43,7 +43,7 @@ public class BinarySearch extends ISearch {
             int mid = l + (r - l + 1) / 2;
             if (comparator.moreThanOrEqualTo(arr[mid], target))
                 r = mid - 1;
-            else // arr[mid] < target
+            else // map[mid] < target
                 l = mid;
         }
         // 如果该索引+1就是target本身, 该索引+1即为返回值
@@ -69,7 +69,7 @@ public class BinarySearch extends ISearch {
             int mid = l + (r - l) / 2;
             if (comparator.lessThanOrEqualTo(arr[mid], target))
                 l = mid + 1;
-            else // arr[mid] > target
+            else // map[mid] > target
                 r = mid;
         }
         // 如果该索引-1就是target本身, 该索引-1即为返回值

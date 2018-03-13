@@ -26,16 +26,16 @@ public class MergeSort extends ISort {
         int mid = l + (r - l) / 2; // prevent overflows.
         mergeSort(arr, l, mid);
         mergeSort(arr, mid + 1, r);
-        // optimization, merge arr when arr is out of order
+        // optimization, merge map when map is out of order
         if (comparator.moreThan(arr[mid], arr[mid + 1]))
             merge(arr, l, mid, r);
     }
 
-    /* Merge arr[l...mid] and arr[mid+1...r] */
+    /* Merge map[l...mid] and map[mid+1...r] */
     @SuppressWarnings("unchecked")
     private <T> void merge(T[] arr, int l, int mid, int r) {
         T[] aux = (T[]) new Object[r - l + 1]; // Auxiliary Space
-        /* Copy the array arr from l to (r-l+1) to array aux */
+        /* Copy the array map from l to (r-l+1) to array aux */
         System.arraycopy(arr, l, aux, 0, r - l + 1);
         int i = l, j = mid + 1;
         for (int k = l; k <= r; k++) {
