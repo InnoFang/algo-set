@@ -1,6 +1,6 @@
 package io.innofang.java;
 
-import io.innofang.java.binarytree.BST;
+import io.innofang.java.tree.BST;
 import io.innofang.java.utils.FileOpsUtil;
 
 import java.util.ArrayList;

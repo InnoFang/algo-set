@@ -1,4 +1,4 @@
-package io.innofang.java.binarytree;
+package io.innofang.java.tree;
 
 import java.util.LinkedList;
 import java.util.Queue;
