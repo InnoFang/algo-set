@@ -17,8 +17,7 @@ public class KMP {
     }
 
     public void resetPattern(String pattern) {
-        this.pattern = pattern.toCharArray();
-        next = generateNext(pattern.length());
+        resetPattern(pattern.toCharArray());
     }
 
     public void resetPattern(char[] pattern) {
