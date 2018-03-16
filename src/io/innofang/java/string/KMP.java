@@ -30,9 +30,16 @@ public class KMP {
     }
 
     public boolean matches(char[] text) {
+        return find(text) >= 0;
+    }
+
+    public int find(String text) {
+        return find(text.toCharArray());
+    }
+
+    public int find(char[] text) {
         int t = 0;
         int p = 0;
-        int n = 0;
         while (t < text.length && p < pattern.length) {
             if (text[t] == pattern[p]) {
                 t++;
@@ -40,7 +47,7 @@ public class KMP {
             } else if (p != 0) p = next[p - 1];
             else t++;
         }
-        return p == pattern.length;
+        return p == pattern.length ? t - p : -1;
     }
 
     private int[] generateNext(int length) {

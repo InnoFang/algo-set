@@ -8,7 +8,11 @@ import io.innofang.java.string.KMP;
 public class KMPTest {
     public static void main(String[] args) {
         KMP kmp = new KMP("abcdabcy");
+
         boolean result = kmp.matches("abcxabcdabcdabcy");
         System.out.println(result);
+
+        int index = kmp.find("abcxabcdabcdabcy");
+        System.out.println(index);
     }
 }
