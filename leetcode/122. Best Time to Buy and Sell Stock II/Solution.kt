@@ -20,3 +20,20 @@ class Solution {
         return result
     }
 }
+
+/**
+ * 198 / 198 test cases passed.
+ * Status: Accepted
+ * Runtime: 268 ms
+ */
+class Solution2 {
+    fun maxProfit(prices: IntArray): Int {
+        var result = 0
+        for (i in (1..prices.lastIndex)) {
+            if (prices[i] > prices[i - 1]) {
+                result += prices[i] - prices[i - 1]
+            }
+        }
+        return result
+    }
+}
