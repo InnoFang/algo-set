@@ -26,3 +26,13 @@ Your task is to calculate _a^b_ mod 1337 where _a_ is a positive integer and _b_
 >b = [1,0]
 >
 >Result: 1024
+
+## Solution
+
+**题目大意**
+
+给定一个正整数 a，一个整形数组 b 表示一个很大的正数，计算 _a^b_ mod 1337 的结果
+
+**解题思路**
+
+使用快速幂可以解决
