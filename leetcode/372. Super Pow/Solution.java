@@ -1,7 +1,17 @@
 /**
  * Created by Inno Fang on 2018/3/19.
  */
+
 class Solution {
+
+    /**
+     * 54 / 54 test cases passed.
+     * Status: Accepted
+     * Runtime: 6 ms
+     * @param a
+     * @param b
+     * @return
+     */
     public int superPow(int a, int[] b) {
         int mod = 1337;
         int result = 1;
@@ -12,6 +22,12 @@ class Solution {
         return result;
     }
 
+    /**
+     * 快速幂
+     * @param a
+     * @param b
+     * @return
+     */
     public int pow(int a, int b) {
         int mod = 1337;
         a %= mod;
