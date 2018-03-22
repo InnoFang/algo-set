@@ -1,6 +1,10 @@
 
 # My Java Solution Template
 
+> Template for **algorithm competition**
+
+**PS** *LOCAL* is your `in.txt` location
+
 ```java
 import java.io.*;
 import java.util.*;
@@ -10,7 +14,6 @@ public class Main {
     private static final String LOCAL = "src/main/java/template";
 
     public static void main(String[] args) throws IOException {
-        System.out.println(Main.class.getPackage().getName());
         File file = new File(LOCAL, "in.txt");
         if (file.exists()) System.setIn(new FileInputStream(file));
         InputReader in = new InputReader(System.in);
