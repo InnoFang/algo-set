@@ -1,4 +1,3 @@
-
 # My Java Solution Template
 
 > Template for **algorithm competition**
@@ -30,18 +29,35 @@ class InputReader extends BufferedReader {
 
     public InputReader(InputStream in) {
         super(new InputStreamReader(in));
+        eat("");
     }
 
-    String next() {
-        while (st == null || !st.hasMoreElements()) {
-            try {
-                st = new StringTokenizer(readLine());
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
+    void eat(String s) {
+        st = new StringTokenizer(s);
+    }
+
+    String nextLine() {
+        try {
+            return readLine();
+        } catch (IOException e) {
+            throw new IOError(e);
         }
+    }
+
+    boolean hasNext() {
+        while (!st.hasMoreTokens()) {
+            String s = nextLine();
+            if (null == s) return false;
+            eat(s);
+        }
+        return true;
+    }
+
+    String next(){
+        hasNext();
         return st.nextToken();
     }
+
 
     int nextInt() {
         return Integer.parseInt(next());
@@ -62,15 +78,6 @@ class InputReader extends BufferedReader {
         return array;
     }
 
-    String nextLine() {
-        String str = "";
-        try {
-            str = readLine();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        return str;
-    }
 }
 
 class OutputWriter extends PrintWriter {
@@ -84,21 +91,8 @@ class OutputWriter extends PrintWriter {
 class Solution {
 
     public void solve(InputReader in, OutputWriter out) {
-        out.println(in.nextInt());
+        // solve your problem there
     }
 
-    private int min(int a, int b) {
-        return a <= b ? a : b;
-    }
-
-    private int max(int a, int b) {
-        return a >= b ? a : b;
-    }
-
-    private void swap(int arr[], int i, int j) {
-        int tmp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = tmp;
-    }
 }
 ```
