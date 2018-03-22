@@ -46,6 +46,32 @@ class Solution2 {
     }
 }
 
+/**
+ * 24 / 24 test cases passed.
+ * Status: Accepted
+ * Runtime: 404 ms
+ */
+class Solution3 {
+    fun lengthOfLIS(nums: IntArray): Int {
+        val store = IntArray(nums.size) { 0 }
+        var len = 0
+        nums.forEach {
+            if (len == 0 || it > store[len - 1]) store[len++] = it
+            else {
+                var l = 0
+                var r = len
+                while (l < r) {
+                    val mid = l + (r - l) / 2
+                    if (store[mid] < it) l = mid + 1
+                    else r = mid
+                }
+                store[l] = it
+            }
+        }
+        return len
+    }
+}
+
 fun main(args: Array<String>) {
     Solution2().lengthOfLIS(intArrayOf(10, 9, 2, 5, 3, 7, 101, 18)).let(::println)
     Solution2().lengthOfLIS(intArrayOf(4, 10, 4, 3, 8, 9)).let(::println)
@@ -53,4 +79,3 @@ fun main(args: Array<String>) {
     Solution2().lengthOfLIS(intArrayOf(10, 15, 20, 11, 9, 101)).let(::println)
     Solution2().lengthOfLIS(intArrayOf()).let(::println)
 }
-// 376. Wiggle Subsequence
