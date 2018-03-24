@@ -31,3 +31,20 @@ class Solution {
         return node.`val` == t.`val` && isSame(node.left, t.left) && isSame(node.right, t.right)
     }
 }
+
+/**
+ * 176 / 176 test cases passed.
+ * Status: Accepted
+ * Runtime: 344 ms
+ */
+class Solution2 {
+    fun isSubtree(s: TreeNode?, t: TreeNode?): Boolean {
+        if (null == s || null == t) return s == t
+        return isSame(s, t) || isSubtree(s.left, t) || isSubtree(s.right, t)
+    }
+
+    private fun isSame(node: TreeNode?, t: TreeNode?): Boolean {
+        if (node == null || t == null) return node == t
+        return node.`val` == t.`val` && isSame(node.left, t.left) && isSame(node.right, t.right)
+    }
+}
