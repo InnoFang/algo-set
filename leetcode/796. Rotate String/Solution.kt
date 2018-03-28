@@ -37,5 +37,9 @@ class Solution2 {
 
 
 fun main(args: Array<String>) {
+    Solution().rotateString("abcde", "cdeab").let(::println)
+    Solution().rotateString("abcde", "abced").let(::println)
+    Solution().rotateString("vcuszhlbtpmksjleuchmjffufrwpiddgyynfujnqblngzoogzg",
+            "fufrwpiddgyynfujnqblngzoogzgvcuszhlbtpmksjleuchmjf").let(::println)
     Solution().rotateString("aa", "a").let(::println)
 }
