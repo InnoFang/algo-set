@@ -34,6 +34,7 @@ English | [中文](https://github.com/InnoFang/Algorithms/blob/master/README_zh.
 * [`Union Find`](https://leetcode.com/tag/union-find/)
 * [`Divide and Conquer`](https://leetcode.com/tag/divide-and-conquer/)
 * [`Heap`](https://leetcode.com/tag/heap/)
+* [`Graph`](https://leetcode.com/tag/graph/)
 
 </details>
 <br />
