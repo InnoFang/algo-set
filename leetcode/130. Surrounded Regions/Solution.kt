@@ -27,12 +27,6 @@ class Solution {
                 else board[i][j] = 'X'
             }
         }
-        for (i in 0 until row) {
-            for (j in 0 until col) {
-                print(board[i][j])
-            }
-            println()
-        }
     }
 
     private val direct = arrayOf(intArrayOf(1, 0), intArrayOf(0, 1), intArrayOf(-1, 0), intArrayOf(0, -1))
