@@ -1,5 +1,3 @@
-package algorithm._257_Binary_Tree_Paths
-
 /**
  * Created by Inno Fang on 2018/1/28.
  */
