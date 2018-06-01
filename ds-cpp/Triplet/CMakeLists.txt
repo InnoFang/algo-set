@@ -3,4 +3,4 @@ project(Triplet)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Triplet main.cpp)
+add_executable(Triplet main.cpp Triplet.cpp Triplet.h)
