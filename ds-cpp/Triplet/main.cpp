@@ -1,8 +1,8 @@
 #include <iostream>
-#include "Triplet.h"
+#include "Triplet.cpp"
 
 int main() {
-    Triplet<int> tri(2, 4, 6);
+    Triplet::Triplet<int> tri(2, 4, 6);
     std::cout << "Get the first one from Triplet " << tri.get(0) << std::endl;
     // Modify the first one in the Triplet
     tri.put(0, 1);

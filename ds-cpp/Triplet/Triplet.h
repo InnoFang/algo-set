@@ -5,22 +5,32 @@
 #ifndef TRIPLET_TRIPLET_H
 #define TRIPLET_TRIPLET_H
 
-template <typename T>
-class Triplet {
-public:
+namespace Triplet {
 
-    Triplet(T e1, T e2, T e3);
-    ~Triplet();
-    T get(int idx);
-    void put(int idx, T e);
-    bool isAscending();
-    bool isDescending();
-    T max();
-    T min();
+    template<typename T>
+    class Triplet {
+    public:
 
-private:
-    T elemSet[3];
-};
+        Triplet(T e1, T e2, T e3);
 
+        ~Triplet();
+
+        T get(int idx);
+
+        void put(int idx, T e);
+
+        bool isAscending();
+
+        bool isDescending();
+
+        T max();
+
+        T min();
+
+    private:
+        T *elemSet;
+    };
+
+}
 
 #endif //TRIPLET_TRIPLET_H
