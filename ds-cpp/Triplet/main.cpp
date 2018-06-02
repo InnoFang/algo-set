@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Triplet.cpp"
+#include "Triplet.h"
 
 int main() {
     Triplet::Triplet<int> tri(2, 4, 6);
