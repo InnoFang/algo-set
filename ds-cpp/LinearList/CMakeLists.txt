@@ -3,4 +3,4 @@ project(LinearList)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(LinearList main.cpp List.cpp List.h)
+add_executable(LinearList main.cpp List.h)

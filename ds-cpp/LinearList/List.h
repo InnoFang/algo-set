@@ -156,11 +156,12 @@ namespace List {
     template<typename T>
     T List<T>::remove(int idx) {
         assert(idx >= 0 && idx < length);
+        T rm = array[idx];
         for (int i = idx; i < length - 1; ++i) {
             array[i] = array[i + 1];
         }
         length--;
-        return nullptr;
+        return rm;
     }
 
     template<typename T>
