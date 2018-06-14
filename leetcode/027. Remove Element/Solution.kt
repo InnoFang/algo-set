@@ -9,8 +9,8 @@ class Solution {
                 nums[size++] = nums[it]
             }
         }
-        nums.indices.takeWhile { it < size }.forEach { print("${nums[it]} ") }
-        println()
+        // nums.indices.takeWhile { it < size }.forEach { print("${nums[it]} ") }
+        // println()
         return size
     }
 }
