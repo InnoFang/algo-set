@@ -1,4 +1,4 @@
-# Highest Scoring Word
+# [Highest Scoring Word](https://www.codewars.com/kata/highest-scoring-word/train/python)
 
 ## Details
 
@@ -13,3 +13,4 @@ If two words score the same, return the word that appears earliest in the origin
 All letters will be lowercase and all inputs will be valid.
 
  `FUNDAMENTALS` `STRINGS` `ARRAYS` `NUMBERS`
+ 
