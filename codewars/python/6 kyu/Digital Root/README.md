@@ -1,4 +1,4 @@
-# Sum of Digits / Digital Root
+# [Sum of Digits / Digital Root](https://www.codewars.com/kata/sum-of-digits-slash-digital-root/train/python)
 
 ## Details
 
