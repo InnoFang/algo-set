@@ -1,4 +1,4 @@
-[66. Plus One](https://leetcode.com/problems/plus-one/description/)
+# [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 
 ![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
 
