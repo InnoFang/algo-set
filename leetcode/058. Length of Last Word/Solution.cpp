@@ -1,7 +1,6 @@
 // 59 / 59 test cases passed.
 // Status: Accepted
 // Runtime: 4 ms
-
 class Solution1 {
 public:
     int lengthOfLastWord(string s) {
