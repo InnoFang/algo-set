@@ -12,7 +12,7 @@ def isPP(n):
 # the follow code is more concise 
 
 # import math
-
+# 
 # def isPP(n):
 #     k = int(math.sqrt(n))
 #     for i in range(2, k + 1):
