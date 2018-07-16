@@ -14,7 +14,7 @@ Using C++ to implement various data structures in the book named Data Structure 
 
 Used to increase the skill and proficiency of programming languages. Mainly  programming language is Python rigth now.
 
-# [leetcode](https://github.com/InnoFang/oh-my-algorithms/tree/master/leetcode)
+## [leetcode](https://github.com/InnoFang/oh-my-algorithms/tree/master/leetcode)
 
 Use a variety of programming languages to solve problems, learn how to use skills and problem solving ideas. Mainly is Kotlin.
 
