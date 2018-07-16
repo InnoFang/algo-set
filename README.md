@@ -1,42 +1,25 @@
-# Algorithms
-
-
-## [Leetcode Solution](https://github.com/InnoFang/Algorithms/tree/master/leetcode)
-
-
-![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
-![](https://img.shields.io/badge/Difficulty-Medium-F8AF40.svg)
-![](https://img.shields.io/badge/Difficulty-Hard-red.svg)
-
-<details>
-<summary style="color:#4FC3F7">Topics</summary>
-
-* [`Array`](https://leetcode.com/tag/array/)
-* [`Backtracking`](https://leetcode.com/tag/backtracking/)
-* [`Two Pointers`](https://leetcode.com/tag/two-pointers/)
-* [`String`](https://leetcode.com/tag/string/)
-* [`Linked List`](https://leetcode.com/tag/linked-list/)
-* [`Binary Search`](https://leetcode.com/tag/binary-search/)
-* [`Hash Table`](https://leetcode.com/tag/hash-table/)
-* [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/)
-* [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/)
-* [`Math`](https://leetcode.com/tag/math/)
-* [`Greedy`](https://leetcode.com/tag/greedy/)
-* [`Trie`](https://leetcode.com/tag/trie/)
-* [`Stack`](https://leetcode.com/tag/stack/)
-* [`Sort`](https://leetcode.com/tag/sort)
-* [`Binary Search Tree`](https://leetcode.com/tag/binary-search-tree/)
-* [`Tree`](https://leetcode.com/tag/tree/)
-* [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/)
-* [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)
-* [`Union Find`](https://leetcode.com/tag/union-find/)
-* [`Divide and Conquer`](https://leetcode.com/tag/divide-and-conquer/)
-* [`Heap`](https://leetcode.com/tag/heap/)
-* [`Graph`](https://leetcode.com/tag/graph/)
-
-</details>
-<br />
+# Oh, my algorithms
  
+ Collecting my various algorithm practices, covering a variety of programming languages that I have learned and are learning.
+
+## [algo-java-kt](https://github.com/InnoFang/oh-my-algorithms/tree/master/algo-java-kt)
+
+ Using Java and Kotlin to implement some algorithm. For me, more is to think about how to achieve an algorithm library, but it's just a beginner's try.
+
+## [ds-cpp](https://github.com/InnoFang/oh-my-algorithms/tree/master/ds-cpp)
+
+Using C++ to implement various data structures in the book named Data Structure written by Yan Weiming and produced by Tsinghua University press.
+
+## [codewars](https://github.com/InnoFang/oh-my-algorithms/tree/master/codewars/)
+
+Used to increase the skill and proficiency of programming languages. Mainly  programming language is Python rigth now.
+
+# [leetcode](https://github.com/InnoFang/oh-my-algorithms/tree/master/leetcode)
+
+Use a variety of programming languages to solve problems, learn how to use skills and problem solving ideas. Mainly is Kotlin.
+
+
+
 
 # [License](https://github.com/InnoFang/Algorithms/blob/master/LICENSE)
 
