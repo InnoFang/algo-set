@@ -2,14 +2,6 @@
  
  Collecting my various algorithm practices, covering a variety of programming languages that I have learned and are learning.
 
-## [algo-java-kt](https://github.com/InnoFang/oh-my-algorithms/tree/master/algo-java-kt)
-
- Using Java and Kotlin to implement some algorithm. For me, more is to think about how to achieve an algorithm library, but it's just a beginner's try.
-
-## [ds-cpp](https://github.com/InnoFang/oh-my-algorithms/tree/master/ds-cpp)
-
-Using C++ to implement various data structures in the book named Data Structure written by Yan Weiming and produced by Tsinghua University press.
-
 ## [codewars](https://github.com/InnoFang/oh-my-algorithms/tree/master/codewars/)
 
 Used to increase the skill and proficiency of programming languages. Mainly  programming language is Python rigth now.
@@ -17,8 +9,6 @@ Used to increase the skill and proficiency of programming languages. Mainly  pro
 ## [leetcode](https://github.com/InnoFang/oh-my-algorithms/tree/master/leetcode)
 
 Use a variety of programming languages to solve problems, learn how to use skills and problem solving ideas. Mainly is Kotlin.
-
-
 
 
 # [License](https://github.com/InnoFang/Algorithms/blob/master/LICENSE)
