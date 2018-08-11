@@ -1,11 +1,10 @@
 # Leetcode
 
-
 ![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
 ![](https://img.shields.io/badge/Difficulty-Medium-F8AF40.svg)
 ![](https://img.shields.io/badge/Difficulty-Hard-red.svg)
 
-**Problems have been solved:** `123`
+**Problems have been solved:** `124`
 
 **Language:** `Kotlin` `Java` `Python` `C++` `JavaScript`
 
