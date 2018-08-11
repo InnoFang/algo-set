@@ -1,12 +1,12 @@
 # Oh, my algorithms
  
- Collecting my various algorithm practices, covering a variety of programming languages that I have learned and are learning.
+🎈 LeetCode's and CodeWars' solution collections , as well as other data structures and algorithms practices.
 
-## [codewars](https://github.com/InnoFang/oh-my-algorithms/tree/master/codewars/)
+## [CodeWar](https://github.com/InnoFang/oh-my-algorithms/tree/master/CodeWars)
 
 Used to increase the skill and proficiency of programming languages. Mainly  programming language is Python rigth now.
 
-## [leetcode](https://github.com/InnoFang/oh-my-algorithms/tree/master/leetcode)
+## [LeetCode](https://github.com/InnoFang/oh-my-algorithms/tree/master/LeetCode)
 
 Use a variety of programming languages to solve problems, learn how to use skills and problem solving ideas. Mainly is Kotlin.
 
