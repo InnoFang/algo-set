@@ -2,7 +2,7 @@
  
 🎈 LeetCode's and CodeWars' solution collections , as well as other data structures and algorithms practices.
 
-## [CodeWar](https://github.com/InnoFang/oh-my-algorithms/tree/master/CodeWars)
+## [CodeWars](https://github.com/InnoFang/oh-my-algorithms/tree/master/CodeWars)
 
 Used to increase the skill and proficiency of programming languages. Mainly  programming language is Python rigth now.
 
