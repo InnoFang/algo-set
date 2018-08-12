@@ -16,11 +16,10 @@ int getIndex(std::string text, std::string pattern) {
 }
 
 bool hasSubstring(std::string text, std::string pattern) {   
-	
     return getIndex(text, pattern) != -1;	
 }
 
-i	nt main() {
+int main() {
     std::string text = "abcabaaabaabcac";
     std::string pattern = "abaabcac";   
     std::cout << getIndex(text, pattern) << std::endl;
