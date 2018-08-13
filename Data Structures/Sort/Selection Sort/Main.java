@@ -25,5 +25,4 @@ public class Main {
             System.out.print(list[i] + " ");
         System.out.println();
     }
-
 }
