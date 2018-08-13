@@ -2,6 +2,39 @@
  
 🎈 LeetCode's and CodeWars' solution collections , as well as other data structures and algorithms practices.
 
+## [Data Structure](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures)
+
++ **[Search](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search)**
+
+  - [Binary Search](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Binary%20Search)
+
+    [C++](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Binary%20Search/main.cpp)
+
+  - [Pattern Match](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Pattern%20Match)
+
+    * [Brute Force](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force)
+
+      [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.cpp)
+      
+    * [KMP](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Pattern%20Match/KMP)
+      
+      [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/KMP/main.cpp)
+
++ **[Sort](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort)**
+
+  - [Bubble Sort](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort/Bubble%20Sort)
+
+    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.kt) 
+
+  - [Insertion Sort](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort/Insertion%20Sort)
+
+    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Insertion%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Insertion%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Insertion%20Sort/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Insertion%20Sort/main.py)
+
+  - [Selection Sort](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort/Selection%20Sort)
+
+    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Selection%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Selection%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Selection%20Sort/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Selection%20Sort/main.py)
+
+
 ## [CodeWars](https://github.com/InnoFang/oh-my-algorithms/tree/master/CodeWars)
 
 Used to increase the skill and proficiency of programming languages. Mainly  programming language is Python rigth now.
