@@ -10,7 +10,7 @@ void shellSort(int * list, int len) {
     for (; gap > 0; gap = (gap - 1) / 3) {   
         for (int i = gap; i < len; i += gap) {
             int tmp = list[i], j = i;
-            for (; j >= 0 && list[j - gap] > tmp; j -= gap) {
+            for (; j > 0 && list[j - gap] > tmp; j -= gap) {
                 list[j] = list[j - gap];
             }
             list[j] = tmp;
