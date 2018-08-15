@@ -8,7 +8,7 @@
 
   - [Binary Search](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Binary%20Search)
 
-    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Binary%20Search/main.cpp)
+    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Binary%20Search/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Binary%20Search/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Binary%20Search/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Binary%20Search/main.py) [`Kotlin`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Binary%20Search/main.kt)
 
   - [Pattern Match](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Pattern%20Match)
 
@@ -36,7 +36,7 @@
 
   - [Shell Sort](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort/Shell%20Sort)
  
-    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Shell%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Shell%20Sort/Main.java)
+    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Shell%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Shell%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Shell%20Sort/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Shell%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Shell%20Sort/main.kt)
 
 
 
