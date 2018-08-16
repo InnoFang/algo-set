@@ -22,6 +22,6 @@ bool hasSubstring(std::string text, std::string pattern) {
 int main() {
     std::string text = "abcabaaabaabcac";
     std::string pattern = "abaabcac";   
-    std::cout << getIndex(text, pattern) << std::endl;
+    std::cout << hasSubstring(text, pattern) << std::endl;
     return 0;
 }
