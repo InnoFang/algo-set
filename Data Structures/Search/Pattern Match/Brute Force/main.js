@@ -16,7 +16,7 @@ function has_substring(text, pattern) {
     return get_index != -1
 } 
 
-const text = "abcabaaabaabcac";
-const pattern = "abaabcac";   
-console.log("Does the `text` contain the `pattern`? " + has_substring(text , pattern));
-console.log("What's the index that the `pattern` in the `text`? " + get_index(text, pattern));
+const text = "abcabaaabaabcac"
+const pattern = "abaabcac"   
+console.log("Does the `text` contain the `pattern`? " + has_substring(text , pattern))
+console.log("What's the index that the `pattern` in the `text`? " + get_index(text, pattern))
