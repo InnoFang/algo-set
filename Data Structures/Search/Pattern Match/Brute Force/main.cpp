@@ -3,10 +3,10 @@
 
 int getIndex(std::string text, std::string pattern) {
     int t = 0, p = 0;
-    for (; t < text.length() && p < pattern.length();) {
+    while (t < text.length() && p < pattern.length()) {
         if (text[t] == pattern[p]) {
-            t++;
-            p++;
+            ++t;
+            ++p;
         } else {
             t = t - p + 1;
             p = 0;
@@ -22,6 +22,7 @@ bool hasSubstring(std::string text, std::string pattern) {
 int main() {
     std::string text = "abcabaaabaabcac";
     std::string pattern = "abaabcac";   
-    std::cout << hasSubstring(text, pattern) << std::endl;
+    std::cout << "Does the `text` contain the `pattern`? " << hasSubstring(text, pattern) << std::endl;
+    std::cout << "What's the index that the `pattern` in the `text`? " << getIndex(text, pattern) << std::endl;
     return 0;
 }
