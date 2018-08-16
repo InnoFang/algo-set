@@ -14,7 +14,7 @@
 
     * [Brute Force](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force)
 
-      [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.cpp)
+      [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.py) [`Kotlin`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.kt) 
       
     * [KMP](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Pattern%20Match/KMP)
       
