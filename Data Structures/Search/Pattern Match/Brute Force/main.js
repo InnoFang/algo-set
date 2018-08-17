@@ -13,7 +13,7 @@ function get_index(text, pattern) {
 }
 
 function has_substring(text, pattern) {
-    return get_index != -1
+    return get_index(text, pattern) != -1
 } 
 
 const text = "abcabaaabaabcac"
