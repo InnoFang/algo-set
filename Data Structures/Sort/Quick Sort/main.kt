@@ -23,7 +23,7 @@ fun quickSort(list: IntArray, left: Int, right: Int) {
 fun main(args: Array<String>) {
     val list = intArrayOf(5, 7, 3, 9, 2, 0, 1, 8, 6, 4)
 
-    quickSort(list, 0, list.lastIndex)
+    quickSort(list, 0, list.lastIndex) 
 
     list.forEach{ print("$it ") }
     println()
