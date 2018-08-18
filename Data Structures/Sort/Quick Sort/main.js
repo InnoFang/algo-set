@@ -3,7 +3,7 @@ function partition(arr, left, right) {
     while (l != r) {
         while (l < r && arr[r] >= tmp) --r
         while (l < r && arr[l] <= tmp) ++l
-        if (l < r) [arr[r], arr[l]] = [arr[l], arr[releaseEvents]]
+        if (l < r) [arr[r], arr[l]] = [arr[l], arr[r]]
     }
     [arr[l], arr[left]] = [arr[left], arr[l]]
     return l
