@@ -1,36 +1,30 @@
-def merge_sort(arr, aux, left, right):
-    if left >= right:
-        return
+def merge_sort(arr):
+    if len(arr) < 2:
+        return arr
 
-    mid = left + (right - left) // 2
-    merge_sort(arr, aux, left, mid)
-    merge_sort(arr, aux, mid + 1, right)
+    mid = len(arr) // 2
+    left, right = arr[:mid], arr[mid:]
+    
+    return merge(merge_sort(left), merge_sort(right))
 
-    if arr[mid] > arr[mid + 1]:
-        merge(arr, aux, left, mid, right)
-
-def merge(arr, aux, left, mid, right):
-    aux[left : right + 1] = arr[left : right + 1]
-
-    l, r = left, mid + 1
-    for i in range(left, right + 1):
-        if l > mid:
-            arr[i] = aux[r]
-            r += 1
-        elif r > right:
-            arr[i] = aux[l]
-            l += 1
-        elif aux[l] < aux[r]:
-            arr[i] = aux[l]
-            l += 1
+def merge(left, right):
+    result = []
+    
+    while len(left) and len(right):
+        if left[0] < right[0]:
+            result.append(left.pop(0))
         else:
-            arr[i] = aux[r]
-            r += 1
+            result.append(right.pop(0))
+    
+    while len(left): result.append(left.pop(0))
+    while len(right):result.append(right.pop(0))
+
+    return result
+
 
 def main():
-    arr = [5, 7, 3, 9, 2, 0, 1, 8, 6, 4]
-    merge_sort(arr, [i for i in arr], 0, len(arr) - 1)
-    print(arr)
+    arr = [5, 7, 3, 9, 2, 0, 1, 8, 6, 4] 
+    print(merge_sort(arr))
 
 if __name__ == '__main__':
     main()
