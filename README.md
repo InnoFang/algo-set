@@ -1,63 +1,63 @@
-# Oh, my algorithms
+# Algorithm Set
  
 🎈 LeetCode's and CodeWars' solution collections , as well as other data structures and algorithms practices.
 
-## [Data Structure](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures)
+## [Data Structure](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures)
 
-+ **[Search](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search)**
++ **[Search](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Search)**
 
-  - [Binary Search](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Binary%20Search)
+  - [Binary Search](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Search/Binary%20Search)
 
-    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Binary%20Search/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Binary%20Search/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Binary%20Search/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Binary%20Search/main.py) [`Kotlin`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Binary%20Search/main.kt)
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Binary%20Search/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Binary%20Search/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Binary%20Search/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Binary%20Search/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Binary%20Search/main.kt)
 
-  - [Pattern Match](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Pattern%20Match)
+  - [Pattern Match](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Search/Pattern%20Match)
 
-    * [Brute Force](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force)
+    * [Brute Force](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force)
 
-      [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.py) [`Kotlin`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.kt) 
+      [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.kt) 
       
-    * [KMP](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Pattern%20Match/KMP)
+    * [KMP](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Search/Pattern%20Match/KMP)
       
-      [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/KMP/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/KMP/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/KMP/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/KMP/main.py) [`Kotlin`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/KMP/main.kt) 
+      [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Pattern%20Match/KMP/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Pattern%20Match/KMP/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Pattern%20Match/KMP/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Pattern%20Match/KMP/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Search/Pattern%20Match/KMP/main.kt) 
 
-+ **[Sort](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort)**
++ **[Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort)**
 
-  - [Bubble Sort](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort/Bubble%20Sort)
+  - [Bubble Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Bubble%20Sort)
 
-    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.kt) 
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.kt) 
 
-  - [Insertion Sort](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort/Insertion%20Sort)
+  - [Insertion Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Insertion%20Sort)
 
-    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Insertion%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Insertion%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Insertion%20Sort/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Insertion%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Insertion%20Sort/main.kt)
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Insertion%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Insertion%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Insertion%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Insertion%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Insertion%20Sort/main.kt)
 
-  - [Selection Sort](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort/Selection%20Sort)
+  - [Selection Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Selection%20Sort)
 
-    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Selection%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Selection%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Selection%20Sort/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Selection%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Selection%20Sort/main.kt)
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Selection%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Selection%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Selection%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Selection%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Selection%20Sort/main.kt)
 
-  - [Shell Sort](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort/Shell%20Sort)
+  - [Shell Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Shell%20Sort)
  
-    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Shell%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Shell%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Shell%20Sort/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Shell%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Shell%20Sort/main.kt)
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Shell%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Shell%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Shell%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Shell%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Shell%20Sort/main.kt)
 
-  - [Quick Sort](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort/Quick%20Sort)
+  - [Quick Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Quick%20Sort)
 
-    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Quick%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Quick%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Quick%20Sort/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Quick%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Quick%20Sort/main.kt) 
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Quick%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Quick%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Quick%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Quick%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Quick%20Sort/main.kt) 
 
-  - [Merge Sort](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort/Merge%20Sort)
+  - [Merge Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Merge%20Sort)
 
-    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Merge%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Merge%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Merge%20Sort/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Merge%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Merge%20Sort/main.kt) 
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Merge%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Merge%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Merge%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Merge%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Merge%20Sort/main.kt) 
 
 
 
-## [CodeWars](https://github.com/InnoFang/oh-my-algorithms/tree/master/CodeWars)
+## [CodeWars](https://github.com/InnoFang/algo-set/tree/master/CodeWars)
 
 Used to increase the skill and proficiency of programming languages. Mainly  programming language is Python rigth now.
 
-## [LeetCode](https://github.com/InnoFang/oh-my-algorithms/tree/master/LeetCode)
+## [LeetCode](https://github.com/InnoFang/algo-set/tree/master/LeetCode)
 
 Use a variety of programming languages to solve problems, learn how to use skills and problem solving ideas. Mainly is Kotlin.
 
 
-# [License](https://github.com/InnoFang/Algorithms/blob/master/LICENSE)
+# [License](https://github.com/InnoFang/algo-set/blob/master/LICENSE)
 
 
     Copyright 2017 InnoFang
