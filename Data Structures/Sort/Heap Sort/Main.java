@@ -1,17 +1,5 @@
 public class Main {
-    public static void heapSort(Integer[] list) {
-        
-        for (int i = list.length / 2 - 1; i >= 0; --i) {
-            shiftDown(list, list.length, i);
-        }
-
-        for (int i = list.length - 1; i >= 0; --i) {
-            swap(list, 0, i);
-            shiftDown(list, i, 0);
-        }
-
-    }
-
+    
     public static void shiftDown(Integer[] list, int len, int idx) {
         while (idx * 2 + 1 < len) {
             int child = idx * 2 + 1;
@@ -22,10 +10,16 @@ public class Main {
         }
     }
 
-    public static void swap(Integer[] list, int i, int j) {
-        int tmp = list[i];
-        list[i] = list[j];
-        list[j] = tmp;
+    public static void heapSort(Integer[] list) {
+        
+        for (int i = list.length / 2 - 1; i >= 0; --i) {
+            shiftDown(list, list.length, i);
+        }
+
+        for (int i = list.length - 1; i > 0; --i) {
+            swap(list, 0, i);
+            shiftDown(list, i, 0);
+        }
     }
 
     public static void main(String[] args) {
@@ -36,5 +30,11 @@ public class Main {
         for (int i = 0; i < list.length; ++i) 
             System.out.print(list[i] + " ");
         System.out.println();
+    }
+
+    public static void swap(Integer[] list, int i, int j) {
+        int tmp = list[i];
+        list[i] = list[j];
+        list[j] = tmp;
     }
 }
