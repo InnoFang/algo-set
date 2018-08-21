@@ -46,6 +46,10 @@
 
     [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Merge%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Merge%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Merge%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Merge%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Merge%20Sort/main.kt) 
 
+  - [Heap Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Heap%20Sort)
+
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/Main.java) [``]() [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [``]() 
+
 
 
 ## [CodeWars](https://github.com/InnoFang/algo-set/tree/master/CodeWars)
