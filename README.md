@@ -48,7 +48,7 @@
 
   - [Heap Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Heap%20Sort)
 
-    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/Main.java) [`JavaScript`]() [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Kotlin`]() 
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.kt) 
 
 
 
@@ -61,7 +61,7 @@ Used to increase the skill and proficiency of programming languages. Mainly  pro
 Use a variety of programming languages to solve problems, learn how to use skills and problem solving ideas. Mainly is Kotlin.
 
 
-# [License](https://github.com/InnoFang/algo-set/blob/master/LICENSE)
+## [License](https://github.com/InnoFang/algo-set/blob/master/LICENSE)
 
 
     Copyright 2017 InnoFang
