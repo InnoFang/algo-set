@@ -48,7 +48,7 @@
 
   - [Heap Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Heap%20Sort)
 
-    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/Main.java)  [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py)[`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.js)  [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.kt) 
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/Main.java)  [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.kt) 
 
 
 
