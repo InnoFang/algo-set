@@ -47,4 +47,4 @@ private:
                        represented by the set whith i as the root. */
     int * parent;   /* parent[i] represents the parent node pointed by the ith element */
     int   count;      /* total number of elements */
-}
+}; 
