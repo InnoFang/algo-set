@@ -3,7 +3,7 @@
 class UnionFind {
 public:
     UnionFind(int count) {
-        this->count = count;
+        this->count  = count;
         this->rank   = new int[count];
         this->parent = new int[count];
         for (int i = 0; i < count; ++i) {
@@ -32,7 +32,7 @@ public:
         if (rootP == rootQ) return;
 
         if (rank[rootP] < rank[rootQ]) parent[rootP] = rootQ;
-        else if (rank[rootP] > rank[rankQ]) parent[rootQ] = rootP;
+        else if (rank[rootP] > rank[rootQ]) parent[rootQ] = rootP;
         else {
             parent[rootP] = rootQ;
             rank[rootP] += 1;
@@ -46,5 +46,5 @@ private:
     int * rank;     /* rank[i] represents the number of layers of the tree 
                        represented by the set whith i as the root. */
     int * parent;   /* parent[i] represents the parent node pointed by the ith element */
-    int count;      /* total number of elements */
+    int   count;      /* total number of elements */
 }
