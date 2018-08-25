@@ -1,7 +1,5 @@
 #include <iostream> 
-#include <stack>
- 
-using namespace std; 
+#include <stack> 
  
 typedef struct TreeNode {
     int val;
