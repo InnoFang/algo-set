@@ -17,7 +17,16 @@ void preorderTraversalByRecursion(TreeNode * root) {
 } 
 
 void preorderTraversal(TreeNode * root) {
-      
+    std::stack<TreeNode*> nodeStack;
+    while (root || !nodeStack.empty()) {
+        while (root) {
+            std::cout << root->val << std::endl;
+            nodeStack.push(root->right);
+            root = root->left;
+        }
+        root = nodeStack.top();
+        nodeStack.pop();
+    }
 } 
 
 /* Generate a binary tree by given a node array */
