@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 class TreeNode {
     int val;
     TreeNode left;
@@ -29,7 +31,15 @@ public class Main {
     }
     
     public static void preorderTraversal(TreeNode root) {
-        
+        Stack<TreeNode> nodeStack = new Stack();
+        while (root != null || !nodeStack.empty()) {
+            while (root != null) {
+                System.out.print(root.val + " ");
+                nodeStack.push(root.right);
+                root = root.left;
+            }
+            root = nodeStack.pop();
+        }
     }
 
     public static TreeNode generaBTree(Integer[] nodes, int index) {
@@ -50,6 +60,9 @@ public class Main {
         TreeNode root = generaBTree(nodes, 0);
 
         preorderTraversalByRecursion(root);
+        System.out.println();
+
+        preorderTraversal(root);
         System.out.println();
     }
 }
