@@ -31,7 +31,16 @@ public class Main {
     }
     
     public static void inorderTraversal(TreeNode root) {
-         
+        Stack<TreeNode> nodeStack = new Stack<>();
+        while (root != null || !nodeStack.empty()) {
+            while (root != null) {
+                nodeStack.push(root);
+                root = root.left;
+            }
+            root = nodeStack.pop(); 
+            System.out.print(root.val + " ");
+            root = root.right;
+        }
     }
 
     public static TreeNode generaBTree(Integer[] nodes, int index) {
