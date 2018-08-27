@@ -31,7 +31,23 @@ public class Main {
     }
     
     public static void postorderTraversal(TreeNode root) {
-        
+        if (root == null) return;
+
+        Stack<TreeNode> nodeStack = new Stack<>();
+        nodeStack.push(root);
+        TreeNode pre = null;
+        while (!nodeStack.empty()) {
+            TreeNode cur = nodeStack.peek();
+            if (cur.left != null && cur.left != pre && cur.right != pre) {
+                nodeStack.push(cur.left);
+            } else if (cur.right != null && cur.right != pre) {
+                nodeStack.push(cur.right);
+            } else {
+                System.out.print(cur.val + " ");
+                pre = cur;
+                nodeStack.pop();
+            }
+        }
     }
 
     public static TreeNode generaBTree(Integer[] nodes, int index) {
