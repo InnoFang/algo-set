@@ -8,7 +8,7 @@ typedef struct TreeNode {
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 } TreeNode;
 
-void levelorderTraversal(TreeNode * root) {
+void levelOrderTraversal(TreeNode * root) {
     if (root == NULL) return;
 
     std::queue<TreeNode*> que;
@@ -58,7 +58,7 @@ int main() {
 
 	TreeNode * root = generateBTree(nodes, len, 0);  
     
-    levelorderTraversal(root);
+    levelOrderTraversal(root);
     std::cout << std::endl;
     
     return 0;

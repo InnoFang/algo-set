@@ -24,7 +24,7 @@ level-order traversal: 1 2 3 4 5 6 7
 
 public class Main { 
 
-    public static void levelorderTraversal(TreeNode root) {
+    public static void levelOrderTraversal(TreeNode root) {
         if (root == null) return;
 
         Queue<TreeNode> que = new LinkedList<>();
@@ -37,13 +37,13 @@ public class Main {
         }
     }
 
-    public static TreeNode generaBTree(Integer[] nodes, int index) {
+    public static TreeNode generateBTree(Integer[] nodes, int index) {
         TreeNode node = null;
 
         if (index < nodes.length && nodes[index] != null) {
             node = new TreeNode(nodes[index]);
-            node.left = generaBTree(nodes, index * 2 + 1);
-            node.right = generaBTree(nodes, index * 2 + 2);
+            node.left = generateBTree(nodes, index * 2 + 1);
+            node.right = generateBTree(nodes, index * 2 + 2);
         }
 
         return node;
@@ -52,9 +52,9 @@ public class Main {
     public static void main(String[] args) {
         Integer[] nodes = {1, 2, 3, 4, 5, 6, null, null, null, 7};
         
-        TreeNode root = generaBTree(nodes, 0);
+        TreeNode root = generateBTree(nodes, 0);
 
-        levelorderTraversal(root);
+        levelOrderTraversal(root);
         System.out.println();
     }
 }
