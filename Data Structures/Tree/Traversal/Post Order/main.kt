@@ -19,16 +19,16 @@ The binary tree in this example is shown as follow
 post-order traversal: 4 7 5 2 6 3 1
 */
 
-fun postrderTraversalByRecursion(root: TreeNode?) {
+fun postorderTraversalByRecursion(root: TreeNode?) {
     if (root == null) return
 
-    postrderTraversalByRecursion(root.left)
-    postrderTraversalByRecursion(root.right)
+    postorderTraversalByRecursion(root.left)
+    postorderTraversalByRecursion(root.right)
     print("${root.value} ")
 }
 
 
-fun postrderTraversal(root: TreeNode?) {
+fun postorderTraversal(root: TreeNode?) {
     if (root == null) return
 
     val nodeStack = Stack<TreeNode>()
@@ -65,9 +65,9 @@ fun main(args: Array<String>) {
 
     val root = generateBTree(nodes, 0)
 
-    postrderTraversalByRecursion(root)
+    postorderTraversalByRecursion(root)
     println()
 
-    postrderTraversal(root)
+    postorderTraversal(root)
     println()
 }
