@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 class TreeNode(var value: Int = 0) {
     var left: TreeNode? = null
     var right: TreeNode? = null
@@ -25,6 +27,22 @@ fun preorderTraversalByRecursion(root: TreeNode?) {
     preorderTraversalByRecursion(root.right)
 }
 
+
+fun preorderTraversal(root: TreeNode?) {
+    if (root == null) return
+
+    val nodeStack = Stack<TreeNode>()
+    var node = root
+    while (node != null || nodeStack.isNotEmpty()) {
+        while (node != null) {
+            print("${node.value} ")
+            nodeStack.push(node.right)
+            node = node.left
+        }
+        node = nodeStack.pop()
+    }
+}
+
 fun generateBTree(nodes: Array<Int?>, index: Int): TreeNode? {
     var node: TreeNode? = null
     
@@ -43,5 +61,8 @@ fun main(args: Array<String>) {
     val root = generateBTree(nodes, 0)
 
     preorderTraversalByRecursion(root)
+    println()
+
+    preorderTraversal(root)
     println()
 }
