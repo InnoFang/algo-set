@@ -1,4 +1,5 @@
 #include <iostream>
+#include <ctime>
 
 void shiftDown(int list[], int len, int idx) {
     while ((idx * 2 + 1) < len) {
@@ -25,14 +26,41 @@ void heapSort(int list[], int len) {
 	}
 }
 
-int main() {
-    int list[] = {5, 7, 3, 9, 2, 0, 1, 8, 6, 4};
- 	int len = sizeof(list) / sizeof(int);
- 	
-    heapSort(list, len);
+int *generateRandomArray(int length, int rangeFrom, int rangeTo);
+void printArray(int * arr, int length);
 
-    for (int i = 0 ; i < len; ++i) std::cout << list[i] << " ";
-    std::cout << std::endl;
+int main() {
+
+    int length = 20;
+    int rangeFrom = 1;
+    int rangeTo = 10000;
+
+    int * arr = generateRandomArray(length, rangeFrom, rangeTo); 
+ 	
+    std::cout << "Original array:" << std::endl;
+    printArray(arr, length);
+
+    heapSort(arr, length);
+
+    std::cout << "Sorted array:" << std::endl;
+    printArray(arr, length);
 
     return 0;
+}
+
+/* Randomly generate an array with the `length`, which is from `rangeFrom` to `rangeTo` */
+int * generateRandomArray(int length, int rangeFrom, int rangeTo) {
+    int * arr = new int[length];
+    int range = rangeTo - rangeFrom + 1;
+    srand(time(NULL));
+    for (int i = 0; i < length; ++i) {
+        arr[i] = rand() % range + rangeFrom;
+    }
+    return arr;
+}
+
+/* formatted output array */
+void printArray(int * arr, int length) {
+    for (int i = 0 ; i < length; ++i) std::cout << arr[i] << " ";
+    std::cout << std::endl;
 }
