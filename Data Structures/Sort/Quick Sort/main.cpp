@@ -1,33 +1,60 @@
 #include <iostream>
+#include <ctime>
 
-int partition(int list[], int left, int right) {
+int partition(int arr[], int left, int right) {
     int l = left, r = right;
-    int tmp = list[l];
+    int tmp = arr[l];
     while (l != r) {
-        while (l < r && list[r] >= tmp) --r;
-        while (l < r && list[l] <= tmp) ++l;
-        if (l < r) std::swap(list[l], list[r]);
+        while (l < r && arr[r] >= tmp) --r;
+        while (l < r && arr[l] <= tmp) ++l;
+        if (l < r) std::swap(arr[l], arr[r]);
     } 
-    std::swap(list[l], list[left]);
+    std::swap(arr[l], arr[left]);
     return l;
 }
 
-void quickSort(int list[], int left, int right) {
+void quickSort(int arr[], int left, int right) {
     if (left > right) return;
-    int pivot = partition(list, left, right);
-    quickSort(list, left, pivot - 1);
-    quickSort(list, pivot + 1, right);
+    int pivot = partition(arr, left, right);
+    quickSort(arr, left, pivot - 1);
+    quickSort(arr, pivot + 1, right);
 }
 
+int *generateRandomArray(int length, int rangeFrom, int rangeTo);
+void printArray(int * arr, int length);
 
 int main() {
-    int list[] = {5, 7, 3, 9, 2, 0, 1, 8, 6, 4};
- 	int len = sizeof(list) / sizeof(int);
- 	
-    quickSort(list, 0, len - 1);
 
-    for (int i = 0 ; i < len; ++i) std::cout << list[i] << " ";
-    std::cout << std::endl;
+    int length = 20;
+    int rangeFrom = 1;
+    int rangeTo = 10000;
+
+    int * arr = generateRandomArray(length, rangeFrom, rangeTo); 
+ 	
+    std::cout << "Original array:" << std::endl;
+    printArray(arr, length);
+ 
+    quickSort(arr, 0, length - 1);
+
+    std::cout << "Sorted array:" << std::endl;
+    printArray(arr, length);
 
     return 0;
+}
+
+/* Randomly generate an array with the `length`, which is from `rangeFrom` to `rangeTo` */
+int * generateRandomArray(int length, int rangeFrom, int rangeTo) {
+    int * arr = new int[length];
+    int range = rangeTo - rangeFrom + 1;
+    srand(time(NULL));
+    for (int i = 0; i < length; ++i) {
+        arr[i] = rand() % range + rangeFrom;
+    }
+    return arr;
+}
+
+/* formatted output array */
+void printArray(int * arr, int length) {
+    for (int i = 0 ; i < length; ++i) std::cout << arr[i] << " ";
+    std::cout << std::endl;
 }
