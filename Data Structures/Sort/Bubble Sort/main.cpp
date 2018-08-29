@@ -1,11 +1,11 @@
 #include <iostream>
 #include <ctime>
 
-void bubbleSort(int list[], int len) {
+void bubbleSort(int arr[], int len) {
     for (int i = 0; i < len - 1; ++i) 
         for (int j = 0; j < len - 1 - i; ++j) 
-            if (list[j] > list[j + 1])  
-                std::swap(list[j], list[j+1]);
+            if (arr[j] > arr[j + 1])  
+                std::swap(arr[j], arr[j+1]);
 }
 
 int *generateRandomArray(int length, int rangeFrom, int rangeTo);

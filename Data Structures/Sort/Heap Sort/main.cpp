@@ -1,28 +1,28 @@
 #include <iostream>
 #include <ctime>
 
-void shiftDown(int list[], int len, int idx) {
+void shiftDown(int arr[], int len, int idx) {
     while ((idx * 2 + 1) < len) {
         int child = idx * 2 + 1; 
         /* if idx's children are exist and the right side child is greater than the left one, change the child. */
-        if (child + 1 < len && list[child] < list[child + 1]) ++child;
+        if (child + 1 < len && arr[child] < arr[child + 1]) ++child;
         /* if parent's value equals or greater than the child's, meet the definition of the maximum heap and break */
-        if (list[idx] >= list[child]) break;
+        if (arr[idx] >= arr[child]) break;
         /* if not, swap two values */
-        std::swap(list[idx], list[child]);
+        std::swap(arr[idx], arr[child]);
         idx = child;
     }
 }
 
-void heapSort(int list[], int len) { 
+void heapSort(int arr[], int len) { 
 
     for (int i = len / 2 - 1; i >= 0; --i) {
-        shiftDown(list, len, i);
+        shiftDown(arr, len, i);
     }
 	
 	for (int i = len - 1; i > 0; --i) {
-		std::swap(list[0], list[i]);
-		shiftDown(list, i, 0);
+		std::swap(arr[0], arr[i]);
+		shiftDown(arr, i, 0);
 	}
 }
 

@@ -1,14 +1,14 @@
 #include <iostream>
 #include <ctime>
 
-void insertionSort(int *list, int len) {
+void insertionSort(int *arr, int len) {
     for (int i = 1; i < len; ++i) {
-        int tmp = list[i];
+        int tmp = arr[i];
         int j;	// save the location where `tmp` should be inserted.
-        for (j = i; j > 0 && list[j - 1] > tmp; --j) {
-            list[j] = list[j - 1];
+        for (j = i; j > 0 && arr[j - 1] > tmp; --j) {
+            arr[j] = arr[j - 1];
         }
-        list[j] = tmp;
+        arr[j] = tmp;
     }
 }
 
