@@ -1,16 +1,16 @@
 #include <iostream>
 #include <ctime>
 
-void selectionSort(int list[], int len) {
+void selectionSort(int arr[], int len) {
     for (int i = 0; i < len; ++i) {
         int idx = i;
         for (int j = i + 1; j < len; ++j) {
-            if (list[idx] > list[j]) {
+            if (arr[idx] > arr[j]) {
                 idx = j;
             }
         }
         if (idx != i) 
-            std::swap(list[idx], list[i]);
+            std::swap(arr[idx], arr[i]);
     }      
 }
 
