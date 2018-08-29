@@ -1,7 +1,7 @@
 #include <iostream> 
 #include <ctime>
 
-void shellSort(int * list, int len) {
+void shellSort(int * arr, int len) {
     int gap = 1;
     
     while (gap < len / 3) {
@@ -10,11 +10,11 @@ void shellSort(int * list, int len) {
     
     for (; gap > 0; gap = (gap - 1) / 3) {   
         for (int i = gap; i < len; i += gap) {
-            int tmp = list[i], j = i;
-            for (; j > 0 && list[j - gap] > tmp; j -= gap) {
-                list[j] = list[j - gap];
+            int tmp = arr[i], j = i;
+            for (; j > 0 && arr[j - gap] > tmp; j -= gap) {
+                arr[j] = arr[j - gap];
             }
-            list[j] = tmp;
+            arr[j] = tmp;
         }
     }
 }
