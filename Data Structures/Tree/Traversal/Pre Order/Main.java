@@ -31,7 +31,7 @@ public class Main {
     }
     
     public static void preorderTraversal(TreeNode root) {
-        Stack<TreeNode> nodeStack = new Stack();
+        Stack<TreeNode> nodeStack = new Stack<>();
         while (root != null || !nodeStack.empty()) {
             while (root != null) {
                 System.out.print(root.val + " ");
