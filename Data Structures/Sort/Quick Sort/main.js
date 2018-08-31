@@ -14,11 +14,7 @@ function quick_sort(arr, left, right) {
     const pivot = partition(arr, left, right)
     quick_sort(arr, left, pivot - 1)
     quick_sort(arr, pivot + 1, right)
-}
-
-// const arr = [5, 7, 3, 9, 2, 0, 1, 8, 6, 4]
-
-// console.log(arr)
+} 
 
 function generateRandomArray(num, rangeFrom, rangeTo) {
     if (rangeTo < rangeFrom) {
