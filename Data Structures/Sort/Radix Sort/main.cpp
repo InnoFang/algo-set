@@ -5,9 +5,9 @@
 void radixSort(int * arr, int len, int maxDigit) { 
     std::queue<int> counter[10];    /* Counter consist of ten queues that store the number of the corresponding digit. */
  
-    for (int i = 1, mode = 10, dev = 1; i < maxDigit; i *= 10, mode *= 10, dev *= 10) {
+    for (int i = 1, mod = 10, dev = 1; i < maxDigit; i *= 10, mod *= 10, dev *= 10) {
         for (int j = 0; j < len; ++j) {
-            int bucket = (arr[j] % mode) / dev;   
+            int bucket = (arr[j] % mod) / dev;   
             counter[bucket].push(arr[j]);  
         }
         
