@@ -1,9 +1,9 @@
 
 function radix_sort(arr, maxDigit) {
     const counter = [];
-    for (let i = 1, mod = 10, dev = 1; i < maxDigit; i *= 10, mod *= 10, dev *= 10) {
+    for (let i = 1, dev = 1; i < maxDigit; i *= 10, dev *= 10) {
         for (let j = 0; j < arr.length; ++j) {
-            const bucket = parseInt((arr[j] % mod) / dev);
+            const bucket = parseInt(arr[j] / dev) % 10;
             if (counter[bucket] == null) {
                 counter[bucket] = [];
             }
