@@ -9,20 +9,41 @@ function merge_sort(arr) {
 }
 
 function merge(left, right) {
-    let result = []
+    let result = [];
 
     while (left.length > 0 && right.length > 0) {
         if (left[0] < right[0])
-            result.push(left.shift())
+            result.push(left.shift());
         else
-            result.push(right.shift())
+            result.push(right.shift());
     }
 
-    while (left.length) result.push(left.shift())
-    while (right.length) result.push(right.shift())
+    while (left.length) result.push(left.shift());
+    while (right.length) result.push(right.shift());
 
-    return result
+    return result;
 }
 
-const arr = [5, 7, 3, 9, 2, 0, 1, 8, 6, 4]
-console.log(merge_sort(arr))
+function generateRandomArray(num, rangeFrom, rangeTo) {
+    if (rangeTo < rangeFrom) {
+        return;
+    }
+
+    const arr = new Array(num);
+    const range = rangeTo - rangeFrom + 1;
+    for (let i = 0; i < num; ++i) {
+        arr[i] = Math.floor(Math.random() * range + rangeFrom);
+    }
+    return arr;
+}
+
+const num = 20;
+const rangeFrom = 1;
+const rangeTo = 10000;
+const arr = generateRandomArray(20, 1, 1000)
+
+console.log("Original array:");
+console.log(arr);
+
+console.log("Sorted array:");
+console.log(merge_sort(arr));
