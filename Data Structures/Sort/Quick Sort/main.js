@@ -16,6 +16,32 @@ function quick_sort(arr, left, right) {
     quick_sort(arr, pivot + 1, right)
 }
 
-const arr = [5, 7, 3, 9, 2, 0, 1, 8, 6, 4]
+// const arr = [5, 7, 3, 9, 2, 0, 1, 8, 6, 4]
+
+// console.log(arr)
+
+function generateRandomArray(num, rangeFrom, rangeTo) {
+    if (rangeTo < rangeFrom) {
+        return;
+    }
+
+    const arr = new Array(num);
+    const range = rangeTo - rangeFrom + 1;
+    for (let i = 0; i < num; ++i) {
+        arr[i] = Math.floor(Math.random() * range + rangeFrom);
+    }
+    return arr;
+}
+
+const num = 20;
+const rangeFrom = 1;
+const rangeTo = 10000;
+const arr = generateRandomArray(20, 1, 1000)
+
+console.log("Original array:");
+console.log(arr);
+
 quick_sort(arr, 0, arr.length - 1)
-console.log(arr)
+
+console.log("Sorted array:");
+console.log(arr); 
