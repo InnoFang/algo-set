@@ -1,4 +1,3 @@
-
 function radix_sort(arr, maxDigit) {
     const counter = [];
     for (let i = 1, dev = 1; i < maxDigit; i *= 10, dev *= 10) {
@@ -33,7 +32,7 @@ function generateRandomArray(num, rangeFrom, rangeTo) {
     }
     return arr;
 }
-
+ 
 const num = 20;
 const rangeFrom = 1;
 const rangeTo = 10000;
@@ -45,4 +44,4 @@ console.log(arr);
 radix_sort(arr, rangeTo);
 
 console.log("Sorted array:");
-console.log(arr);
+console.log(arr); 
