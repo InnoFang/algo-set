@@ -1,11 +1,11 @@
 function merge_sort(arr) {
     if (arr.length < 2)
-        return arr
+        return arr;
     
-    const mid = Math.floor(arr.length / 2)
-    let left = arr.slice(0, mid)
-    let right = arr.slice(mid)
-    return merge(merge_sort(left), merge_sort(right))
+    const mid = Math.floor(arr.length / 2);
+    let left = arr.slice(0, mid);
+    let right = arr.slice(mid);
+    return merge(merge_sort(left), merge_sort(right));
 }
 
 function merge(left, right) {
