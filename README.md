@@ -52,7 +52,7 @@
 
   - [Radix Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Radix%20Sort)
 
-    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/main.js)
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/main.py)
 
 + **[Tree](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Tree)**
 
