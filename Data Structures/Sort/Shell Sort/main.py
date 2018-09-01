@@ -1,3 +1,5 @@
+import random
+
 def shell_sort(arr):
     # Marcin Ciura's gap sequence
     gaps = [1750, 701, 301, 132, 57, 23, 10, 4, 1]
@@ -11,8 +13,18 @@ def shell_sort(arr):
             arr[j] = tmp
 
 def main():
-    arr = [5, 7, 3, 9, 2, 0, 1, 8, 6, 4]
+    num = 20
+    range_left = 0
+    range_right = 10000
+
+    arr = [random.randint(range_left, range_right) for _ in range(num)]
+    
+    print('Original array:')
+    print(arr)
+
     shell_sort(arr)
+
+    print('Sorted array:')
     print(arr)
 
 if __name__ == '__main__':
