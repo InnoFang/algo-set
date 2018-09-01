@@ -1,3 +1,5 @@
+import random
+
 def insertion_sort(arr):
     for i in range(len(arr)):
         tmp, j = arr[i], i
@@ -7,8 +9,18 @@ def insertion_sort(arr):
         arr[j] = tmp
 
 def main():
-    arr = [5, 7, 3, 9, 2, 0, 1, 8, 6, 4]
+    num = 20
+    range_left = 0
+    range_right = 10000
+
+    arr = [random.randint(range_left, range_right) for _ in range(num)]
+    
+    print('Original array:')
+    print(arr)
+
     insertion_sort(arr)
+
+    print('Sorted array:')
     print(arr)
 
 if __name__ == '__main__':
