@@ -20,6 +20,22 @@ function radix_sort(arr, maxDigit) {
     }
 }
  
+(function(){
+    const num = 20;
+    const rangeFrom = 1;
+    const rangeTo = 10000;
+    const arr = generateRandomArray(20, 1, 1000)
+
+    console.log("Original array:");
+    console.log(arr);
+
+    radix_sort(arr, rangeTo);
+
+    console.log("Sorted array:");
+    console.log(arr); 
+})()
+
+
 function generateRandomArray(num, rangeFrom, rangeTo) {
     if (rangeTo < rangeFrom) {
         return;
@@ -32,16 +48,3 @@ function generateRandomArray(num, rangeFrom, rangeTo) {
     }
     return arr;
 }
- 
-const num = 20;
-const rangeFrom = 1;
-const rangeTo = 10000;
-const arr = generateRandomArray(20, 1, 1000)
-
-console.log("Original array:");
-console.log(arr);
-
-radix_sort(arr, rangeTo);
-
-console.log("Sorted array:");
-console.log(arr); 
