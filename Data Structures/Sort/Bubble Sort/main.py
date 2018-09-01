@@ -1,3 +1,5 @@
+import random
+
 def bubble_sort(arr):
     for i in range(len(arr) - 1):
         for j in range(len(arr) - i - 1):
@@ -5,8 +7,18 @@ def bubble_sort(arr):
                 arr[j], arr[j + 1] = arr[j + 1], arr[j] 
 
 def main():
-    arr = [5, 7, 3, 9, 2, 0, 1, 8, 6, 4]
+    num = 20
+    range_left = 0
+    range_right = 10000
+
+    arr = [random.randint(range_left, range_right) for _ in range(num)]
+    
+    print('Original array:')
+    print(arr)
+
     bubble_sort(arr)
+
+    print('Sorted array:')
     print(arr)
 
 if __name__ == '__main__':
