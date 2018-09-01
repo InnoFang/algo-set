@@ -1,3 +1,5 @@
+import random
+
 def shiftDown(arr, heap_size, idx):
     while idx * 2 + 1 < heap_size:
         child = idx * 2 + 1
@@ -17,8 +19,18 @@ def heap_sort(arr):
         shiftDown(arr, i, 0)
         
 def main():
-    arr = [5, 7, 3, 9, 2, 0, 1, 8, 6, 4]
+    num = 20
+    range_left = 0
+    range_right = 10000
+
+    arr = [random.randint(range_left, range_right) for _ in range(num)]
+    
+    print('Original array:')
+    print(arr)
+
     heap_sort(arr)
+
+    print('Sorted array:')
     print(arr)
 
 if __name__ == '__main__':
