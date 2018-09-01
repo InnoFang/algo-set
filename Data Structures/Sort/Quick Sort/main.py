@@ -1,3 +1,5 @@
+import random
+
 def partition(arr, left, right):
     l, r, tmp = left, right, arr[left]
     while l != r:
@@ -12,10 +14,20 @@ def quick_sort(arr, left, right):
         pivot = partition(arr, left, right)
         quick_sort(arr, left, pivot - 1)
         quick_sort(arr, pivot + 1, right)
- 
+   
 def main():
-    arr = [5, 7, 3, 9, 2, 0, 1, 8, 6, 4]
+    num = 20
+    range_left = 0
+    range_right = 10000
+
+    arr = [random.randint(range_left, range_right) for _ in range(num)]
+    
+    print('Original array:')
+    print(arr)
+
     quick_sort(arr, 0, len(arr) - 1)
+
+    print('Sorted array:')
     print(arr)
 
 if __name__ == '__main__':
