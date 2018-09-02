@@ -1,35 +1,61 @@
-fun mergeSort(list: IntArray, aux: IntArray, left: Int, right: Int) {
+import java.util.Random
+
+fun mergeSort(arr: IntArray, aux: IntArray, left: Int, right: Int) {
     if (left >= right) return;
 
     val mid = left + (right - left) / 2
-    mergeSort(list, aux, left, mid)
-    mergeSort(list, aux, mid + 1, right)
+    mergeSort(arr, aux, left, mid)
+    mergeSort(arr, aux, mid + 1, right)
 
-    if (list[mid] > list[mid + 1])
-        merge(list, aux, left, mid, right)
+    if (arr[mid] > arr[mid + 1])
+        merge(arr, aux, left, mid, right)
 }
 
-fun merge(list: IntArray, aux: IntArray, left: Int, mid: Int, right: Int) {
+fun merge(arr: IntArray, aux: IntArray, left: Int, mid: Int, right: Int) {
 
-    System.arraycopy(list, left, aux, left, right - left + 1)
+    System.arraycopy(arr, left, aux, left, right - left + 1)
 
     var l = left
     var r = mid + 1
     for (i in left .. right) {
         when {
-            l > mid -> list[i] = aux[r++]
-            r > right -> list[i] = aux[l++]
-            aux[l] < aux[r] -> list[i] = aux[l++]
-            else -> list[i] = aux[r++]
+            l > mid -> arr[i] = aux[r++]
+            r > right -> arr[i] = aux[l++]
+            aux[l] < aux[r] -> arr[i] = aux[l++]
+            else -> arr[i] = aux[r++]
         }
     }
-}
+} 
 
 fun main(args: Array<String>) {
-    val list = intArrayOf(5, 7, 3, 9, 2, 0, 1, 8, 6, 4)
+    val num = 20
+    val rangeLeft = 0
+    val rangeRight = 10000
 
-    mergeSort(list, list.clone(), 0, list.lastIndex)
+    val arr = generateRandomArray(num, rangeLeft, rangeRight)
 
-    list.forEach{ print("$it ") }
+    println("Original array:")
+    printIntArray(arr)
+
+    mergeSort(arr, arr.clone(), 0, arr.lastIndex)
+
+    println("Sorted array:")
+    printIntArray(arr)
+}
+
+fun generateRandomArray(num: Int, rangeLeft: Int, rangeRight: Int): IntArray {
+    val range = rangeRight - rangeLeft
+    val arr = IntArray(num)
+    val ran = Random()
+    for (i in 0 until num) {
+        arr[i] = ran.nextInt(range) + rangeLeft
+    }
+    return arr
+}
+
+fun printIntArray(arr: IntArray) {
+    for (t in arr) {
+        print("$t ")
+    }
     println()
 }
