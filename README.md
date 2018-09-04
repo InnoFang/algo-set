@@ -8,7 +8,7 @@
 
   - [DFS](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/DFS)
 
-    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/main.cpp)
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/main.kt)
 
 + **[Search](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Search)**
 
