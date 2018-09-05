@@ -23,13 +23,13 @@ int choose(vector<int> distance, vector<bool> found) {
     adjMat is the adjacency matrix
     distance[i] represents the shortest path from vertex src to i
     found[i] holds a 0 if the shortest path from vertex i has not been found and a 1 if it has
-    pre[i] represents the precursor node of i
+    path[i] represents the precursor node of i
 */
-void shortestPath(int src, vector<vector<int>> adjMat, vector<int> &distance, vector<bool> &found, vector<int> &pre) {
+void shortestPath(int src, vector<vector<int>> adjMat, vector<int> &distance, vector<bool> &found, vector<int> &path) {
     int vertexNum = adjMat.size();
     for (int i = 0; i < vertexNum; ++i) {
         found[i] = false;
-        pre[i] = src;
+        path[i] = src;
         distance[i] = adjMat[src][i];
     }
     found[src] = true;
@@ -41,25 +41,27 @@ void shortestPath(int src, vector<vector<int>> adjMat, vector<int> &distance, ve
             if (!found[j] ) {
                 if (distance[dest] + adjMat[dest][j] < distance[j]) {
                     distance[j] = distance[dest] + adjMat[dest][j];
-                    pre[j] = dest;
+                    path[j] = dest;
                 }  
             }  
         } 
     }
 }
 
-void searchPath(vector<int> pre, int src, int dest) {
-    stack<int> path;
-    path.push(dest); 
-    int p = pre[dest]; 
+void searchPath(vector<int> path, vector<int> distance, int src, int dest) {
+    cout << "Weight: " << distance[dest] << endl;
+
+    stack<int> pathStack;
+    pathStack.push(dest); 
+    int p = path[dest]; 
     while (p != src) {
-        path.push(p);
-        p = pre[p]; 
+        pathStack.push(p);
+        p = path[p]; 
     }
-    cout << src;
-    while (!path.empty()) {
-        cout << " -> " << path.top();
-        path.pop();  
+    cout << "Path:   " << src;
+    while (!pathStack.empty()) {
+        cout << " -> " << pathStack.top();
+        pathStack.pop();  
     }
     cout << endl;
 }   
@@ -79,10 +81,10 @@ int main() {
     };
     vector<int> distance(vertexNum);
     vector<bool> found(vertexNum);
-    vector<int> pre(vertexNum);
+    vector<int> path(vertexNum);
 
-    shortestPath(src, adjMat, distance, found, pre);
-    searchPath(pre, src, dest);
+    shortestPath(src, adjMat, distance, found, path);
+    searchPath(path, distance, src, dest);
 
     return 0;
 }
