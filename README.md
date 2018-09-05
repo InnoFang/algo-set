@@ -6,9 +6,23 @@
 
 + **[Graph](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph)**
 
+  - [BFS](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/BFS)
+
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/main.cpp )
+
   - [DFS](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/DFS)
 
     [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/main.kt)
+
+  - [Shortest Path](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/Shortest%20Path)
+
+    * [Dijkstra](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/Shortest%20Path/Dijkstra)
+
+      [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Dijkstra/main.cpp)
+
+    * [Floyd](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/Shortest%20Path/Floyd)
+
+      [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Floyd/main.cpp)
 
 + **[Search](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Search)**
 
