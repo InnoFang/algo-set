@@ -19,6 +19,12 @@ int choose(vector<int> distance, vector<bool> found) {
     return minPos;
 }
 
+/* 
+    adjMat is the adjacency matrix
+    distance[i] represents the shortest path from vertex src to i
+    found[i] holds a 0 if the shortest path from vertex i has not been found and a 1 if it has
+    pre[i] represents the precursor node of i
+*/
 void shortestPath(int src, vector<vector<int>> adjMat, vector<int> &distance, vector<bool> &found, vector<int> &pre) {
     int vertexNum = adjMat.size();
     for (int i = 0; i < vertexNum; ++i) {
