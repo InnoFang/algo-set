@@ -2,6 +2,16 @@
  
 🎈 LeetCode's and CodeWars' solution collections , as well as other data structures and algorithms practices.
 
+
+## [CodeWars](https://github.com/InnoFang/algo-set/tree/master/CodeWars)
+
+Used to increase the skill and proficiency of programming languages. Mainly  programming language is Python rigth now.
+
+## [LeetCode](https://github.com/InnoFang/algo-set/tree/master/LeetCode)
+
+Use a variety of programming languages to solve problems, learn how to use skills and problem solving ideas. Mainly is Kotlin.
+
+
 ## [Data Structure](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures)
 
 + **[Graph](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph)**
@@ -97,15 +107,6 @@
     * [Level-order](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Tree/Traversal/Level%20Order)
 
       [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Level%20Order/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Level%20Order/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Level%20Order/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Level%20Order/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Level%20Order/main.kt)
-
-
-## [CodeWars](https://github.com/InnoFang/algo-set/tree/master/CodeWars)
-
-Used to increase the skill and proficiency of programming languages. Mainly  programming language is Python rigth now.
-
-## [LeetCode](https://github.com/InnoFang/algo-set/tree/master/LeetCode)
-
-Use a variety of programming languages to solve problems, learn how to use skills and problem solving ideas. Mainly is Kotlin.
 
 
 ## [License](https://github.com/InnoFang/algo-set/blob/master/LICENSE)
