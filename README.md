@@ -8,7 +8,7 @@
 
   - [BFS](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/BFS)
 
-    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/Main.java)
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/main.kt)
 
   - [DFS](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/DFS)
 
