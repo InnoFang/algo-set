@@ -28,11 +28,11 @@ Use a variety of programming languages to solve problems, learn how to use skill
 
     * [Dijkstra](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/Shortest%20Path/Dijkstra)
 
-      [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Dijkstra/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Dijkstra/Main.java)
+      [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Dijkstra/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Dijkstra/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Dijkstra/main.js)
 
     * [Floyd](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/Shortest%20Path/Floyd)
 
-      [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Floyd/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Floyd/Main.java)
+      [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Floyd/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Floyd/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Floyd/main.js)
 
 + **[Search](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Search)**
 
