@@ -10,9 +10,8 @@ int main () {
     #endif
     
     int N;
-    scanf("%d", &N);
-    getchar();
-    char C = getchar();
+    char C;
+    scanf("%d %c", &N, &C);
     int row = round(N * 1.0 / 2);
     for (int i = 0; i < row; ++i) {
         for (int j = 0; j < N; ++j) {
