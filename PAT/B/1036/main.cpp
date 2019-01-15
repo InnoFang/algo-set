@@ -1,6 +1,6 @@
 #include <iostream> 
 #include <cstdio>
-#include <map>
+#include <cmath>
 
 using namespace std;
 
@@ -10,24 +10,21 @@ int main () {
     #endif
     
     int N;
-    map<int, int> dict;
     scanf("%d", &N);
-    while (N--) {
-        int id, score;
-        scanf("%d%d", &id, &score);
-        if (dict.find(id) == dict.end()) dict[id] = score;
-        else dict[id] += score;
-    }
-
-    map<int, int>::iterator iter = dict.begin();
-    pair<int, int> max = make_pair(iter->first, iter->second);
-    for (; iter != dict.end(); ++iter) {
-        if (iter->second > max.second) {
-            max.first = iter->first;
-            max.second = iter->second;
+    getchar();
+    char C = getchar();
+    int row = round(N * 1.0 / 2);
+    for (int i = 0; i < row; ++i) {
+        for (int j = 0; j < N; ++j) {
+            if (i == 0 || i == row - 1) 
+                putchar(C);
+            else if (j == 0 || j == N - 1)
+                putchar(C);
+            else 
+                putchar(' ');
         }
+        putchar('\n');
     }
-    printf("%d %d\n", max.first, max.second);
 
     #ifndef ONLINE_JUDGE
     fclose(stdin);
