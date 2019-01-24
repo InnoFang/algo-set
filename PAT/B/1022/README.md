@@ -1,4 +1,4 @@
-# [写出这个数](https://pintia.cn/problem-sets/994805260223102976/problems/994805324509200384)
+# [D进制的A+B](https://pintia.cn/problem-sets/994805260223102976/problems/994805299301433344)
 
 输入两个非负 10 进制整数 A 和 B (≤ 2^​30​​ −1)，输出 A + B 的 D (1 < D ≤ 10)进制数。
 
