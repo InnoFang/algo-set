@@ -31,14 +31,10 @@ int main () {
         cake[i].price = cake[i].sell / cake[i].store;
     }
 
-    sort(cake, cake + n, cmp);
-
-    // for (auto c: cake) {
-    //     cout << c.store << " " << c.sell << " " << c.price << endl;
-    // }
+    sort(cake, cake + n, cmp);  
 
     double ans = 0;
-    for (int i = 0; i < n; ++ n) {
+    for (int i = 0; i < n; ++ i) {
         if (cake[i].store <= d) {
             ans += cake[i].sell;
             d -= cake[i].store;
