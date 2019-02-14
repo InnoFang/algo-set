@@ -91,7 +91,7 @@ class OutputWriter extends PrintWriter {
 class Solution {
 
     public void solve(InputReader in, OutputWriter out) {
-        // solve your problem there
+        // solve your problem here
     }
 
 }
