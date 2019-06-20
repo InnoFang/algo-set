@@ -1,6 +1,6 @@
 /**
  * Created by Inno Fang on 2018/2/19.
- */]
+ */
 
 /**
  * 3999 / 3999 test cases passed.
