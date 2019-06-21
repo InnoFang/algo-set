@@ -38,7 +38,7 @@ int main () {
             int score;
             cin >> name >> score;
             list.push_back(Student(i, name, score));
-        }
+        } 
         sort(list.begin(), list.end(), order[orderIdx]);
         for (auto student: list) {
             cout << student.name << " " << student.score << endl;
