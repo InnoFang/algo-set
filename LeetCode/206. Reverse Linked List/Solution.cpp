@@ -11,9 +11,33 @@ struct ListNode {
 /**
  * 27 / 27 test cases passed.
  * Status: Accepted
- * Runtime: 20 ms
+ * Runtime: 8 ms
  */
 class Solution1 {
+public:
+    ListNode* reverseList(ListNode* head) {
+        if (head == NULL || head->next == NULL) return head;
+        ListNode *h, *p, *q;
+        h = new ListNode(-1);
+        h->next = NULL;
+        p = head;
+        q = head->next;
+        while (p) {
+            p->next = h->next;
+            h->next = p;
+            p = q;
+            q = q == NULL ? NULL : q->next;  
+        }
+        return h->next;
+    }
+};
+
+/**
+ * 27 / 27 test cases passed.
+ * Status: Accepted
+ * Runtime: 20 ms
+ */
+class Solution2 {
 public:
     ListNode* reverseList(ListNode* head) {
         if (head == NULL) return NULL;
