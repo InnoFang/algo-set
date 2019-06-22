@@ -13,7 +13,7 @@ struct ListNode {
  * Status: Accepted.
  * Runtime: 8 ms
  */
-class Solution {
+class Solution1 {
 public:
     ListNode* swapPairs(ListNode* head) {
         if (head == NULL || head->next == NULL) return head;
@@ -35,6 +35,29 @@ public:
     }
 };
 
+/**
+ * 55 / 55 test cases passed
+ * Status: Accepted.
+ * Runtime: 0 ms
+ */
+class Solution2 {
+public:
+    ListNode* swapPairs(ListNode* head) {
+        if (head == NULL || head->next == NULL) return head;
+        ListNode* pre = head;
+        ListNode* nxt = head;
+        ListNode* cur = head;
+        head = head->next;
+        if (cur->next) {
+            cur = cur->next->next;
+            pre = pre->next;
+            pre->next = nxt;
+            nxt->next = swapPairs(cur);
+        }
+        return head;
+    }
+};
+
 int main () {
     ListNode node1(1);
     ListNode node2(2);
@@ -48,7 +71,7 @@ int main () {
     node4.next = &node5;
     node5.next = NULL;
 
-    ListNode* head = Solution().swapPairs(&node1);
+    ListNode* head = Solution2().swapPairs(&node1);
     while (head) {
         cout << head->val << " ";
         head = head->next;
