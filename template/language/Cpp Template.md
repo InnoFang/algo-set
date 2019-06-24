@@ -9,6 +9,8 @@ using namespace std;
 
 #define MAX(a, b) ((a)>(b)?(a):(b))
 #define MIN(a, b) ((a)<(b)?(a):(b))
+#define INF 0x3f3f3f3f
+#define ll long long
 
 const double eps = 1e-8;
 const double pi = acos(-1.0);
