@@ -2,14 +2,16 @@
 
 > Template for **algorithm competition**
 
-**PS** *LOCAL* is your `in.txt` location
-
-```Cpp
-#include <iostream> 
-#include <cstdio> 
-#include <algorithm>
+```cpp
+#include <bits/stdc++.h>
 
 using namespace std;
+
+#define MAX(a, b) ((a)>(b)?(a):(b))
+#define MIN(a, b) ((a)<(b)?(a):(b))
+
+const double eps = 1e-8;
+const double pi = acos(-1.0);
 
 int main () {
     #ifndef ONLINE_JUDGE
