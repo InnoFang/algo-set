@@ -6,7 +6,7 @@ Programming Ability Test (PAT) is organized by the College of Computer Science a
 
 Each input file contains one test case. For each case, the first line contains a positive number ***N*** (≤100), the number of test locations. Then ***N*** ranklists follow, each starts with a line containing a positive integer ***K*** (≤300), the number of testees, and then ***K*** lines containing the registration number (a 13-digit number) and the total score of each testee. All the numbers in a line are separated by a space.
 
-Output Specification:
+## Output Specification:
 
 For each test case, first print in one line the total number of testees. Then print the final ranklist in the following format:
 
