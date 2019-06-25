@@ -16,15 +16,15 @@ const double eps = 1e-8;
 const double pi = acos(-1.0);
 
 int main () {
-    #ifndef ONLINE_JUDGE
+#ifndef ONLINE_JUDGE
     freopen("in.txt", "r", stdin);
-    #endif
+#endif
 
     // sovle your problem here
 
-    #ifndef ONLINE_JUDGE
+#ifndef ONLINE_JUDGE
     fclose(stdin);
-    #endif
+#endif
     return 0;
 }
 ```
