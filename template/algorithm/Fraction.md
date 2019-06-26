@@ -56,4 +56,14 @@ Fraction divi(Fraction f1, Fraction f2) {
 	result.down = f1.down * f2.up;
 	return reduction(result);
 } 
+
+void showResult(Fraction result) {
+	result = reduction(result);
+	if (result.down == 1) printf("%d\n", result.up);
+	else if (abs(result.up) > result.down) {
+		printf("%d %d/%d\n", result.up/result.down, abs(result.up) % result.down, result.down);
+	} else {
+		printf("%d/%d", result.up, result.down);
+	}
+}
 ```
