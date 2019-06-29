@@ -5,13 +5,9 @@
 ```cpp
 #include <bits/stdc++.h>
 
-using namespace std;
+using namespace std; 
 
-#define MAX(a, b) ((a)>(b)?(a):(b))
-#define MIN(a, b) ((a)<(b)?(a):(b))
-#define INF 0x3f3f3f3f
-#define ll long long
-
+const int inf =  0x3f3f3f3f;
 const double eps = 1e-8;
 const double pi = acos(-1.0);
 
