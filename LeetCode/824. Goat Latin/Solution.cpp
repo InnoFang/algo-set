@@ -5,6 +5,11 @@
 
 using namespace std;
 
+/**
+ * 99 / 99 test case passed.
+ * Status: Accepted
+ * Runtime: 4 ms
+ */
 class Solution {
 public:
     string toGoatLatin(string S) {
