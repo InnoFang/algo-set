@@ -13,7 +13,7 @@
  * Status: Acepted
  * Runtime: 4 ms
  */
-class Solution {
+class Solution1 {
 public:
     int depth = 0;
     int maxDepth(TreeNode* root) {
@@ -29,4 +29,18 @@ public:
             if (root->right) maxDepth(root->right, d + 1);
         }
     }
+};
+
+/**
+ * 39 / 39 test case passed
+ * Status: Acepted
+ * Runtime: 8 ms
+ */
+class Solution2 {
+public:
+    int depth = 0;
+    int maxDepth(TreeNode* root) {
+        if (root == NULL) return 0;
+        return max(maxDepth(root->left), maxDepth(root->right)) + 1; 
+    } 
 };
