@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Difficulty-Medium-F8AF40.svg)
 ![](https://img.shields.io/badge/Difficulty-Hard-red.svg)
 
-**Problems have been solved:** `124`
+**Problems have been solved:** `139`
 
 **Language:** `Kotlin` `Java` `Python` `C++` `JavaScript`
 
