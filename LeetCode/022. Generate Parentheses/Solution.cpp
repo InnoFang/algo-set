@@ -4,7 +4,7 @@
  * Status: Accepted
  * Runtime: 16 ms
  */
-class Solution1 {
+class Solution {
 public:
     void generate(vector<string>& ans, string pare, int left, int right) {
         if (left == 0 && right == 0) {
