@@ -52,7 +52,7 @@ Use a variety of programming languages to solve problems, learn how to use skill
 
   - [Bubble Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Bubble%20Sort)
 
-    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.kt) 
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.kt)  [`Go`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.go)
 
   - [Insertion Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Insertion%20Sort)
 
