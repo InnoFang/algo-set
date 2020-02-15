@@ -30,11 +30,7 @@ func main() {
 	fmt.Println("Sorted array: ", arr)
 }
 
-func generateRandomArray(total int, left int, right int) []int {
-	if left > right {
-		panic("Range is incorrect, rangeLeft must be greater than rangeRight")
-	}
-
+func generateRandomArray(total int, left int, right int) []int { 
 	arr := make([]int, total)
 	rand.Seed(time.Now().UnixNano())
 	for i := 0; i < total; i++ {
