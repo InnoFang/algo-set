@@ -18,8 +18,8 @@ function merge(left, right) {
             result.push(right.shift());
     }
 
-    while (left.length) result.push(left.shift());
-    while (right.length) result.push(right.shift());
+    if (left.length)  result.push(...left)
+    if (right.length) result.push(...right)
 
     return result;
 }
