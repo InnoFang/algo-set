@@ -48,7 +48,7 @@ func main() {
 	fmt.Println("Sorted array: ", arr)
 }
 
-func generateRandomArray(total int, left, right int) []int { 
+func generateRandomArray(total, left, right int) []int { 
 	arr := make([]int, total)
 	rand.Seed(time.Now().UnixNano())
 	for i := 0; i < total; i++ {

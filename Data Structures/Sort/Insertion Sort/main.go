@@ -9,7 +9,7 @@ import (
 func insertionSort(arr []int) {
 	for i := 1; i < len(arr); i++ {
 		tmp, j := arr[i], i
-		for ;j > 0 && arr[j - 1] > tmp; j-- {
+		for ; j > 0 && arr[j - 1] > tmp; j-- {
 			arr[j] = arr[j - 1]
 		}
 		arr[j] = tmp
@@ -30,7 +30,7 @@ func main() {
 	fmt.Println("Sorted array: ", arr)
 }
 
-func generateRandomArray(total int, left int, right int) []int { 
+func generateRandomArray(total, left, right int) []int { 
 	arr := make([]int, total)
 	rand.Seed(time.Now().UnixNano())
 	for i := 0; i < total; i++ {
