@@ -18,8 +18,8 @@ def merge(left, right):
         else:
             result.append(right.pop(0))
     
-    while len(left): result.append(left.pop(0))
-    while len(right):result.append(right.pop(0))
+    if len(left) : result.extend(left)
+    if len(right): result.extend(right)
 
     return result
 

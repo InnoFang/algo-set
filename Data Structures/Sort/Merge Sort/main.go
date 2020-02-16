@@ -7,24 +7,24 @@ import (
 )
 
 func merge(left, right []int) []int {
-	aux := make([]int, 0, len(left) + len(right))
+	result := make([]int, 0, len(left) + len(right))
 
 	for len(left) > 0 && len(right) > 0 {
 		if left[0] < right[0] {
-			aux = append(aux,  left[0])
+			result = append(result,  left[0])
 			left = left[1:]
 		} else {
-			aux = append(aux, right[0])
+			result = append(result, right[0])
 			right = right[1:]
 		}
 	}
 	if len(left) > 0 {
-		aux = append(aux, left...)
+		result = append(result, left...)
 	}
 	if len(right) > 0 {
-		aux = append(aux, right...)
+		result = append(result, right...)
 	}
-	return aux
+	return result
 }
 
 func mergeSort(arr []int) []int {
