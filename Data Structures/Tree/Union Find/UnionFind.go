@@ -5,7 +5,7 @@ type unionFind struct {
 	parent, rank []int
 }
 
-func CreateUnionFind(size int) *unionFind {
+func Create(size int) *unionFind {
 	uf := unionFind{
 		Size:   size,
 		parent: make([]int, size),
