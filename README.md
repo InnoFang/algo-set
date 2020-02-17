@@ -76,7 +76,7 @@ Use a variety of programming languages to solve problems, learn how to use skill
 
   - [Heap Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Heap%20Sort)
 
-    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/Main.java)  [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.kt)  [`Go`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.go) 
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/Main.java)  [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.kt)  [`Go `](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.go) 
 
   - [Radix Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Radix%20Sort)
 
@@ -86,7 +86,7 @@ Use a variety of programming languages to solve problems, learn how to use skill
 
   - [Union Find](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Tree/Union%20Find)
 
-    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Union%20Find/UnionFind.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Union%20Find/UnionFind.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Union%20Find/union-find.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Union%20Find/union_find.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Union%20Find/UnionFind.kt)
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Union%20Find/UnionFind.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Union%20Find/UnionFind.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Union%20Find/union-find.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Union%20Find/union_find.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Union%20Find/UnionFind.kt) [`Go`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Union%20Find/UnionFind.go)
 
   - [Traversal](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Tree/Traversal)
 
