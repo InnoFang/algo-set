@@ -13,7 +13,7 @@ func Create(size int) *unionFind {
 	}
 	for i := 0; i < size; i++ {
 		uf.parent[i] = i
-		uf.rank[i] = i
+		uf.rank[i] = 1
 	}
 	return &uf
 }

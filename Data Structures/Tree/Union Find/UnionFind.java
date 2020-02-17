@@ -1,43 +1,48 @@
-public class UnionFind {
+package UnionFind
 
-    private int   count;
-    private int[] parent;
-    private int[] rank;
+type unionFind struct {
+	Size         int
+	parent, rank []int
+}
 
-    public UnionFind(int count) {
-        this.count  = count;
-        this.parent = new int[count];
-        this.rank   = new int[count];
-        
-        for (int i = 0; i < count; ++i) {
-            rank[i]   = 1;
-            parent[i] = i;
-        }
-    }
+func Create(size int) *unionFind {
+	uf := unionFind{
+		Size:   size,
+		parent: make([]int, size),
+		rank:   make([]int, size),
+	}
+	for i := 0; i < size; i++ {
+		uf.parent[i] = i
+		uf.rank[i] = 1
+	}
+	return &uf
+}
 
-    public int find(int p) {
-        while (p != parent[p]) {
-            parent[p] = parent[parent[p]];
-            p = parent[p];
-        }
-        return p;
-    }
+func (uf unionFind) Find(p int) int {
+	for p != uf.parent[p] {
+		uf.parent[p] = uf.parent[uf.parent[p]]
+		p = uf.parent[p]
+	}
+	return p
+}
 
-    public void union(int p, int q) {
-        int rootP = find(p);
-        int rootQ = find(q);
+func (uf unionFind) Union(p, q int) {
+	rootP, rootQ := uf.Find(p), uf.Find(q)
+	if rootP == rootQ {
+		return
+	}
 
-        if (rootP == rootQ) return;
+	switch {
+	case uf.rank[rootP] < uf.rank[rootQ]:
+		uf.parent[rootP] = rootQ
+	case uf.rank[rootP] > uf.rank[rootQ]:
+		uf.parent[rootQ] = rootP
+	default:
+		uf.parent[rootP] = rootQ
+		uf.rank[rootP] += 1
+	}
+}
 
-        if (rank[rootP] < rank[rootQ]) parent[rootP] = rootQ;
-        else if (rank[rootP] > rank[rootQ]) parent[rootQ] = rootP;
-        else {
-            parent[rootP] = rootQ;
-            rank[rootP] += 1;
-        }
-    }
-
-    public boolean isConnected(int p, int q) {
-        return find(p) == find(q);
-    } 
+func (uf unionFind) IsConnected(p, q int) bool {
+	return uf.Find(p) == uf.Find(q)
 }
