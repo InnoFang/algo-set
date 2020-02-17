@@ -76,11 +76,11 @@ Use a variety of programming languages to solve problems, learn how to use skill
 
   - [Heap Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Heap%20Sort)
 
-    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/Main.java)  [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.kt) 
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/Main.java)  [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.kt)  [`Go`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Heap%20Sort/main.go) 
 
   - [Radix Sort](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Sort/Radix%20Sort)
 
-    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/main.kt)
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/main.kt) [`Go`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Sort/Radix%20Sort/main.go)
 
 + **[Tree](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Tree)**
 
