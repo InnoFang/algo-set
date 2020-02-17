@@ -1,11 +1,11 @@
 package UnionFind
 
-type UnionFind struct {
+type unionFind struct {
 	Size         int
 	parent, rank []int
 }
 
-func createUnionFind(size int) *UnionFind {
+func CreateUnionFind(size int) *UnionFind {
 	uf := UnionFind{
 		Size:   size,
 		parent: make([]int, size),
