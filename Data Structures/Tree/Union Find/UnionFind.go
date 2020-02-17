@@ -5,8 +5,8 @@ type unionFind struct {
 	parent, rank []int
 }
 
-func CreateUnionFind(size int) *UnionFind {
-	uf := UnionFind{
+func CreateUnionFind(size int) *unionFind {
+	uf := unionFind{
 		Size:   size,
 		parent: make([]int, size),
 		rank:   make([]int, size),
@@ -18,7 +18,7 @@ func CreateUnionFind(size int) *UnionFind {
 	return &uf
 }
 
-func (uf UnionFind) Find(p int) int {
+func (uf unionFind) Find(p int) int {
 	for p != uf.parent[p] {
 		uf.parent[p] = uf.parent[uf.parent[p]]
 		p = uf.parent[p]
@@ -26,7 +26,7 @@ func (uf UnionFind) Find(p int) int {
 	return p
 }
 
-func (uf UnionFind) Union(p, q int) {
+func (uf unionFind) Union(p, q int) {
 	rootP, rootQ := uf.Find(p), uf.Find(q)
 	if rootP == rootQ {
 		return
@@ -43,6 +43,6 @@ func (uf UnionFind) Union(p, q int) {
 	}
 }
 
-func (uf UnionFind) IsConnected(p, q int) bool {
+func (uf unionFind) IsConnected(p, q int) bool {
 	return uf.Find(p) == uf.Find(q)
 }
