@@ -1,10 +1,6 @@
 # Algorithm Set
  
-🎈 LeetCode's and CodeWars' solution collections, as well as other data structures and algorithms practices.
-
-## [CodeWars](https://github.com/InnoFang/algo-set/tree/master/CodeWars)
-
-Used to increase the skill and proficiency of programming languages. Mainly  programming language is Python rigth now.
+🎈 LeetCode solution collection, as well as data structure and algorithm practice.
 
 ## [LeetCode](https://github.com/InnoFang/algo-set/tree/master/LeetCode)
 
