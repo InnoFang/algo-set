@@ -11,6 +11,20 @@ type TreeNode struct {
     Right *TreeNode
 }
 
+/*
+The binary tree in this example is shown as follow
+
+       1
+     /   \
+    2     3
+   / \   /  
+  4   5 6
+     /
+    7
+
+pre-order traversal: 1 2 4 5 7 3 6
+*/
+
 func (tn *TreeNode) PreorderTraversalByRecursion() {
 	if tn == nil {
 		return
