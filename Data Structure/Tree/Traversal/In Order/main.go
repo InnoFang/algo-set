@@ -6,23 +6,23 @@ import(
 )
 
 type TreeNode struct {
-    Val int
+    Val interface{}
     Left *TreeNode
     Right *TreeNode
 }
 
-func  InorderTraversalByRecursion(root *TreeNode) {
-	if root == nil {
+func (tn *TreeNode) InorderTraversalByRecursion() {
+	if tn == nil {
 		return
 	}
-	InorderTraversalByRecursion(root.Left)
-	fmt.Print(root.Val, " ")
-	InorderTraversalByRecursion(root.Right)
+	tn.Left.InorderTraversalByRecursion()
+	fmt.Print(tn.Val, " ")
+	tn.Right.InorderTraversalByRecursion()
 }
 
-func InorderTraversal(root *TreeNode) {
+func (tn *TreeNode) InorderTraversal() {
 	stack := list.New()
-	node := root
+	node := tn
 	for node != nil || stack.Len() > 0 {
 		for node != nil {
 			stack.PushBack(node)
@@ -42,10 +42,10 @@ func main() {
 
 	root := generateBTree(nodes, 0)
 
-	InorderTraversalByRecursion(root)
+	root.InorderTraversalByRecursion()
 	fmt.Println()
 
-	InorderTraversal(root)
+	root.InorderTraversal()
 	fmt.Println()
 }
 
