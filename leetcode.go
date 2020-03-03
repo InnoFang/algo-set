@@ -14,7 +14,7 @@ type Solution struct {
 	Urls    map[string]string
 }
 
-const LEETCODE_DIR = `./LeetCode`
+const LEETCODE_DIR = `F:/IDEA Project/algo-set/LeetCode`
 
 var suffix = []string{"cpp", "java", "js", "python", "go", "kt"}
 
@@ -49,7 +49,7 @@ func main() {
 	}
 
 	md.WriteString("Problem | Cpp | Java | JS | Python | Go | Kotlin\n")
-	md.WriteString("---|---|---|---|---|---\n")
+	md.WriteString("---|---|---|---|---|---|---\n")
 	for _, s := range solutions {
 		md.WriteString(fmt.Sprintf("[%s](%s)", s.DirName, strings.Replace(s.DirUrl, " ", "%20", -1)))
 		for _, suf := range suffix {
