@@ -25,8 +25,8 @@ func main() {
 
 	list, err := ioutil.ReadDir(LEETCODE_DIR)
 	panicErr(err)
-	solutions := make([]Solution, len(list))
-	for idx, dir := range list {
+	var solutions []Solution
+	for _, dir := range list {
 		if dir.Name() == ".vscode" {
 			continue
 		}
@@ -44,13 +44,14 @@ func main() {
 					solution.Urls[ext] = LEETCODE_DIR + "/" + dir.Name() + "/" + f.Name()
 				}
 			}
-			solutions[idx] = solution
+			solutions = append(solutions, solution)
+
 		}
 	}
 
 	md.WriteString("Problem | Cpp | Java | JS | Python | Go | Kotlin\n")
 	md.WriteString("---|---|---|---|---|---|---\n")
-	for _, s := range solutions {
+	for _, s := range solutions { 
 		md.WriteString(fmt.Sprintf("[%s](%s)", s.DirName, strings.Replace(s.DirUrl, " ", "%20", -1)))
 		for _, suf := range suffix {
 			md.WriteString("|")
