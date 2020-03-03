@@ -2,7 +2,6 @@ package main
 
 import (
 	"io/ioutil"
-	"path/filepath"
 	"os"
 	"path"
 	"fmt"
@@ -33,7 +32,7 @@ func main() {
 		}
 		if dir.IsDir() {
 			solution := Solution{DirName: dir.Name(), Urls: make(map[string]string)}
-			solution.DirUrl = filepath.Join(LEETCODE_DIR, dir.Name())
+			solution.DirUrl = LEETCODE_DIR + "/" + dir.Name()
 			files, err := ioutil.ReadDir(solution.DirUrl)
 			panicErr(err)
 			for _, f := range files {
@@ -42,7 +41,7 @@ func main() {
 				}
 				ext := path.Ext(f.Name())[1:]
 				if ok := contains(suffix, ext); ok {
-					solution.Urls[ext] = filepath.Join(LEETCODE_DIR, dir.Name(), f.Name())
+					solution.Urls[ext] = LEETCODE_DIR + "/" + dir.Name() + "/" + f.Name()
 				}
 			}
 			solutions[idx] = solution
@@ -50,7 +49,7 @@ func main() {
 	}
 
 	md.WriteString("Problem | Cpp | Java | JS | Python | Go | Kotlin\n")
-	md.WriteString("---|---|---|---|---|---|---\n")
+	md.WriteString("---|---|---|---|---|---\n")
 	for _, s := range solutions {
 		md.WriteString(fmt.Sprintf("[%s](%s)", s.DirName, strings.Replace(s.DirUrl, " ", "%20", -1)))
 		for _, suf := range suffix {
