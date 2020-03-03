@@ -1,4 +1,4 @@
-Problem | C++ | Java | JavaScript | Python | Go | Kotlin
+Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
 [001. Two Sum](LeetCode\001.%20Two%20Sum)|[cpp](LeetCode\001.%20Two%20Sum\Solution.cpp)|[java](LeetCode\001.%20Two%20Sum\Solution.java)|[js](LeetCode\001.%20Two%20Sum\solution.js)||[go](LeetCode\001.%20Two%20Sum\Solution.go)|[kt](LeetCode\001.%20Two%20Sum\Solution.kt)
 [003. Longest Substring Without Repeating Characters](LeetCode\003.%20Longest%20Substring%20Without%20Repeating%20Characters)|||||[go](LeetCode\003.%20Longest%20Substring%20Without%20Repeating%20Characters\solution.go)|[kt](LeetCode\003.%20Longest%20Substring%20Without%20Repeating%20Characters\Solution.kt)
@@ -141,6 +141,7 @@ Problem | C++ | Java | JavaScript | Python | Go | Kotlin
 [872. Leaf-Similar Trees](LeetCode\872.%20Leaf-Similar%20Trees)|[cpp](LeetCode\872.%20Leaf-Similar%20Trees\Solution.cpp)|||||
 [961. N-Repeated Element in Size 2N Array](LeetCode\961.%20N-Repeated%20Element%20in%20Size%202N%20Array)|[cpp](LeetCode\961.%20N-Repeated%20Element%20in%20Size%202N%20Array\Solution.cpp)|||||
 []()||||||
+)||||||
 de\592.%20Fraction%20Addition%20and%20Subtraction\Solution.kt)
 [611. Valid Triangle Number](LeetCode\611.%20Valid%20Triangle%20Number)|[cpp]()|[java]()|[js]()||[go]()|[kt](LeetCode\611.%20Valid%20Triangle%20Number\Solution.kt)
 [643. Maximum Average Subarray I](LeetCode\643.%20Maximum%20Average%20Subarray%20I)|[java]()|[js]()||[go]()|[kt](LeetCode\643.%20Maximum%20Average%20Subarray%20I\Solution.kt)|[cpp]()

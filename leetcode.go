@@ -49,7 +49,7 @@ func main() {
 		}
 	}
 
-	md.WriteString("Problem | C++ | Java | JavaScript | Python | Go | Kotlin\n")
+	md.WriteString("Problem | Cpp | Java | JS | Python | Go | Kotlin\n")
 	md.WriteString("---|---|---|---|---|---|---\n")
 	for _, s := range solutions {
 		md.WriteString(fmt.Sprintf("[%s](%s)", s.DirName, strings.Replace(s.DirUrl, " ", "%20", -1)))
