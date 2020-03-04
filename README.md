@@ -6,6 +6,8 @@
 
 Use a variety of programming languages to solve problems, learn how to use skills and problem solving ideas. Mainly is Kotlin.
 
+LeetCode solution list please click [here](./LeetCode.md) to see.
+
 ## [Data Structure](./Data%20Structure)
 
 + **[Graph](./Data%20Structure/Graph)**
