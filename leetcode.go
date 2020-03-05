@@ -6,7 +6,9 @@ import (
 	"path"
 	"fmt"
 	"strings"
+	"strconv"
 )
+
 
 type Solution struct {
 	DirName string
@@ -49,6 +51,8 @@ func main() {
 		}
 	}
 
+	generateHeader(md, len(solutions))
+
 	md.WriteString("Problem | Cpp | Java | JS | Python | Go | Kotlin\n")
 	md.WriteString("---|---|---|---|---|---|---\n")
 	for _, s := range solutions { 
@@ -61,6 +65,22 @@ func main() {
 		}
 		md.WriteString("\n")
 	}
+
+	generateFooter(md)
+}
+
+
+func generateHeader(file *os.File, solvedNum int) {
+	file.WriteString("# Leetcode\n**Problems have been solved:**: " + strconv.Itoa(solvedNum - 1))
+	file.WriteString("\n\n")
+}
+
+
+func generateFooter(file *os.File) {
+	file.WriteString("\n\n")
+	file.WriteString("来源：力扣（LeetCode）\n\n")
+	file.WriteString("链接：https://leetcode-cn.com/problemset/all/\n\n")
+	file.WriteString("著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。\n\n")
 }
 
 func contains(source []string, target string) bool {
