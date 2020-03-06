@@ -1,4 +1,5 @@
 /**
+ * Beat 17%
  * 27 / 27 test cases passed.
  * Status: Accepted
  * Runtime: 8ms
@@ -20,3 +21,28 @@ public:
     }
 };
 
+/**
+ * 直接赋值要比取模运算来的快
+ * Beat 100%
+ * 27 / 27 test cases passed.
+ * Status: Accepted
+ * Runtime: 0ms
+ * 
+ */
+class Solution2 {
+public:
+    vector<int> distributeCandies(int candies, int num_people) {
+        vector<int> people(num_people, 0); 
+        int dstri = 1, i = 0;
+        while (candies) {
+            if (candies < dstri) {
+                people[i] += candies;
+                break;
+            }
+            candies -= dstri;
+            people[i++] += dstri++;
+            if (i == num_people) i = 0;
+        }
+        return people;
+    }
+};
