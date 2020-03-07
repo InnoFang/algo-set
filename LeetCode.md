@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:**: 140
+**Problems have been solved:**: 148
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -20,7 +20,9 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0034. Search for a Range](./LeetCode/0034.%20Search%20for%20a%20Range)||||||[kt](./LeetCode/0034.%20Search%20for%20a%20Range/Solution.kt)
 [0035. Search Insert Position](./LeetCode/0035.%20Search%20Insert%20Position)||||||[kt](./LeetCode/0035.%20Search%20Insert%20Position/Solution.kt)
 [0046. Permutations](./LeetCode/0046.%20Permutations)||||||[kt](./LeetCode/0046.%20Permutations/Solution.kt)
+[0047. Permutations II](./LeetCode/0047.%20Permutations%20II)||||||[kt](./LeetCode/0047.%20Permutations%20II/Solution.kt)
 [0050. Pow(x, n)](./LeetCode/0050.%20Pow(x,%20n))||||||[kt](./LeetCode/0050.%20Pow(x,%20n)/Solution.kt)
+[0051. N Queens](./LeetCode/0051.%20N%20Queens)||||||[kt](./LeetCode/0051.%20N%20Queens/Solution.kt)
 [0058. Length of Last Word](./LeetCode/0058.%20Length%20of%20Last%20Word)|[cpp](./LeetCode/0058.%20Length%20of%20Last%20Word/Solution.cpp)|||||[kt](./LeetCode/0058.%20Length%20of%20Last%20Word/Solution.kt)
 [0066. Plus One](./LeetCode/0066.%20Plus%20One)|[cpp](./LeetCode/0066.%20Plus%20One/Solution.cpp)|||[py](./LeetCode/0066.%20Plus%20One/Solution.py)||
 [0067. Add Binary](./LeetCode/0067.%20Add%20Binary)||||||[kt](./LeetCode/0067.%20Add%20Binary/Solution.kt)
@@ -28,6 +30,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0070. Climbing Stairs](./LeetCode/0070.%20Climbing%20Stairs)||||||[kt](./LeetCode/0070.%20Climbing%20Stairs/Solution.kt)
 [0071. Simplify Path](./LeetCode/0071.%20Simplify%20Path)||||[py](./LeetCode/0071.%20Simplify%20Path/Solution.py)||[kt](./LeetCode/0071.%20Simplify%20Path/Solution.kt)
 [0075. Sort Colors](./LeetCode/0075.%20Sort%20Colors)||[java](./LeetCode/0075.%20Sort%20Colors/Solution.java)|[js](./LeetCode/0075.%20Sort%20Colors/Solution.js)|[py](./LeetCode/0075.%20Sort%20Colors/Solution.py)||[kt](./LeetCode/0075.%20Sort%20Colors/Solution.kt)
+[0077. Combinations](./LeetCode/0077.%20Combinations)||||||[kt](./LeetCode/0077.%20Combinations/Solution.kt)
 [0079. Word Search](./LeetCode/0079.%20Word%20Search)||||||[kt](./LeetCode/0079.%20Word%20Search/Solution.kt)
 [0083. Remove Duplicates from Sorted List](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List)||||||[kt](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/Solution.kt)
 [0088. Merge Sorted Array](./LeetCode/0088.%20Merge%20Sorted%20Array)||||||[kt](./LeetCode/0088.%20Merge%20Sorted%20Array/Solution.kt)
@@ -51,6 +54,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0136. Single Number](./LeetCode/0136.%20Single%20Number)||||||[kt](./LeetCode/0136.%20Single%20Number/Solution.kt)
 [0141. Linked List Cycle](./LeetCode/0141.%20Linked%20List%20Cycle)|[cpp](./LeetCode/0141.%20Linked%20List%20Cycle/Solution.cpp)|||||
 [0142. Linked List Cycle II](./LeetCode/0142.%20Linked%20List%20Cycle%20II)|[cpp](./LeetCode/0142.%20Linked%20List%20Cycle%20II/Solution.cpp)|||||
+[0144. Binary Tree Preorder Traversal](./LeetCode/0144.%20Binary%20Tree%20Preorder%20Traversal)||||||[kt](./LeetCode/0144.%20Binary%20Tree%20Preorder%20Traversal/Solution.kt)
 [0145. Binary Tree Postorder Traversal](./LeetCode/0145.%20Binary%20Tree%20Postorder%20Traversal)||||||[kt](./LeetCode/0145.%20Binary%20Tree%20Postorder%20Traversal/Solution.kt)
 [0148. Sort List](./LeetCode/0148.%20Sort%20List)||[java](./LeetCode/0148.%20Sort%20List/Solution.java)||||[kt](./LeetCode/0148.%20Sort%20List/Solution.kt)
 [0150. Evaluate Reverse Polish Notation](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation)||[java](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.java)|[js](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.js)|[py](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.py)||[kt](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.kt)
@@ -77,6 +81,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0230. Kth Smallest Element in a BST](./LeetCode/0230.%20Kth%20Smallest%20Element%20in%20a%20BST)||||||[kt](./LeetCode/0230.%20Kth%20Smallest%20Element%20in%20a%20BST/Solution.kt)
 [0231. Power of Two](./LeetCode/0231.%20Power%20of%20Two)||||||[kt](./LeetCode/0231.%20Power%20of%20Two/Solution.kt)
 [0232. Implement Queue using Stacks](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks)|[cpp](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks/Solution.cpp)|||||
+[0235. Lowest Common Ancestor of a Binary Search Tree](./LeetCode/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)||[java](./LeetCode/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Solution.java)||||
 [0241. Different Ways to Add Parentheses](./LeetCode/0241.%20Different%20Ways%20to%20Add%20Parentheses)||||||[kt](./LeetCode/0241.%20Different%20Ways%20to%20Add%20Parentheses/Solution.kt)
 [0242. Valid Anagram](./LeetCode/0242.%20Valid%20Anagram)||||||[kt](./LeetCode/0242.%20Valid%20Anagram/Solution.kt)
 [0257. Binary Tree Paths](./LeetCode/0257.%20Binary%20Tree%20Paths)||||||[kt](./LeetCode/0257.%20Binary%20Tree%20Paths/Solution.kt)
@@ -94,6 +99,8 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0344. Reverse String](./LeetCode/0344.%20Reverse%20String)||||||[kt](./LeetCode/0344.%20Reverse%20String/Solution.kt)
 [0345. Reverse Vowels of a String](./LeetCode/0345.%20Reverse%20Vowels%20of%20a%20String)||||||[kt](./LeetCode/0345.%20Reverse%20Vowels%20of%20a%20String/Solution.kt)
 [0347. Top K Frequent Elements](./LeetCode/0347.%20Top%20K%20Frequent%20Elements)||||||[kt](./LeetCode/0347.%20Top%20K%20Frequent%20Elements/Solution.kt)
+[0349. Intersection of Two Arrays](./LeetCode/0349.%20Intersection%20of%20Two%20Arrays)||||||[kt](./LeetCode/0349.%20Intersection%20of%20Two%20Arrays/Solution.kt)
+[0350. Intersection of Two Arrays II](./LeetCode/0350.%20Intersection%20of%20Two%20Arrays%20II)||||||[kt](./LeetCode/0350.%20Intersection%20of%20Two%20Arrays%20II/Solution.kt)
 [0371. Sum of Two Integers](./LeetCode/0371.%20Sum%20of%20Two%20Integers)||||||[kt](./LeetCode/0371.%20Sum%20of%20Two%20Integers/Solution.kt)
 [0372. Super Pow](./LeetCode/0372.%20Super%20Pow)||[java](./LeetCode/0372.%20Super%20Pow/Solution.java)||||[kt](./LeetCode/0372.%20Super%20Pow/Solution.kt)
 [0389. Find the Difference](./LeetCode/0389.%20Find%20the%20Difference)|[cpp](./LeetCode/0389.%20Find%20the%20Difference/solution.cpp)|||||[kt](./LeetCode/0389.%20Find%20the%20Difference/Solution.kt)
@@ -104,6 +111,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0415. Add Strings](./LeetCode/0415.%20Add%20Strings)||||||[kt](./LeetCode/0415.%20Add%20Strings/Solution.kt)
 [0416. Partition Equal Subset Sum](./LeetCode/0416.%20Partition%20Equal%20Subset%20Sum)||||||[kt](./LeetCode/0416.%20Partition%20Equal%20Subset%20Sum/Soution.kt)
 [0435. Non overlapping Intervals](./LeetCode/0435.%20Non%20overlapping%20Intervals)||||||[kt](./LeetCode/0435.%20Non%20overlapping%20Intervals/Solution.kt)
+[0437. Path Sum III](./LeetCode/0437.%20Path%20Sum%20III)||||||[kt](./LeetCode/0437.%20Path%20Sum%20III/Solution.kt)
 [0441. Arranging Coins](./LeetCode/0441.%20Arranging%20Coins)|[cpp](./LeetCode/0441.%20Arranging%20Coins/Solution.cpp)|||||
 [0451. Sort Characters By Frequency](./LeetCode/0451.%20Sort%20Characters%20By%20Frequency)||||||[kt](./LeetCode/0451.%20Sort%20Characters%20By%20Frequency/Solution.kt)
 [0455. Assign Cookies](./LeetCode/0455.%20Assign%20Cookies)||||||[kt](./LeetCode/0455.%20Assign%20Cookies/Solution.kt)
@@ -143,7 +151,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0860. Lemonade Change](./LeetCode/0860.%20Lemonade%20Change)|[cpp](./LeetCode/0860.%20Lemonade%20Change/Solution.cpp)|||||
 [0872. Leaf-Similar Trees](./LeetCode/0872.%20Leaf-Similar%20Trees)|[cpp](./LeetCode/0872.%20Leaf-Similar%20Trees/Solution.cpp)|||||
 [0961. N-Repeated Element in Size 2N Array](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array)|[cpp](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array/Solution.cpp)|||||
-[1103. Distribute Candies to People](./LeetCode/1103.%20Distribute%20Candies%20to%20People)|[cpp](./LeetCode/1103.%20Distribute%20Candies%20to%20People/solution.cpp)|||||
+[1103. Distribute Candies to People](./LeetCode/1103.%20Distribute%20Candies%20to%20People)|[cpp](./LeetCode/1103.%20Distribute%20Candies%20to%20People/solution.cpp)|[java](./LeetCode/1103.%20Distribute%20Candies%20to%20People/Solution.java)||||
 
 
 来源：力扣（LeetCode）
