@@ -1,5 +1,3 @@
-package com.company;
-
 import java.io.BufferedOutputStream;
 import java.io.PrintWriter;
 

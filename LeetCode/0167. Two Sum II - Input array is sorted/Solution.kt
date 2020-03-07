@@ -1,8 +1,4 @@
 /**
- * Created by Inno Fang on 2018/2/6.
- */
-
-/**
  * 16 / 16 test cases passed.
  * Status: Accepted
  * Runtime: 400 ms

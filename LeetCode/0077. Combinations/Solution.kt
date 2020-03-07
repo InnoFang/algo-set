@@ -1,8 +1,3 @@
-package algorithm._77_Combinations
-
-/**
- * Created by Inno Fang on 2018/1/2.
- */
 class Solution {
     private val res = ArrayList<List<Int>>()
     fun combine(n: Int, k: Int): List<List<Int>> {

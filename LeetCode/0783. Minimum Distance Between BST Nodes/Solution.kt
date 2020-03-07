@@ -1,9 +1,3 @@
-package algorithm._783_Minimum_Distance_Between_BST_Nodes
-
-/**
- * Created by Inno Fang on 2018/2/11.
- */
-
 class TreeNode(var `val`: Int = 0) {
     var left: TreeNode? = null
     var right: TreeNode? = null

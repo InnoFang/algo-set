@@ -1,9 +1,3 @@
-package algorithm._389_Find_the_Difference
-
-/**
- * Created by Inno Fang on 2018/1/5.
- */
-
 // AC: 325ms
 class Solution {
     fun findTheDifference(s: String, t: String): Char {

@@ -1,9 +1,3 @@
-package algorithm.climbingStairs
-
-/**
- * Created by Inno Fang on 2017/12/1.
- */
-
 class Solution {
     fun climbStairs(n: Int): Int {
         val arr = MutableList(n + 2) { 0 }

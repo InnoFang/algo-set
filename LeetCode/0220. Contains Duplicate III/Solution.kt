@@ -1,8 +1,3 @@
-package io.innofang
-
-/**
- * Created by Inno Fang on 2018/2/9.
- */
 import java.util.TreeSet
 
 /**

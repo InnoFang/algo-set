@@ -1,12 +1,7 @@
-package io.innofang;
-
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by Inno Fang on 2018/2/6.
- */
 class Solution {
 
     /**

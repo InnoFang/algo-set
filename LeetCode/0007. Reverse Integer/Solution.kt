@@ -1,8 +1,3 @@
-package algorithm._007_Reverse_Integer
-
-/**
- * Created by Inno Fang on 2018/1/9.
- */
 class Solution {
     fun reverse(x: Int): Int {
         var num = x

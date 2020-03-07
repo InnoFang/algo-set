@@ -1,9 +1,3 @@
-package io.innofang
-
-/**
- * Created by Inno Fang on 2018/2/7.
- */
-
 /**
  * 15 / 15 test cases passed.
  * Status: Accepted

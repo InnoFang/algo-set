@@ -1,8 +1,3 @@
-package algorithm._47_Permutations_II
-
-/**
- * Created by Inno Fang on 2018/1/2.
- */
 class Solution {
     private val res = ArrayList<List<Int>>()
     fun permuteUnique(nums: IntArray): List<List<Int>> {

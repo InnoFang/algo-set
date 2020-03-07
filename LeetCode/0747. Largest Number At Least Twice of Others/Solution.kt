@@ -1,9 +1,3 @@
-package algorithm._747_Largest_Number_At_Least_Twice_of_Others
-
-/**
- * Created by Inno Fang on 2018/2/12.
- */
-
 /**
  * 250 / 250 test cases passed.
  * Status: Accepted

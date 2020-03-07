@@ -1,9 +1,3 @@
-package algorithm._88_Merge_Sorted_Array
-
-/**
- * Created by Inno Fang on 2018/1/10.
- */
-
 /**
  * 59 / 59 test cases passed.
  * Status: Accepted

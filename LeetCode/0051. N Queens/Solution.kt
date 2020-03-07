@@ -1,8 +1,3 @@
-package algorithm._51_N_Queens
-
-/**
- * Created by Inno Fang on 2018/1/13.
- */
 class Solution {
 
     val res = ArrayList<ArrayList<String>>()
