@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:**: 148
+**Problems have been solved:**: 155
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -113,7 +113,10 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0435. Non overlapping Intervals](./LeetCode/0435.%20Non%20overlapping%20Intervals)||||||[kt](./LeetCode/0435.%20Non%20overlapping%20Intervals/Solution.kt)
 [0437. Path Sum III](./LeetCode/0437.%20Path%20Sum%20III)||||||[kt](./LeetCode/0437.%20Path%20Sum%20III/Solution.kt)
 [0441. Arranging Coins](./LeetCode/0441.%20Arranging%20Coins)|[cpp](./LeetCode/0441.%20Arranging%20Coins/Solution.cpp)|||||
+[0447. Number of Boomeranges](./LeetCode/0447.%20Number%20of%20Boomeranges)||||||[kt](./LeetCode/0447.%20Number%20of%20Boomeranges/Solution.kt)
+[0448. Find All Numbers Disappeared in an Array](./LeetCode/0448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)||||||[kt](./LeetCode/0448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/Solution.kt)
 [0451. Sort Characters By Frequency](./LeetCode/0451.%20Sort%20Characters%20By%20Frequency)||||||[kt](./LeetCode/0451.%20Sort%20Characters%20By%20Frequency/Solution.kt)
+[0454. 4Sum II](./LeetCode/0454.%204Sum%20II)||||||[kt](./LeetCode/0454.%204Sum%20II/Solution.kt)
 [0455. Assign Cookies](./LeetCode/0455.%20Assign%20Cookies)||||||[kt](./LeetCode/0455.%20Assign%20Cookies/Solution.kt)
 [0456. 132 Pattern](./LeetCode/0456.%20132%20Pattern)||||||[kt](./LeetCode/0456.%20132%20Pattern/Solution.kt)
 [0461. Hamming Distance](./LeetCode/0461.%20Hamming%20Distance)||||||[kt](./LeetCode/0461.%20Hamming%20Distance/Solution.kt)
@@ -129,6 +132,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0541. Reverse String II](./LeetCode/0541.%20Reverse%20String%20II)||||||[kt](./LeetCode/0541.%20Reverse%20String%20II/Solution.kt)
 [0547. Friend Circles](./LeetCode/0547.%20Friend%20Circles)|[cpp](./LeetCode/0547.%20Friend%20Circles/Solution.cpp)|[java](./LeetCode/0547.%20Friend%20Circles/Solution.java)||||[kt](./LeetCode/0547.%20Friend%20Circles/Solution.kt)
 [0561. Array Partition I](./LeetCode/0561.%20Array%20Partition%20I)||||||[kt](./LeetCode/0561.%20Array%20Partition%20I/Solution.kt)
+[0566. Reshpae the Matrix](./LeetCode/0566.%20Reshpae%20the%20Matrix)||||||[kt](./LeetCode/0566.%20Reshpae%20the%20Matrix/Solution.kt)
 [0567. Permutation in String](./LeetCode/0567.%20Permutation%20in%20String)||||||[kt](./LeetCode/0567.%20Permutation%20in%20String/Solution.kt)
 [0572. Subtree of Another Tree](./LeetCode/0572.%20Subtree%20of%20Another%20Tree)||||||[kt](./LeetCode/0572.%20Subtree%20of%20Another%20Tree/Solution.kt)
 [0592. Fraction Addition and Subtraction](./LeetCode/0592.%20Fraction%20Addition%20and%20Subtraction)||||||[kt](./LeetCode/0592.%20Fraction%20Addition%20and%20Subtraction/Solution.kt)
@@ -140,11 +144,14 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0693. Binary Number with Alternating Bits](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits)||||||[kt](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits/Solution.kt)
 [0698. Partition to K Equal Sum Subsets](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)||||||[kt](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets/Solution.kt)
 [0721. Accounts Merge](./LeetCode/0721.%20Accounts%20Merge)||[java](./LeetCode/0721.%20Accounts%20Merge/Solution.java)||||[kt](./LeetCode/0721.%20Accounts%20Merge/Solution.kt)
+[0728. Self Dividing Numbers](./LeetCode/0728.%20Self%20Dividing%20Numbers)||||||[kt](./LeetCode/0728.%20Self%20Dividing%20Numbers/Solution.kt)
 [0733. Flood Fill](./LeetCode/0733.%20Flood%20Fill)||||||[kt](./LeetCode/0733.%20Flood%20Fill/Solution.kt)
 [0738. Monotone Increasing Digits](./LeetCode/0738.%20Monotone%20Increasing%20Digits)||||||[kt](./LeetCode/0738.%20Monotone%20Increasing%20Digits/Solution.kt)
 [0745. Prefix and Suffix Search](./LeetCode/0745.%20Prefix%20and%20Suffix%20Search)||||||[kt](./LeetCode/0745.%20Prefix%20and%20Suffix%20Search/Solution.kt)
 [0747. Largest Number At Least Twice of Others](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others)||||||[kt](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/Solution.kt)
 [0760. Find Anagram Mappings](./LeetCode/0760.%20Find%20Anagram%20Mappings)||||||[kt](./LeetCode/0760.%20Find%20Anagram%20Mappings/Solution.kt)
+[0762. Prime Number of Set Bits in Binary Representation](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)||||||[kt](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/Solution.kt)
+[0771. Jewels and Stones](./LeetCode/0771.%20Jewels%20and%20Stones)||||||[kt](./LeetCode/0771.%20Jewels%20and%20Stones/Solution.kt)
 [0783. Minimum Distance Between BST Nodes](./LeetCode/0783.%20Minimum%20Distance%20Between%20BST%20Nodes)||||||[kt](./LeetCode/0783.%20Minimum%20Distance%20Between%20BST%20Nodes/Solution.kt)
 [0796. Rotate String](./LeetCode/0796.%20Rotate%20String)||||||[kt](./LeetCode/0796.%20Rotate%20String/Solution.kt)
 [0824. Goat Latin](./LeetCode/0824.%20Goat%20Latin)|[cpp](./LeetCode/0824.%20Goat%20Latin/Solution.cpp)|||||
