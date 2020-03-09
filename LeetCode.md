@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:**: 155
+**Problems have been solved:**: 166
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -9,6 +9,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0005. Longest Palindromic Substring](./LeetCode/0005.%20Longest%20Palindromic%20Substring)|[cpp](./LeetCode/0005.%20Longest%20Palindromic%20Substring/Solution.cpp)|[java](./LeetCode/0005.%20Longest%20Palindromic%20Substring/Solution.java)||||[kt](./LeetCode/0005.%20Longest%20Palindromic%20Substring/Solution.kt)
 [0006. ZigZag Conversion](./LeetCode/0006.%20ZigZag%20Conversion)||[java](./LeetCode/0006.%20ZigZag%20Conversion/Solution.java)||||[kt](./LeetCode/0006.%20ZigZag%20Conversion/Solution.kt)
 [0007. Reverse Integer](./LeetCode/0007.%20Reverse%20Integer)||||||[kt](./LeetCode/0007.%20Reverse%20Integer/Solution.kt)
+[0009. Palindrome Number](./LeetCode/0009.%20Palindrome%20Number)||||||[kt](./LeetCode/0009.%20Palindrome%20Number/solution.kt)
 [0012. Integer to Roman](./LeetCode/0012.%20Integer%20to%20Roman)||||||[kt](./LeetCode/0012.%20Integer%20to%20Roman/Solution.kt)
 [0013. Roman to Integer](./LeetCode/0013.%20Roman%20to%20Integer)||||||[kt](./LeetCode/0013.%20Roman%20to%20Integer/Solution.kt)
 [0017. Letter Combinations of a Phone Number](./LeetCode/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number)||||||[kt](./LeetCode/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number/Solution.kt)
@@ -24,6 +25,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0050. Pow(x, n)](./LeetCode/0050.%20Pow(x,%20n))||||||[kt](./LeetCode/0050.%20Pow(x,%20n)/Solution.kt)
 [0051. N Queens](./LeetCode/0051.%20N%20Queens)||||||[kt](./LeetCode/0051.%20N%20Queens/Solution.kt)
 [0058. Length of Last Word](./LeetCode/0058.%20Length%20of%20Last%20Word)|[cpp](./LeetCode/0058.%20Length%20of%20Last%20Word/Solution.cpp)|||||[kt](./LeetCode/0058.%20Length%20of%20Last%20Word/Solution.kt)
+[0064. Minimum Path Sum](./LeetCode/0064.%20Minimum%20Path%20Sum)||||||[kt](./LeetCode/0064.%20Minimum%20Path%20Sum/solution.kt)
 [0066. Plus One](./LeetCode/0066.%20Plus%20One)|[cpp](./LeetCode/0066.%20Plus%20One/Solution.cpp)|||[py](./LeetCode/0066.%20Plus%20One/Solution.py)||
 [0067. Add Binary](./LeetCode/0067.%20Add%20Binary)||||||[kt](./LeetCode/0067.%20Add%20Binary/Solution.kt)
 [0069. Sqrt(x)](./LeetCode/0069.%20Sqrt(x))||||||[kt](./LeetCode/0069.%20Sqrt(x)/Solution.kt)
@@ -34,6 +36,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0079. Word Search](./LeetCode/0079.%20Word%20Search)||||||[kt](./LeetCode/0079.%20Word%20Search/Solution.kt)
 [0083. Remove Duplicates from Sorted List](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List)||||||[kt](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/Solution.kt)
 [0088. Merge Sorted Array](./LeetCode/0088.%20Merge%20Sorted%20Array)||||||[kt](./LeetCode/0088.%20Merge%20Sorted%20Array/Solution.kt)
+[0091. Decode Ways](./LeetCode/0091.%20Decode%20Ways)||||||[kt](./LeetCode/0091.%20Decode%20Ways/Solution.kt)
 [0094. Binary Tree Inorder Traversal](./LeetCode/0094.%20Binary%20Tree%20Inorder%20Traversal)||||||[kt](./LeetCode/0094.%20Binary%20Tree%20Inorder%20Traversal/Solution.kt)
 [0098. Validate Binary Search Tree](./LeetCode/0098.%20Validate%20Binary%20Search%20Tree)|[cpp](./LeetCode/0098.%20Validate%20Binary%20Search%20Tree/Solution.cpp)|||||
 [0100. Same Tree](./LeetCode/0100.%20Same%20Tree)||||||[kt](./LeetCode/0100.%20Same%20Tree/Solution.kt)
@@ -96,6 +99,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0322. Coin Change](./LeetCode/0322.%20Coin%20Change)||||||[kt](./LeetCode/0322.%20Coin%20Change/Solution.kt)
 [0326. Power of Three](./LeetCode/0326.%20Power%20of%20Three)||||||[kt](./LeetCode/0326.%20Power%20of%20Three/Solution.kt)
 [0342. Power of Four](./LeetCode/0342.%20Power%20of%20Four)||||||[kt](./LeetCode/0342.%20Power%20of%20Four/Solution.kt)
+[0343. Integer Break](./LeetCode/0343.%20Integer%20Break)||||||[kt](./LeetCode/0343.%20Integer%20Break/solution.kt)
 [0344. Reverse String](./LeetCode/0344.%20Reverse%20String)||||||[kt](./LeetCode/0344.%20Reverse%20String/Solution.kt)
 [0345. Reverse Vowels of a String](./LeetCode/0345.%20Reverse%20Vowels%20of%20a%20String)||||||[kt](./LeetCode/0345.%20Reverse%20Vowels%20of%20a%20String/Solution.kt)
 [0347. Top K Frequent Elements](./LeetCode/0347.%20Top%20K%20Frequent%20Elements)||||||[kt](./LeetCode/0347.%20Top%20K%20Frequent%20Elements/Solution.kt)
@@ -128,6 +132,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0513. Find Bottom Left Tree Value](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value)|[cpp](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.cpp)|||||[kt](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.kt)
 [0520. Detect Capital](./LeetCode/0520.%20Detect%20Capital)||||||[kt](./LeetCode/0520.%20Detect%20Capital/Solution.kt)
 [0530. Minimum Absolute Difference in BST](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST)||||||[kt](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/Solution.kt)
+[0537. Complex Number Multiplication](./LeetCode/0537.%20Complex%20Number%20Multiplication)||[java](./LeetCode/0537.%20Complex%20Number%20Multiplication/Solution.java)||||
 [0540. Single Element in a Sorted Array](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array)||||||[kt](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array/Solution.kt)
 [0541. Reverse String II](./LeetCode/0541.%20Reverse%20String%20II)||||||[kt](./LeetCode/0541.%20Reverse%20String%20II/Solution.kt)
 [0547. Friend Circles](./LeetCode/0547.%20Friend%20Circles)|[cpp](./LeetCode/0547.%20Friend%20Circles/Solution.cpp)|[java](./LeetCode/0547.%20Friend%20Circles/Solution.java)||||[kt](./LeetCode/0547.%20Friend%20Circles/Solution.kt)
@@ -152,8 +157,14 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0760. Find Anagram Mappings](./LeetCode/0760.%20Find%20Anagram%20Mappings)||||||[kt](./LeetCode/0760.%20Find%20Anagram%20Mappings/Solution.kt)
 [0762. Prime Number of Set Bits in Binary Representation](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)||||||[kt](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/Solution.kt)
 [0771. Jewels and Stones](./LeetCode/0771.%20Jewels%20and%20Stones)||||||[kt](./LeetCode/0771.%20Jewels%20and%20Stones/Solution.kt)
+[0780. Reaching Points](./LeetCode/0780.%20Reaching%20Points)||||||[kt](./LeetCode/0780.%20Reaching%20Points/Solution.kt)
 [0783. Minimum Distance Between BST Nodes](./LeetCode/0783.%20Minimum%20Distance%20Between%20BST%20Nodes)||||||[kt](./LeetCode/0783.%20Minimum%20Distance%20Between%20BST%20Nodes/Solution.kt)
+[0784. Letter Case Permutation](./LeetCode/0784.%20Letter%20Case%20Permutation)||||||[kt](./LeetCode/0784.%20Letter%20Case%20Permutation/Solution.kt)
+[0788. Rotated Digits](./LeetCode/0788.%20Rotated%20Digits)||||||[kt](./LeetCode/0788.%20Rotated%20Digits/Solution.kt)
+[0789. Escape The Ghosts](./LeetCode/0789.%20Escape%20The%20Ghosts)||||||[kt](./LeetCode/0789.%20Escape%20The%20Ghosts/Solution.kt)
+[0791. Custom Sort String](./LeetCode/0791.%20Custom%20Sort%20String)||||||[kt](./LeetCode/0791.%20Custom%20Sort%20String/Solution.kt)
 [0796. Rotate String](./LeetCode/0796.%20Rotate%20String)||||||[kt](./LeetCode/0796.%20Rotate%20String/Solution.kt)
+[0797. All Paths From Source to Target](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target)||||||[kt](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target/Solution.kt)
 [0824. Goat Latin](./LeetCode/0824.%20Goat%20Latin)|[cpp](./LeetCode/0824.%20Goat%20Latin/Solution.cpp)|||||
 [0860. Lemonade Change](./LeetCode/0860.%20Lemonade%20Change)|[cpp](./LeetCode/0860.%20Lemonade%20Change/Solution.cpp)|||||
 [0872. Leaf-Similar Trees](./LeetCode/0872.%20Leaf-Similar%20Trees)|[cpp](./LeetCode/0872.%20Leaf-Similar%20Trees/Solution.cpp)|||||
