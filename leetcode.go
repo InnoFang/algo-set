@@ -27,7 +27,7 @@ func main() {
 
 	list, err := ioutil.ReadDir(LEETCODE_DIR)
 	panicErr(err)
-	var solutions []Solution
+	solutions := make([]Solution, 0, len(list))
 	for _, dir := range list {
 		if dir.Name() == ".vscode" {
 			continue
@@ -37,7 +37,7 @@ func main() {
 			solution.DirUrl = LEETCODE_DIR + "/" + dir.Name()
 			files, err := ioutil.ReadDir(solution.DirUrl)
 			panicErr(err)
-			for _, f := range files {
+			for _, f := range files { 
 				if dir.Name() == ".vscode" {
 					continue
 				}
@@ -47,7 +47,6 @@ func main() {
 				}
 			}
 			solutions = append(solutions, solution)
-
 		}
 	}
 
@@ -71,7 +70,7 @@ func main() {
 
 
 func generateHeader(file *os.File, solvedNum int) {
-	file.WriteString("# Leetcode\n**Problems have been solved:**: " + strconv.Itoa(solvedNum - 1))
+	file.WriteString("# Leetcode\n**Problems have been solved:**: " + strconv.Itoa(solvedNum))
 	file.WriteString("\n\n")
 }
 
