@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:**: 167
+**Problems have been solved:**: 168
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -49,6 +49,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0112. Path Sum](./LeetCode/0112.%20Path%20Sum)||||||[kt](./LeetCode/0112.%20Path%20Sum/Solution.kt)
 [0118. Pascal's Triangle](./LeetCode/0118.%20Pascal's%20Triangle)||[java](./LeetCode/0118.%20Pascal's%20Triangle/Solution.java)||[py](./LeetCode/0118.%20Pascal's%20Triangle/Solution.py)||[kt](./LeetCode/0118.%20Pascal's%20Triangle/Solution.kt)
 [0120. Triangle](./LeetCode/0120.%20Triangle)|[cpp](./LeetCode/0120.%20Triangle/Solution.cpp)|||||[kt](./LeetCode/0120.%20Triangle/Solution.kt)
+[0121. Best Time to Buy and Sell Stock](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|[cpp](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.cpp)|[java](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.java)|[js](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.js)|[py](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.py)|[go](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.go)|[kt](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.kt)
 [0122. Best Time to Buy and Sell Stock II](./LeetCode/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)||||||[kt](./LeetCode/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.kt)
 [0125. Valid Palindrome](./LeetCode/0125.%20Valid%20Palindrome)||||||[kt](./LeetCode/0125.%20Valid%20Palindrome/Solution.kt)
 [0127. Word Ladder](./LeetCode/0127.%20Word%20Ladder)||[java](./LeetCode/0127.%20Word%20Ladder/Solution.java)||||[kt](./LeetCode/0127.%20Word%20Ladder/Solution.kt)
@@ -171,6 +172,8 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0961. N-Repeated Element in Size 2N Array](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array)|[cpp](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array/Solution.cpp)|||||
 [1103. Distribute Candies to People](./LeetCode/1103.%20Distribute%20Candies%20to%20People)|[cpp](./LeetCode/1103.%20Distribute%20Candies%20to%20People/solution.cpp)|[java](./LeetCode/1103.%20Distribute%20Candies%20to%20People/Solution.java)||||
 
+
+------
 
 来源：力扣（LeetCode）
 
