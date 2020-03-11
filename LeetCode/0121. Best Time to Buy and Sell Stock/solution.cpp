@@ -17,3 +17,25 @@ public:
     }
 };
 
+/**
+ * 200 / 200 test case passed
+ * Status: Accepted
+ * Runtime: 12 ms
+ */
+class Solution2 {
+public:
+    int maxProfit(vector<int>& prices) { 
+        if (!prices.size()) return 0;
+        int profit = 0;
+        int min = prices[0];
+        for (int i = 1; i < prices.size(); i++) {
+            if (prices[i] < min) {
+                min = prices[i];
+            } else {
+                profit = max(profit, prices[i] - min);
+            }
+        }
+        return profit;
+    }
+};
+
