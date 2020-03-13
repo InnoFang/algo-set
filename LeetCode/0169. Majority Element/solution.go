@@ -33,3 +33,9 @@ func majorityElement2(nums []int) int {
     }
     return -1
 }
+
+
+func majorityElement3(nums []int) int {
+    sort.Ints(nums)
+    return nums[(len(nums)-1)/2]
+}
