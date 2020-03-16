@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 170
+**Problems have been solved:** 172
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -138,6 +138,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0537. Complex Number Multiplication](./LeetCode/0537.%20Complex%20Number%20Multiplication)||[java](./LeetCode/0537.%20Complex%20Number%20Multiplication/Solution.java)||||
 [0540. Single Element in a Sorted Array](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array)||||||[kt](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array/Solution.kt)
 [0541. Reverse String II](./LeetCode/0541.%20Reverse%20String%20II)||||||[kt](./LeetCode/0541.%20Reverse%20String%20II/Solution.kt)
+[0543. Diameter of Binary Tree](./LeetCode/0543.%20Diameter%20of%20Binary%20Tree)|||||[go](./LeetCode/0543.%20Diameter%20of%20Binary%20Tree/solution.go)|
 [0547. Friend Circles](./LeetCode/0547.%20Friend%20Circles)|[cpp](./LeetCode/0547.%20Friend%20Circles/Solution.cpp)|[java](./LeetCode/0547.%20Friend%20Circles/Solution.java)||||[kt](./LeetCode/0547.%20Friend%20Circles/Solution.kt)
 [0561. Array Partition I](./LeetCode/0561.%20Array%20Partition%20I)||||||[kt](./LeetCode/0561.%20Array%20Partition%20I/Solution.kt)
 [0566. Reshpae the Matrix](./LeetCode/0566.%20Reshpae%20the%20Matrix)||||||[kt](./LeetCode/0566.%20Reshpae%20the%20Matrix/Solution.kt)
@@ -172,6 +173,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0860. Lemonade Change](./LeetCode/0860.%20Lemonade%20Change)|[cpp](./LeetCode/0860.%20Lemonade%20Change/Solution.cpp)|||||
 [0872. Leaf-Similar Trees](./LeetCode/0872.%20Leaf-Similar%20Trees)|[cpp](./LeetCode/0872.%20Leaf-Similar%20Trees/Solution.cpp)|||||
 [0961. N-Repeated Element in Size 2N Array](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array)|[cpp](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array/Solution.cpp)|||||
+[1013. Partition Array Into Three Parts With Equal Sum](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)|||||[go](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/solution.go)|
 [1103. Distribute Candies to People](./LeetCode/1103.%20Distribute%20Candies%20to%20People)|[cpp](./LeetCode/1103.%20Distribute%20Candies%20to%20People/solution.cpp)|[java](./LeetCode/1103.%20Distribute%20Candies%20to%20People/Solution.java)||||
 
 
