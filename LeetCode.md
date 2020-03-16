@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 169
+**Problems have been solved:** 170
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -66,6 +66,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0160. Intersection of Two Linked Lists](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists)|[cpp](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists/Solution.cpp)|||||
 [0165. Compare Version Numbers](./LeetCode/0165.%20Compare%20Version%20Numbers)||||||[kt](./LeetCode/0165.%20Compare%20Version%20Numbers/Solution.kt)
 [0167. Two Sum II - Input array is sorted](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)||[java](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.java)||[py](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.py)||[kt](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.kt)
+[0169. Majority Element](./LeetCode/0169.%20Majority%20Element)|||||[go](./LeetCode/0169.%20Majority%20Element/solution.go)|
 [0179. Largest Number](./LeetCode/0179.%20Largest%20Number)||[java](./LeetCode/0179.%20Largest%20Number/Solution.java)||||[kt](./LeetCode/0179.%20Largest%20Number/Solution.kt)
 [0198. House Robber](./LeetCode/0198.%20House%20Robber)||||||[kt](./LeetCode/0198.%20House%20Robber/Solution.kt)
 [0199. Binary Tree Right Side View](./LeetCode/0199.%20Binary%20Tree%20Right%20Side%20View)||||||[kt](./LeetCode/0199.%20Binary%20Tree%20Right%20Side%20View/Solution.kt)
