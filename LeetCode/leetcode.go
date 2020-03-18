@@ -21,7 +21,7 @@ const LEETCODE_DIR = `.`
 var suffix = []string{"cpp", "java", "js", "py", "go", "kt"}
 
 func main() {
-	md, err := os.OpenFile("LeetCode.md", os.O_CREATE|os.O_WRONLY, 0666)
+	md, err := os.OpenFile("../LeetCode.md", os.O_CREATE|os.O_WRONLY, 0666)
 	defer md.Close()
 	panicErr(err)
 
