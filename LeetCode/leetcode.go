@@ -16,7 +16,7 @@ type Solution struct {
 	Urls    map[string]string
 }
 
-const LEETCODE_DIR = `./LeetCode`
+const LEETCODE_DIR = `.`
 
 var suffix = []string{"cpp", "java", "js", "py", "go", "kt"}
 
