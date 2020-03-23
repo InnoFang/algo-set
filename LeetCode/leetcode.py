@@ -20,18 +20,18 @@ def main():
             solution['file_urls'] = {f.split('.')[-1] : os.path.join(dir_url, f) for f in files}
             solution_list.append(solution.copy())
 
-    with open('./leetcode.md', 'w+', encoding="utf-8") as md:
+    with open('./LeetCode.md', 'w+', encoding="utf-8") as md:
         md.write("# Leetcode\n**Problems have been solved:** " + str(len(solution_list)))
         md.write("\n\n")
         md.write("Problem | Cpp | Java | JS | Python | Go | Kotlin\n")
         md.write("---|---|---|---|---|---|---\n")
 
         for s in solution_list:
-            md.write("[{}]({})".format(s['dir_name'], s['dir_url'].replace(" ", "%20")))
+            md.write("[{}]({})".format(s['dir_name'], s['dir_url'].replace(" ", "%20")).replace("\\", "/"))
             for ext in suffix:
                 md.write('|')
                 if ext in s['file_urls']: 
-                    md.write("[{}]({})".format(ext, s['file_urls'][ext].replace(" ", "%20")))
+                    md.write("[{}]({})".format(ext, s['file_urls'][ext].replace(" ", "%20").replace("\\", "/")))
             md.write('\n')
         md.write("\n\n------\n\n")
         md.write("来源：力扣（LeetCode）\n\n")
