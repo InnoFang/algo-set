@@ -17,11 +17,10 @@ def main():
         if re.match(r'^[0-9]{4}\. .*', dir_name):
             solution['dir_name'] = dir_name
             solution['dir_url']  = os.path.join('LeetCode', dir_url[2:]) 
-            solution['file_urls'] = {f.split('.')[-1] : dir_url + '/' + f for f in files}
+            solution['file_urls'] = {f.split('.')[-1] : os.path.join(dir_url, f) for f in files}
             solution_list.append(solution.copy())
-    solution_list = solution_list[1:]
 
-    with open('../leetcode.md', 'w', encoding="utf-8") as md:
+    with open('./leetcode.md', 'w+', encoding="utf-8") as md:
         md.write("# Leetcode\n**Problems have been solved:** " + str(len(solution_list)))
         md.write("\n\n")
         md.write("Problem | Cpp | Java | JS | Python | Go | Kotlin\n")
@@ -31,7 +30,7 @@ def main():
             md.write("[{}]({})".format(s['dir_name'], s['dir_url'].replace(" ", "%20")))
             for ext in suffix:
                 md.write('|')
-                if ext in s['file_urls']:
+                if ext in s['file_urls']: 
                     md.write("[{}]({})".format(ext, s['file_urls'][ext].replace(" ", "%20")))
             md.write('\n')
         md.write("\n\n------\n\n")
