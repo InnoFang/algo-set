@@ -176,7 +176,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0860. Lemonade Change](LeetCode/LeetCode/0860.%20Lemonade%20Change)|[cpp](./LeetCode/0860.%20Lemonade%20Change/Solution.cpp)|||||
 [0872. Leaf-Similar Trees](LeetCode/LeetCode/0872.%20Leaf-Similar%20Trees)|[cpp](./LeetCode/0872.%20Leaf-Similar%20Trees/Solution.cpp)|||||
 [0876. Middle of the Linked List](LeetCode/LeetCode/0876.%20Middle%20of%20the%20Linked%20List)|||||[go](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List/solution.go)|
-[0945. Minimum Increment to Make Array Unique](LeetCode/LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique)|||||[go](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.go)|
+[0945. Minimum Increment to Make Array Unique](LeetCode/LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique)||||[py](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.py)|[go](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.go)|
 [0961. N-Repeated Element in Size 2N Array](LeetCode/LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array)|[cpp](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array/Solution.cpp)|||||
 [1013. Partition Array Into Three Parts With Equal Sum](LeetCode/LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)|||||[go](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/solution.go)|
 [1103. Distribute Candies to People](LeetCode/LeetCode/1103.%20Distribute%20Candies%20to%20People)|[cpp](./LeetCode/1103.%20Distribute%20Candies%20to%20People/solution.cpp)|[java](./LeetCode/1103.%20Distribute%20Candies%20to%20People/Solution.java)||||
