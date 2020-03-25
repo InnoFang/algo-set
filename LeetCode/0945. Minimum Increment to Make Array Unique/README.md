@@ -1,4 +1,4 @@
-# []()
+# [945. Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)
 
 ![](https://img.shields.io/badge/Difficulty-Medium-F8AF40.svg)
 
