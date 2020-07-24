@@ -5,7 +5,7 @@
 ```cpp
 #include <bits/stdc++.h>
 
-using namespace std; 
+using namespace std;
 
 const int inf =  0x3f3f3f3f;
 const double eps = 1e-8;
