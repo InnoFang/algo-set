@@ -2,9 +2,6 @@
 
 using namespace std; 
 
-void palindrome(int n) {
-
-}
 
 int main() {  
 
