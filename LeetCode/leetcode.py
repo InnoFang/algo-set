@@ -34,9 +34,6 @@ def main():
                     md.write("[{}]({})".format(ext, s['file_urls'][ext].replace(" ", "%20").replace("\\", "/")))
             md.write('\n')
         md.write("\n\n------\n\n")
-        md.write("来源：力扣（LeetCode）\n\n")
-        md.write("链接：https://leetcode-cn.com/problemset/all/\n\n")
-        md.write("著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。\n\n")
 
 if __name__ == '__main__':
     main()
