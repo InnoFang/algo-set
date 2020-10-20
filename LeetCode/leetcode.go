@@ -16,12 +16,12 @@ type Solution struct {
 	Urls    map[string]string
 }
 
-const LEETCODE_DIR = `.`
+const LEETCODE_DIR = `.\LeetCode`
 
 var suffix = []string{"cpp", "java", "js", "py", "go", "kt"}
 
 func main() {
-	md, err := os.OpenFile("../LeetCode.md", os.O_CREATE|os.O_WRONLY, 0666)
+	md, err := os.OpenFile("./LeetCode.md", os.O_CREATE|os.O_WRONLY, 0666)
 	defer md.Close()
 	panicErr(err)
 
@@ -77,9 +77,6 @@ func generateHeader(file *os.File, solvedNum int) {
 
 func generateFooter(file *os.File) {
 	file.WriteString("\n\n------\n\n")
-	file.WriteString("来源：力扣（LeetCode）\n\n")
-	file.WriteString("链接：https://leetcode-cn.com/problemset/all/\n\n")
-	file.WriteString("著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。\n\n")
 }
 
 func contains(source []string, target string) bool {
