@@ -2,7 +2,7 @@
  
 🎈 LeetCode solution collection, as well as data structure and algorithm practice.
 
-## [LeetCode](./LeetCode)
+## [LeetCode](./LeetCode.md)
 
 Use a variety of programming languages to solve problems, learn how to use skills and problem solving ideas. Mainly is Kotlin.
 
