@@ -1,4 +1,4 @@
-# [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+# [1464. Maximum Product of Two Elements in an Array](https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array/)
 
 ![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
 
@@ -6,19 +6,36 @@
 <summary style="color:#4FC3F7">Topics</summary>
 
 * [`Array`](https://leetcode.com/tag/array/)
-* [`Hash Table`](https://leetcode.com/tag/hash-table/)
 
 </details>
 <br />
 
+Given the array of integers `nums`, you will choose two different indices `i` and `j` of that array. Return the maximum value of `(nums[i]-1)*(nums[j]-1)`.
 
-Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.
+**Example 1:**
 
-You may assume that each input would have _**exactly**_ one solution, and you may not use the same element twice.
+```
+Input: nums = [3,4,5,2]
+Output: 12 
+Explanation: If you choose the indices i=1 and j=2 (indexed from 0), you will get the maximum value, that is, (nums[1]-1)*(nums[2]-1) = (4-1)*(5-1) = 3*4 = 12. 
+```
 
-**Example:**
+**Example 2:**
 
-> Given nums = [2, 7, 11, 15], target = 9,
->
-> Because nums[**0**] + nums[**1**] = 2 + 7 = 9,
-> return [**0, 1**].
+```
+Input: nums = [1,5,4,5]
+Output: 16
+Explanation: Choosing the indices i=1 and j=3 (indexed from 0), you will get the maximum value of (5-1)*(5-1) = 16.
+```
+
+**Example 3:**
+
+```
+Input: nums = [3,7]
+Output: 12
+``` 
+
+**Constraints:**
+
+ + `2 <= nums.length <= 500`
+ + `1 <= nums[i] <= 10^3`
