@@ -1,5 +1,6 @@
 #include <unordered_map>
 /**
+ * 19 / 19 test cases passed.
  * Status: Accepted
  * Runtime: 8ms
  */
