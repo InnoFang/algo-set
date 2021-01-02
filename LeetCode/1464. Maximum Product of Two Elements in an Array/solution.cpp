@@ -26,7 +26,7 @@ public:
  * Status: Accepted
  * Runtime: 8 ms
  */
-class Solution {
+class Solution2 {
 public:
     int maxProduct(vector<int>& nums) {
         int first = nums[0];
