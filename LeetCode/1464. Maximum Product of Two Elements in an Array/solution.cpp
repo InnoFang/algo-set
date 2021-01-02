@@ -21,3 +21,26 @@ public:
     }
 };
 
+/**
+ * 104 / 104 test cases passed.
+ * Status: Accepted
+ * Runtime: 8 ms
+ */
+class Solution {
+public:
+    int maxProduct(vector<int>& nums) {
+        int first = nums[0];
+        int second = nums[1];
+        if (first < second) swap(first, second);
+        for (int i = 2; i < nums.size(); ++ i) {
+            if (nums[i] > first) {
+                second = first;
+                first = nums[i];
+            } else if (nums[i] > second) {
+                second = nums[i];
+            }
+        }
+        return (first - 1) * (second - 1);
+    }
+};
+
