@@ -15,6 +15,6 @@ public:
             else if (move == 'R') ++ hor;
             else if (move == 'L') -- hor;
         }
-        return hor == 0 && vec == 0;
+        return !hor && !vec;
     }
 };
