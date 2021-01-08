@@ -18,3 +18,16 @@ func reverse(nums []int, begin, end int) {
         end--
     }
 }
+
+
+/**
+ * SOLUTION 2, EXCELLENT !!
+ * 35 / 35 test cases passed.
+ * Status: Accepted
+ * Runtime: 0 ms
+ */
+func rotate2(nums []int, k int)  {
+    k %= len(nums)
+    ans := append(nums[len(nums)-k:], nums[:len(nums)-k]...)
+    nums = append(nums[:0], ans...)
+}
