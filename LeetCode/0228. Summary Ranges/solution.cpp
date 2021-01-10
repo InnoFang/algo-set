@@ -38,9 +38,33 @@ public:
 /**
  * 28 / 28 test cases passed.
  * Status: Accepted
- * Runtime: 0 ms
+ * Runtime: 4 ms
  */
 class Solution2 {
+public:
+    vector<string> summaryRanges(vector<int>& nums) {
+        vector<string> ans; 
+        for (int i = 0; i < nums.size(); ) {
+            int low = i;
+            i += 1;
+            while (i < nums.size() && nums[i-1]  + 1 == nums[i]) ++ i;
+            int high = i - 1;
+            string tmp = to_string( nums[low] );
+            if (low != high) {
+                tmp += "->" + to_string( nums[high] );
+            }
+            ans.push_back( tmp );
+        }
+        return ans; 
+    }
+};
+
+/**
+ * 28 / 28 test cases passed.
+ * Status: Accepted
+ * Runtime: 0 ms
+ */
+class Solution3 {
 public:
     vector<string> summaryRanges(vector<int>& nums) {
         vector<string> ans; 
@@ -59,4 +83,5 @@ public:
         return ans; 
     }
 };
+
 
