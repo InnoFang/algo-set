@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 192
+**Problems have been solved:** 197
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -22,6 +22,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0035. Search Insert Position](LeetCode/LeetCode/0035.%20Search%20Insert%20Position)||||||[kt](./LeetCode/0035.%20Search%20Insert%20Position/Solution.kt)
 [0046. Permutations](LeetCode/LeetCode/0046.%20Permutations)||||||[kt](./LeetCode/0046.%20Permutations/Solution.kt)
 [0047. Permutations II](LeetCode/LeetCode/0047.%20Permutations%20II)||||||[kt](./LeetCode/0047.%20Permutations%20II/Solution.kt)
+[0048. Rotate Image](LeetCode/LeetCode/0048.%20Rotate%20Image)|[cpp](./LeetCode/0048.%20Rotate%20Image/solution.cpp)|||[py](./LeetCode/0048.%20Rotate%20Image/solution.py)||
 [0050. Pow(x, n)](LeetCode/LeetCode/0050.%20Pow(x,%20n))||||||[kt](./LeetCode/0050.%20Pow(x,%20n)/Solution.kt)
 [0051. N Queens](LeetCode/LeetCode/0051.%20N%20Queens)||||||[kt](./LeetCode/0051.%20N%20Queens/Solution.kt)
 [0053. Maximum Subarray](LeetCode/LeetCode/0053.%20Maximum%20Subarray)|[cpp](./LeetCode/0053.%20Maximum%20Subarray/solution.cpp)|||||
@@ -69,6 +70,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0167. Two Sum II - Input array is sorted](LeetCode/LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)||[java](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.java)||[py](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.py)||[kt](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.kt)
 [0169. Majority Element](LeetCode/LeetCode/0169.%20Majority%20Element)|||||[go](./LeetCode/0169.%20Majority%20Element/solution.go)|
 [0179. Largest Number](LeetCode/LeetCode/0179.%20Largest%20Number)||[java](./LeetCode/0179.%20Largest%20Number/Solution.java)||||[kt](./LeetCode/0179.%20Largest%20Number/Solution.kt)
+[0189. Rotate Array](LeetCode/LeetCode/0189.%20Rotate%20Array)|[cpp](./LeetCode/0189.%20Rotate%20Array/solution.cpp)||||[go](./LeetCode/0189.%20Rotate%20Array/solution.go)|
 [0198. House Robber](LeetCode/LeetCode/0198.%20House%20Robber)||||||[kt](./LeetCode/0198.%20House%20Robber/Solution.kt)
 [0199. Binary Tree Right Side View](LeetCode/LeetCode/0199.%20Binary%20Tree%20Right%20Side%20View)||||||[kt](./LeetCode/0199.%20Binary%20Tree%20Right%20Side%20View/Solution.kt)
 [0200. Number of Islands](LeetCode/LeetCode/0200.%20Number%20of%20Islands)||||||[kt](./LeetCode/0200.%20Number%20of%20Islands/Solution.kt)
@@ -88,6 +90,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0231. Power of Two](LeetCode/LeetCode/0231.%20Power%20of%20Two)||||||[kt](./LeetCode/0231.%20Power%20of%20Two/Solution.kt)
 [0232. Implement Queue using Stacks](LeetCode/LeetCode/0232.%20Implement%20Queue%20using%20Stacks)|[cpp](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks/Solution.cpp)|||||
 [0235. Lowest Common Ancestor of a Binary Search Tree](LeetCode/LeetCode/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)||[java](./LeetCode/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Solution.java)||||
+[0237. Delete Node in a Linked List](LeetCode/LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List)|[cpp](./LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/solution.cpp)||||[go](./LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/Solution.go)|
 [0241. Different Ways to Add Parentheses](LeetCode/LeetCode/0241.%20Different%20Ways%20to%20Add%20Parentheses)||||||[kt](./LeetCode/0241.%20Different%20Ways%20to%20Add%20Parentheses/Solution.kt)
 [0242. Valid Anagram](LeetCode/LeetCode/0242.%20Valid%20Anagram)||||||[kt](./LeetCode/0242.%20Valid%20Anagram/Solution.kt)
 [0257. Binary Tree Paths](LeetCode/LeetCode/0257.%20Binary%20Tree%20Paths)||||||[kt](./LeetCode/0257.%20Binary%20Tree%20Paths/Solution.kt)
@@ -113,6 +116,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0365. Water and Jug Problem](LeetCode/LeetCode/0365.%20Water%20and%20Jug%20Problem)|||||[go](./LeetCode/0365.%20Water%20and%20Jug%20Problem/solution.go)|
 [0371. Sum of Two Integers](LeetCode/LeetCode/0371.%20Sum%20of%20Two%20Integers)||||||[kt](./LeetCode/0371.%20Sum%20of%20Two%20Integers/Solution.kt)
 [0372. Super Pow](LeetCode/LeetCode/0372.%20Super%20Pow)||[java](./LeetCode/0372.%20Super%20Pow/Solution.java)||||[kt](./LeetCode/0372.%20Super%20Pow/Solution.kt)
+[0386. Lexicographical Numbers](LeetCode/LeetCode/0386.%20Lexicographical%20Numbers)|[cpp](./LeetCode/0386.%20Lexicographical%20Numbers/solution.cpp)|||||
 [0389. Find the Difference](LeetCode/LeetCode/0389.%20Find%20the%20Difference)|[cpp](./LeetCode/0389.%20Find%20the%20Difference/solution.cpp)|||||[kt](./LeetCode/0389.%20Find%20the%20Difference/Solution.kt)
 [0392. Is Subsequence](LeetCode/LeetCode/0392.%20Is%20Subsequence)||[java](./LeetCode/0392.%20Is%20Subsequence/Solution.java)||||[kt](./LeetCode/0392.%20Is%20Subsequence/Solution.kt)
 [0397. Integer Replacement](LeetCode/LeetCode/0397.%20Integer%20Replacement)||||||[kt](./LeetCode/0397.%20Integer%20Replacement/Solution.kt)
@@ -154,6 +158,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0611. Valid Triangle Number](LeetCode/LeetCode/0611.%20Valid%20Triangle%20Number)||||||[kt](./LeetCode/0611.%20Valid%20Triangle%20Number/Solution.kt)
 [0643. Maximum Average Subarray I](LeetCode/LeetCode/0643.%20Maximum%20Average%20Subarray%20I)||||||[kt](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/Solution.kt)
 [0648. Replace Words](LeetCode/LeetCode/0648.%20Replace%20Words)||||||[kt](./LeetCode/0648.%20Replace%20Words/Solution.kt)
+[0657. Robot Return to Origin](LeetCode/LeetCode/0657.%20Robot%20Return%20to%20Origin)|[cpp](./LeetCode/0657.%20Robot%20Return%20to%20Origin/solution.cpp)|[java](./LeetCode/0657.%20Robot%20Return%20to%20Origin/Solution.java)|[js](./LeetCode/0657.%20Robot%20Return%20to%20Origin/solution.js)|[py](./LeetCode/0657.%20Robot%20Return%20to%20Origin/solution.py)|[go](./LeetCode/0657.%20Robot%20Return%20to%20Origin/Solution.go)|[kt](./LeetCode/0657.%20Robot%20Return%20to%20Origin/Solution.kt)
 [0665. Non-decreasing Array](LeetCode/LeetCode/0665.%20Non-decreasing%20Array)||||||[kt](./LeetCode/0665.%20Non-decreasing%20Array/Solution.kt)
 [0684. Redundant Connection](LeetCode/LeetCode/0684.%20Redundant%20Connection)|[cpp](./LeetCode/0684.%20Redundant%20Connection/Solution.cpp)|[java](./LeetCode/0684.%20Redundant%20Connection/Solution.java)||[py](./LeetCode/0684.%20Redundant%20Connection/Solution.py)||[kt](./LeetCode/0684.%20Redundant%20Connection/Solution.kt)
 [0690. Employee Importance](LeetCode/LeetCode/0690.%20Employee%20Importance)|[cpp](./LeetCode/0690.%20Employee%20Importance/solution.cpp)|||||
