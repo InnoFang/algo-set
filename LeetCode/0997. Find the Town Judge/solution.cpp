@@ -21,3 +21,25 @@ public:
     }
 };
 
+/**
+ * 92 / 92 test cases passed.
+ * Status: Accepted
+ * Runtime: 372 ms
+ */
+class Solution2 {
+public:
+    int findJudge(int N, vector<vector<int>>& trust) {
+        vector<int> degree(N + 1);
+        for (auto& pair: trust) {
+            degree[pair[0]] --;
+            degree[pair[1]] ++;
+        }
+        for (int i = 1; i <= N; ++ i) {
+            if (degree[i] == N -1) {
+                return i;
+            }
+        }
+        return -1;
+    }
+};
+
