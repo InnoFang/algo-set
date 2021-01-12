@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 197
+**Problems have been solved:** 199
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -86,6 +86,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0220. Contains Duplicate III](LeetCode/LeetCode/0220.%20Contains%20Duplicate%20III)||||||[kt](./LeetCode/0220.%20Contains%20Duplicate%20III/Solution.kt)
 [0225. Implement Stack using Queues](LeetCode/LeetCode/0225.%20Implement%20Stack%20using%20Queues)|[cpp](./LeetCode/0225.%20Implement%20Stack%20using%20Queues/Solution.cpp)|||||
 [0226. Invert Binary Tree](LeetCode/LeetCode/0226.%20Invert%20Binary%20Tree)||||||[kt](./LeetCode/0226.%20Invert%20Binary%20Tree/Solution.kt)
+[0228. Summary Ranges](LeetCode/LeetCode/0228.%20Summary%20Ranges)|[cpp](./LeetCode/0228.%20Summary%20Ranges/solution.cpp)|[java](./LeetCode/0228.%20Summary%20Ranges/Solution.java)||||
 [0230. Kth Smallest Element in a BST](LeetCode/LeetCode/0230.%20Kth%20Smallest%20Element%20in%20a%20BST)||||||[kt](./LeetCode/0230.%20Kth%20Smallest%20Element%20in%20a%20BST/Solution.kt)
 [0231. Power of Two](LeetCode/LeetCode/0231.%20Power%20of%20Two)||||||[kt](./LeetCode/0231.%20Power%20of%20Two/Solution.kt)
 [0232. Implement Queue using Stacks](LeetCode/LeetCode/0232.%20Implement%20Queue%20using%20Stacks)|[cpp](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks/Solution.cpp)|||||
@@ -191,6 +192,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0945. Minimum Increment to Make Array Unique](LeetCode/LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique)|[cpp](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.cpp)|||[py](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.py)|[go](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.go)|
 [0961. N-Repeated Element in Size 2N Array](LeetCode/LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array)|[cpp](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array/Solution.cpp)|||||
 [0977. Squares of a Sorted Array](LeetCode/LeetCode/0977.%20Squares%20of%20a%20Sorted%20Array)|[cpp](./LeetCode/0977.%20Squares%20of%20a%20Sorted%20Array/solution.cpp)|||||
+[0997. Find the Town Judge](LeetCode/LeetCode/0997.%20Find%20the%20Town%20Judge)|[cpp](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.cpp)|||[py](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.py)||
 [1013. Partition Array Into Three Parts With Equal Sum](LeetCode/LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)|||||[go](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/solution.go)|
 [1029. Two City Scheduling](LeetCode/LeetCode/1029.%20Two%20City%20Scheduling)|[cpp](./LeetCode/1029.%20Two%20City%20Scheduling/solution.cpp)|||||
 [1081. Smallest Subsequence of Distinct Characters](LeetCode/LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters)|[cpp](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/solution.cpp)|||||
