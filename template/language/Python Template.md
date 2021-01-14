@@ -34,6 +34,9 @@ def read(type):
     assert type in [int, float, str]
     return list(map(type, stdin.readline().split()))
 
+# simplify
+read_ = lambda tp: list(map(tp, stdin.readline().split()))
+
 # whole-file input
 def read_all(): 
     M = 10 ** 7
