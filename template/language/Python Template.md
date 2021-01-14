@@ -22,3 +22,31 @@ python main.py < in.txt > out.txt
 type out.txt
 pause
 ```
+
+## template
+
+```Python
+import os
+from sys import stdin
+
+# single-line input
+def read(type):
+    assert type in [int, float, str]
+    return list(map(type, stdin.readline().split()))
+
+# whole-file input
+def read_all(): 
+    M = 10 ** 7
+    # if all data type are integer, code follow
+    # return list(map(int, os.read(0, M).split()))
+
+    # otherwise as below, then cast data manually
+    return list(os.read(0, M).split())
+
+def main():
+    pass
+
+if __name__ == '__main__':
+    main()
+
+```
