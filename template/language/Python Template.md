@@ -32,7 +32,8 @@ from sys import stdin
 # single-line input
 def read(type):
     assert type in [int, float, str]
-    return list(map(type, stdin.readline().split()))
+    inputs = list(map(type, stdin.readline().split()))
+    return inputs if len(inputs) > 1 else inputs[0]
 
 # simplify
 read_ = lambda tp: list(map(tp, stdin.readline().split()))
