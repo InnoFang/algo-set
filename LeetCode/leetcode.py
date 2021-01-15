@@ -16,7 +16,7 @@ def main():
         dir_name = dir_url.split('\\')[-1]
         if re.match(r'^[0-9]{4}\. .*', dir_name):
             solution['dir_name'] = dir_name
-            solution['dir_url']  = os.path.join('LeetCode', dir_url[2:]) 
+            solution['dir_url']  = os.path.join('.', dir_url[2:]) 
             solution['file_urls'] = {f.split('.')[-1] : os.path.join(dir_url, f) for f in files}
             solution_list.append(solution.copy())
 
