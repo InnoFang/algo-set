@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 199
+**Problems have been solved:** 200
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -198,6 +198,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1081. Smallest Subsequence of Distinct Characters](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters)|[cpp](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/solution.cpp)|||||
 [1103. Distribute Candies to People](./LeetCode/1103.%20Distribute%20Candies%20to%20People)|[cpp](./LeetCode/1103.%20Distribute%20Candies%20to%20People/solution.cpp)|[java](./LeetCode/1103.%20Distribute%20Candies%20to%20People/Solution.java)||||
 [1160. Find Words That Can Be Formed by Characters](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)|||||[go](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/solution.go)|
+[1232. Check If It Is a Straight Line](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line)|[cpp](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.cpp)|[java](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/Solution.java)||[py](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.py)||
 [1464. Maximum Product of Two Elements in an Array](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)|[cpp](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.py)||
 [1480. Running Sum of 1d Array](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array)|[cpp](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array/solution.cpp)|||||
 [5531. Special Array With X Elements Greater Than or Equal X](./LeetCode/5531.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)|[cpp](./LeetCode/5531.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/solution.cpp)|||||
