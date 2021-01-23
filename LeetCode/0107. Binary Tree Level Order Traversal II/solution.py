@@ -36,3 +36,22 @@ class Solution:
         return traversal
 
     
+class Solution2:
+    def levelOrderBottom(self, root: TreeNode) -> List[List[int]]:
+        if root is None:
+            return []
+        
+        ans, parent = [], [root]
+        while parent:
+            child = []
+            level = []
+            for node in parent:
+                level.append(node.val)
+                if node.left:
+                    child.append(node.left)
+                if node.right:
+                    child.append(node.right)
+            parent = child
+            ans.append(level)
+        
+        return ans[::-1]
