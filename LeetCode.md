@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 202
+**Problems have been solved:** 208
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -42,13 +42,17 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0094. Binary Tree Inorder Traversal](./LeetCode/0094.%20Binary%20Tree%20Inorder%20Traversal)||||||[kt](./LeetCode/0094.%20Binary%20Tree%20Inorder%20Traversal/Solution.kt)
 [0098. Validate Binary Search Tree](./LeetCode/0098.%20Validate%20Binary%20Search%20Tree)|[cpp](./LeetCode/0098.%20Validate%20Binary%20Search%20Tree/Solution.cpp)|||||
 [0100. Same Tree](./LeetCode/0100.%20Same%20Tree)||||||[kt](./LeetCode/0100.%20Same%20Tree/Solution.kt)
+[0101. Symmetric Tree](./LeetCode/0101.%20Symmetric%20Tree)||||[py](./LeetCode/0101.%20Symmetric%20Tree/solution.py)||
 [0102. Binary Tree Level Order Traversal](./LeetCode/0102.%20Binary%20Tree%20Level%20Order%20Traversal)|[cpp](./LeetCode/0102.%20Binary%20Tree%20Level%20Order%20Traversal/Solution.cpp)|||||[kt](./LeetCode/0102.%20Binary%20Tree%20Level%20Order%20Traversal/Solution.kt)
 [0103. Binary Tree Zigzag Level Order Traversal](./LeetCode/0103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)||||||[kt](./LeetCode/0103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/Solution.kt)
-[0104. Maximum Depth of Binary Tree](./LeetCode/0104.%20Maximum%20Depth%20of%20Binary%20Tree)|[cpp](./LeetCode/0104.%20Maximum%20Depth%20of%20Binary%20Tree/Solution.cpp)|||||[kt](./LeetCode/0104.%20Maximum%20Depth%20of%20Binary%20Tree/Solution.kt)
+[0104. Maximum Depth of Binary Tree](./LeetCode/0104.%20Maximum%20Depth%20of%20Binary%20Tree)|[cpp](./LeetCode/0104.%20Maximum%20Depth%20of%20Binary%20Tree/Solution.cpp)|||[py](./LeetCode/0104.%20Maximum%20Depth%20of%20Binary%20Tree/solution.py)||[kt](./LeetCode/0104.%20Maximum%20Depth%20of%20Binary%20Tree/Solution.kt)
 [0105. Construct Binary Tree from Preorder and Inorder Traversal](./LeetCode/0105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal)||[java](./LeetCode/0105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/Solution.java)||||[kt](./LeetCode/0105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/Solution.kt)
 [0106. Construct Binary Tree from Inorder and Postorder Traversal](./LeetCode/0106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal)||[java](./LeetCode/0106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/Solution.java)||||[kt](./LeetCode/0106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/Solution.kt)
+[0107. Binary Tree Level Order Traversal II](./LeetCode/0107.%20Binary%20Tree%20Level%20Order%20Traversal%20II)||||[py](./LeetCode/0107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/solution.py)||
+[0108. Convert Sorted Array to Binary Search Tree](./LeetCode/0108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)||||[py](./LeetCode/0108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/solution.py)||
+[0110. Balanced Binary Tree](./LeetCode/0110.%20Balanced%20Binary%20Tree)||||[py](./LeetCode/0110.%20Balanced%20Binary%20Tree/solution.py)||
 [0111. Minimum Depth of Binary Tree](./LeetCode/0111.%20Minimum%20Depth%20of%20Binary%20Tree)|[cpp](./LeetCode/0111.%20Minimum%20Depth%20of%20Binary%20Tree/Solution.cpp)|||||[kt](./LeetCode/0111.%20Minimum%20Depth%20of%20Binary%20Tree/Solution.kt)
-[0112. Path Sum](./LeetCode/0112.%20Path%20Sum)||||||[kt](./LeetCode/0112.%20Path%20Sum/Solution.kt)
+[0112. Path Sum](./LeetCode/0112.%20Path%20Sum)||||[py](./LeetCode/0112.%20Path%20Sum/solution.py)||[kt](./LeetCode/0112.%20Path%20Sum/Solution.kt)
 [0118. Pascal's Triangle](./LeetCode/0118.%20Pascal's%20Triangle)||[java](./LeetCode/0118.%20Pascal's%20Triangle/Solution.java)||[py](./LeetCode/0118.%20Pascal's%20Triangle/Solution.py)||[kt](./LeetCode/0118.%20Pascal's%20Triangle/Solution.kt)
 [0120. Triangle](./LeetCode/0120.%20Triangle)|[cpp](./LeetCode/0120.%20Triangle/Solution.cpp)|||||[kt](./LeetCode/0120.%20Triangle/Solution.kt)
 [0121. Best Time to Buy and Sell Stock](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|[cpp](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.cpp)|[java](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.java)|[js](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.js)|[py](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.py)|[go](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.go)|[kt](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.kt)
@@ -56,6 +60,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0125. Valid Palindrome](./LeetCode/0125.%20Valid%20Palindrome)||||||[kt](./LeetCode/0125.%20Valid%20Palindrome/Solution.kt)
 [0127. Word Ladder](./LeetCode/0127.%20Word%20Ladder)||[java](./LeetCode/0127.%20Word%20Ladder/Solution.java)||||[kt](./LeetCode/0127.%20Word%20Ladder/Solution.kt)
 [0128. Longest Consecutive Sequence](./LeetCode/0128.%20Longest%20Consecutive%20Sequence)||||||[kt](./LeetCode/0128.%20Longest%20Consecutive%20Sequence/Solution.kt)
+[0129. Sum Root to Leaf Numbers](./LeetCode/0129.%20Sum%20Root%20to%20Leaf%20Numbers)||||[py](./LeetCode/0129.%20Sum%20Root%20to%20Leaf%20Numbers/solution.py)||
 [0130. Surrounded Regions](./LeetCode/0130.%20Surrounded%20Regions)||||||[kt](./LeetCode/0130.%20Surrounded%20Regions/Solution.kt)
 [0136. Single Number](./LeetCode/0136.%20Single%20Number)||||||[kt](./LeetCode/0136.%20Single%20Number/Solution.kt)
 [0141. Linked List Cycle](./LeetCode/0141.%20Linked%20List%20Cycle)|[cpp](./LeetCode/0141.%20Linked%20List%20Cycle/Solution.cpp)|||||
@@ -162,6 +167,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0648. Replace Words](./LeetCode/0648.%20Replace%20Words)||||||[kt](./LeetCode/0648.%20Replace%20Words/Solution.kt)
 [0657. Robot Return to Origin](./LeetCode/0657.%20Robot%20Return%20to%20Origin)|[cpp](./LeetCode/0657.%20Robot%20Return%20to%20Origin/solution.cpp)||||[go](./LeetCode/0657.%20Robot%20Return%20to%20Origin/Solution.go)|
 [0665. Non-decreasing Array](./LeetCode/0665.%20Non-decreasing%20Array)||||||[kt](./LeetCode/0665.%20Non-decreasing%20Array/Solution.kt)
+[0674. Longest Continuous Increasing Subsequence](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence)|[cpp](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence/solution.cpp)|||[py](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence/solution.py)||
 [0684. Redundant Connection](./LeetCode/0684.%20Redundant%20Connection)|[cpp](./LeetCode/0684.%20Redundant%20Connection/Solution.cpp)|[java](./LeetCode/0684.%20Redundant%20Connection/Solution.java)||[py](./LeetCode/0684.%20Redundant%20Connection/Solution.py)||[kt](./LeetCode/0684.%20Redundant%20Connection/Solution.kt)
 [0690. Employee Importance](./LeetCode/0690.%20Employee%20Importance)|[cpp](./LeetCode/0690.%20Employee%20Importance/solution.cpp)|||||
 [0693. Binary Number with Alternating Bits](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits)||||||[kt](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits/Solution.kt)
