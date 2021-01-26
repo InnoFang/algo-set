@@ -27,3 +27,12 @@ class Solution2:
 
         return sum(v * (v - 1) // 2 for v in nums.values())
 
+"""
+19 / 19 test cases passed.
+Status: Accepted
+Runtime: 304 ms
+"""
+from collections import Counter
+class Solution3:
+    def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:
+        return sum(v * (v - 1) // 2 for v in Counter([tuple(sorted(d)) for d in dominoes]).values())
