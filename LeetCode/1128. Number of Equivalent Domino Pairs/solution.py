@@ -12,3 +12,18 @@ class Solution:
             ans += nums[num]
             nums[num] += 1
         return ans
+
+"""
+19 / 19 test cases passed.
+Status: Accepted
+Runtime: 252 ms
+"""
+from collections import defaultdict
+class Solution2:
+    def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:
+        nums = defaultdict(int)
+        for domi in dominoes:
+            nums[tuple(sorted(domi))] += 1
+
+        return sum(v * (v - 1) // 2 for v in nums.values())
+
