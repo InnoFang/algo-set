@@ -52,3 +52,33 @@ public:
     }
 };
 
+/**
+ * 11568 / 1568test cases passed.
+ * Status: Accepted
+ * Runtime: 28 ms
+ */
+class Solution2 {
+public:
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        ListNode *head = nullptr, *p = nullptr;
+        int carry = 0;
+        while ( l1 || l2 ) {
+            int v1 = l1 == nullptr ? 0 : l1->val;
+            int v2 = l2 == nullptr ? 0 : l2->val;
+            int sum = v1 + v2 + carry;
+            carry = sum / 10;
+            if (!head) {
+                head = p = new ListNode(sum % 10);
+            } else {
+                p->next = new ListNode(sum % 10);
+                p = p->next;    
+            }
+            if (l1) l1 = l1->next;
+            if (l2) l2 = l2->next;
+        }
+        if (carry != 0)
+            p->next = new ListNode(carry);
+        return head;
+    }
+};
+
