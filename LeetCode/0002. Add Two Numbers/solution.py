@@ -30,4 +30,26 @@ class Solution:
             tail.next = ListNode(carry)
         return head
 
-    
+"""
+1568 / 1568 test cases passed.
+Status: Accepted
+Runtime: 76 ms
+"""
+class Solution2:
+    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+        head = ListNode()
+        tail = head
+        carry = 0
+        while l1 or l2:
+            v1 = l1.val if l1 else 0
+            v2 = l2.val if l2 else 0
+            carry, d = divmod(v1 + v2 + carry, 10)
+            tail.next = ListNode(d)
+            tail = tail.next
+            if l1:
+                l1 = l1.next
+            if l2:
+                l2 = l2.next
+        if carry > 0:
+            tail.next = ListNode(carry)
+        return head.next
