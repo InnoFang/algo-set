@@ -1,9 +1,10 @@
 # Leetcode
-**Problems have been solved:** 208
+**Problems have been solved:** 213
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
 [0001. Two Sum](./LeetCode/0001.%20Two%20Sum)|[cpp](./LeetCode/0001.%20Two%20Sum/solution.cpp)|[java](./LeetCode/0001.%20Two%20Sum/Solution.java)|[js](./LeetCode/0001.%20Two%20Sum/solution.js)|[py](./LeetCode/0001.%20Two%20Sum/solution.py)|[go](./LeetCode/0001.%20Two%20Sum/Solution.go)|[kt](./LeetCode/0001.%20Two%20Sum/Solution.kt)
+[0002. Add Two Numbers](./LeetCode/0002.%20Add%20Two%20Numbers)|[cpp](./LeetCode/0002.%20Add%20Two%20Numbers/solution.cpp)|||[py](./LeetCode/0002.%20Add%20Two%20Numbers/solution.py)||
 [0003. Longest Substring Without Repeating Characters](./LeetCode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters)|||||[go](./LeetCode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.go)|[kt](./LeetCode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters/Solution.kt)
 [0004. Median of Two Sorted Arrays](./LeetCode/0004.%20Median%20of%20Two%20Sorted%20Arrays)||||||[kt](./LeetCode/0004.%20Median%20of%20Two%20Sorted%20Arrays/Solution.kt)
 [0005. Longest Palindromic Substring](./LeetCode/0005.%20Longest%20Palindromic%20Substring)|[cpp](./LeetCode/0005.%20Longest%20Palindromic%20Substring/Solution.cpp)|[java](./LeetCode/0005.%20Longest%20Palindromic%20Substring/Solution.java)||||[kt](./LeetCode/0005.%20Longest%20Palindromic%20Substring/Solution.kt)
@@ -126,6 +127,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0389. Find the Difference](./LeetCode/0389.%20Find%20the%20Difference)|[cpp](./LeetCode/0389.%20Find%20the%20Difference/solution.cpp)|||||[kt](./LeetCode/0389.%20Find%20the%20Difference/Solution.kt)
 [0392. Is Subsequence](./LeetCode/0392.%20Is%20Subsequence)||[java](./LeetCode/0392.%20Is%20Subsequence/Solution.java)||||[kt](./LeetCode/0392.%20Is%20Subsequence/Solution.kt)
 [0397. Integer Replacement](./LeetCode/0397.%20Integer%20Replacement)||||||[kt](./LeetCode/0397.%20Integer%20Replacement/Solution.kt)
+[0401. Binary Watch](./LeetCode/0401.%20Binary%20Watch)||||[py](./LeetCode/0401.%20Binary%20Watch/solution.py)||
 [0405. Convert a Number to Hexadecimal](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal)||||||[kt](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal/Solution.kt)
 [0409. Longest Palindrome](./LeetCode/0409.%20Longest%20Palindrome)|||||[go](./LeetCode/0409.%20Longest%20Palindrome/solution.go)|
 [0412. Fizz Buzz](./LeetCode/0412.%20Fizz%20Buzz)||||||[kt](./LeetCode/0412.%20Fizz%20Buzz/Solution.kt)
@@ -138,7 +140,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0448. Find All Numbers Disappeared in an Array](./LeetCode/0448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)||||||[kt](./LeetCode/0448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/Solution.kt)
 [0451. Sort Characters By Frequency](./LeetCode/0451.%20Sort%20Characters%20By%20Frequency)||||||[kt](./LeetCode/0451.%20Sort%20Characters%20By%20Frequency/Solution.kt)
 [0454. 4Sum II](./LeetCode/0454.%204Sum%20II)||||||[kt](./LeetCode/0454.%204Sum%20II/Solution.kt)
-[0455. Assign Cookies](./LeetCode/0455.%20Assign%20Cookies)|[cpp](./LeetCode/0455.%20Assign%20Cookies/solution.cpp)|||||[kt](./LeetCode/0455.%20Assign%20Cookies/Solution.kt)
+[0455. Assign Cookies](./LeetCode/0455.%20Assign%20Cookies)|[cpp](./LeetCode/0455.%20Assign%20Cookies/solution.cpp)|||[py](./LeetCode/0455.%20Assign%20Cookies/solution.py)||[kt](./LeetCode/0455.%20Assign%20Cookies/Solution.kt)
 [0456. 132 Pattern](./LeetCode/0456.%20132%20Pattern)||||||[kt](./LeetCode/0456.%20132%20Pattern/Solution.kt)
 [0461. Hamming Distance](./LeetCode/0461.%20Hamming%20Distance)||||||[kt](./LeetCode/0461.%20Hamming%20Distance/Solution.kt)
 [0476. Number Complement](./LeetCode/0476.%20Number%20Complement)||||||[kt](./LeetCode/0476.%20Number%20Complement/Solution.kt)
@@ -173,6 +175,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0693. Binary Number with Alternating Bits](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits)||||||[kt](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits/Solution.kt)
 [0698. Partition to K Equal Sum Subsets](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)||||||[kt](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets/Solution.kt)
 [0721. Accounts Merge](./LeetCode/0721.%20Accounts%20Merge)||[java](./LeetCode/0721.%20Accounts%20Merge/Solution.java)||||[kt](./LeetCode/0721.%20Accounts%20Merge/Solution.kt)
+[0724. Find Pivot Index](./LeetCode/0724.%20Find%20Pivot%20Index)|[cpp](./LeetCode/0724.%20Find%20Pivot%20Index/solution.cpp)|||[py](./LeetCode/0724.%20Find%20Pivot%20Index/solution.py)||
 [0728. Self Dividing Numbers](./LeetCode/0728.%20Self%20Dividing%20Numbers)||||||[kt](./LeetCode/0728.%20Self%20Dividing%20Numbers/Solution.kt)
 [0733. Flood Fill](./LeetCode/0733.%20Flood%20Fill)||||||[kt](./LeetCode/0733.%20Flood%20Fill/Solution.kt)
 [0738. Monotone Increasing Digits](./LeetCode/0738.%20Monotone%20Increasing%20Digits)||||||[kt](./LeetCode/0738.%20Monotone%20Increasing%20Digits/Solution.kt)
@@ -195,6 +198,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0868. Binary Gap](./LeetCode/0868.%20Binary%20Gap)|[cpp](./LeetCode/0868.%20Binary%20Gap/solution.cpp)|||||
 [0872. Leaf-Similar Trees](./LeetCode/0872.%20Leaf-Similar%20Trees)|[cpp](./LeetCode/0872.%20Leaf-Similar%20Trees/Solution.cpp)|||||
 [0876. Middle of the Linked List](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List)|||||[go](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List/solution.go)|
+[0888. Fair Candy Swap](./LeetCode/0888.%20Fair%20Candy%20Swap)|[cpp](./LeetCode/0888.%20Fair%20Candy%20Swap/solution.cpp)|||[py](./LeetCode/0888.%20Fair%20Candy%20Swap/solution.py)||
 [0890. Find and Replace Pattern](./LeetCode/0890.%20Find%20and%20Replace%20Pattern)|[cpp](./LeetCode/0890.%20Find%20and%20Replace%20Pattern/solution.cpp)|||||
 [0945. Minimum Increment to Make Array Unique](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique)|[cpp](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.cpp)|||[py](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.py)|[go](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.go)|
 [0961. N-Repeated Element in Size 2N Array](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array)|[cpp](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array/Solution.cpp)|||||
@@ -204,6 +208,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1029. Two City Scheduling](./LeetCode/1029.%20Two%20City%20Scheduling)|[cpp](./LeetCode/1029.%20Two%20City%20Scheduling/solution.cpp)|||||
 [1081. Smallest Subsequence of Distinct Characters](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters)|[cpp](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/solution.cpp)|||||
 [1103. Distribute Candies to People](./LeetCode/1103.%20Distribute%20Candies%20to%20People)|[cpp](./LeetCode/1103.%20Distribute%20Candies%20to%20People/solution.cpp)|[java](./LeetCode/1103.%20Distribute%20Candies%20to%20People/Solution.java)||||
+[1128. Number of Equivalent Domino Pairs](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs)|[cpp](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/solution.cpp)|||[py](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/solution.py)||
 [1160. Find Words That Can Be Formed by Characters](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)|||||[go](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/solution.go)|
 [1232. Check If It Is a Straight Line](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line)|[cpp](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.cpp)|[java](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/Solution.java)||[py](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.py)||
 [1464. Maximum Product of Two Elements in an Array](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)|[cpp](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.py)||
