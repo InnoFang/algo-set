@@ -39,6 +39,6 @@ while True:
     N = read(int):
     if len(N) == 0: 
         break
-    solve(N[0])
+    solve(N)
 
 ```
