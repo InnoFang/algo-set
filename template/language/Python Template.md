@@ -36,7 +36,7 @@ def solve(N):
 
 # multi-cases input
 while True:
-    for N in read(int):
+    N = read(int):
     if len(N) == 0: 
         break
     solve(N[0])
