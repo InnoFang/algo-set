@@ -26,31 +26,19 @@ pause
 ## template
 
 ```Python
-import os
 from sys import stdin
 
 # single-line input
-def read(type):
-    assert type in [int, float, str]
-    inputs = list(map(type, stdin.readline().split()))
-    return inputs if len(inputs) > 1 else inputs[0]
+read = lambda tp: list(map(tp, stdin.readline().split()))
 
-# simplify
-read_ = lambda tp: list(map(tp, stdin.readline().split()))
-
-# whole-file input
-def read_all(): 
-    M = 10 ** 7
-    # if all data type are integer, code follow
-    # return list(map(int, os.read(0, M).split()))
-
-    # otherwise as below, then cast data manually
-    return list(os.read(0, M).split())
-
-def main():
+def solve(N):
     pass
 
-if __name__ == '__main__':
-    main()
+# multi-cases input
+while True:
+    for N in read(int):
+    if len(N) == 0: 
+        break
+    solve(N[0])
 
 ```
