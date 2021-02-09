@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 213
+**Problems have been solved:** 219
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -109,6 +109,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0283. Move Zeroes](./LeetCode/0283.%20Move%20Zeroes)||[java](./LeetCode/0283.%20Move%20Zeroes/Solution.java)|[js](./LeetCode/0283.%20Move%20Zeroes/Solution.js)|[py](./LeetCode/0283.%20Move%20Zeroes/Solution.py)||[kt](./LeetCode/0283.%20Move%20Zeroes/Solution.kt)
 [0287. Find the Duplicate Number](./LeetCode/0287.%20Find%20the%20Duplicate%20Number)|[cpp](./LeetCode/0287.%20Find%20the%20Duplicate%20Number/Solution.cpp)|||||
 [0290. Word Pattern](./LeetCode/0290.%20Word%20Pattern)|[cpp](./LeetCode/0290.%20Word%20Pattern/solution.cpp)|||[py](./LeetCode/0290.%20Word%20Pattern/solution.py)||
+[0295. Find Median from Data Stream](./LeetCode/0295.%20Find%20Median%20from%20Data%20Stream)|[cpp](./LeetCode/0295.%20Find%20Median%20from%20Data%20Stream/solution.cpp)|||[py](./LeetCode/0295.%20Find%20Median%20from%20Data%20Stream/solution.py)||
 [0300. Longest Increasing Subsequence](./LeetCode/0300.%20Longest%20Increasing%20Subsequence)||||||[kt](./LeetCode/0300.%20Longest%20Increasing%20Subsequence/Solution.kt)
 [0316. Remove Duplicate Letters](./LeetCode/0316.%20Remove%20Duplicate%20Letters)|[cpp](./LeetCode/0316.%20Remove%20Duplicate%20Letters/solution.cpp)|||||
 [0322. Coin Change](./LeetCode/0322.%20Coin%20Change)||||||[kt](./LeetCode/0322.%20Coin%20Change/Solution.kt)
@@ -133,6 +134,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0412. Fizz Buzz](./LeetCode/0412.%20Fizz%20Buzz)||||||[kt](./LeetCode/0412.%20Fizz%20Buzz/Solution.kt)
 [0415. Add Strings](./LeetCode/0415.%20Add%20Strings)||||||[kt](./LeetCode/0415.%20Add%20Strings/Solution.kt)
 [0416. Partition Equal Subset Sum](./LeetCode/0416.%20Partition%20Equal%20Subset%20Sum)||||||[kt](./LeetCode/0416.%20Partition%20Equal%20Subset%20Sum/Soution.kt)
+[0424. Longest Repeating Character Replacement](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement)|[cpp](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement/solution.cpp)|||[py](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement/solution.py)||
 [0435. Non overlapping Intervals](./LeetCode/0435.%20Non%20overlapping%20Intervals)|[cpp](./LeetCode/0435.%20Non%20overlapping%20Intervals/solution.cpp)|||||[kt](./LeetCode/0435.%20Non%20overlapping%20Intervals/Solution.kt)
 [0437. Path Sum III](./LeetCode/0437.%20Path%20Sum%20III)||||||[kt](./LeetCode/0437.%20Path%20Sum%20III/Solution.kt)
 [0441. Arranging Coins](./LeetCode/0441.%20Arranging%20Coins)|[cpp](./LeetCode/0441.%20Arranging%20Coins/Solution.cpp)|||||
@@ -144,6 +146,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0456. 132 Pattern](./LeetCode/0456.%20132%20Pattern)||||||[kt](./LeetCode/0456.%20132%20Pattern/Solution.kt)
 [0461. Hamming Distance](./LeetCode/0461.%20Hamming%20Distance)||||||[kt](./LeetCode/0461.%20Hamming%20Distance/Solution.kt)
 [0476. Number Complement](./LeetCode/0476.%20Number%20Complement)||||||[kt](./LeetCode/0476.%20Number%20Complement/Solution.kt)
+[0480. Sliding Window Median](./LeetCode/0480.%20Sliding%20Window%20Median)||||[py](./LeetCode/0480.%20Sliding%20Window%20Median/solution.py)||
 [0496. Next Greater Element I](./LeetCode/0496.%20Next%20Greater%20Element%20I)|[cpp](./LeetCode/0496.%20Next%20Greater%20Element%20I/Solution.cpp)|||||
 [0498. Diagonal Traverse](./LeetCode/0498.%20Diagonal%20Traverse)||||||[kt](./LeetCode/0498.%20Diagonal%20Traverse/Solution.kt)
 [0500. Keyboard Row](./LeetCode/0500.%20Keyboard%20Row)||||||[kt](./LeetCode/0500.%20Keyboard%20Row/Solution.kt)
@@ -165,10 +168,10 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0605. Can Place Flowers](./LeetCode/0605.%20Can%20Place%20Flowers)|[cpp](./LeetCode/0605.%20Can%20Place%20Flowers/solution.cpp)|||||
 [0611. Valid Triangle Number](./LeetCode/0611.%20Valid%20Triangle%20Number)||||||[kt](./LeetCode/0611.%20Valid%20Triangle%20Number/Solution.kt)
 [0628. Maximum Product of Three Numbers](./LeetCode/0628.%20Maximum%20Product%20of%20Three%20Numbers)||||[py](./LeetCode/0628.%20Maximum%20Product%20of%20Three%20Numbers/solution.py)||
-[0643. Maximum Average Subarray I](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I)||||||[kt](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/Solution.kt)
+[0643. Maximum Average Subarray I](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I)|[cpp](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/solution.cpp)|||[py](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/solution.py)||[kt](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/Solution.kt)
 [0648. Replace Words](./LeetCode/0648.%20Replace%20Words)||||||[kt](./LeetCode/0648.%20Replace%20Words/Solution.kt)
 [0657. Robot Return to Origin](./LeetCode/0657.%20Robot%20Return%20to%20Origin)|[cpp](./LeetCode/0657.%20Robot%20Return%20to%20Origin/solution.cpp)||||[go](./LeetCode/0657.%20Robot%20Return%20to%20Origin/Solution.go)|
-[0665. Non-decreasing Array](./LeetCode/0665.%20Non-decreasing%20Array)||||||[kt](./LeetCode/0665.%20Non-decreasing%20Array/Solution.kt)
+[0665. Non-decreasing Array](./LeetCode/0665.%20Non-decreasing%20Array)|[cpp](./LeetCode/0665.%20Non-decreasing%20Array/solution.cpp)|||[py](./LeetCode/0665.%20Non-decreasing%20Array/solution.py)||[kt](./LeetCode/0665.%20Non-decreasing%20Array/Solution.kt)
 [0674. Longest Continuous Increasing Subsequence](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence)|[cpp](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence/solution.cpp)|||[py](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence/solution.py)||
 [0684. Redundant Connection](./LeetCode/0684.%20Redundant%20Connection)|[cpp](./LeetCode/0684.%20Redundant%20Connection/Solution.cpp)|[java](./LeetCode/0684.%20Redundant%20Connection/Solution.java)||[py](./LeetCode/0684.%20Redundant%20Connection/Solution.py)||[kt](./LeetCode/0684.%20Redundant%20Connection/Solution.kt)
 [0690. Employee Importance](./LeetCode/0690.%20Employee%20Importance)|[cpp](./LeetCode/0690.%20Employee%20Importance/solution.cpp)|||||
@@ -203,6 +206,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0945. Minimum Increment to Make Array Unique](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique)|[cpp](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.cpp)|||[py](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.py)|[go](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.go)|
 [0961. N-Repeated Element in Size 2N Array](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array)|[cpp](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array/Solution.cpp)|||||
 [0977. Squares of a Sorted Array](./LeetCode/0977.%20Squares%20of%20a%20Sorted%20Array)|[cpp](./LeetCode/0977.%20Squares%20of%20a%20Sorted%20Array/solution.cpp)|||||
+[0978. Longest Turbulent Subarray](./LeetCode/0978.%20Longest%20Turbulent%20Subarray)|[cpp](./LeetCode/0978.%20Longest%20Turbulent%20Subarray/solution.cpp)|||[py](./LeetCode/0978.%20Longest%20Turbulent%20Subarray/solution.py)||
 [0997. Find the Town Judge](./LeetCode/0997.%20Find%20the%20Town%20Judge)|[cpp](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.cpp)|||[py](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.py)||
 [1013. Partition Array Into Three Parts With Equal Sum](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)|||||[go](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/solution.go)|
 [1029. Two City Scheduling](./LeetCode/1029.%20Two%20City%20Scheduling)|[cpp](./LeetCode/1029.%20Two%20City%20Scheduling/solution.cpp)|||||
@@ -210,7 +214,9 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1103. Distribute Candies to People](./LeetCode/1103.%20Distribute%20Candies%20to%20People)|[cpp](./LeetCode/1103.%20Distribute%20Candies%20to%20People/solution.cpp)|[java](./LeetCode/1103.%20Distribute%20Candies%20to%20People/Solution.java)||||
 [1128. Number of Equivalent Domino Pairs](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs)|[cpp](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/solution.cpp)|||[py](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/solution.py)||
 [1160. Find Words That Can Be Formed by Characters](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)|||||[go](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/solution.go)|
+[1208. Get Equal Substrings Within Budget](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget)|[cpp](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.cpp)|||[py](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.py)||
 [1232. Check If It Is a Straight Line](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line)|[cpp](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.cpp)|[java](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/Solution.java)||[py](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.py)||
+[1423. Maximum Points You Can Obtain from Cards](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)|[cpp](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/solution.cpp)|||[py](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/solution.py)||
 [1464. Maximum Product of Two Elements in an Array](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)|[cpp](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.py)||
 [1480. Running Sum of 1d Array](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array)|[cpp](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array/solution.cpp)|||||
 [1584. Min Cost to Connect All Points](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points)|[cpp](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.cpp)|||[py](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.py)||
