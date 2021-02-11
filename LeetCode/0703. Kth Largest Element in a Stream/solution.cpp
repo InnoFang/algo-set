@@ -33,6 +33,34 @@ private:
     priority_queue<int, vector<int>, less<int>> maxHeap;
 };
 
+
+/**
+ * 10 / 10 test cases passed.
+ * Status: Accepted
+ * Runtime: 40 ms
+ */
+class KthLargest2 {
+public:
+    KthLargest(int k, vector<int>& nums) {
+        this->k = k;
+        for (auto& num : nums) {
+            add(num);
+        }
+    }
+    
+    int add(int val) {
+        minHeap.push(val);
+        if (minHeap.size() > k) {
+            minHeap.pop();
+        }
+        return minHeap.top();
+    }
+private:
+    priority_queue<int, vector<int>, greater<int>> minHeap;
+    int k;
+};
+
+
 /**
  * Your KthLargest object will be instantiated and called as such:
  * KthLargest* obj = new KthLargest(k, nums);
