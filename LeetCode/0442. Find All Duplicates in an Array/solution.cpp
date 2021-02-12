@@ -18,3 +18,24 @@ public:
         return ans;
     }
 };
+
+/**
+ * 28 / 28 test cases passed.
+ * Status: Accepted
+ * Runtime: 52 ms
+ */
+class Solution2 {
+public:
+    vector<int> findDuplicates(vector<int>& nums) {
+        vector<int> ans;
+        for (auto& num : nums) {
+            int n = abs(num);
+            if (nums[n - 1] < 0) {
+                ans.push_back(n);
+            } else {
+                nums[n - 1] *= -1;
+            }
+        }
+        return ans;
+    }
+};
