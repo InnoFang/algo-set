@@ -19,3 +19,13 @@ class Solution2:
         for num in nums:
             nums[(num - 1) % len(nums)] += len(nums)
         return filter(lambda i: nums[i - 1] <= len(nums), range(1, len(nums) + 1))
+
+"""
+34 / 34 test cases passed.
+Status: Accepted
+Runtime: 352 ms
+"""
+class Solution:
+    def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
+        return list(set(range(1, len(nums) + 1)) - set(nums))
+
