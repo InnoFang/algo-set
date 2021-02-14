@@ -18,3 +18,23 @@ public:
     }
 };
 
+/**
+ * 41 / 41 test cases passed.
+ * Status: Accepted
+ * Runtime: 44 ms
+ */
+class Solution2 {
+public:
+    int findMaxConsecutiveOnes(vector<int>& nums) {
+        int ans = 0, cnt = 0;
+        for (auto& num : nums) {
+            if (num == 0) cnt = 0;
+            else {
+                cnt++;
+                ans = max(ans, cnt);
+            }
+        }
+        return ans;
+    }
+};
+
