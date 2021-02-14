@@ -42,19 +42,20 @@ public:
     }
     int minSwapsCouples(vector<int>& row) {
         int n = row.size();
-        p.resize(n);
-        for (int i = 0; i < n; ++ i) p[i] = i;
+        int m = n / 2;
+        p.resize(m);
+        for (int i = 0; i < m; ++ i) p[i] = i;
         for (int i = 0; i < n; i += 2) {
             merge(row[i] / 2, row[i + 1] / 2);
         }
         int cnt = 0;
-        for (int i = 0; i < n / 2; ++ i) {
+        for (int i = 0; i < m; ++ i) {
             if (find(i) == i) {
                 cnt ++;
             }
         }
         // 情侣总数 - 并查集个数
-        return n / 2 - cnt;
+        return m - cnt;
     }
 private:
     vector<int> p;

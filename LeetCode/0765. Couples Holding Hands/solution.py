@@ -6,7 +6,8 @@ Runtime: 36 ms
 class Solution:
     def minSwapsCouples(self, row: List[int]) -> int:
         n = len(row)
-        p = [i for i in range(n)]
+        m = n // 2
+        p = [i for i in range(m)]
 
         def find(x):
             if p[x] != x:
@@ -20,7 +21,7 @@ class Solution:
             union(row[i] // 2, row[i + 1] // 2)
 
         cnt = 0
-        for i in range(n // 2):
+        for i in range(m):
             if find(i) == i:
                 cnt += 1
-        return n // 2 - cnt
+        return m - cnt
