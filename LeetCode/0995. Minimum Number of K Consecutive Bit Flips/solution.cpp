@@ -1,3 +1,6 @@
+// refer2: [1] https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/solution/xiao-bai-qing-xi-si-lu-hua-dong-chuang-k-wr7t/
+//         [2] https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/solution/hua-dong-chuang-kou-shi-ben-ti-zui-rong-z403l/ 
+
 /**
  * 110 / 110  test cases passed.
  * Runtime: 84 ms
@@ -29,7 +32,6 @@ public:
  * Runtime: 116 ms
  * Memory Usage: 71.8 MB 
  */
-
 class Solution2 {
 public:
     int minKBitFlips(vector<int>& A, int K) {
