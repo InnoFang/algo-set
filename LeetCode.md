@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 228
+**Problems have been solved:** 230
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -180,6 +180,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0684. Redundant Connection](./LeetCode/0684.%20Redundant%20Connection)|[cpp](./LeetCode/0684.%20Redundant%20Connection/Solution.cpp)|[java](./LeetCode/0684.%20Redundant%20Connection/Solution.java)||[py](./LeetCode/0684.%20Redundant%20Connection/Solution.py)||[kt](./LeetCode/0684.%20Redundant%20Connection/Solution.kt)
 [0690. Employee Importance](./LeetCode/0690.%20Employee%20Importance)|[cpp](./LeetCode/0690.%20Employee%20Importance/solution.cpp)|||||
 [0693. Binary Number with Alternating Bits](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits)||||||[kt](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits/Solution.kt)
+[0697. Degree of an Array](./LeetCode/0697.%20Degree%20of%20an%20Array)|[cpp](./LeetCode/0697.%20Degree%20of%20an%20Array/solution.cpp)|||[py](./LeetCode/0697.%20Degree%20of%20an%20Array/solution.py)||
 [0698. Partition to K Equal Sum Subsets](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)||||||[kt](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets/Solution.kt)
 [0703. Kth Largest Element in a Stream](./LeetCode/0703.%20Kth%20Largest%20Element%20in%20a%20Stream)|[cpp](./LeetCode/0703.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.cpp)|||[py](./LeetCode/0703.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.py)||
 [0721. Accounts Merge](./LeetCode/0721.%20Accounts%20Merge)||[java](./LeetCode/0721.%20Accounts%20Merge/Solution.java)||||[kt](./LeetCode/0721.%20Accounts%20Merge/Solution.kt)
@@ -226,6 +227,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1208. Get Equal Substrings Within Budget](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget)|[cpp](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.cpp)|||[py](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.py)||
 [1232. Check If It Is a Straight Line](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line)|[cpp](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.cpp)|[java](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/Solution.java)||[py](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.py)||
 [1423. Maximum Points You Can Obtain from Cards](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)|[cpp](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/solution.cpp)|||[py](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/solution.py)||
+[1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit)|[cpp](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/solution.cpp)|||[py](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/solution.py)||
 [1464. Maximum Product of Two Elements in an Array](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)|[cpp](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.py)||
 [1480. Running Sum of 1d Array](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array)|[cpp](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array/solution.cpp)|||||
 [1584. Min Cost to Connect All Points](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points)|[cpp](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.cpp)|||[py](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.py)||
