@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 230
+**Problems have been solved:** 232
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -193,6 +193,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0760. Find Anagram Mappings](./LeetCode/0760.%20Find%20Anagram%20Mappings)||||||[kt](./LeetCode/0760.%20Find%20Anagram%20Mappings/Solution.kt)
 [0762. Prime Number of Set Bits in Binary Representation](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)||||||[kt](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/Solution.kt)
 [0765. Couples Holding Hands](./LeetCode/0765.%20Couples%20Holding%20Hands)|[cpp](./LeetCode/0765.%20Couples%20Holding%20Hands/solution.cpp)|||[py](./LeetCode/0765.%20Couples%20Holding%20Hands/solution.py)||
+[0766. Toeplitz Matrix](./LeetCode/0766.%20Toeplitz%20Matrix)|[cpp](./LeetCode/0766.%20Toeplitz%20Matrix/solution.cpp)|||[py](./LeetCode/0766.%20Toeplitz%20Matrix/solution.py)||
 [0771. Jewels and Stones](./LeetCode/0771.%20Jewels%20and%20Stones)||||||[kt](./LeetCode/0771.%20Jewels%20and%20Stones/Solution.kt)
 [0780. Reaching Points](./LeetCode/0780.%20Reaching%20Points)||||||[kt](./LeetCode/0780.%20Reaching%20Points/Solution.kt)
 [0783. Minimum Distance Between BST Nodes](./LeetCode/0783.%20Minimum%20Distance%20Between%20BST%20Nodes)||||||[kt](./LeetCode/0783.%20Minimum%20Distance%20Between%20BST%20Nodes/Solution.kt)
@@ -220,6 +221,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1004. Max Consecutive Ones III](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III)|[cpp](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III/solution.cpp)|||[py](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III/solution.py)||
 [1013. Partition Array Into Three Parts With Equal Sum](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)|||||[go](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/solution.go)|
 [1029. Two City Scheduling](./LeetCode/1029.%20Two%20City%20Scheduling)|[cpp](./LeetCode/1029.%20Two%20City%20Scheduling/solution.cpp)|||||
+[1052. Grumpy Bookstore Owner](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner)|[cpp](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner/solution.cpp)|||[py](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner/solution.py)||
 [1081. Smallest Subsequence of Distinct Characters](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters)|[cpp](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/solution.cpp)|||||
 [1103. Distribute Candies to People](./LeetCode/1103.%20Distribute%20Candies%20to%20People)|[cpp](./LeetCode/1103.%20Distribute%20Candies%20to%20People/solution.cpp)|[java](./LeetCode/1103.%20Distribute%20Candies%20to%20People/Solution.java)||||
 [1128. Number of Equivalent Domino Pairs](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs)|[cpp](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/solution.cpp)|||[py](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/solution.py)||
