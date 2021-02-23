@@ -21,3 +21,22 @@ public:
         return A;
     }
 };
+
+/**
+ * 82 / 82 test cases passed.
+ * Runtime: 4 ms
+ * Memory Usage: 8.2 MB 
+ */
+class Solution2 {
+public:
+    vector<vector<int>> flipAndInvertImage(vector<vector<int>>& A) {
+        int len = A.size();
+        for (int i = 0; i < len; ++ i) {
+            reverse(A[i].begin(), A[i].end());
+            for (int j = 0; j < len; ++ j) {
+                A[i][j] ^= 1;
+            }
+        }
+        return A;
+    }
+};
