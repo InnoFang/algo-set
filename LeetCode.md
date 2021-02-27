@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 232
+**Problems have been solved:** 235
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -204,8 +204,10 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0796. Rotate String](./LeetCode/0796.%20Rotate%20String)||||||[kt](./LeetCode/0796.%20Rotate%20String/Solution.kt)
 [0797. All Paths From Source to Target](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target)||||||[kt](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target/Solution.kt)
 [0824. Goat Latin](./LeetCode/0824.%20Goat%20Latin)|[cpp](./LeetCode/0824.%20Goat%20Latin/Solution.cpp)|||||
+[0832. Flipping an Image](./LeetCode/0832.%20Flipping%20an%20Image)|[cpp](./LeetCode/0832.%20Flipping%20an%20Image/solution.cpp)|||[py](./LeetCode/0832.%20Flipping%20an%20Image/solution.py)||
 [0836. Rectangle Overlap](./LeetCode/0836.%20Rectangle%20Overlap)||||[py](./LeetCode/0836.%20Rectangle%20Overlap/solution.py)||
 [0860. Lemonade Change](./LeetCode/0860.%20Lemonade%20Change)|[cpp](./LeetCode/0860.%20Lemonade%20Change/Solution.cpp)|||||
+[0867. Transpose Matrix](./LeetCode/0867.%20Transpose%20Matrix)|[cpp](./LeetCode/0867.%20Transpose%20Matrix/solution.cpp)|||[py](./LeetCode/0867.%20Transpose%20Matrix/solution.py)||
 [0868. Binary Gap](./LeetCode/0868.%20Binary%20Gap)|[cpp](./LeetCode/0868.%20Binary%20Gap/solution.cpp)|||||
 [0872. Leaf-Similar Trees](./LeetCode/0872.%20Leaf-Similar%20Trees)|[cpp](./LeetCode/0872.%20Leaf-Similar%20Trees/Solution.cpp)|||||
 [0876. Middle of the Linked List](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List)|||||[go](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List/solution.go)|
@@ -226,6 +228,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1103. Distribute Candies to People](./LeetCode/1103.%20Distribute%20Candies%20to%20People)|[cpp](./LeetCode/1103.%20Distribute%20Candies%20to%20People/solution.cpp)|[java](./LeetCode/1103.%20Distribute%20Candies%20to%20People/Solution.java)||||
 [1128. Number of Equivalent Domino Pairs](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs)|[cpp](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/solution.cpp)|||[py](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/solution.py)||
 [1160. Find Words That Can Be Formed by Characters](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)|||||[go](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/solution.go)|
+[1178. Number of Valid Words for Each Puzzle](./LeetCode/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle)|[cpp](./LeetCode/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/solution.cpp)|||||
 [1208. Get Equal Substrings Within Budget](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget)|[cpp](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.cpp)|||[py](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.py)||
 [1232. Check If It Is a Straight Line](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line)|[cpp](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.cpp)|[java](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/Solution.java)||[py](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.py)||
 [1423. Maximum Points You Can Obtain from Cards](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)|[cpp](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/solution.cpp)|||[py](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/solution.py)||
