@@ -14,3 +14,15 @@ public:
         return inc || dec;
     }
 };
+
+/**
+ * 366 / 366 test cases passed.
+ * Runtime: 56 ms
+ * Memory Usage: 48.4 MB 
+ */
+class Solution {
+public:
+    bool isMonotonic(vector<int>& A) {
+        return is_sorted(A.begin(), A.end()) || is_sorted(A.rbegin(), A.rend());
+    }
+};
