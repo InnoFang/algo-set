@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 235
+**Problems have been solved:** 240
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -112,10 +112,13 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0287. Find the Duplicate Number](./LeetCode/0287.%20Find%20the%20Duplicate%20Number)|[cpp](./LeetCode/0287.%20Find%20the%20Duplicate%20Number/Solution.cpp)|||||
 [0290. Word Pattern](./LeetCode/0290.%20Word%20Pattern)|[cpp](./LeetCode/0290.%20Word%20Pattern/solution.cpp)|||[py](./LeetCode/0290.%20Word%20Pattern/solution.py)||
 [0295. Find Median from Data Stream](./LeetCode/0295.%20Find%20Median%20from%20Data%20Stream)|[cpp](./LeetCode/0295.%20Find%20Median%20from%20Data%20Stream/solution.cpp)|||[py](./LeetCode/0295.%20Find%20Median%20from%20Data%20Stream/solution.py)||
-[0300. Longest Increasing Subsequence](./LeetCode/0300.%20Longest%20Increasing%20Subsequence)||||||[kt](./LeetCode/0300.%20Longest%20Increasing%20Subsequence/Solution.kt)
+[0300. Longest Increasing Subsequence](./LeetCode/0300.%20Longest%20Increasing%20Subsequence)|[cpp](./LeetCode/0300.%20Longest%20Increasing%20Subsequence/solution.cpp)|||[py](./LeetCode/0300.%20Longest%20Increasing%20Subsequence/solution.py)||[kt](./LeetCode/0300.%20Longest%20Increasing%20Subsequence/Solution.kt)
+[0303. Range Sum Query - Immutable](./LeetCode/0303.%20Range%20Sum%20Query%20-%20Immutable)|[cpp](./LeetCode/0303.%20Range%20Sum%20Query%20-%20Immutable/solution.cpp)|||[py](./LeetCode/0303.%20Range%20Sum%20Query%20-%20Immutable/solution.py)||
+[0304. Range Sum Query 2D - Immutable](./LeetCode/0304.%20Range%20Sum%20Query%202D%20-%20Immutable)|[cpp](./LeetCode/0304.%20Range%20Sum%20Query%202D%20-%20Immutable/solution.cpp)|||||
 [0316. Remove Duplicate Letters](./LeetCode/0316.%20Remove%20Duplicate%20Letters)|[cpp](./LeetCode/0316.%20Remove%20Duplicate%20Letters/solution.cpp)|||||
 [0322. Coin Change](./LeetCode/0322.%20Coin%20Change)||||||[kt](./LeetCode/0322.%20Coin%20Change/Solution.kt)
 [0326. Power of Three](./LeetCode/0326.%20Power%20of%20Three)||||||[kt](./LeetCode/0326.%20Power%20of%20Three/Solution.kt)
+[0338. Counting Bits](./LeetCode/0338.%20Counting%20Bits)|[cpp](./LeetCode/0338.%20Counting%20Bits/solution.cpp)|||[py](./LeetCode/0338.%20Counting%20Bits/solution.py)||
 [0342. Power of Four](./LeetCode/0342.%20Power%20of%20Four)||||||[kt](./LeetCode/0342.%20Power%20of%20Four/Solution.kt)
 [0343. Integer Break](./LeetCode/0343.%20Integer%20Break)||||||[kt](./LeetCode/0343.%20Integer%20Break/solution.kt)
 [0344. Reverse String](./LeetCode/0344.%20Reverse%20String)||||||[kt](./LeetCode/0344.%20Reverse%20String/Solution.kt)
@@ -123,6 +126,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0347. Top K Frequent Elements](./LeetCode/0347.%20Top%20K%20Frequent%20Elements)||||||[kt](./LeetCode/0347.%20Top%20K%20Frequent%20Elements/Solution.kt)
 [0349. Intersection of Two Arrays](./LeetCode/0349.%20Intersection%20of%20Two%20Arrays)||||||[kt](./LeetCode/0349.%20Intersection%20of%20Two%20Arrays/Solution.kt)
 [0350. Intersection of Two Arrays II](./LeetCode/0350.%20Intersection%20of%20Two%20Arrays%20II)||||||[kt](./LeetCode/0350.%20Intersection%20of%20Two%20Arrays%20II/Solution.kt)
+[0354. Russian Doll Envelopes](./LeetCode/0354.%20Russian%20Doll%20Envelopes)|[cpp](./LeetCode/0354.%20Russian%20Doll%20Envelopes/solution.cpp)|||[py](./LeetCode/0354.%20Russian%20Doll%20Envelopes/solution.py)||
 [0365. Water and Jug Problem](./LeetCode/0365.%20Water%20and%20Jug%20Problem)|||||[go](./LeetCode/0365.%20Water%20and%20Jug%20Problem/solution.go)|
 [0371. Sum of Two Integers](./LeetCode/0371.%20Sum%20of%20Two%20Integers)||||||[kt](./LeetCode/0371.%20Sum%20of%20Two%20Integers/Solution.kt)
 [0372. Super Pow](./LeetCode/0372.%20Super%20Pow)||[java](./LeetCode/0372.%20Super%20Pow/Solution.java)||||[kt](./LeetCode/0372.%20Super%20Pow/Solution.kt)
@@ -213,6 +217,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0876. Middle of the Linked List](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List)|||||[go](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List/solution.go)|
 [0888. Fair Candy Swap](./LeetCode/0888.%20Fair%20Candy%20Swap)|[cpp](./LeetCode/0888.%20Fair%20Candy%20Swap/solution.cpp)|||[py](./LeetCode/0888.%20Fair%20Candy%20Swap/solution.py)||
 [0890. Find and Replace Pattern](./LeetCode/0890.%20Find%20and%20Replace%20Pattern)|[cpp](./LeetCode/0890.%20Find%20and%20Replace%20Pattern/solution.cpp)|||||
+[0896. Monotonic Array](./LeetCode/0896.%20Monotonic%20Array)|[cpp](./LeetCode/0896.%20Monotonic%20Array/solution.cpp)|||||
 [0945. Minimum Increment to Make Array Unique](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique)|[cpp](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.cpp)|||[py](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.py)|[go](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.go)|
 [0961. N-Repeated Element in Size 2N Array](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array)|[cpp](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array/Solution.cpp)|||||
 [0977. Squares of a Sorted Array](./LeetCode/0977.%20Squares%20of%20a%20Sorted%20Array)|[cpp](./LeetCode/0977.%20Squares%20of%20a%20Sorted%20Array/solution.cpp)|||||
