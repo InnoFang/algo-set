@@ -1,7 +1,7 @@
 /**
- * 48 / 48 test cases passed.
- * Runtime: 68 ms
- * Memory Usage: 50.2 MB 
+ * 32 / 32 test cases passed.
+ * Runtime: 288 ms
+ * Memory Usage: 133.4 MB 
  */
 class Solution {
 public:
@@ -32,5 +32,44 @@ public:
                 return false;
         }
         return true;
+    }
+};
+
+/**
+ * 32 / 32 test cases passed.
+ * Runtime: 224 ms
+ * Memory Usage: 133.4 MB 
+ */
+class Solution2 {
+public:
+    vector<vector<bool>> dp;
+    vector<vector<string>> partition(string s) {
+        vector<vector<string>> ans;
+        dp.assign(s.size(), vector<bool>(s.size()));
+
+        for (int i = 0; i < s.size(); ++ i) {
+            for (int j = 0; j <= i; ++ j) {
+                if (i == j) dp[j][i] = true;
+                else if (i - j == 1) dp[j][i] = s[i] == s[j];
+                else dp[j][i] = s[i] == s[j] && dp[j + 1][i - 1];
+            }
+        }
+
+        dfs(s, 0, ans, {});
+        return ans;
+    }
+
+    void dfs(const string& s, int start, vector<vector<string>>& ans, vector<string> path) {
+        if (start == s.size()) {
+            ans.push_back(path);
+            return;
+        }
+        for (int i = start; i < s.size(); ++ i) {
+            if (dp[start][i]) {
+                path.push_back(s.substr(start, i - start + 1));
+                dfs(s, i + 1, ans, path);
+                path.pop_back();
+            }
+        }
     }
 };
