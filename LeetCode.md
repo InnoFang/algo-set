@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 240
+**Problems have been solved:** 244
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -65,6 +65,8 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0128. Longest Consecutive Sequence](./LeetCode/0128.%20Longest%20Consecutive%20Sequence)||||||[kt](./LeetCode/0128.%20Longest%20Consecutive%20Sequence/Solution.kt)
 [0129. Sum Root to Leaf Numbers](./LeetCode/0129.%20Sum%20Root%20to%20Leaf%20Numbers)||||[py](./LeetCode/0129.%20Sum%20Root%20to%20Leaf%20Numbers/solution.py)||
 [0130. Surrounded Regions](./LeetCode/0130.%20Surrounded%20Regions)||||||[kt](./LeetCode/0130.%20Surrounded%20Regions/Solution.kt)
+[0131. Palindrome Partitioning](./LeetCode/0131.%20Palindrome%20Partitioning)|[cpp](./LeetCode/0131.%20Palindrome%20Partitioning/solution.cpp)|||[py](./LeetCode/0131.%20Palindrome%20Partitioning/solution.py)||
+[0132. Palindrome Partitioning II](./LeetCode/0132.%20Palindrome%20Partitioning%20II)|[cpp](./LeetCode/0132.%20Palindrome%20Partitioning%20II/solution.cpp)|||[py](./LeetCode/0132.%20Palindrome%20Partitioning%20II/solution.py)||
 [0136. Single Number](./LeetCode/0136.%20Single%20Number)||||||[kt](./LeetCode/0136.%20Single%20Number/Solution.kt)
 [0141. Linked List Cycle](./LeetCode/0141.%20Linked%20List%20Cycle)|[cpp](./LeetCode/0141.%20Linked%20List%20Cycle/Solution.cpp)|||||
 [0142. Linked List Cycle II](./LeetCode/0142.%20Linked%20List%20Cycle%20II)|[cpp](./LeetCode/0142.%20Linked%20List%20Cycle%20II/Solution.cpp)|||||
@@ -97,7 +99,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0228. Summary Ranges](./LeetCode/0228.%20Summary%20Ranges)|[cpp](./LeetCode/0228.%20Summary%20Ranges/solution.cpp)|[java](./LeetCode/0228.%20Summary%20Ranges/Solution.java)||||
 [0230. Kth Smallest Element in a BST](./LeetCode/0230.%20Kth%20Smallest%20Element%20in%20a%20BST)||||||[kt](./LeetCode/0230.%20Kth%20Smallest%20Element%20in%20a%20BST/Solution.kt)
 [0231. Power of Two](./LeetCode/0231.%20Power%20of%20Two)||||||[kt](./LeetCode/0231.%20Power%20of%20Two/Solution.kt)
-[0232. Implement Queue using Stacks](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks)|[cpp](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks/Solution.cpp)|||||
+[0232. Implement Queue using Stacks](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks)|[cpp](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks/Solution.cpp)|||[py](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks/solution.py)||
 [0235. Lowest Common Ancestor of a Binary Search Tree](./LeetCode/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)||[java](./LeetCode/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Solution.java)||||
 [0237. Delete Node in a Linked List](./LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List)|[cpp](./LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/solution.cpp)||||[go](./LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/Solution.go)|
 [0241. Different Ways to Add Parentheses](./LeetCode/0241.%20Different%20Ways%20to%20Add%20Parentheses)||||||[kt](./LeetCode/0241.%20Different%20Ways%20to%20Add%20Parentheses/Solution.kt)
@@ -158,6 +160,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0496. Next Greater Element I](./LeetCode/0496.%20Next%20Greater%20Element%20I)|[cpp](./LeetCode/0496.%20Next%20Greater%20Element%20I/Solution.cpp)|||||
 [0498. Diagonal Traverse](./LeetCode/0498.%20Diagonal%20Traverse)||||||[kt](./LeetCode/0498.%20Diagonal%20Traverse/Solution.kt)
 [0500. Keyboard Row](./LeetCode/0500.%20Keyboard%20Row)||||||[kt](./LeetCode/0500.%20Keyboard%20Row/Solution.kt)
+[0503. Next Greater Element II](./LeetCode/0503.%20Next%20Greater%20Element%20II)|[cpp](./LeetCode/0503.%20Next%20Greater%20Element%20II/solution.cpp)|||[py](./LeetCode/0503.%20Next%20Greater%20Element%20II/solution.py)||
 [0504. Base 7](./LeetCode/0504.%20Base%207)||||||[kt](./LeetCode/0504.%20Base%207/Solution.kt)
 [0509. Fibonacci Number](./LeetCode/0509.%20Fibonacci%20Number)|[cpp](./LeetCode/0509.%20Fibonacci%20Number/solution.cpp)|[java](./LeetCode/0509.%20Fibonacci%20Number/Solution.java)|[js](./LeetCode/0509.%20Fibonacci%20Number/solution.js)|[py](./LeetCode/0509.%20Fibonacci%20Number/solution.py)|[go](./LeetCode/0509.%20Fibonacci%20Number/solution.go)|[kt](./LeetCode/0509.%20Fibonacci%20Number/solution.kt)
 [0513. Find Bottom Left Tree Value](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value)|[cpp](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.cpp)|||||[kt](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.kt)
@@ -228,6 +231,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1004. Max Consecutive Ones III](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III)|[cpp](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III/solution.cpp)|||[py](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III/solution.py)||
 [1013. Partition Array Into Three Parts With Equal Sum](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)|||||[go](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/solution.go)|
 [1029. Two City Scheduling](./LeetCode/1029.%20Two%20City%20Scheduling)|[cpp](./LeetCode/1029.%20Two%20City%20Scheduling/solution.cpp)|||||
+[1047. Remove All Adjacent Duplicates In String](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|[cpp](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/solution.cpp)|||[py](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/solution.py)||
 [1052. Grumpy Bookstore Owner](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner)|[cpp](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner/solution.cpp)|||[py](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner/solution.py)||
 [1081. Smallest Subsequence of Distinct Characters](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters)|[cpp](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/solution.cpp)|||||
 [1103. Distribute Candies to People](./LeetCode/1103.%20Distribute%20Candies%20to%20People)|[cpp](./LeetCode/1103.%20Distribute%20Candies%20to%20People/solution.cpp)|[java](./LeetCode/1103.%20Distribute%20Candies%20to%20People/Solution.java)||||
