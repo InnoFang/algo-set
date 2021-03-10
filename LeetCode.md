@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 244
+**Problems have been solved:** 246
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -94,8 +94,10 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0217. Contains Duplicate](./LeetCode/0217.%20Contains%20Duplicate)|[cpp](./LeetCode/0217.%20Contains%20Duplicate/Solution.cpp)|||||[kt](./LeetCode/0217.%20Contains%20Duplicate/Solution.kt)
 [0219. Contains Duplicate II](./LeetCode/0219.%20Contains%20Duplicate%20II)||||||[kt](./LeetCode/0219.%20Contains%20Duplicate%20II/Solution.kt)
 [0220. Contains Duplicate III](./LeetCode/0220.%20Contains%20Duplicate%20III)||||||[kt](./LeetCode/0220.%20Contains%20Duplicate%20III/Solution.kt)
+[0224. Basic Calculator](./LeetCode/0224.%20Basic%20Calculator)|[cpp](./LeetCode/0224.%20Basic%20Calculator/solution.cpp)|||||
 [0225. Implement Stack using Queues](./LeetCode/0225.%20Implement%20Stack%20using%20Queues)|[cpp](./LeetCode/0225.%20Implement%20Stack%20using%20Queues/Solution.cpp)|||||
 [0226. Invert Binary Tree](./LeetCode/0226.%20Invert%20Binary%20Tree)||||||[kt](./LeetCode/0226.%20Invert%20Binary%20Tree/Solution.kt)
+[0227. Basic Calculator II](./LeetCode/0227.%20Basic%20Calculator%20II)|[cpp](./LeetCode/0227.%20Basic%20Calculator%20II/solution.cpp)|||[py](./LeetCode/0227.%20Basic%20Calculator%20II/solution.py)||
 [0228. Summary Ranges](./LeetCode/0228.%20Summary%20Ranges)|[cpp](./LeetCode/0228.%20Summary%20Ranges/solution.cpp)|[java](./LeetCode/0228.%20Summary%20Ranges/Solution.java)||||
 [0230. Kth Smallest Element in a BST](./LeetCode/0230.%20Kth%20Smallest%20Element%20in%20a%20BST)||||||[kt](./LeetCode/0230.%20Kth%20Smallest%20Element%20in%20a%20BST/Solution.kt)
 [0231. Power of Two](./LeetCode/0231.%20Power%20of%20Two)||||||[kt](./LeetCode/0231.%20Power%20of%20Two/Solution.kt)
