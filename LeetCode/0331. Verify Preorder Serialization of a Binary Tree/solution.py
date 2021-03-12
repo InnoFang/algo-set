@@ -1,0 +1,16 @@
+"""
+150 / 150 test cases passed.
+Runtime: 52 ms
+Memory Usage: 15.2 MB
+"""
+class Solution:
+    def isValidSerialization(self, preorder: str) -> bool:
+        count = 1
+        pre = preorder.split(',')
+        for i, node in enumerate(pre):
+            count += 1 if node.isdigit() else 0
+            count -= 1 if node == '#' else 0
+            print(count, i)
+            if not count and i != len(pre) - 1:
+                return False;
+        return count == 0
