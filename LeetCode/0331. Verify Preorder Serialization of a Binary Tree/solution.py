@@ -14,3 +14,19 @@ class Solution:
             if not count and i != len(pre) - 1:
                 return False;
         return count == 0
+
+"""
+150 / 150 test cases passed.
+Runtime: 40 ms
+Memory Usage: 14.5 MB
+"""
+class Solution:
+    def isValidSerialization(self, preorder: str) -> bool:
+        slots = 1
+        for node in preorder.split(','):
+            slots -= 1
+            if slots < 0:
+                return False
+            if node != '#':
+                slots += 2
+        return slots == 0
