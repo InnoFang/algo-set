@@ -29,6 +29,55 @@ private:
 };
 
 /**
+ * 36 / 36 test cases passed.
+ * Runtime: 796 ms
+ * Memory Usage: 315.2 MB 
+ */
+class MyHashMap2 {
+public:
+    /** Initialize your data structure here. */
+    MyHashMap() {
+        data.assign(base, list<pair<int, int>>());
+    }
+    
+    /** value will always be non-negative. */
+    void put(int key, int value) { 
+        int h = hash(key);
+        auto it = find_if(data[h].begin(), data[h].end(), [&](const pair<int, int>& p) {
+            return p.first == key;
+        });
+        if (it == data[h].end()) {
+            data[h].push_back( make_pair(key, value) );
+        }
+    }
+    
+    /** Returns the value to which the specified key is mapped, or -1 if this map contains no mapping for the key */
+    int get(int key) {
+        int h = hash(key);
+        auto it = find_if(data[h].begin(), data[h].end(), [&](const pair<int, int>& p) {
+            return p.first == key;
+        });
+        return it == data[h].end() ? -1 : it->second;
+    }
+    
+    /** Removes the mapping of the specified value key if this map contains a mapping for the key */
+    void remove(int key) {
+        int h = hash(key);
+        auto it = find_if(data[h].begin(), data[h].end(), [&](const pair<int, int>& p) {
+            return p.first == key;
+        });
+        if (it != data[h].end()) {
+            data[h].erase(it);
+        }
+    }
+private:
+    vector<list<pair<int, int>>> data;
+    const int base = 666649;
+    int hash(int key) {
+        return key % base;
+    }
+};
+/**
  * Your MyHashMap object will be instantiated and called as such:
  * MyHashMap* obj = new MyHashMap();
  * obj->put(key,value);
