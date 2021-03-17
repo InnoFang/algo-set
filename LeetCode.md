@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 246
+**Problems have been solved:** 252
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -28,7 +28,9 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0050. Pow(x, n)](./LeetCode/0050.%20Pow(x,%20n))||||||[kt](./LeetCode/0050.%20Pow(x,%20n)/Solution.kt)
 [0051. N Queens](./LeetCode/0051.%20N%20Queens)||||||[kt](./LeetCode/0051.%20N%20Queens/Solution.kt)
 [0053. Maximum Subarray](./LeetCode/0053.%20Maximum%20Subarray)|[cpp](./LeetCode/0053.%20Maximum%20Subarray/solution.cpp)|||||
+[0054. Spiral Matrix](./LeetCode/0054.%20Spiral%20Matrix)|[cpp](./LeetCode/0054.%20Spiral%20Matrix/solution.cpp)|||||
 [0058. Length of Last Word](./LeetCode/0058.%20Length%20of%20Last%20Word)|[cpp](./LeetCode/0058.%20Length%20of%20Last%20Word/Solution.cpp)|||||[kt](./LeetCode/0058.%20Length%20of%20Last%20Word/Solution.kt)
+[0059. Spiral Matrix II](./LeetCode/0059.%20Spiral%20Matrix%20II)|[cpp](./LeetCode/0059.%20Spiral%20Matrix%20II/solution.cpp)|||||
 [0064. Minimum Path Sum](./LeetCode/0064.%20Minimum%20Path%20Sum)||||||[kt](./LeetCode/0064.%20Minimum%20Path%20Sum/solution.kt)
 [0066. Plus One](./LeetCode/0066.%20Plus%20One)|[cpp](./LeetCode/0066.%20Plus%20One/Solution.cpp)|||[py](./LeetCode/0066.%20Plus%20One/Solution.py)||
 [0067. Add Binary](./LeetCode/0067.%20Add%20Binary)||||||[kt](./LeetCode/0067.%20Add%20Binary/Solution.kt)
@@ -55,6 +57,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0110. Balanced Binary Tree](./LeetCode/0110.%20Balanced%20Binary%20Tree)||||[py](./LeetCode/0110.%20Balanced%20Binary%20Tree/solution.py)||
 [0111. Minimum Depth of Binary Tree](./LeetCode/0111.%20Minimum%20Depth%20of%20Binary%20Tree)|[cpp](./LeetCode/0111.%20Minimum%20Depth%20of%20Binary%20Tree/Solution.cpp)|||||[kt](./LeetCode/0111.%20Minimum%20Depth%20of%20Binary%20Tree/Solution.kt)
 [0112. Path Sum](./LeetCode/0112.%20Path%20Sum)||||[py](./LeetCode/0112.%20Path%20Sum/solution.py)||[kt](./LeetCode/0112.%20Path%20Sum/Solution.kt)
+[0115. Distinct Subsequences](./LeetCode/0115.%20Distinct%20Subsequences)|[cpp](./LeetCode/0115.%20Distinct%20Subsequences/solution.cpp)|||[py](./LeetCode/0115.%20Distinct%20Subsequences/solution.py)||
 [0118. Pascal's Triangle](./LeetCode/0118.%20Pascal's%20Triangle)||[java](./LeetCode/0118.%20Pascal's%20Triangle/Solution.java)||[py](./LeetCode/0118.%20Pascal's%20Triangle/Solution.py)||[kt](./LeetCode/0118.%20Pascal's%20Triangle/Solution.kt)
 [0119. Pascal's Triangle II](./LeetCode/0119.%20Pascal's%20Triangle%20II)|[cpp](./LeetCode/0119.%20Pascal's%20Triangle%20II/solution.cpp)|||[py](./LeetCode/0119.%20Pascal's%20Triangle%20II/solution.py)||
 [0120. Triangle](./LeetCode/0120.%20Triangle)|[cpp](./LeetCode/0120.%20Triangle/Solution.cpp)|||||[kt](./LeetCode/0120.%20Triangle/Solution.kt)
@@ -122,6 +125,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0316. Remove Duplicate Letters](./LeetCode/0316.%20Remove%20Duplicate%20Letters)|[cpp](./LeetCode/0316.%20Remove%20Duplicate%20Letters/solution.cpp)|||||
 [0322. Coin Change](./LeetCode/0322.%20Coin%20Change)||||||[kt](./LeetCode/0322.%20Coin%20Change/Solution.kt)
 [0326. Power of Three](./LeetCode/0326.%20Power%20of%20Three)||||||[kt](./LeetCode/0326.%20Power%20of%20Three/Solution.kt)
+[0331. Verify Preorder Serialization of a Binary Tree](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree)|[cpp](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/solution.cpp)|||[py](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/solution.py)||
 [0338. Counting Bits](./LeetCode/0338.%20Counting%20Bits)|[cpp](./LeetCode/0338.%20Counting%20Bits/solution.cpp)|||[py](./LeetCode/0338.%20Counting%20Bits/solution.py)||
 [0342. Power of Four](./LeetCode/0342.%20Power%20of%20Four)||||||[kt](./LeetCode/0342.%20Power%20of%20Four/Solution.kt)
 [0343. Integer Break](./LeetCode/0343.%20Integer%20Break)||||||[kt](./LeetCode/0343.%20Integer%20Break/solution.kt)
@@ -192,6 +196,8 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0697. Degree of an Array](./LeetCode/0697.%20Degree%20of%20an%20Array)|[cpp](./LeetCode/0697.%20Degree%20of%20an%20Array/solution.cpp)|||[py](./LeetCode/0697.%20Degree%20of%20an%20Array/solution.py)||
 [0698. Partition to K Equal Sum Subsets](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)||||||[kt](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets/Solution.kt)
 [0703. Kth Largest Element in a Stream](./LeetCode/0703.%20Kth%20Largest%20Element%20in%20a%20Stream)|[cpp](./LeetCode/0703.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.cpp)|||[py](./LeetCode/0703.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.py)||
+[0705. Design HashSet](./LeetCode/0705.%20Design%20HashSet)|[cpp](./LeetCode/0705.%20Design%20HashSet/solution.cpp)|||||
+[0706. Design HashMap](./LeetCode/0706.%20Design%20HashMap)|[cpp](./LeetCode/0706.%20Design%20HashMap/solution.cpp)|||[py](./LeetCode/0706.%20Design%20HashMap/solution.py)||
 [0721. Accounts Merge](./LeetCode/0721.%20Accounts%20Merge)||[java](./LeetCode/0721.%20Accounts%20Merge/Solution.java)||||[kt](./LeetCode/0721.%20Accounts%20Merge/Solution.kt)
 [0724. Find Pivot Index](./LeetCode/0724.%20Find%20Pivot%20Index)|[cpp](./LeetCode/0724.%20Find%20Pivot%20Index/solution.cpp)|||[py](./LeetCode/0724.%20Find%20Pivot%20Index/solution.py)||
 [0728. Self Dividing Numbers](./LeetCode/0728.%20Self%20Dividing%20Numbers)||||||[kt](./LeetCode/0728.%20Self%20Dividing%20Numbers/Solution.kt)
