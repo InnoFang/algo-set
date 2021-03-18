@@ -9,11 +9,11 @@
  * };
  */
 
- 
+
 /**
- * 48 / 48 test cases passed.
- * Runtime: 68 ms
- * Memory Usage: 50.2 MB 
+ * 44 / 44 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 7.2 MB 
  */
 class Solution {
 public:
@@ -33,5 +33,33 @@ public:
             pre->next = next;
         }
         return dummyNode->next;
+    }
+};
+
+/**
+ * 44 / 44 test cases passed.
+ * Runtime: 4 ms
+ * Memory Usage: 7.3 MB 
+ */
+class Solution2 {
+public:
+    ListNode* successor;
+    ListNode* reverseN(ListNode* head, int n) {
+        if (n == 1) {
+            successor = head->next;
+            return head;
+        }
+        ListNode* last = reverseN(head->next, n - 1);
+        head->next->next = head;
+        head->next = successor;
+        return last;
+    }
+
+    ListNode* reverseBetween(ListNode* head, int left, int right) {
+        if (left == 1) {
+            return reverseN(head, right);
+        }
+        head->next = reverseBetween(head->next, left - 1, right - 1);
+        return head;
     }
 };
