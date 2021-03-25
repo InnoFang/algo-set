@@ -10,9 +10,9 @@
  */
 
 /**
- * 48 / 48 test cases passed.
- * Runtime: 68 ms
- * Memory Usage: 50.2 MB 
+ * 166 / 166 test cases passed.
+ * Runtime: 8 ms
+ * Memory Usage: 10.8 MB 
  */
 class Solution {
 public:
@@ -31,5 +31,28 @@ public:
         }
         tail->next = nullptr;
         return dummyNode->next;
+    }
+};
+
+/**
+ * 166 / 166 test cases passed.
+ * Runtime: 8 ms
+ * Memory Usage: 10.9 MB 
+ */
+class Solution2 {
+public:
+    ListNode* deleteDuplicates(ListNode* head) {
+        if (!head || !head->next) {
+            return head;
+        }
+        if (head->val != head->next->val) {
+            head->next = deleteDuplicates(head->next);
+        } else {
+            while (head->next && head->val == head->next->val) {
+                head = head->next;
+            }
+            return deleteDuplicates(head->next);
+        }
+        return head;
     }
 };
