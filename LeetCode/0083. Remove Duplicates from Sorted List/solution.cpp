@@ -32,3 +32,21 @@ public:
     }
 };
 
+/**
+ * 165 / 165 test cases passed.
+ * Runtime: 4 ms
+ * Memory Usage: 11.2 MB 
+ */
+class Solution2 {
+public:
+    ListNode* deleteDuplicates(ListNode* head) {
+        ListNode* tail = head;
+        while (tail) {
+            while (tail->next && tail->val == tail->next->val) {
+                tail->next = tail->next->next;
+            }
+            tail = tail->next;
+        }
+        return head;
+    }
+};
