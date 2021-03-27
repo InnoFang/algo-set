@@ -11,25 +11,23 @@
 
 /**
  * 231 / 231 test cases passed.
- * Runtime: 16 ms
+ * Runtime: 8 ms
  * Memory Usage: 11.5 MB 
  */
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        if (!head || !head->next) return head;
+        if (k == 0 || !head || !head->next) return head;
         ListNode* tail = head;
-        int len = 0;
+        int len = 1;
         while (tail->next) {
             len ++;
             tail = tail->next;
         }
-        len ++;
         int step = len - k % len;
         tail->next = head;
-        while (tail && step) {
+        while (step--) {
             tail = tail->next;
-            step--;
         }
         head = tail->next;
         tail->next = nullptr;
