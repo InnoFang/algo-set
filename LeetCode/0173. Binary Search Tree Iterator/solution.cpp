@@ -41,6 +41,38 @@ private:
 };
 
 /**
+ * 61 / 61 test cases passed.
+ * Runtime: 32 ms
+ * Memory Usage: 23.5 MB 
+ */
+class BSTIterator2 {
+public:
+    BSTIterator(TreeNode* root) {
+        while (root) {
+            traversal.push(root);
+            root = root->left;
+        }
+    }
+    
+    int next() {
+        TreeNode* curr = traversal.top();
+        traversal.pop();
+        TreeNode* node = curr->right;
+        while (node) {
+            traversal.push(node);
+            node = node->left;
+        }
+        return curr->val;
+    }
+    
+    bool hasNext() {
+        return !traversal.empty();
+    }
+private:
+    stack<TreeNode*> traversal;
+};
+
+/**
  * Your BSTIterator object will be instantiated and called as such:
  * BSTIterator* obj = new BSTIterator(root);
  * int param_1 = obj->next();
