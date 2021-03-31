@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 257
+**Problems have been solved:** 264
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -31,6 +31,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0054. Spiral Matrix](./LeetCode/0054.%20Spiral%20Matrix)|[cpp](./LeetCode/0054.%20Spiral%20Matrix/solution.cpp)|||||
 [0058. Length of Last Word](./LeetCode/0058.%20Length%20of%20Last%20Word)|[cpp](./LeetCode/0058.%20Length%20of%20Last%20Word/Solution.cpp)|||||[kt](./LeetCode/0058.%20Length%20of%20Last%20Word/Solution.kt)
 [0059. Spiral Matrix II](./LeetCode/0059.%20Spiral%20Matrix%20II)|[cpp](./LeetCode/0059.%20Spiral%20Matrix%20II/solution.cpp)|||||
+[0061. Rotate List](./LeetCode/0061.%20Rotate%20List)|[cpp](./LeetCode/0061.%20Rotate%20List/solution.cpp)|||[py](./LeetCode/0061.%20Rotate%20List/solution.py)||
 [0064. Minimum Path Sum](./LeetCode/0064.%20Minimum%20Path%20Sum)||||||[kt](./LeetCode/0064.%20Minimum%20Path%20Sum/solution.kt)
 [0066. Plus One](./LeetCode/0066.%20Plus%20One)|[cpp](./LeetCode/0066.%20Plus%20One/Solution.cpp)|||[py](./LeetCode/0066.%20Plus%20One/Solution.py)||
 [0067. Add Binary](./LeetCode/0067.%20Add%20Binary)||||||[kt](./LeetCode/0067.%20Add%20Binary/Solution.kt)
@@ -38,11 +39,15 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0070. Climbing Stairs](./LeetCode/0070.%20Climbing%20Stairs)|[cpp](./LeetCode/0070.%20Climbing%20Stairs/solution.cpp)|||||[kt](./LeetCode/0070.%20Climbing%20Stairs/Solution.kt)
 [0071. Simplify Path](./LeetCode/0071.%20Simplify%20Path)||||[py](./LeetCode/0071.%20Simplify%20Path/Solution.py)||[kt](./LeetCode/0071.%20Simplify%20Path/Solution.kt)
 [0073. Set Matrix Zeroes](./LeetCode/0073.%20Set%20Matrix%20Zeroes)|[cpp](./LeetCode/0073.%20Set%20Matrix%20Zeroes/solution.cpp)|||||
+[0074. Search a 2D Matrix](./LeetCode/0074.%20Search%20a%202D%20Matrix)|[cpp](./LeetCode/0074.%20Search%20a%202D%20Matrix/solution.cpp)|||[py](./LeetCode/0074.%20Search%20a%202D%20Matrix/solution.py)||
 [0075. Sort Colors](./LeetCode/0075.%20Sort%20Colors)||[java](./LeetCode/0075.%20Sort%20Colors/Solution.java)|[js](./LeetCode/0075.%20Sort%20Colors/Solution.js)|[py](./LeetCode/0075.%20Sort%20Colors/Solution.py)||[kt](./LeetCode/0075.%20Sort%20Colors/Solution.kt)
 [0077. Combinations](./LeetCode/0077.%20Combinations)||||||[kt](./LeetCode/0077.%20Combinations/Solution.kt)
+[0078. Subsets](./LeetCode/0078.%20Subsets)|[cpp](./LeetCode/0078.%20Subsets/solution.cpp)|||[py](./LeetCode/0078.%20Subsets/solution.py)||
 [0079. Word Search](./LeetCode/0079.%20Word%20Search)||||||[kt](./LeetCode/0079.%20Word%20Search/Solution.kt)
-[0083. Remove Duplicates from Sorted List](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List)||||||[kt](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/Solution.kt)
+[0082. Remove Duplicates from Sorted List II](./LeetCode/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II)|[cpp](./LeetCode/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II/solution.cpp)|||[py](./LeetCode/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II/solution.py)||
+[0083. Remove Duplicates from Sorted List](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List)|[cpp](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/solution.cpp)|||[py](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/solution.py)||[kt](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/Solution.kt)
 [0088. Merge Sorted Array](./LeetCode/0088.%20Merge%20Sorted%20Array)||||||[kt](./LeetCode/0088.%20Merge%20Sorted%20Array/Solution.kt)
+[0090. Subsets II](./LeetCode/0090.%20Subsets%20II)|[cpp](./LeetCode/0090.%20Subsets%20II/solution.cpp)|||[py](./LeetCode/0090.%20Subsets%20II/solution.py)||
 [0091. Decode Ways](./LeetCode/0091.%20Decode%20Ways)||||||[kt](./LeetCode/0091.%20Decode%20Ways/Solution.kt)
 [0092. Reverse Linked List II](./LeetCode/0092.%20Reverse%20Linked%20List%20II)|[cpp](./LeetCode/0092.%20Reverse%20Linked%20List%20II/solution.cpp)|||[py](./LeetCode/0092.%20Reverse%20Linked%20List%20II/solution.py)||
 [0094. Binary Tree Inorder Traversal](./LeetCode/0094.%20Binary%20Tree%20Inorder%20Traversal)||||||[kt](./LeetCode/0094.%20Binary%20Tree%20Inorder%20Traversal/Solution.kt)
@@ -84,8 +89,10 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0165. Compare Version Numbers](./LeetCode/0165.%20Compare%20Version%20Numbers)||||||[kt](./LeetCode/0165.%20Compare%20Version%20Numbers/Solution.kt)
 [0167. Two Sum II - Input array is sorted](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)||[java](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.java)||[py](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.py)||[kt](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.kt)
 [0169. Majority Element](./LeetCode/0169.%20Majority%20Element)|||||[go](./LeetCode/0169.%20Majority%20Element/solution.go)|
+[0173. Binary Search Tree Iterator](./LeetCode/0173.%20Binary%20Search%20Tree%20Iterator)|[cpp](./LeetCode/0173.%20Binary%20Search%20Tree%20Iterator/solution.cpp)|||[py](./LeetCode/0173.%20Binary%20Search%20Tree%20Iterator/solution.py)||
 [0179. Largest Number](./LeetCode/0179.%20Largest%20Number)||[java](./LeetCode/0179.%20Largest%20Number/Solution.java)||||[kt](./LeetCode/0179.%20Largest%20Number/Solution.kt)
 [0189. Rotate Array](./LeetCode/0189.%20Rotate%20Array)|[cpp](./LeetCode/0189.%20Rotate%20Array/solution.cpp)||||[go](./LeetCode/0189.%20Rotate%20Array/solution.go)|
+[0190. Reverse Bits](./LeetCode/0190.%20Reverse%20Bits)|[cpp](./LeetCode/0190.%20Reverse%20Bits/solution.cpp)|||[py](./LeetCode/0190.%20Reverse%20Bits/solution.py)||
 [0191. Number of 1 Bits](./LeetCode/0191.%20Number%20of%201%20Bits)|[cpp](./LeetCode/0191.%20Number%20of%201%20Bits/solution.cpp)|||||
 [0198. House Robber](./LeetCode/0198.%20House%20Robber)||||||[kt](./LeetCode/0198.%20House%20Robber/Solution.kt)
 [0199. Binary Tree Right Side View](./LeetCode/0199.%20Binary%20Tree%20Right%20Side%20View)||||||[kt](./LeetCode/0199.%20Binary%20Tree%20Right%20Side%20View/Solution.kt)
