@@ -22,3 +22,27 @@ public:
         return ans;
     }
 };
+
+/**
+ * 320 / 320 test cases passed.
+ * Runtime: 12 ms
+ * Memory Usage: 13.7 MB 
+ */
+class Solution2 {
+public:
+    int trap(vector<int>& height) {
+        int len = height.size();
+        if (len <= 2) return 0;
+        
+        int ans = 0;
+        int black = accumulate(height.begin(), height.end(), 0);
+        int area = 0;
+        for (int l = 0, r = len - 1, hi = 1; l <= r;) {
+            while (l <= r && height[l] < hi) ++ l;
+            while (l <= r && height[r] < hi) -- r;
+            ++ hi;
+            area += r - l + 1;
+        }
+        return area - black;
+    }
+};
