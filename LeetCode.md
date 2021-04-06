@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 264
+**Problems have been solved:** 269
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -17,11 +17,12 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0020. Valid Parentheses](./LeetCode/0020.%20Valid%20Parentheses)|[cpp](./LeetCode/0020.%20Valid%20Parentheses/Solution.cpp)|||||[kt](./LeetCode/0020.%20Valid%20Parentheses/Solution.kt)
 [0022. Generate Parentheses](./LeetCode/0022.%20Generate%20Parentheses)|[cpp](./LeetCode/0022.%20Generate%20Parentheses/Solution.cpp)|||||
 [0024. Swap Nodes in Pairs](./LeetCode/0024.%20Swap%20Nodes%20in%20Pairs)|[cpp](./LeetCode/0024.%20Swap%20Nodes%20in%20Pairs/Solution.cpp)|[java](./LeetCode/0024.%20Swap%20Nodes%20in%20Pairs/Solution.java)||||
-[0026. Remove Duplicates from Sorted Array](./LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array)||||||[kt](./LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.kt)
+[0026. Remove Duplicates from Sorted Array](./LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array)|[cpp](./LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.cpp)|||[py](./LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.py)||[kt](./LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.kt)
 [0027. Remove Element](./LeetCode/0027.%20Remove%20Element)|[cpp](./LeetCode/0027.%20Remove%20Element/Solution.cpp)|||||[kt](./LeetCode/0027.%20Remove%20Element/Solution.kt)
 [0034. Search for a Range](./LeetCode/0034.%20Search%20for%20a%20Range)||||||[kt](./LeetCode/0034.%20Search%20for%20a%20Range/Solution.kt)
 [0035. Search Insert Position](./LeetCode/0035.%20Search%20Insert%20Position)||||||[kt](./LeetCode/0035.%20Search%20Insert%20Position/Solution.kt)
 [0041. First Missing Positive](./LeetCode/0041.%20First%20Missing%20Positive)|[cpp](./LeetCode/0041.%20First%20Missing%20Positive/solution.cpp)|||||
+[0042. Trapping Rain Water](./LeetCode/0042.%20Trapping%20Rain%20Water)|[cpp](./LeetCode/0042.%20Trapping%20Rain%20Water/solution.cpp)|||[py](./LeetCode/0042.%20Trapping%20Rain%20Water/solution.py)||
 [0046. Permutations](./LeetCode/0046.%20Permutations)||||||[kt](./LeetCode/0046.%20Permutations/Solution.kt)
 [0047. Permutations II](./LeetCode/0047.%20Permutations%20II)||||||[kt](./LeetCode/0047.%20Permutations%20II/Solution.kt)
 [0048. Rotate Image](./LeetCode/0048.%20Rotate%20Image)|[cpp](./LeetCode/0048.%20Rotate%20Image/solution.cpp)|||[py](./LeetCode/0048.%20Rotate%20Image/solution.py)||
@@ -44,9 +45,10 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0077. Combinations](./LeetCode/0077.%20Combinations)||||||[kt](./LeetCode/0077.%20Combinations/Solution.kt)
 [0078. Subsets](./LeetCode/0078.%20Subsets)|[cpp](./LeetCode/0078.%20Subsets/solution.cpp)|||[py](./LeetCode/0078.%20Subsets/solution.py)||
 [0079. Word Search](./LeetCode/0079.%20Word%20Search)||||||[kt](./LeetCode/0079.%20Word%20Search/Solution.kt)
+[0080. Remove Duplicates from Sorted Array II](./LeetCode/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)|[cpp](./LeetCode/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.cpp)|||[py](./LeetCode/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.py)||
 [0082. Remove Duplicates from Sorted List II](./LeetCode/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II)|[cpp](./LeetCode/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II/solution.cpp)|||[py](./LeetCode/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II/solution.py)||
 [0083. Remove Duplicates from Sorted List](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List)|[cpp](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/solution.cpp)|||[py](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/solution.py)||[kt](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/Solution.kt)
-[0088. Merge Sorted Array](./LeetCode/0088.%20Merge%20Sorted%20Array)||||||[kt](./LeetCode/0088.%20Merge%20Sorted%20Array/Solution.kt)
+[0088. Merge Sorted Array](./LeetCode/0088.%20Merge%20Sorted%20Array)|[cpp](./LeetCode/0088.%20Merge%20Sorted%20Array/solution.cpp)|||[py](./LeetCode/0088.%20Merge%20Sorted%20Array/solution.py)||[kt](./LeetCode/0088.%20Merge%20Sorted%20Array/Solution.kt)
 [0090. Subsets II](./LeetCode/0090.%20Subsets%20II)|[cpp](./LeetCode/0090.%20Subsets%20II/solution.cpp)|||[py](./LeetCode/0090.%20Subsets%20II/solution.py)||
 [0091. Decode Ways](./LeetCode/0091.%20Decode%20Ways)||||||[kt](./LeetCode/0091.%20Decode%20Ways/Solution.kt)
 [0092. Reverse Linked List II](./LeetCode/0092.%20Reverse%20Linked%20List%20II)|[cpp](./LeetCode/0092.%20Reverse%20Linked%20List%20II/solution.cpp)|||[py](./LeetCode/0092.%20Reverse%20Linked%20List%20II/solution.py)||
@@ -222,6 +224,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0766. Toeplitz Matrix](./LeetCode/0766.%20Toeplitz%20Matrix)|[cpp](./LeetCode/0766.%20Toeplitz%20Matrix/solution.cpp)|||[py](./LeetCode/0766.%20Toeplitz%20Matrix/solution.py)||
 [0771. Jewels and Stones](./LeetCode/0771.%20Jewels%20and%20Stones)||||||[kt](./LeetCode/0771.%20Jewels%20and%20Stones/Solution.kt)
 [0780. Reaching Points](./LeetCode/0780.%20Reaching%20Points)||||||[kt](./LeetCode/0780.%20Reaching%20Points/Solution.kt)
+[0781. Rabbits in Forest](./LeetCode/0781.%20Rabbits%20in%20Forest)|[cpp](./LeetCode/0781.%20Rabbits%20in%20Forest/solution.cpp)|||[py](./LeetCode/0781.%20Rabbits%20in%20Forest/solution.py)||
 [0783. Minimum Distance Between BST Nodes](./LeetCode/0783.%20Minimum%20Distance%20Between%20BST%20Nodes)||||||[kt](./LeetCode/0783.%20Minimum%20Distance%20Between%20BST%20Nodes/Solution.kt)
 [0784. Letter Case Permutation](./LeetCode/0784.%20Letter%20Case%20Permutation)||||||[kt](./LeetCode/0784.%20Letter%20Case%20Permutation/Solution.kt)
 [0788. Rotated Digits](./LeetCode/0788.%20Rotated%20Digits)||||||[kt](./LeetCode/0788.%20Rotated%20Digits/Solution.kt)
@@ -248,6 +251,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0995. Minimum Number of K Consecutive Bit Flips](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips)|[cpp](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/solution.cpp)|||[py](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/solution.py)||
 [0997. Find the Town Judge](./LeetCode/0997.%20Find%20the%20Town%20Judge)|[cpp](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.cpp)|||[py](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.py)||
 [1004. Max Consecutive Ones III](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III)|[cpp](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III/solution.cpp)|||[py](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III/solution.py)||
+[1006. Clumsy Factorial](./LeetCode/1006.%20Clumsy%20Factorial)|[cpp](./LeetCode/1006.%20Clumsy%20Factorial/solution.cpp)|||[py](./LeetCode/1006.%20Clumsy%20Factorial/solution.py)||
 [1013. Partition Array Into Three Parts With Equal Sum](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)|||||[go](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/solution.go)|
 [1029. Two City Scheduling](./LeetCode/1029.%20Two%20City%20Scheduling)|[cpp](./LeetCode/1029.%20Two%20City%20Scheduling/solution.cpp)|||||
 [1047. Remove All Adjacent Duplicates In String](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|[cpp](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/solution.cpp)|||[py](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/solution.py)||
@@ -255,6 +259,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1081. Smallest Subsequence of Distinct Characters](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters)|[cpp](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/solution.cpp)|||||
 [1103. Distribute Candies to People](./LeetCode/1103.%20Distribute%20Candies%20to%20People)|[cpp](./LeetCode/1103.%20Distribute%20Candies%20to%20People/solution.cpp)|[java](./LeetCode/1103.%20Distribute%20Candies%20to%20People/Solution.java)||||
 [1128. Number of Equivalent Domino Pairs](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs)|[cpp](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/solution.cpp)|||[py](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/solution.py)||
+[1143. Longest Common Subsequence](./LeetCode/1143.%20Longest%20Common%20Subsequence)|[cpp](./LeetCode/1143.%20Longest%20Common%20Subsequence/solution.cpp)|||[py](./LeetCode/1143.%20Longest%20Common%20Subsequence/solution.py)||
 [1160. Find Words That Can Be Formed by Characters](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)|||||[go](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/solution.go)|
 [1178. Number of Valid Words for Each Puzzle](./LeetCode/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle)|[cpp](./LeetCode/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/solution.cpp)|||||
 [1208. Get Equal Substrings Within Budget](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget)|[cpp](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.cpp)|||[py](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.py)||
