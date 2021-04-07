@@ -1,6 +1,6 @@
 """
-56 / 56 test cases passed.
-Runtime: 100 ms
+195 / 195 test cases passed.
+Runtime: 44 ms
 Memory Usage: 15.1 MB
 """
 class Solution:
