@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 269
+**Problems have been solved:** 272
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -19,6 +19,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0024. Swap Nodes in Pairs](./LeetCode/0024.%20Swap%20Nodes%20in%20Pairs)|[cpp](./LeetCode/0024.%20Swap%20Nodes%20in%20Pairs/Solution.cpp)|[java](./LeetCode/0024.%20Swap%20Nodes%20in%20Pairs/Solution.java)||||
 [0026. Remove Duplicates from Sorted Array](./LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array)|[cpp](./LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.cpp)|||[py](./LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.py)||[kt](./LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.kt)
 [0027. Remove Element](./LeetCode/0027.%20Remove%20Element)|[cpp](./LeetCode/0027.%20Remove%20Element/Solution.cpp)|||||[kt](./LeetCode/0027.%20Remove%20Element/Solution.kt)
+[0033. Search in Rotated Sorted Array](./LeetCode/0033.%20Search%20in%20Rotated%20Sorted%20Array)|[cpp](./LeetCode/0033.%20Search%20in%20Rotated%20Sorted%20Array/solution.cpp)|||[py](./LeetCode/0033.%20Search%20in%20Rotated%20Sorted%20Array/solution.py)||
 [0034. Search for a Range](./LeetCode/0034.%20Search%20for%20a%20Range)||||||[kt](./LeetCode/0034.%20Search%20for%20a%20Range/Solution.kt)
 [0035. Search Insert Position](./LeetCode/0035.%20Search%20Insert%20Position)||||||[kt](./LeetCode/0035.%20Search%20Insert%20Position/Solution.kt)
 [0041. First Missing Positive](./LeetCode/0041.%20First%20Missing%20Positive)|[cpp](./LeetCode/0041.%20First%20Missing%20Positive/solution.cpp)|||||
@@ -46,6 +47,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0078. Subsets](./LeetCode/0078.%20Subsets)|[cpp](./LeetCode/0078.%20Subsets/solution.cpp)|||[py](./LeetCode/0078.%20Subsets/solution.py)||
 [0079. Word Search](./LeetCode/0079.%20Word%20Search)||||||[kt](./LeetCode/0079.%20Word%20Search/Solution.kt)
 [0080. Remove Duplicates from Sorted Array II](./LeetCode/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)|[cpp](./LeetCode/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.cpp)|||[py](./LeetCode/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.py)||
+[0081. Search in Rotated Sorted Array II](./LeetCode/0081.%20Search%20in%20Rotated%20Sorted%20Array%20II)|[cpp](./LeetCode/0081.%20Search%20in%20Rotated%20Sorted%20Array%20II/solution.cpp)|||[py](./LeetCode/0081.%20Search%20in%20Rotated%20Sorted%20Array%20II/solution.py)||
 [0082. Remove Duplicates from Sorted List II](./LeetCode/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II)|[cpp](./LeetCode/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II/solution.cpp)|||[py](./LeetCode/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II/solution.py)||
 [0083. Remove Duplicates from Sorted List](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List)|[cpp](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/solution.cpp)|||[py](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/solution.py)||[kt](./LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/Solution.kt)
 [0088. Merge Sorted Array](./LeetCode/0088.%20Merge%20Sorted%20Array)|[cpp](./LeetCode/0088.%20Merge%20Sorted%20Array/solution.cpp)|||[py](./LeetCode/0088.%20Merge%20Sorted%20Array/solution.py)||[kt](./LeetCode/0088.%20Merge%20Sorted%20Array/Solution.kt)
@@ -87,6 +89,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0148. Sort List](./LeetCode/0148.%20Sort%20List)||[java](./LeetCode/0148.%20Sort%20List/Solution.java)||||[kt](./LeetCode/0148.%20Sort%20List/Solution.kt)
 [0150. Evaluate Reverse Polish Notation](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation)|[cpp](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/solution.cpp)|[java](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.java)|[js](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.js)|[py](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.py)||[kt](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.kt)
 [0151. Reverse Words in a String](./LeetCode/0151.%20Reverse%20Words%20in%20a%20String)||[java](./LeetCode/0151.%20Reverse%20Words%20in%20a%20String/Solution.java)||||
+[0153. Find Minimum in Rotated Sorted Array](./LeetCode/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)|[cpp](./LeetCode/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/solution.cpp)|||[py](./LeetCode/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/solution.py)||
 [0160. Intersection of Two Linked Lists](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists)|[cpp](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists/Solution.cpp)|||||
 [0165. Compare Version Numbers](./LeetCode/0165.%20Compare%20Version%20Numbers)||||||[kt](./LeetCode/0165.%20Compare%20Version%20Numbers/Solution.kt)
 [0167. Two Sum II - Input array is sorted](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)||[java](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.java)||[py](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.py)||[kt](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.kt)
