@@ -98,6 +98,54 @@ class Trie2:
         return True
 
 
+"""
+15 / 15 test cases passed.
+Runtime: 136 ms
+Memory Usage: 27.7 MB
+"""
+class Trie3:
+
+    def __init__(self):
+        """
+        Initialize your data structure here.
+        """
+        self.lookup = {}
+
+
+    def insert(self, word: str) -> None:
+        """
+        Inserts a word into the trie.
+        """
+        trie = self.lookup
+        for ch in word:
+            if ch not in trie:
+                trie[ch] = {}
+            trie = trie[ch]
+        trie['#'] = '#'
+
+    def search(self, word: str) -> bool:
+        """
+        Returns if the word is in the trie.
+        """
+        trie = self.lookup
+        for ch in word:
+            if ch not in trie:
+                return False
+            trie = trie[ch]
+        return '#' in trie
+
+    def startsWith(self, prefix: str) -> bool:
+        """
+        Returns if there is any word in the trie that starts with the given prefix.
+        """
+        trie = self.lookup
+        for ch in prefix:
+            if ch not in trie:
+                return False
+            trie = trie[ch]
+        return True
+
+
 # Your Trie object will be instantiated and called as such:
 # obj = Trie()
 # obj.insert(word)
