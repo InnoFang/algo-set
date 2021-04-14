@@ -102,6 +102,60 @@ private:
     bool isEnd;
 };
 
+
+/**
+ * 15 / 15 test cases passed.
+ * Runtime: 56 ms
+ * Memory Usage: 43.9 MB 
+ */
+class Trie3 {
+public:
+    /** Initialize your data structure here. */
+    Trie() {}
+    
+    /** Inserts a word into the trie. */
+    void insert(string word) {
+        Trie* node = this;
+        for (auto& ch: word) {
+            int index = ch - 'a';
+            if (nullptr == node->next[index]) {
+                node->next[index] = new Trie();
+            }
+            node = node->next[index];
+        }
+        node->isEnd = true;
+    }
+    
+    /** Returns if the word is in the trie. */
+    bool search(string word) {
+        Trie* node = this;
+        for (auto& ch: word) {
+            int index = ch - 'a';
+            if (nullptr == node->next[index]) {
+                return false;
+            }
+            node = node->next[index];
+        }
+        return node->isEnd;
+    }
+    
+    /** Returns if there is any word in the trie that starts with the given prefix. */
+    bool startsWith(string prefix) {
+        Trie* node = this;
+        for (auto& ch: prefix) {
+            int index = ch - 'a';
+            if (nullptr == node->next[index]) {
+                return false;
+            }
+            node = node->next[index];
+        }
+        return true;
+    }
+private:
+    Trie *next[26] = { nullptr };
+    bool isEnd = false;
+};
+
 /**
  * Your Trie object will be instantiated and called as such:
  * Trie* obj = new Trie();
