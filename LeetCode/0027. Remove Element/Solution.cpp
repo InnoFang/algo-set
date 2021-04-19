@@ -1,13 +1,13 @@
-// 113 / 113 test cases passed.
-// Status: Accepted
-// Runtime: 7 ms
-
+/**
+ * 113 / 113 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 8.6 MB 
+ */
 class Solution {
 public:
-    int removeElement(vector<int>& nums, int val) { 
-        int indices = nums.size() - 1;
+    int removeElement(vector<int>& nums, int val) {
         int len = 0;
-        for (int i = 0; i <= indices; i++) {
+        for (int i = 0; i < nums.size(); ++ i) {
             if (nums[i] != val) {
                 nums[len++] = nums[i];
             }
