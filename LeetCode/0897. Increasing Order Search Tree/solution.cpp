@@ -61,3 +61,19 @@ public:
         return dummyNode->right;
     }
 };
+
+/**
+ * 37 / 37 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 7.4 MB 
+ */
+class Solution3 {
+public:
+    TreeNode* increasingBST(TreeNode* root, TreeNode* tail=nullptr) {
+        if (!root) return tail;
+        auto head = increasingBST(root->left, root);
+        root->left = nullptr;
+        root->right = increasingBST(root->right, tail);
+        return head;
+    }
+};
