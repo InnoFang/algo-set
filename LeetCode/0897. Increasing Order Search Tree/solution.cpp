@@ -37,3 +37,27 @@ public:
         return dummyNode->right;
     }
 };
+
+/**
+ * 37 / 37 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 7.3 MB 
+ */
+class Solution2 {
+public:
+    TreeNode* prev;
+    void inorder(TreeNode* root) {
+        if (!root) return;
+        inorder(root->left);
+        prev->right = root;
+        root->left = nullptr;
+        prev = root;
+        inorder(root->right);
+    }
+    TreeNode* increasingBST(TreeNode* root) {
+        TreeNode* dummyNode = new TreeNode();
+        prev = dummyNode;
+        inorder(root);
+        return dummyNode->right;
+    }
+};
