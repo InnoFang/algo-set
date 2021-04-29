@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 279
+**Problems have been solved:** 285
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -54,7 +54,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0087. Scramble String](./LeetCode/0087.%20Scramble%20String)|[cpp](./LeetCode/0087.%20Scramble%20String/solution.cpp)|||[py](./LeetCode/0087.%20Scramble%20String/solution.py)||
 [0088. Merge Sorted Array](./LeetCode/0088.%20Merge%20Sorted%20Array)|[cpp](./LeetCode/0088.%20Merge%20Sorted%20Array/solution.cpp)|||[py](./LeetCode/0088.%20Merge%20Sorted%20Array/solution.py)||[kt](./LeetCode/0088.%20Merge%20Sorted%20Array/Solution.kt)
 [0090. Subsets II](./LeetCode/0090.%20Subsets%20II)|[cpp](./LeetCode/0090.%20Subsets%20II/solution.cpp)|||[py](./LeetCode/0090.%20Subsets%20II/solution.py)||
-[0091. Decode Ways](./LeetCode/0091.%20Decode%20Ways)||||||[kt](./LeetCode/0091.%20Decode%20Ways/Solution.kt)
+[0091. Decode Ways](./LeetCode/0091.%20Decode%20Ways)|[cpp](./LeetCode/0091.%20Decode%20Ways/solution.cpp)|||[py](./LeetCode/0091.%20Decode%20Ways/solution.py)||[kt](./LeetCode/0091.%20Decode%20Ways/Solution.kt)
 [0092. Reverse Linked List II](./LeetCode/0092.%20Reverse%20Linked%20List%20II)|[cpp](./LeetCode/0092.%20Reverse%20Linked%20List%20II/solution.cpp)|||[py](./LeetCode/0092.%20Reverse%20Linked%20List%20II/solution.py)||
 [0094. Binary Tree Inorder Traversal](./LeetCode/0094.%20Binary%20Tree%20Inorder%20Traversal)||||||[kt](./LeetCode/0094.%20Binary%20Tree%20Inorder%20Traversal/Solution.kt)
 [0098. Validate Binary Search Tree](./LeetCode/0098.%20Validate%20Binary%20Search%20Tree)|[cpp](./LeetCode/0098.%20Validate%20Binary%20Search%20Tree/Solution.cpp)|||||
@@ -158,8 +158,10 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0350. Intersection of Two Arrays II](./LeetCode/0350.%20Intersection%20of%20Two%20Arrays%20II)||||||[kt](./LeetCode/0350.%20Intersection%20of%20Two%20Arrays%20II/Solution.kt)
 [0354. Russian Doll Envelopes](./LeetCode/0354.%20Russian%20Doll%20Envelopes)|[cpp](./LeetCode/0354.%20Russian%20Doll%20Envelopes/solution.cpp)|||[py](./LeetCode/0354.%20Russian%20Doll%20Envelopes/solution.py)||
 [0365. Water and Jug Problem](./LeetCode/0365.%20Water%20and%20Jug%20Problem)|||||[go](./LeetCode/0365.%20Water%20and%20Jug%20Problem/solution.go)|
+[0368. Largest Divisible Subset](./LeetCode/0368.%20Largest%20Divisible%20Subset)|[cpp](./LeetCode/0368.%20Largest%20Divisible%20Subset/solution.cpp)|||[py](./LeetCode/0368.%20Largest%20Divisible%20Subset/solution.py)||
 [0371. Sum of Two Integers](./LeetCode/0371.%20Sum%20of%20Two%20Integers)||||||[kt](./LeetCode/0371.%20Sum%20of%20Two%20Integers/Solution.kt)
 [0372. Super Pow](./LeetCode/0372.%20Super%20Pow)||[java](./LeetCode/0372.%20Super%20Pow/Solution.java)||||[kt](./LeetCode/0372.%20Super%20Pow/Solution.kt)
+[0377. Combination Sum IV](./LeetCode/0377.%20Combination%20Sum%20IV)|[cpp](./LeetCode/0377.%20Combination%20Sum%20IV/solution.cpp)|||[py](./LeetCode/0377.%20Combination%20Sum%20IV/solution.py)||
 [0386. Lexicographical Numbers](./LeetCode/0386.%20Lexicographical%20Numbers)|[cpp](./LeetCode/0386.%20Lexicographical%20Numbers/solution.cpp)|||||
 [0389. Find the Difference](./LeetCode/0389.%20Find%20the%20Difference)|[cpp](./LeetCode/0389.%20Find%20the%20Difference/solution.cpp)|||||[kt](./LeetCode/0389.%20Find%20the%20Difference/Solution.kt)
 [0392. Is Subsequence](./LeetCode/0392.%20Is%20Subsequence)||[java](./LeetCode/0392.%20Is%20Subsequence/Solution.java)||||[kt](./LeetCode/0392.%20Is%20Subsequence/Solution.kt)
@@ -207,6 +209,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0605. Can Place Flowers](./LeetCode/0605.%20Can%20Place%20Flowers)|[cpp](./LeetCode/0605.%20Can%20Place%20Flowers/solution.cpp)|||||
 [0611. Valid Triangle Number](./LeetCode/0611.%20Valid%20Triangle%20Number)||||||[kt](./LeetCode/0611.%20Valid%20Triangle%20Number/Solution.kt)
 [0628. Maximum Product of Three Numbers](./LeetCode/0628.%20Maximum%20Product%20of%20Three%20Numbers)||||[py](./LeetCode/0628.%20Maximum%20Product%20of%20Three%20Numbers/solution.py)||
+[0633. Sum of Square Numbers](./LeetCode/0633.%20Sum%20of%20Square%20Numbers)|[cpp](./LeetCode/0633.%20Sum%20of%20Square%20Numbers/solution.cpp)|||[py](./LeetCode/0633.%20Sum%20of%20Square%20Numbers/solution.py)||
 [0643. Maximum Average Subarray I](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I)|[cpp](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/solution.cpp)|||[py](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/solution.py)||[kt](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/Solution.kt)
 [0648. Replace Words](./LeetCode/0648.%20Replace%20Words)||||||[kt](./LeetCode/0648.%20Replace%20Words/Solution.kt)
 [0657. Robot Return to Origin](./LeetCode/0657.%20Robot%20Return%20to%20Origin)|[cpp](./LeetCode/0657.%20Robot%20Return%20to%20Origin/solution.cpp)||||[go](./LeetCode/0657.%20Robot%20Return%20to%20Origin/Solution.go)|
@@ -252,6 +255,8 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0888. Fair Candy Swap](./LeetCode/0888.%20Fair%20Candy%20Swap)|[cpp](./LeetCode/0888.%20Fair%20Candy%20Swap/solution.cpp)|||[py](./LeetCode/0888.%20Fair%20Candy%20Swap/solution.py)||
 [0890. Find and Replace Pattern](./LeetCode/0890.%20Find%20and%20Replace%20Pattern)|[cpp](./LeetCode/0890.%20Find%20and%20Replace%20Pattern/solution.cpp)|||||
 [0896. Monotonic Array](./LeetCode/0896.%20Monotonic%20Array)|[cpp](./LeetCode/0896.%20Monotonic%20Array/solution.cpp)|||||
+[0897. Increasing Order Search Tree](./LeetCode/0897.%20Increasing%20Order%20Search%20Tree)|[cpp](./LeetCode/0897.%20Increasing%20Order%20Search%20Tree/solution.cpp)|||[py](./LeetCode/0897.%20Increasing%20Order%20Search%20Tree/solution.py)||
+[0938. Range Sum of BST](./LeetCode/0938.%20Range%20Sum%20of%20BST)|[cpp](./LeetCode/0938.%20Range%20Sum%20of%20BST/solution.cpp)|||[py](./LeetCode/0938.%20Range%20Sum%20of%20BST/solution.py)||
 [0945. Minimum Increment to Make Array Unique](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique)|[cpp](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.cpp)|||[py](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.py)|[go](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.go)|
 [0951. Flip Equivalent Binary Trees](./LeetCode/0951.%20Flip%20Equivalent%20Binary%20Trees)|[cpp](./LeetCode/0951.%20Flip%20Equivalent%20Binary%20Trees/solution.cpp)|||[py](./LeetCode/0951.%20Flip%20Equivalent%20Binary%20Trees/solution.py)||
 [0961. N-Repeated Element in Size 2N Array](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array)|[cpp](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array/Solution.cpp)|||||
@@ -262,6 +267,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0997. Find the Town Judge](./LeetCode/0997.%20Find%20the%20Town%20Judge)|[cpp](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.cpp)|||[py](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.py)||
 [1004. Max Consecutive Ones III](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III)|[cpp](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III/solution.cpp)|||[py](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III/solution.py)||
 [1006. Clumsy Factorial](./LeetCode/1006.%20Clumsy%20Factorial)|[cpp](./LeetCode/1006.%20Clumsy%20Factorial/solution.cpp)|||[py](./LeetCode/1006.%20Clumsy%20Factorial/solution.py)||
+[1011. Capacity To Ship Packages Within D Days](./LeetCode/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days)|[cpp](./LeetCode/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days/solution.cpp)|||[py](./LeetCode/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days/solution.py)||
 [1013. Partition Array Into Three Parts With Equal Sum](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)|||||[go](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/solution.go)|
 [1029. Two City Scheduling](./LeetCode/1029.%20Two%20City%20Scheduling)|[cpp](./LeetCode/1029.%20Two%20City%20Scheduling/solution.cpp)|||||
 [1047. Remove All Adjacent Duplicates In String](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|[cpp](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/solution.cpp)|||[py](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/solution.py)||
