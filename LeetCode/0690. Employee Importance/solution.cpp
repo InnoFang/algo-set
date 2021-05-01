@@ -10,12 +10,12 @@ public:
 
 /**
  * 108 / 108 test cases passed
- * Runtime: 596 ms
- * Memory Usage: 98.7 MB 
+ * Runtime: 32 ms
+ * Memory Usage: 13.6 MB 
  */
 class Solution {
 public:
-    int dfs( unordered_map<int, Employee*> store, int id ) {
+    int dfs( unordered_map<int, Employee*>& store, int id ) {
         int ipt = store[id]->importance;
         for ( int& employeeId : store[id]->subordinates ) {
             ipt += dfs( store, employeeId );
@@ -23,7 +23,7 @@ public:
         return ipt;
     }
 
-    int getImportance(vector<Employee*> employees, int id) {
+    int getImportance(vector<Employee*>& employees, int id) {
         unordered_map<int, Employee*> store;
         for ( auto& employee : employees) {
             store[ employee->id ] = employee;
