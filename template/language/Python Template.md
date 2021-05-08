@@ -27,6 +27,11 @@ pause
 
 ```Python
 from sys import stdin
+from itertools import *
+from functools import *
+from collections import *
+from bisect import *
+from decimal import *
 
 # single-line input
 read = lambda tp: list(map(tp, stdin.readline().split()))
