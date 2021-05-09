@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 285
+**Problems have been solved:** 291
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -9,7 +9,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0004. Median of Two Sorted Arrays](./LeetCode/0004.%20Median%20of%20Two%20Sorted%20Arrays)||||||[kt](./LeetCode/0004.%20Median%20of%20Two%20Sorted%20Arrays/Solution.kt)
 [0005. Longest Palindromic Substring](./LeetCode/0005.%20Longest%20Palindromic%20Substring)|[cpp](./LeetCode/0005.%20Longest%20Palindromic%20Substring/Solution.cpp)|[java](./LeetCode/0005.%20Longest%20Palindromic%20Substring/Solution.java)||||[kt](./LeetCode/0005.%20Longest%20Palindromic%20Substring/Solution.kt)
 [0006. ZigZag Conversion](./LeetCode/0006.%20ZigZag%20Conversion)||[java](./LeetCode/0006.%20ZigZag%20Conversion/Solution.java)||||[kt](./LeetCode/0006.%20ZigZag%20Conversion/Solution.kt)
-[0007. Reverse Integer](./LeetCode/0007.%20Reverse%20Integer)||||||[kt](./LeetCode/0007.%20Reverse%20Integer/Solution.kt)
+[0007. Reverse Integer](./LeetCode/0007.%20Reverse%20Integer)|[cpp](./LeetCode/0007.%20Reverse%20Integer/solution.cpp)|||[py](./LeetCode/0007.%20Reverse%20Integer/solution.py)||[kt](./LeetCode/0007.%20Reverse%20Integer/Solution.kt)
 [0009. Palindrome Number](./LeetCode/0009.%20Palindrome%20Number)||||||[kt](./LeetCode/0009.%20Palindrome%20Number/solution.kt)
 [0012. Integer to Roman](./LeetCode/0012.%20Integer%20to%20Roman)||||||[kt](./LeetCode/0012.%20Integer%20to%20Roman/Solution.kt)
 [0013. Roman to Integer](./LeetCode/0013.%20Roman%20to%20Integer)||||||[kt](./LeetCode/0013.%20Roman%20to%20Integer/Solution.kt)
@@ -84,6 +84,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0131. Palindrome Partitioning](./LeetCode/0131.%20Palindrome%20Partitioning)|[cpp](./LeetCode/0131.%20Palindrome%20Partitioning/solution.cpp)|||[py](./LeetCode/0131.%20Palindrome%20Partitioning/solution.py)||
 [0132. Palindrome Partitioning II](./LeetCode/0132.%20Palindrome%20Partitioning%20II)|[cpp](./LeetCode/0132.%20Palindrome%20Partitioning%20II/solution.cpp)|||[py](./LeetCode/0132.%20Palindrome%20Partitioning%20II/solution.py)||
 [0136. Single Number](./LeetCode/0136.%20Single%20Number)||||||[kt](./LeetCode/0136.%20Single%20Number/Solution.kt)
+[0137. Single Number II](./LeetCode/0137.%20Single%20Number%20II)|[cpp](./LeetCode/0137.%20Single%20Number%20II/solution.cpp)|||[py](./LeetCode/0137.%20Single%20Number%20II/solution.py)||
 [0141. Linked List Cycle](./LeetCode/0141.%20Linked%20List%20Cycle)|[cpp](./LeetCode/0141.%20Linked%20List%20Cycle/Solution.cpp)|||||
 [0142. Linked List Cycle II](./LeetCode/0142.%20Linked%20List%20Cycle%20II)|[cpp](./LeetCode/0142.%20Linked%20List%20Cycle%20II/Solution.cpp)|||||
 [0144. Binary Tree Preorder Traversal](./LeetCode/0144.%20Binary%20Tree%20Preorder%20Traversal)||||||[kt](./LeetCode/0144.%20Binary%20Tree%20Preorder%20Traversal/Solution.kt)
@@ -201,6 +202,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0541. Reverse String II](./LeetCode/0541.%20Reverse%20String%20II)||||||[kt](./LeetCode/0541.%20Reverse%20String%20II/Solution.kt)
 [0543. Diameter of Binary Tree](./LeetCode/0543.%20Diameter%20of%20Binary%20Tree)|||||[go](./LeetCode/0543.%20Diameter%20of%20Binary%20Tree/solution.go)|
 [0547. Friend Circles](./LeetCode/0547.%20Friend%20Circles)|[cpp](./LeetCode/0547.%20Friend%20Circles/Solution.cpp)|[java](./LeetCode/0547.%20Friend%20Circles/Solution.java)||||[kt](./LeetCode/0547.%20Friend%20Circles/Solution.kt)
+[0554. Brick Wall](./LeetCode/0554.%20Brick%20Wall)|[cpp](./LeetCode/0554.%20Brick%20Wall/solution.cpp)|||[py](./LeetCode/0554.%20Brick%20Wall/solution.py)||
 [0561. Array Partition I](./LeetCode/0561.%20Array%20Partition%20I)|[cpp](./LeetCode/0561.%20Array%20Partition%20I/solution.cpp)|||[py](./LeetCode/0561.%20Array%20Partition%20I/solution.py)||[kt](./LeetCode/0561.%20Array%20Partition%20I/Solution.kt)
 [0566. Reshpae the Matrix](./LeetCode/0566.%20Reshpae%20the%20Matrix)|[cpp](./LeetCode/0566.%20Reshpae%20the%20Matrix/solution.cpp)|||[py](./LeetCode/0566.%20Reshpae%20the%20Matrix/solution.py)||[kt](./LeetCode/0566.%20Reshpae%20the%20Matrix/Solution.kt)
 [0567. Permutation in String](./LeetCode/0567.%20Permutation%20in%20String)|[cpp](./LeetCode/0567.%20Permutation%20in%20String/solution.cpp)|||[py](./LeetCode/0567.%20Permutation%20in%20String/solution.py)||[kt](./LeetCode/0567.%20Permutation%20in%20String/Solution.kt)
@@ -216,7 +218,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0665. Non-decreasing Array](./LeetCode/0665.%20Non-decreasing%20Array)|[cpp](./LeetCode/0665.%20Non-decreasing%20Array/solution.cpp)|||[py](./LeetCode/0665.%20Non-decreasing%20Array/solution.py)||[kt](./LeetCode/0665.%20Non-decreasing%20Array/Solution.kt)
 [0674. Longest Continuous Increasing Subsequence](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence)|[cpp](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence/solution.cpp)|||[py](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence/solution.py)||
 [0684. Redundant Connection](./LeetCode/0684.%20Redundant%20Connection)|[cpp](./LeetCode/0684.%20Redundant%20Connection/Solution.cpp)|[java](./LeetCode/0684.%20Redundant%20Connection/Solution.java)||[py](./LeetCode/0684.%20Redundant%20Connection/Solution.py)||[kt](./LeetCode/0684.%20Redundant%20Connection/Solution.kt)
-[0690. Employee Importance](./LeetCode/0690.%20Employee%20Importance)|[cpp](./LeetCode/0690.%20Employee%20Importance/solution.cpp)|||||
+[0690. Employee Importance](./LeetCode/0690.%20Employee%20Importance)|[cpp](./LeetCode/0690.%20Employee%20Importance/solution.cpp)|||[py](./LeetCode/0690.%20Employee%20Importance/solution.py)||
 [0693. Binary Number with Alternating Bits](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits)||||||[kt](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits/Solution.kt)
 [0697. Degree of an Array](./LeetCode/0697.%20Degree%20of%20an%20Array)|[cpp](./LeetCode/0697.%20Degree%20of%20an%20Array/solution.cpp)|||[py](./LeetCode/0697.%20Degree%20of%20an%20Array/solution.py)||
 [0698. Partition to K Equal Sum Subsets](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)||||||[kt](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets/Solution.kt)
@@ -228,6 +230,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0728. Self Dividing Numbers](./LeetCode/0728.%20Self%20Dividing%20Numbers)||||||[kt](./LeetCode/0728.%20Self%20Dividing%20Numbers/Solution.kt)
 [0733. Flood Fill](./LeetCode/0733.%20Flood%20Fill)||||||[kt](./LeetCode/0733.%20Flood%20Fill/Solution.kt)
 [0738. Monotone Increasing Digits](./LeetCode/0738.%20Monotone%20Increasing%20Digits)||||||[kt](./LeetCode/0738.%20Monotone%20Increasing%20Digits/Solution.kt)
+[0740. Delete and Earn](./LeetCode/0740.%20Delete%20and%20Earn)|[cpp](./LeetCode/0740.%20Delete%20and%20Earn/solution.cpp)|||[py](./LeetCode/0740.%20Delete%20and%20Earn/solution.py)||
 [0745. Prefix and Suffix Search](./LeetCode/0745.%20Prefix%20and%20Suffix%20Search)||||||[kt](./LeetCode/0745.%20Prefix%20and%20Suffix%20Search/Solution.kt)
 [0747. Largest Number At Least Twice of Others](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others)||||||[kt](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/Solution.kt)
 [0760. Find Anagram Mappings](./LeetCode/0760.%20Find%20Anagram%20Mappings)||||||[kt](./LeetCode/0760.%20Find%20Anagram%20Mappings/Solution.kt)
@@ -284,8 +287,11 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit)|[cpp](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/solution.cpp)|||[py](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/solution.py)||
 [1464. Maximum Product of Two Elements in an Array](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)|[cpp](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.py)||
 [1480. Running Sum of 1d Array](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array)|[cpp](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array/solution.cpp)|||||
+[1486. XOR Operation in an Array](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array)|[cpp](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.py)||
 [1584. Min Cost to Connect All Points](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points)|[cpp](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.cpp)|||[py](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.py)||
 [1603. Design Parking System](./LeetCode/1603.%20Design%20Parking%20System)|[cpp](./LeetCode/1603.%20Design%20Parking%20System/solution.cpp)|||[py](./LeetCode/1603.%20Design%20Parking%20System/solution.py)||
+[1720. Decode XORed Array](./LeetCode/1720.%20Decode%20XORed%20Array)|[cpp](./LeetCode/1720.%20Decode%20XORed%20Array/solution.cpp)|||[py](./LeetCode/1720.%20Decode%20XORed%20Array/solution.py)||
+[1723. Find Minimum Time to Finish All Jobs](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs)|[cpp](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.cpp)|||[py](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.py)||
 [5531. Special Array With X Elements Greater Than or Equal X](./LeetCode/5531.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)|[cpp](./LeetCode/5531.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/solution.cpp)|||||
 [5532. Even Odd Tree](./LeetCode/5532.%20Even%20Odd%20Tree)|[cpp](./LeetCode/5532.%20Even%20Odd%20Tree/solution.cpp)|||||
 
