@@ -11,30 +11,21 @@ struct TreeNode {
 };
 
 /**
- * 36 / 36 test case passed
- * Status: Accepted
- * Runtime: 4 ms
- */
-class Solution {
+ * 40 / 40 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 12.5 MB 
+ */class Solution {
 public:
-    bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        vector<int> leafValue1;
-        vector<int> leafValue2;
-        dfs(root1, leafValue1);
-        dfs(root2, leafValue2);
-        if (leafValue1.size() != leafValue2.size()) return false;
-        for (int i = 0; i < leafValue1.size(); ++ i) {
-            if (leafValue1[i] != leafValue2[i]) return false;
-        }
-        return true;
+    void dfs(TreeNode* root, vector<int>& path) {
+        if (!root->left && !root->right) path.push_back(root->val);
+        if (root->left) dfs(root->left, path);
+        if (root->right) dfs(root->right, path);
     }
-private:
-    void dfs(TreeNode* root, vector<int>& leafValue) {
-        if (root->left == NULL && root->right == NULL) {
-            leafValue.push_back(root->val);
-            return;
-        }
-        if (root->left) dfs(root->left, leafValue);
-        if (root->right) dfs(root->right, leafValue);
+    bool leafSimilar(TreeNode* root1, TreeNode* root2) {
+        vector<int> path1;
+        vector<int> path2;
+        dfs(root1, path1);
+        dfs(root2, path2);
+        return path1 == path2;
     }
 };
