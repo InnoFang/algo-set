@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 291
+**Problems have been solved:** 293
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -253,7 +253,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0860. Lemonade Change](./LeetCode/0860.%20Lemonade%20Change)|[cpp](./LeetCode/0860.%20Lemonade%20Change/Solution.cpp)|||||
 [0867. Transpose Matrix](./LeetCode/0867.%20Transpose%20Matrix)|[cpp](./LeetCode/0867.%20Transpose%20Matrix/solution.cpp)|||[py](./LeetCode/0867.%20Transpose%20Matrix/solution.py)||
 [0868. Binary Gap](./LeetCode/0868.%20Binary%20Gap)|[cpp](./LeetCode/0868.%20Binary%20Gap/solution.cpp)|||||
-[0872. Leaf-Similar Trees](./LeetCode/0872.%20Leaf-Similar%20Trees)|[cpp](./LeetCode/0872.%20Leaf-Similar%20Trees/Solution.cpp)|||||
+[0872. Leaf-Similar Trees](./LeetCode/0872.%20Leaf-Similar%20Trees)|[cpp](./LeetCode/0872.%20Leaf-Similar%20Trees/Solution.cpp)|||[py](./LeetCode/0872.%20Leaf-Similar%20Trees/solution.py)||
 [0876. Middle of the Linked List](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List)|||||[go](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List/solution.go)|
 [0888. Fair Candy Swap](./LeetCode/0888.%20Fair%20Candy%20Swap)|[cpp](./LeetCode/0888.%20Fair%20Candy%20Swap/solution.cpp)|||[py](./LeetCode/0888.%20Fair%20Candy%20Swap/solution.py)||
 [0890. Find and Replace Pattern](./LeetCode/0890.%20Find%20and%20Replace%20Pattern)|[cpp](./LeetCode/0890.%20Find%20and%20Replace%20Pattern/solution.cpp)|||||
@@ -283,6 +283,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1178. Number of Valid Words for Each Puzzle](./LeetCode/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle)|[cpp](./LeetCode/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/solution.cpp)|||||
 [1208. Get Equal Substrings Within Budget](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget)|[cpp](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.cpp)|||[py](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.py)||
 [1232. Check If It Is a Straight Line](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line)|[cpp](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.cpp)|[java](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/Solution.java)||[py](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.py)||
+[1310. XOR Queries of a Subarray](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray)|[cpp](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray/solution.cpp)|||[py](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray/solution.py)||
 [1423. Maximum Points You Can Obtain from Cards](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)|[cpp](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/solution.cpp)|||[py](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/solution.py)||
 [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit)|[cpp](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/solution.cpp)|||[py](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/solution.py)||
 [1464. Maximum Product of Two Elements in an Array](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)|[cpp](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.py)||
@@ -292,6 +293,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1603. Design Parking System](./LeetCode/1603.%20Design%20Parking%20System)|[cpp](./LeetCode/1603.%20Design%20Parking%20System/solution.cpp)|||[py](./LeetCode/1603.%20Design%20Parking%20System/solution.py)||
 [1720. Decode XORed Array](./LeetCode/1720.%20Decode%20XORed%20Array)|[cpp](./LeetCode/1720.%20Decode%20XORed%20Array/solution.cpp)|||[py](./LeetCode/1720.%20Decode%20XORed%20Array/solution.py)||
 [1723. Find Minimum Time to Finish All Jobs](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs)|[cpp](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.cpp)|||[py](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.py)||
+[1734. Decode XORed Permutation](./LeetCode/1734.%20Decode%20XORed%20Permutation)|[cpp](./LeetCode/1734.%20Decode%20XORed%20Permutation/solution.cpp)|||[py](./LeetCode/1734.%20Decode%20XORed%20Permutation/solution.py)||
 [5531. Special Array With X Elements Greater Than or Equal X](./LeetCode/5531.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)|[cpp](./LeetCode/5531.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/solution.cpp)|||||
 [5532. Even Odd Tree](./LeetCode/5532.%20Even%20Odd%20Tree)|[cpp](./LeetCode/5532.%20Even%20Odd%20Tree/solution.cpp)|||||
 
