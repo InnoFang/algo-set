@@ -23,3 +23,27 @@ public:
         return ans;
     }
 };
+
+/**
+ * 47 / 47 test cases passed.
+ * Runtime: 4 ms
+ * Memory Usage: 7.4 MB 
+ */
+class Solution2 {
+public:
+    int countTriplets(vector<int>& arr) {
+        vector<int> xors(arr.size() + 1);
+        for (int i = 0; i < arr.size(); ++ i) {
+            xors[i + 1] = xors[i] ^  arr[i];
+        } 
+        int ans = 0;
+        for (int i = 0; i < arr.size(); ++ i ) { 
+            for (int k = i + 1; k < arr.size(); ++ k) { 
+                if (xors[i] == xors[k + 1]) {
+                    ans += k - i;
+                }
+            }
+        }
+        return ans;
+    }
+};
