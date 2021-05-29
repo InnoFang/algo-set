@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 300
+**Problems have been solved:** 302
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -185,8 +185,9 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0454. 4Sum II](./LeetCode/0454.%204Sum%20II)||||||[kt](./LeetCode/0454.%204Sum%20II/Solution.kt)
 [0455. Assign Cookies](./LeetCode/0455.%20Assign%20Cookies)|[cpp](./LeetCode/0455.%20Assign%20Cookies/solution.cpp)|||[py](./LeetCode/0455.%20Assign%20Cookies/solution.py)||[kt](./LeetCode/0455.%20Assign%20Cookies/Solution.kt)
 [0456. 132 Pattern](./LeetCode/0456.%20132%20Pattern)||||||[kt](./LeetCode/0456.%20132%20Pattern/Solution.kt)
-[0461. Hamming Distance](./LeetCode/0461.%20Hamming%20Distance)||||||[kt](./LeetCode/0461.%20Hamming%20Distance/Solution.kt)
+[0461. Hamming Distance](./LeetCode/0461.%20Hamming%20Distance)|[cpp](./LeetCode/0461.%20Hamming%20Distance/solution.cpp)|||[py](./LeetCode/0461.%20Hamming%20Distance/solution.py)||[kt](./LeetCode/0461.%20Hamming%20Distance/Solution.kt)
 [0476. Number Complement](./LeetCode/0476.%20Number%20Complement)||||||[kt](./LeetCode/0476.%20Number%20Complement/Solution.kt)
+[0477. Total Hamming Distance](./LeetCode/0477.%20Total%20Hamming%20Distance)|[cpp](./LeetCode/0477.%20Total%20Hamming%20Distance/solution.cpp)|||[py](./LeetCode/0477.%20Total%20Hamming%20Distance/solution.py)||
 [0480. Sliding Window Median](./LeetCode/0480.%20Sliding%20Window%20Median)||||[py](./LeetCode/0480.%20Sliding%20Window%20Median/solution.py)||
 [0485. Max Consecutive Ones](./LeetCode/0485.%20Max%20Consecutive%20Ones)|[cpp](./LeetCode/0485.%20Max%20Consecutive%20Ones/solution.cpp)|||[py](./LeetCode/0485.%20Max%20Consecutive%20Ones/solution.py)||
 [0496. Next Greater Element I](./LeetCode/0496.%20Next%20Greater%20Element%20I)|[cpp](./LeetCode/0496.%20Next%20Greater%20Element%20I/Solution.cpp)|||||
@@ -286,6 +287,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1143. Longest Common Subsequence](./LeetCode/1143.%20Longest%20Common%20Subsequence)|[cpp](./LeetCode/1143.%20Longest%20Common%20Subsequence/solution.cpp)|||[py](./LeetCode/1143.%20Longest%20Common%20Subsequence/solution.py)||
 [1160. Find Words That Can Be Formed by Characters](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)|||||[go](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/solution.go)|
 [1178. Number of Valid Words for Each Puzzle](./LeetCode/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle)|[cpp](./LeetCode/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/solution.cpp)|||||
+[1190. Reverse Substrings Between Each Pair of Parentheses](./LeetCode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses)|[cpp](./LeetCode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/solution.cpp)|||[py](./LeetCode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/solution.py)||
 [1208. Get Equal Substrings Within Budget](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget)|[cpp](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.cpp)|||[py](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.py)||
 [1232. Check If It Is a Straight Line](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line)|[cpp](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.cpp)|[java](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/Solution.java)||[py](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.py)||
 [1310. XOR Queries of a Subarray](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray)|[cpp](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray/solution.cpp)|||[py](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray/solution.py)||
