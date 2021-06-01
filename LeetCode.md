@@ -124,7 +124,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0227. Basic Calculator II](./LeetCode/0227.%20Basic%20Calculator%20II)|[cpp](./LeetCode/0227.%20Basic%20Calculator%20II/solution.cpp)|||[py](./LeetCode/0227.%20Basic%20Calculator%20II/solution.py)||
 [0228. Summary Ranges](./LeetCode/0228.%20Summary%20Ranges)|[cpp](./LeetCode/0228.%20Summary%20Ranges/solution.cpp)|[java](./LeetCode/0228.%20Summary%20Ranges/Solution.java)||||
 [0230. Kth Smallest Element in a BST](./LeetCode/0230.%20Kth%20Smallest%20Element%20in%20a%20BST)||||||[kt](./LeetCode/0230.%20Kth%20Smallest%20Element%20in%20a%20BST/Solution.kt)
-[0231. Power of Two](./LeetCode/0231.%20Power%20of%20Two)||||||[kt](./LeetCode/0231.%20Power%20of%20Two/Solution.kt)
+[0231. Power of Two](./LeetCode/0231.%20Power%20of%20Two)|[cpp](./LeetCode/0231.%20Power%20of%20Two/solution.cpp)|||[py](./LeetCode/0231.%20Power%20of%20Two/solution.py)||[kt](./LeetCode/0231.%20Power%20of%20Two/Solution.kt)
 [0232. Implement Queue using Stacks](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks)|[cpp](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks/Solution.cpp)|||[py](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks/solution.py)||
 [0235. Lowest Common Ancestor of a Binary Search Tree](./LeetCode/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)||[java](./LeetCode/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Solution.java)||||
 [0237. Delete Node in a Linked List](./LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List)|[cpp](./LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/solution.cpp)||||[go](./LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/Solution.go)|
@@ -150,7 +150,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0331. Verify Preorder Serialization of a Binary Tree](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree)|[cpp](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/solution.cpp)|||[py](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/solution.py)||
 [0338. Counting Bits](./LeetCode/0338.%20Counting%20Bits)|[cpp](./LeetCode/0338.%20Counting%20Bits/solution.cpp)|||[py](./LeetCode/0338.%20Counting%20Bits/solution.py)||
 [0341. Flatten Nested List Iterator](./LeetCode/0341.%20Flatten%20Nested%20List%20Iterator)|[cpp](./LeetCode/0341.%20Flatten%20Nested%20List%20Iterator/solution.cpp)|||||
-[0342. Power of Four](./LeetCode/0342.%20Power%20of%20Four)||||||[kt](./LeetCode/0342.%20Power%20of%20Four/Solution.kt)
+[0342. Power of Four](./LeetCode/0342.%20Power%20of%20Four)|[cpp](./LeetCode/0342.%20Power%20of%20Four/solution.cpp)|||[py](./LeetCode/0342.%20Power%20of%20Four/solution.py)||[kt](./LeetCode/0342.%20Power%20of%20Four/Solution.kt)
 [0343. Integer Break](./LeetCode/0343.%20Integer%20Break)||||||[kt](./LeetCode/0343.%20Integer%20Break/solution.kt)
 [0344. Reverse String](./LeetCode/0344.%20Reverse%20String)||||||[kt](./LeetCode/0344.%20Reverse%20String/Solution.kt)
 [0345. Reverse Vowels of a String](./LeetCode/0345.%20Reverse%20Vowels%20of%20a%20String)||||||[kt](./LeetCode/0345.%20Reverse%20Vowels%20of%20a%20String/Solution.kt)
