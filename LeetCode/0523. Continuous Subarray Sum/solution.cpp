@@ -20,3 +20,29 @@ public:
         return false;
     }
 }; 
+
+/**
+ * 94 / 94 test cases passed.
+ * Runtime: 164 ms
+ * Memory Usage: 94.1 MB 
+ */
+class Solution2 {
+public:
+    bool checkSubarraySum(vector<int>& nums, int k) {
+        if (nums.size() < 2) return false;
+        unordered_map<int, int> mp;
+        int remainder = 0;
+        mp[0] = -1;
+        for (int i = 0; i < nums.size(); ++ i) {
+            remainder = (remainder + nums[i]) % k;
+            if (mp.count(remainder)) {
+                int prevIdx = mp[remainder];
+                if (i - prevIdx >= 2) {
+                    return true;
+                }
+            }
+            else mp[remainder % k] = i;
+        }
+        return false;
+    }
+};
