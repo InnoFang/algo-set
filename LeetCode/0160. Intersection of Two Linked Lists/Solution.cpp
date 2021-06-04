@@ -38,19 +38,18 @@ public:
     }
 };
 
-/**
- * status: Accepted
- * runtime: 44ms
+ /**
+ * 39 / 39 test cases passed.
+ * Runtime: 48 ms
+ * Memory Usage: 14.1 MB 
  */
 class Solution2 {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        if (NULL == headA || NULL == headB) return NULL;
-        ListNode *pA = headA;
-        ListNode *pB = headB;
+        ListNode* pA = headA, *pB = headB;  
         while (pA != pB) {
-            pA = pA == NULL ? headB : pA->next;
-            pB = pB == NULL ? headA : pB->next;
+            pA = pA ? pA->next : headB;
+            pB = pB ? pB->next : headA;
         }
         return pA;
     }
