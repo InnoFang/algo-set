@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 302
+**Problems have been solved:** 304
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -94,7 +94,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0151. Reverse Words in a String](./LeetCode/0151.%20Reverse%20Words%20in%20a%20String)||[java](./LeetCode/0151.%20Reverse%20Words%20in%20a%20String/Solution.java)||||
 [0153. Find Minimum in Rotated Sorted Array](./LeetCode/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)|[cpp](./LeetCode/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/solution.cpp)|||[py](./LeetCode/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/solution.py)||
 [0154. Find Minimum in Rotated Sorted Array II](./LeetCode/0154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II)|[cpp](./LeetCode/0154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/solution.cpp)|||[py](./LeetCode/0154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/solution.py)||
-[0160. Intersection of Two Linked Lists](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists)|[cpp](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists/Solution.cpp)|||||
+[0160. Intersection of Two Linked Lists](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists)|[cpp](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists/Solution.cpp)|||[py](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists/solution.py)||
 [0165. Compare Version Numbers](./LeetCode/0165.%20Compare%20Version%20Numbers)||||||[kt](./LeetCode/0165.%20Compare%20Version%20Numbers/Solution.kt)
 [0167. Two Sum II - Input array is sorted](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)||[java](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.java)||[py](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.py)||[kt](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.kt)
 [0169. Majority Element](./LeetCode/0169.%20Majority%20Element)|||||[go](./LeetCode/0169.%20Majority%20Element/solution.go)|
@@ -198,6 +198,8 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0509. Fibonacci Number](./LeetCode/0509.%20Fibonacci%20Number)|[cpp](./LeetCode/0509.%20Fibonacci%20Number/solution.cpp)|[java](./LeetCode/0509.%20Fibonacci%20Number/Solution.java)|[js](./LeetCode/0509.%20Fibonacci%20Number/solution.js)|[py](./LeetCode/0509.%20Fibonacci%20Number/solution.py)|[go](./LeetCode/0509.%20Fibonacci%20Number/solution.go)|[kt](./LeetCode/0509.%20Fibonacci%20Number/solution.kt)
 [0513. Find Bottom Left Tree Value](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value)|[cpp](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.cpp)|||||[kt](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.kt)
 [0520. Detect Capital](./LeetCode/0520.%20Detect%20Capital)||||||[kt](./LeetCode/0520.%20Detect%20Capital/Solution.kt)
+[0523. Continuous Subarray Sum](./LeetCode/0523.%20Continuous%20Subarray%20Sum)|[cpp](./LeetCode/0523.%20Continuous%20Subarray%20Sum/solution.cpp)|||[py](./LeetCode/0523.%20Continuous%20Subarray%20Sum/solution.py)||
+[0525. Contiguous Array](./LeetCode/0525.%20Contiguous%20Array)|[cpp](./LeetCode/0525.%20Contiguous%20Array/solution.cpp)|||[py](./LeetCode/0525.%20Contiguous%20Array/solution.py)||
 [0530. Minimum Absolute Difference in BST](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST)|[cpp](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/solution.cpp)|||||[kt](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/Solution.kt)
 [0537. Complex Number Multiplication](./LeetCode/0537.%20Complex%20Number%20Multiplication)||[java](./LeetCode/0537.%20Complex%20Number%20Multiplication/Solution.java)||||
 [0540. Single Element in a Sorted Array](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array)||||||[kt](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array/Solution.kt)
