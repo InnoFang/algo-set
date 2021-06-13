@@ -21,3 +21,21 @@ public:
         return r;
     }
 };
+
+/**
+ * 22 / 22 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 5.8 MB 
+ */
+typedef long long LL;
+class Solution2 {
+public:
+    struct dummy {
+        bool operator<(dummy const&) {
+            return !isBadVersion(LL(this));
+        }
+    };
+    int firstBadVersion(int n) {
+        return (LL) lower_bound((dummy*)1, (dummy*)(LL)n+1, dummy{});
+    }
+};
