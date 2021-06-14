@@ -6,11 +6,11 @@
  *               otherwise return 0
  * int guess(int num);
  */
- 
+
 /**
- * 48 / 48 test cases passed.
- * Runtime: 68 ms
- * Memory Usage: 50.2 MB 
+ * 25 / 25 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 5.8 MB 
  */
 class Solution {
 public:
