@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 304
+**Problems have been solved:** 309
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -136,7 +136,8 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0263. Ugly Number](./LeetCode/0263.%20Ugly%20Number)|[cpp](./LeetCode/0263.%20Ugly%20Number/solution.cpp)|||[py](./LeetCode/0263.%20Ugly%20Number/solution.py)||[kt](./LeetCode/0263.%20Ugly%20Number/Solution.kt)
 [0264. Ugly Number II](./LeetCode/0264.%20Ugly%20Number%20II)|[cpp](./LeetCode/0264.%20Ugly%20Number%20II/solution.cpp)|||[py](./LeetCode/0264.%20Ugly%20Number%20II/solution.py)||
 [0268. Missing Number](./LeetCode/0268.%20Missing%20Number)||||||[kt](./LeetCode/0268.%20Missing%20Number/Solution.kt)
-[0279. Perfect Squares](./LeetCode/0279.%20Perfect%20Squares)||||||[kt](./LeetCode/0279.%20Perfect%20Squares/Solution.kt)
+[0278. First Bad Version](./LeetCode/0278.%20First%20Bad%20Version)|[cpp](./LeetCode/0278.%20First%20Bad%20Version/solution.cpp)|||[py](./LeetCode/0278.%20First%20Bad%20Version/solution.py)||
+[0279. Perfect Squares](./LeetCode/0279.%20Perfect%20Squares)|[cpp](./LeetCode/0279.%20Perfect%20Squares/solution.cpp)|||||[kt](./LeetCode/0279.%20Perfect%20Squares/Solution.kt)
 [0283. Move Zeroes](./LeetCode/0283.%20Move%20Zeroes)||[java](./LeetCode/0283.%20Move%20Zeroes/Solution.java)|[js](./LeetCode/0283.%20Move%20Zeroes/Solution.js)|[py](./LeetCode/0283.%20Move%20Zeroes/Solution.py)||[kt](./LeetCode/0283.%20Move%20Zeroes/Solution.kt)
 [0287. Find the Duplicate Number](./LeetCode/0287.%20Find%20the%20Duplicate%20Number)|[cpp](./LeetCode/0287.%20Find%20the%20Duplicate%20Number/Solution.cpp)|||||
 [0290. Word Pattern](./LeetCode/0290.%20Word%20Pattern)|[cpp](./LeetCode/0290.%20Word%20Pattern/solution.cpp)|||[py](./LeetCode/0290.%20Word%20Pattern/solution.py)||
@@ -162,6 +163,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0368. Largest Divisible Subset](./LeetCode/0368.%20Largest%20Divisible%20Subset)|[cpp](./LeetCode/0368.%20Largest%20Divisible%20Subset/solution.cpp)|||[py](./LeetCode/0368.%20Largest%20Divisible%20Subset/solution.py)||
 [0371. Sum of Two Integers](./LeetCode/0371.%20Sum%20of%20Two%20Integers)||||||[kt](./LeetCode/0371.%20Sum%20of%20Two%20Integers/Solution.kt)
 [0372. Super Pow](./LeetCode/0372.%20Super%20Pow)||[java](./LeetCode/0372.%20Super%20Pow/Solution.java)||||[kt](./LeetCode/0372.%20Super%20Pow/Solution.kt)
+[0374. Guess Number Higher or Lower](./LeetCode/0374.%20Guess%20Number%20Higher%20or%20Lower)|[cpp](./LeetCode/0374.%20Guess%20Number%20Higher%20or%20Lower/solution.cpp)|||[py](./LeetCode/0374.%20Guess%20Number%20Higher%20or%20Lower/solution.py)||
 [0377. Combination Sum IV](./LeetCode/0377.%20Combination%20Sum%20IV)|[cpp](./LeetCode/0377.%20Combination%20Sum%20IV/solution.cpp)|||[py](./LeetCode/0377.%20Combination%20Sum%20IV/solution.py)||
 [0386. Lexicographical Numbers](./LeetCode/0386.%20Lexicographical%20Numbers)|[cpp](./LeetCode/0386.%20Lexicographical%20Numbers/solution.cpp)|||||
 [0389. Find the Difference](./LeetCode/0389.%20Find%20the%20Difference)|[cpp](./LeetCode/0389.%20Find%20the%20Difference/solution.cpp)|||||[kt](./LeetCode/0389.%20Find%20the%20Difference/Solution.kt)
@@ -190,6 +192,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0477. Total Hamming Distance](./LeetCode/0477.%20Total%20Hamming%20Distance)|[cpp](./LeetCode/0477.%20Total%20Hamming%20Distance/solution.cpp)|||[py](./LeetCode/0477.%20Total%20Hamming%20Distance/solution.py)||
 [0480. Sliding Window Median](./LeetCode/0480.%20Sliding%20Window%20Median)||||[py](./LeetCode/0480.%20Sliding%20Window%20Median/solution.py)||
 [0485. Max Consecutive Ones](./LeetCode/0485.%20Max%20Consecutive%20Ones)|[cpp](./LeetCode/0485.%20Max%20Consecutive%20Ones/solution.cpp)|||[py](./LeetCode/0485.%20Max%20Consecutive%20Ones/solution.py)||
+[0494. Target Sum](./LeetCode/0494.%20Target%20Sum)|[cpp](./LeetCode/0494.%20Target%20Sum/solution.cpp)|||[py](./LeetCode/0494.%20Target%20Sum/solution.py)||
 [0496. Next Greater Element I](./LeetCode/0496.%20Next%20Greater%20Element%20I)|[cpp](./LeetCode/0496.%20Next%20Greater%20Element%20I/Solution.cpp)|||||
 [0498. Diagonal Traverse](./LeetCode/0498.%20Diagonal%20Traverse)||||||[kt](./LeetCode/0498.%20Diagonal%20Traverse/Solution.kt)
 [0500. Keyboard Row](./LeetCode/0500.%20Keyboard%20Row)||||||[kt](./LeetCode/0500.%20Keyboard%20Row/Solution.kt)
@@ -197,6 +200,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0504. Base 7](./LeetCode/0504.%20Base%207)||||||[kt](./LeetCode/0504.%20Base%207/Solution.kt)
 [0509. Fibonacci Number](./LeetCode/0509.%20Fibonacci%20Number)|[cpp](./LeetCode/0509.%20Fibonacci%20Number/solution.cpp)|[java](./LeetCode/0509.%20Fibonacci%20Number/Solution.java)|[js](./LeetCode/0509.%20Fibonacci%20Number/solution.js)|[py](./LeetCode/0509.%20Fibonacci%20Number/solution.py)|[go](./LeetCode/0509.%20Fibonacci%20Number/solution.go)|[kt](./LeetCode/0509.%20Fibonacci%20Number/solution.kt)
 [0513. Find Bottom Left Tree Value](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value)|[cpp](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.cpp)|||||[kt](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.kt)
+[0518. Coin Change 2](./LeetCode/0518.%20Coin%20Change%202)|[cpp](./LeetCode/0518.%20Coin%20Change%202/solution.cpp)|||||
 [0520. Detect Capital](./LeetCode/0520.%20Detect%20Capital)||||||[kt](./LeetCode/0520.%20Detect%20Capital/Solution.kt)
 [0523. Continuous Subarray Sum](./LeetCode/0523.%20Continuous%20Subarray%20Sum)|[cpp](./LeetCode/0523.%20Continuous%20Subarray%20Sum/solution.cpp)|||[py](./LeetCode/0523.%20Continuous%20Subarray%20Sum/solution.py)||
 [0525. Contiguous Array](./LeetCode/0525.%20Contiguous%20Array)|[cpp](./LeetCode/0525.%20Contiguous%20Array/solution.cpp)|||[py](./LeetCode/0525.%20Contiguous%20Array/solution.py)||
@@ -256,6 +260,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0824. Goat Latin](./LeetCode/0824.%20Goat%20Latin)|[cpp](./LeetCode/0824.%20Goat%20Latin/Solution.cpp)|||||
 [0832. Flipping an Image](./LeetCode/0832.%20Flipping%20an%20Image)|[cpp](./LeetCode/0832.%20Flipping%20an%20Image/solution.cpp)|||[py](./LeetCode/0832.%20Flipping%20an%20Image/solution.py)||
 [0836. Rectangle Overlap](./LeetCode/0836.%20Rectangle%20Overlap)||||[py](./LeetCode/0836.%20Rectangle%20Overlap/solution.py)||
+[0852. Peak Index in a Mountain Array](./LeetCode/0852.%20Peak%20Index%20in%20a%20Mountain%20Array)|[cpp](./LeetCode/0852.%20Peak%20Index%20in%20a%20Mountain%20Array/solution.cpp)|||[py](./LeetCode/0852.%20Peak%20Index%20in%20a%20Mountain%20Array/solution.py)||
 [0860. Lemonade Change](./LeetCode/0860.%20Lemonade%20Change)|[cpp](./LeetCode/0860.%20Lemonade%20Change/Solution.cpp)|||||
 [0867. Transpose Matrix](./LeetCode/0867.%20Transpose%20Matrix)|[cpp](./LeetCode/0867.%20Transpose%20Matrix/solution.cpp)|||[py](./LeetCode/0867.%20Transpose%20Matrix/solution.py)||
 [0868. Binary Gap](./LeetCode/0868.%20Binary%20Gap)|[cpp](./LeetCode/0868.%20Binary%20Gap/solution.cpp)|||||
