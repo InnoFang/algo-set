@@ -169,7 +169,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0389. Find the Difference](./LeetCode/0389.%20Find%20the%20Difference)|[cpp](./LeetCode/0389.%20Find%20the%20Difference/solution.cpp)|||||[kt](./LeetCode/0389.%20Find%20the%20Difference/Solution.kt)
 [0392. Is Subsequence](./LeetCode/0392.%20Is%20Subsequence)||[java](./LeetCode/0392.%20Is%20Subsequence/Solution.java)||||[kt](./LeetCode/0392.%20Is%20Subsequence/Solution.kt)
 [0397. Integer Replacement](./LeetCode/0397.%20Integer%20Replacement)||||||[kt](./LeetCode/0397.%20Integer%20Replacement/Solution.kt)
-[0401. Binary Watch](./LeetCode/0401.%20Binary%20Watch)||||[py](./LeetCode/0401.%20Binary%20Watch/solution.py)||
+[0401. Binary Watch](./LeetCode/0401.%20Binary%20Watch)|[cpp](./LeetCode/0401.%20Binary%20Watch/solution.cpp)|||[py](./LeetCode/0401.%20Binary%20Watch/solution.py)||
 [0405. Convert a Number to Hexadecimal](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal)||||||[kt](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal/Solution.kt)
 [0409. Longest Palindrome](./LeetCode/0409.%20Longest%20Palindrome)|||||[go](./LeetCode/0409.%20Longest%20Palindrome/solution.go)|
 [0412. Fizz Buzz](./LeetCode/0412.%20Fizz%20Buzz)||||||[kt](./LeetCode/0412.%20Fizz%20Buzz/Solution.kt)
