@@ -1,54 +1,58 @@
-#include <iostream>
 #include <ctime>
+#include <vector>
+#include <iostream>
 
-void selectionSort(int arr[], int len) {
-    for (int i = 0; i < len; ++i) {
-        int idx = i;
-        for (int j = i + 1; j < len; ++j) {
+void selectionSort(std::vector<int>& arr) {
+    for (size_t i = 0; i < arr.size(); ++ i) {
+        size_t idx = i;
+        for (size_t j = i + 1; j < arr.size(); ++ j) {
             if (arr[idx] > arr[j]) {
                 idx = j;
             }
         }
-        if (idx != i) 
+        if (idx != i) {
             std::swap(arr[idx], arr[i]);
+        }
     }      
 }
 
-int *generateRandomArray(int length, int rangeFrom, int rangeTo);
-void printArray(int * arr, int length);
+std::vector<int> generateRandomArray(size_t length, size_t rangeFrom, size_t rangeTo);
+void printArray(const std::vector<int>& arr);
 
 int main() {
+    size_t dataSize = 20;
+    size_t rangeFrom = 1;
+    size_t rangeTo = 10000;
 
-    int length = 20;
-    int rangeFrom = 1;
-    int rangeTo = 10000;
-
-    int * arr = generateRandomArray(length, rangeFrom, rangeTo); 
+    auto arr = generateRandomArray(dataSize, rangeFrom, rangeTo); 
  	
     std::cout << "Original array:" << std::endl;
-    printArray(arr, length);
+    printArray(arr);
 
-    selectionSort(arr, length);
+    selectionSort(arr);
 
     std::cout << "Sorted array:" << std::endl;
-    printArray(arr, length);
+    printArray(arr);
 
     return 0;
 }
 
-/* Randomly generate an array with the `length`, which is from `rangeFrom` to `rangeTo` */
-int * generateRandomArray(int length, int rangeFrom, int rangeTo) {
-    int * arr = new int[length];
-    int range = rangeTo - rangeFrom + 1;
-    srand(time(NULL));
-    for (int i = 0; i < length; ++i) {
+/* Randomly generate an array with the `dataSize`, which is from `rangeFrom` to `rangeTo` */
+std::vector<int> generateRandomArray(size_t dataSize, size_t rangeFrom, size_t rangeTo) {
+    size_t range = rangeTo - rangeFrom + 1;
+    srand(time(nullptr));
+
+    std::vector<int> arr(dataSize);
+    for (size_t i = 0; i < dataSize; ++ i) {
         arr[i] = rand() % range + rangeFrom;
     }
     return arr;
 }
 
 /* formatted output array */
-void printArray(int * arr, int length) {
-    for (int i = 0 ; i < length; ++i) std::cout << arr[i] << " ";
+void printArray(const std::vector<int>& arr) {
+    for (const auto& num: arr) {
+        std::cout << num << " ";
+    }
     std::cout << std::endl;
 }
