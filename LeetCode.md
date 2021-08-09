@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 315
+**Problems have been solved:** 318
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -31,7 +31,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0048. Rotate Image](./LeetCode/0048.%20Rotate%20Image)|[cpp](./LeetCode/0048.%20Rotate%20Image/solution.cpp)|||[py](./LeetCode/0048.%20Rotate%20Image/solution.py)||
 [0050. Pow(x, n)](./LeetCode/0050.%20Pow(x,%20n))||||||[kt](./LeetCode/0050.%20Pow(x,%20n)/Solution.kt)
 [0051. N Queens](./LeetCode/0051.%20N%20Queens)||||||[kt](./LeetCode/0051.%20N%20Queens/Solution.kt)
-[0053. Maximum Subarray](./LeetCode/0053.%20Maximum%20Subarray)|[cpp](./LeetCode/0053.%20Maximum%20Subarray/solution.cpp)|||||
+[0053. Maximum Subarray](./LeetCode/0053.%20Maximum%20Subarray)|[cpp](./LeetCode/0053.%20Maximum%20Subarray/solution.cpp)|||[py](./LeetCode/0053.%20Maximum%20Subarray/solution.py)|[go](./LeetCode/0053.%20Maximum%20Subarray/solution.go)|
 [0054. Spiral Matrix](./LeetCode/0054.%20Spiral%20Matrix)|[cpp](./LeetCode/0054.%20Spiral%20Matrix/solution.cpp)|||||
 [0055. Jump Game](./LeetCode/0055.%20Jump%20Game)|[cpp](./LeetCode/0055.%20Jump%20Game/solution.cpp)|||||
 [0058. Length of Last Word](./LeetCode/0058.%20Length%20of%20Last%20Word)|[cpp](./LeetCode/0058.%20Length%20of%20Last%20Word/Solution.cpp)|||||[kt](./LeetCode/0058.%20Length%20of%20Last%20Word/Solution.kt)
@@ -190,6 +190,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0454. 4Sum II](./LeetCode/0454.%204Sum%20II)||||||[kt](./LeetCode/0454.%204Sum%20II/Solution.kt)
 [0455. Assign Cookies](./LeetCode/0455.%20Assign%20Cookies)|[cpp](./LeetCode/0455.%20Assign%20Cookies/solution.cpp)|||[py](./LeetCode/0455.%20Assign%20Cookies/solution.py)||[kt](./LeetCode/0455.%20Assign%20Cookies/Solution.kt)
 [0456. 132 Pattern](./LeetCode/0456.%20132%20Pattern)||||||[kt](./LeetCode/0456.%20132%20Pattern/Solution.kt)
+[0457. Circular Array Loop](./LeetCode/0457.%20Circular%20Array%20Loop)|[cpp](./LeetCode/0457.%20Circular%20Array%20Loop/solution.cpp)|||||
 [0461. Hamming Distance](./LeetCode/0461.%20Hamming%20Distance)|[cpp](./LeetCode/0461.%20Hamming%20Distance/solution.cpp)|||[py](./LeetCode/0461.%20Hamming%20Distance/solution.py)||[kt](./LeetCode/0461.%20Hamming%20Distance/Solution.kt)
 [0476. Number Complement](./LeetCode/0476.%20Number%20Complement)||||||[kt](./LeetCode/0476.%20Number%20Complement/Solution.kt)
 [0477. Total Hamming Distance](./LeetCode/0477.%20Total%20Hamming%20Distance)|[cpp](./LeetCode/0477.%20Total%20Hamming%20Distance/solution.cpp)|||[py](./LeetCode/0477.%20Total%20Hamming%20Distance/solution.py)||
@@ -260,10 +261,12 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0791. Custom Sort String](./LeetCode/0791.%20Custom%20Sort%20String)||||||[kt](./LeetCode/0791.%20Custom%20Sort%20String/Solution.kt)
 [0796. Rotate String](./LeetCode/0796.%20Rotate%20String)||||||[kt](./LeetCode/0796.%20Rotate%20String/Solution.kt)
 [0797. All Paths From Source to Target](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target)||||||[kt](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target/Solution.kt)
+[0802. Find Eventual Safe States](./LeetCode/0802.%20Find%20Eventual%20Safe%20States)|[cpp](./LeetCode/0802.%20Find%20Eventual%20Safe%20States/solution.cpp)|||||
 [0810. Chalkboard XOR Game](./LeetCode/0810.%20Chalkboard%20XOR%20Game)|[cpp](./LeetCode/0810.%20Chalkboard%20XOR%20Game/solution.cpp)|||[py](./LeetCode/0810.%20Chalkboard%20XOR%20Game/solution.py)||
 [0824. Goat Latin](./LeetCode/0824.%20Goat%20Latin)|[cpp](./LeetCode/0824.%20Goat%20Latin/Solution.cpp)|||||
 [0832. Flipping an Image](./LeetCode/0832.%20Flipping%20an%20Image)|[cpp](./LeetCode/0832.%20Flipping%20an%20Image/solution.cpp)|||[py](./LeetCode/0832.%20Flipping%20an%20Image/solution.py)||
 [0836. Rectangle Overlap](./LeetCode/0836.%20Rectangle%20Overlap)||||[py](./LeetCode/0836.%20Rectangle%20Overlap/solution.py)||
+[0847. Shortest Path Visiting All Nodes](./LeetCode/0847.%20Shortest%20Path%20Visiting%20All%20Nodes)|[cpp](./LeetCode/0847.%20Shortest%20Path%20Visiting%20All%20Nodes/solution.cpp)|||||
 [0852. Peak Index in a Mountain Array](./LeetCode/0852.%20Peak%20Index%20in%20a%20Mountain%20Array)|[cpp](./LeetCode/0852.%20Peak%20Index%20in%20a%20Mountain%20Array/solution.cpp)|||[py](./LeetCode/0852.%20Peak%20Index%20in%20a%20Mountain%20Array/solution.py)||
 [0860. Lemonade Change](./LeetCode/0860.%20Lemonade%20Change)|[cpp](./LeetCode/0860.%20Lemonade%20Change/Solution.cpp)|||||
 [0867. Transpose Matrix](./LeetCode/0867.%20Transpose%20Matrix)|[cpp](./LeetCode/0867.%20Transpose%20Matrix/solution.cpp)|||[py](./LeetCode/0867.%20Transpose%20Matrix/solution.py)||
@@ -295,7 +298,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1081. Smallest Subsequence of Distinct Characters](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters)|[cpp](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/solution.cpp)|||||
 [1103. Distribute Candies to People](./LeetCode/1103.%20Distribute%20Candies%20to%20People)|[cpp](./LeetCode/1103.%20Distribute%20Candies%20to%20People/solution.cpp)|[java](./LeetCode/1103.%20Distribute%20Candies%20to%20People/Solution.java)||||
 [1128. Number of Equivalent Domino Pairs](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs)|[cpp](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/solution.cpp)|||[py](./LeetCode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/solution.py)||
-[1137. N-th Tribonacci Number](./LeetCode/1137.%20N-th%20Tribonacci%20Number)|[cpp](./LeetCode/1137.%20N-th%20Tribonacci%20Number/solution.cpp)|||[py](./LeetCode/1137.%20N-th%20Tribonacci%20Number/solution.py)|[go](./LeetCode/1137.%20N-th%20Tribonacci%20Number/solution.go)|
+[1137. N-th Tribonacci Number](./LeetCode/1137.%20N-th%20Tribonacci%20Number)|[cpp](./LeetCode/1137.%20N-th%20Tribonacci%20Number/solution.cpp)|[java](./LeetCode/1137.%20N-th%20Tribonacci%20Number/Solution.java)||[py](./LeetCode/1137.%20N-th%20Tribonacci%20Number/solution.py)|[go](./LeetCode/1137.%20N-th%20Tribonacci%20Number/solution.go)|
 [1143. Longest Common Subsequence](./LeetCode/1143.%20Longest%20Common%20Subsequence)|[cpp](./LeetCode/1143.%20Longest%20Common%20Subsequence/solution.cpp)|||[py](./LeetCode/1143.%20Longest%20Common%20Subsequence/solution.py)||
 [1160. Find Words That Can Be Formed by Characters](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)|||||[go](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/solution.go)|
 [1178. Number of Valid Words for Each Puzzle](./LeetCode/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle)|[cpp](./LeetCode/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/solution.cpp)|||||
