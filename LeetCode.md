@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 318
+**Problems have been solved:** 322
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -128,6 +128,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0230. Kth Smallest Element in a BST](./LeetCode/0230.%20Kth%20Smallest%20Element%20in%20a%20BST)||||||[kt](./LeetCode/0230.%20Kth%20Smallest%20Element%20in%20a%20BST/Solution.kt)
 [0231. Power of Two](./LeetCode/0231.%20Power%20of%20Two)|[cpp](./LeetCode/0231.%20Power%20of%20Two/solution.cpp)|||[py](./LeetCode/0231.%20Power%20of%20Two/solution.py)||[kt](./LeetCode/0231.%20Power%20of%20Two/Solution.kt)
 [0232. Implement Queue using Stacks](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks)|[cpp](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks/Solution.cpp)|||[py](./LeetCode/0232.%20Implement%20Queue%20using%20Stacks/solution.py)||
+[0233. Number of Digit One](./LeetCode/0233.%20Number%20of%20Digit%20One)|[cpp](./LeetCode/0233.%20Number%20of%20Digit%20One/solution.cpp)|||||
 [0235. Lowest Common Ancestor of a Binary Search Tree](./LeetCode/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)||[java](./LeetCode/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Solution.java)||||
 [0237. Delete Node in a Linked List](./LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List)|[cpp](./LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/solution.cpp)||||[go](./LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/Solution.go)|
 [0241. Different Ways to Add Parentheses](./LeetCode/0241.%20Different%20Ways%20to%20Add%20Parentheses)||||||[kt](./LeetCode/0241.%20Different%20Ways%20to%20Add%20Parentheses/Solution.kt)
@@ -176,6 +177,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0405. Convert a Number to Hexadecimal](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal)||||||[kt](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal/Solution.kt)
 [0409. Longest Palindrome](./LeetCode/0409.%20Longest%20Palindrome)|||||[go](./LeetCode/0409.%20Longest%20Palindrome/solution.go)|
 [0412. Fizz Buzz](./LeetCode/0412.%20Fizz%20Buzz)||||||[kt](./LeetCode/0412.%20Fizz%20Buzz/Solution.kt)
+[0413. Arithmetic Slices](./LeetCode/0413.%20Arithmetic%20Slices)|[cpp](./LeetCode/0413.%20Arithmetic%20Slices/solution.cpp)|||||
 [0415. Add Strings](./LeetCode/0415.%20Add%20Strings)||||||[kt](./LeetCode/0415.%20Add%20Strings/Solution.kt)
 [0416. Partition Equal Subset Sum](./LeetCode/0416.%20Partition%20Equal%20Subset%20Sum)||||||[kt](./LeetCode/0416.%20Partition%20Equal%20Subset%20Sum/Soution.kt)
 [0421. Maximum XOR of Two Numbers in an Array](./LeetCode/0421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array)|[cpp](./LeetCode/0421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/solution.cpp)|||||
@@ -204,6 +206,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0504. Base 7](./LeetCode/0504.%20Base%207)||||||[kt](./LeetCode/0504.%20Base%207/Solution.kt)
 [0509. Fibonacci Number](./LeetCode/0509.%20Fibonacci%20Number)|[cpp](./LeetCode/0509.%20Fibonacci%20Number/solution.cpp)|[java](./LeetCode/0509.%20Fibonacci%20Number/Solution.java)|[js](./LeetCode/0509.%20Fibonacci%20Number/solution.js)|[py](./LeetCode/0509.%20Fibonacci%20Number/solution.py)|[go](./LeetCode/0509.%20Fibonacci%20Number/solution.go)|[kt](./LeetCode/0509.%20Fibonacci%20Number/solution.kt)
 [0513. Find Bottom Left Tree Value](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value)|[cpp](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.cpp)|||||[kt](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.kt)
+[0516. Longest Palindromic Subsequence](./LeetCode/0516.%20Longest%20Palindromic%20Subsequence)|[cpp](./LeetCode/0516.%20Longest%20Palindromic%20Subsequence/solution.cpp)|||||
 [0518. Coin Change 2](./LeetCode/0518.%20Coin%20Change%202)|[cpp](./LeetCode/0518.%20Coin%20Change%202/solution.cpp)|||||
 [0520. Detect Capital](./LeetCode/0520.%20Detect%20Capital)||||||[kt](./LeetCode/0520.%20Detect%20Capital/Solution.kt)
 [0523. Continuous Subarray Sum](./LeetCode/0523.%20Continuous%20Subarray%20Sum)|[cpp](./LeetCode/0523.%20Continuous%20Subarray%20Sum/solution.cpp)|||[py](./LeetCode/0523.%20Continuous%20Subarray%20Sum/solution.py)||
@@ -313,6 +316,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1464. Maximum Product of Two Elements in an Array](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)|[cpp](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.py)||
 [1480. Running Sum of 1d Array](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array)|[cpp](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array/solution.cpp)|||||
 [1486. XOR Operation in an Array](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array)|[cpp](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.py)||
+[1583. Count Unhappy Friends](./LeetCode/1583.%20Count%20Unhappy%20Friends)|[cpp](./LeetCode/1583.%20Count%20Unhappy%20Friends/solution.cpp)|||||
 [1584. Min Cost to Connect All Points](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points)|[cpp](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.cpp)|||[py](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.py)||
 [1603. Design Parking System](./LeetCode/1603.%20Design%20Parking%20System)|[cpp](./LeetCode/1603.%20Design%20Parking%20System/solution.cpp)|||[py](./LeetCode/1603.%20Design%20Parking%20System/solution.py)||
 [1720. Decode XORed Array](./LeetCode/1720.%20Decode%20XORed%20Array)|[cpp](./LeetCode/1720.%20Decode%20XORed%20Array/solution.cpp)|||[py](./LeetCode/1720.%20Decode%20XORed%20Array/solution.py)||
