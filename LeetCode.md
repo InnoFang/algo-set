@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 322
+**Problems have been solved:** 324
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -211,6 +211,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0520. Detect Capital](./LeetCode/0520.%20Detect%20Capital)||||||[kt](./LeetCode/0520.%20Detect%20Capital/Solution.kt)
 [0523. Continuous Subarray Sum](./LeetCode/0523.%20Continuous%20Subarray%20Sum)|[cpp](./LeetCode/0523.%20Continuous%20Subarray%20Sum/solution.cpp)|||[py](./LeetCode/0523.%20Continuous%20Subarray%20Sum/solution.py)||
 [0525. Contiguous Array](./LeetCode/0525.%20Contiguous%20Array)|[cpp](./LeetCode/0525.%20Contiguous%20Array/solution.cpp)|||[py](./LeetCode/0525.%20Contiguous%20Array/solution.py)||
+[0526. Beautiful Arrangement](./LeetCode/0526.%20Beautiful%20Arrangement)|[cpp](./LeetCode/0526.%20Beautiful%20Arrangement/solution.cpp)|||||
 [0530. Minimum Absolute Difference in BST](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST)|[cpp](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/solution.cpp)|||||[kt](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/Solution.kt)
 [0537. Complex Number Multiplication](./LeetCode/0537.%20Complex%20Number%20Multiplication)||[java](./LeetCode/0537.%20Complex%20Number%20Multiplication/Solution.java)||||
 [0540. Single Element in a Sorted Array](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array)||||||[kt](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array/Solution.kt)
@@ -222,6 +223,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0566. Reshpae the Matrix](./LeetCode/0566.%20Reshpae%20the%20Matrix)|[cpp](./LeetCode/0566.%20Reshpae%20the%20Matrix/solution.cpp)|||[py](./LeetCode/0566.%20Reshpae%20the%20Matrix/solution.py)||[kt](./LeetCode/0566.%20Reshpae%20the%20Matrix/Solution.kt)
 [0567. Permutation in String](./LeetCode/0567.%20Permutation%20in%20String)|[cpp](./LeetCode/0567.%20Permutation%20in%20String/solution.cpp)|||[py](./LeetCode/0567.%20Permutation%20in%20String/solution.py)||[kt](./LeetCode/0567.%20Permutation%20in%20String/Solution.kt)
 [0572. Subtree of Another Tree](./LeetCode/0572.%20Subtree%20of%20Another%20Tree)||||||[kt](./LeetCode/0572.%20Subtree%20of%20Another%20Tree/Solution.kt)
+[0576. Out of Boundary Paths](./LeetCode/0576.%20Out%20of%20Boundary%20Paths)|[cpp](./LeetCode/0576.%20Out%20of%20Boundary%20Paths/solution.cpp)|||||
 [0592. Fraction Addition and Subtraction](./LeetCode/0592.%20Fraction%20Addition%20and%20Subtraction)||||||[kt](./LeetCode/0592.%20Fraction%20Addition%20and%20Subtraction/Solution.kt)
 [0605. Can Place Flowers](./LeetCode/0605.%20Can%20Place%20Flowers)|[cpp](./LeetCode/0605.%20Can%20Place%20Flowers/solution.cpp)|||||
 [0611. Valid Triangle Number](./LeetCode/0611.%20Valid%20Triangle%20Number)|[cpp](./LeetCode/0611.%20Valid%20Triangle%20Number/solution.cpp)|||||[kt](./LeetCode/0611.%20Valid%20Triangle%20Number/Solution.kt)
