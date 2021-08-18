@@ -25,3 +25,40 @@ public:
         return ans;
     }
 };
+
+/**
+ * 59 / 59 test cases passed.
+ * Runtime: 1448 ms
+ * Memory Usage: 437.7 MB 
+ */
+class Solution2 {
+public:
+    const int mod = 1e9 + 7;
+    int checkRecord(int n) {
+        vector<vector<vector<long>>> dp(n, vector<vector<long>>(2, vector<long>(3)));
+        dp[0][0][0] = 1;
+        dp[0][1][0] = 1;
+        dp[0][0][1] = 1;
+        for (int i = 1; i < n; ++ i) {
+            // P
+            dp[i][0][0] = (dp[i - 1][0][0] + dp[i - 1][0][1] + dp[i - 1][0][2]) % mod;
+            // A
+            dp[i][1][0] = (dp[i][1][0] 
+                         + dp[i][0][0] + dp[i][0][1] + dp[i][1][2]
+                         + dp[i - 1][1][0] + dp[i - 1][1][1] + dp[i - 1][1][2]) % mod;
+            // L
+            dp[i][0][1] = dp[i - 1][0][0];
+            dp[i][0][2] = dp[i - 1][0][1];
+            dp[i][1][1] = dp[i - 1][1][0];
+            dp[i][1][2] = dp[i - 1][1][1];
+        }
+
+        int ans = 0;
+        for (int i = 0; i < 2; ++ i) {
+            for (int j = 0; j < 3; ++ j) {
+                ans = (ans + dp[n - 1][i][j]) % mod;
+            }
+        }
+        return (int) ans;
+    }
+};
