@@ -5,17 +5,13 @@
  */
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> dic;
-        for (int i = 0; i < nums.size(); i++) {
-            int val = target - nums[i];
-            if (dic.find(val) != dic.end()) {
-                vector<int> res;
-                res.push_back(dic[val]);
-                res.push_back(i);
-                return res;
-            } else dic[nums[i]] = i;
+    string reverseVowels(string s) {
+        string vowels = "aeiouAEIOU";
+        for (int l = 0, r = s.size() - 1; l < r; ++ l, -- r) { 
+            while (l < r && vowels.find(s[l]) == -1) ++ l;
+            while (l < r && vowels.find(s[r]) == -1) -- r;
+            if (l < r) swap(s[l], s[r]);
         }
-        return vector<int>();
+        return s;
     }
 };
