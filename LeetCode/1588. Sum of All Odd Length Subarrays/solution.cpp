@@ -19,3 +19,23 @@ public:
         return ans;
     }
 };
+
+/**
+ * 96 / 96 test cases passed.
+ * Runtime: 4 ms
+ * Memory Usage: 8.1 MB 
+ */
+class Solution2 {
+public:
+    int sumOddLengthSubarrays(vector<int>& arr) {
+        int ans = 0;
+        int n = arr.size(); 
+        for (int i = 0; i < n; i ++ ) {
+            int leftCount = i, rightCount = n - i - 1,
+                leftOdd = (leftCount + 1) >> 1, rightOdd = (rightCount + 1) >> 1,
+                leftEven = (leftCount >> 1) + 1, rightEven = (rightCount >> 1) + 1;
+            ans += arr[i] * (leftOdd * rightOdd + leftEven * rightEven);
+        }
+        return ans;
+    }
+};
