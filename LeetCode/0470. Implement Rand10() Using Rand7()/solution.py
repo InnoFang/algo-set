@@ -1,7 +1,7 @@
 """
-229 / 229 test cases passed.
-Runtime: 40 ms
-Memory Usage: 14.9 MB
+12 / 12 test cases passed.
+Runtime: 312 ms
+Memory Usage: ：17.4 MB
 """
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
