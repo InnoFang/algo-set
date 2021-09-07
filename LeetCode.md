@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 331
+**Problems have been solved:** 334
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -195,6 +195,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0456. 132 Pattern](./LeetCode/0456.%20132%20Pattern)||||||[kt](./LeetCode/0456.%20132%20Pattern/Solution.kt)
 [0457. Circular Array Loop](./LeetCode/0457.%20Circular%20Array%20Loop)|[cpp](./LeetCode/0457.%20Circular%20Array%20Loop/solution.cpp)|||||
 [0461. Hamming Distance](./LeetCode/0461.%20Hamming%20Distance)|[cpp](./LeetCode/0461.%20Hamming%20Distance/solution.cpp)|||[py](./LeetCode/0461.%20Hamming%20Distance/solution.py)||[kt](./LeetCode/0461.%20Hamming%20Distance/Solution.kt)
+[0470. Implement Rand10() Using Rand7()](./LeetCode/0470.%20Implement%20Rand10()%20Using%20Rand7())|[cpp](./LeetCode/0470.%20Implement%20Rand10()%20Using%20Rand7()/solution.cpp)|||[py](./LeetCode/0470.%20Implement%20Rand10()%20Using%20Rand7()/solution.py)|[go](./LeetCode/0470.%20Implement%20Rand10()%20Using%20Rand7()/solution.go)|
 [0476. Number Complement](./LeetCode/0476.%20Number%20Complement)||||||[kt](./LeetCode/0476.%20Number%20Complement/Solution.kt)
 [0477. Total Hamming Distance](./LeetCode/0477.%20Total%20Hamming%20Distance)|[cpp](./LeetCode/0477.%20Total%20Hamming%20Distance/solution.cpp)|||[py](./LeetCode/0477.%20Total%20Hamming%20Distance/solution.py)||
 [0480. Sliding Window Median](./LeetCode/0480.%20Sliding%20Window%20Median)||||[py](./LeetCode/0480.%20Sliding%20Window%20Median/solution.py)||
@@ -245,6 +246,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0697. Degree of an Array](./LeetCode/0697.%20Degree%20of%20an%20Array)|[cpp](./LeetCode/0697.%20Degree%20of%20an%20Array/solution.cpp)|||[py](./LeetCode/0697.%20Degree%20of%20an%20Array/solution.py)||
 [0698. Partition to K Equal Sum Subsets](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)||||||[kt](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets/Solution.kt)
 [0703. Kth Largest Element in a Stream](./LeetCode/0703.%20Kth%20Largest%20Element%20in%20a%20Stream)|[cpp](./LeetCode/0703.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.cpp)|||[py](./LeetCode/0703.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.py)||
+[0704. Binary Search](./LeetCode/0704.%20Binary%20Search)|[cpp](./LeetCode/0704.%20Binary%20Search/solution.cpp)|[java](./LeetCode/0704.%20Binary%20Search/Solution.java)||[py](./LeetCode/0704.%20Binary%20Search/solution.py)|[go](./LeetCode/0704.%20Binary%20Search/solution.go)|
 [0705. Design HashSet](./LeetCode/0705.%20Design%20HashSet)|[cpp](./LeetCode/0705.%20Design%20HashSet/solution.cpp)|||||
 [0706. Design HashMap](./LeetCode/0706.%20Design%20HashMap)|[cpp](./LeetCode/0706.%20Design%20HashMap/solution.cpp)|||||
 [0721. Accounts Merge](./LeetCode/0721.%20Accounts%20Merge)||[java](./LeetCode/0721.%20Accounts%20Merge/Solution.java)||||[kt](./LeetCode/0721.%20Accounts%20Merge/Solution.kt)
@@ -255,6 +257,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0740. Delete and Earn](./LeetCode/0740.%20Delete%20and%20Earn)|[cpp](./LeetCode/0740.%20Delete%20and%20Earn/solution.cpp)|||[py](./LeetCode/0740.%20Delete%20and%20Earn/solution.py)|[go](./LeetCode/0740.%20Delete%20and%20Earn/solution.go)|
 [0743. Network Delay Time](./LeetCode/0743.%20Network%20Delay%20Time)|[cpp](./LeetCode/0743.%20Network%20Delay%20Time/solution.cpp)|||||
 [0745. Prefix and Suffix Search](./LeetCode/0745.%20Prefix%20and%20Suffix%20Search)||||||[kt](./LeetCode/0745.%20Prefix%20and%20Suffix%20Search/Solution.kt)
+[0746. Min Cost Climbing Stairs](./LeetCode/0746.%20Min%20Cost%20Climbing%20Stairs)|[cpp](./LeetCode/0746.%20Min%20Cost%20Climbing%20Stairs/solution.cpp)|||[py](./LeetCode/0746.%20Min%20Cost%20Climbing%20Stairs/solution.py)|[go](./LeetCode/0746.%20Min%20Cost%20Climbing%20Stairs/solution.go)|
 [0747. Largest Number At Least Twice of Others](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others)||||||[kt](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/Solution.kt)
 [0760. Find Anagram Mappings](./LeetCode/0760.%20Find%20Anagram%20Mappings)||||||[kt](./LeetCode/0760.%20Find%20Anagram%20Mappings/Solution.kt)
 [0762. Prime Number of Set Bits in Binary Representation](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)||||||[kt](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/Solution.kt)
