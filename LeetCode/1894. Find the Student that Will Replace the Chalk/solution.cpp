@@ -22,3 +22,22 @@ public:
         return l - 1;
     }
 };
+
+/**
+ * 72 / 72 test cases passed.
+ * Runtime: 108 ms
+ * Memory Usage: 79.2 MB 
+ */
+class Solution2 {
+public:
+    int chalkReplacer(vector<int>& chalk, int k) {
+        size_t n = chalk.size();
+        vector<uint64_t> sums(n);
+        sums[0] = chalk[0];
+        for(size_t i = 1; i < n; i++){
+            sums[i] = sums[i-1] + chalk[i];
+        }
+        k %= sums.back();
+        return upper_bound(sums.begin(), sums.end(), k) - sums.begin();
+    }
+};
