@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 339
+**Problems have been solved:** 342
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -98,6 +98,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0153. Find Minimum in Rotated Sorted Array](./LeetCode/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)|[cpp](./LeetCode/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/solution.cpp)|||[py](./LeetCode/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/solution.py)||
 [0154. Find Minimum in Rotated Sorted Array II](./LeetCode/0154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II)|[cpp](./LeetCode/0154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/solution.cpp)|||[py](./LeetCode/0154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/solution.py)||
 [0160. Intersection of Two Linked Lists](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists)|[cpp](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists/Solution.cpp)|||[py](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists/solution.py)||
+[0162. Find Peak Element](./LeetCode/0162.%20Find%20Peak%20Element)|[cpp](./LeetCode/0162.%20Find%20Peak%20Element/solution.cpp)|||||
 [0165. Compare Version Numbers](./LeetCode/0165.%20Compare%20Version%20Numbers)|[cpp](./LeetCode/0165.%20Compare%20Version%20Numbers/solution.cpp)|||[py](./LeetCode/0165.%20Compare%20Version%20Numbers/solution.py)||[kt](./LeetCode/0165.%20Compare%20Version%20Numbers/Solution.kt)
 [0167. Two Sum II - Input array is sorted](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)||[java](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.java)||[py](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.py)||[kt](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.kt)
 [0169. Majority Element](./LeetCode/0169.%20Majority%20Element)|||||[go](./LeetCode/0169.%20Majority%20Element/solution.go)|
@@ -116,6 +117,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0206. Reverse Linked List](./LeetCode/0206.%20Reverse%20Linked%20List)|[cpp](./LeetCode/0206.%20Reverse%20Linked%20List/Solution.cpp)|||||[kt](./LeetCode/0206.%20Reverse%20Linked%20List/Solution.kt)
 [0208. Implement Trie (Prefix Tree)](./LeetCode/0208.%20Implement%20Trie%20(Prefix%20Tree))|[cpp](./LeetCode/0208.%20Implement%20Trie%20(Prefix%20Tree)/solution.cpp)|||[py](./LeetCode/0208.%20Implement%20Trie%20(Prefix%20Tree)/solution.py)||
 [0209. Minimum Size Subarray Sum](./LeetCode/0209.%20Minimum%20Size%20Subarray%20Sum)||[java](./LeetCode/0209.%20Minimum%20Size%20Subarray%20Sum/Solution.java)||[py](./LeetCode/0209.%20Minimum%20Size%20Subarray%20Sum/Solution.py)||[kt](./LeetCode/0209.%20Minimum%20Size%20Subarray%20Sum/Solution.kt)
+[0212. Word Search II](./LeetCode/0212.%20Word%20Search%20II)|[cpp](./LeetCode/0212.%20Word%20Search%20II/solution.cpp)|||||
 [0213. House Robber II](./LeetCode/0213.%20House%20Robber%20II)|[cpp](./LeetCode/0213.%20House%20Robber%20II/solution.cpp)|||[py](./LeetCode/0213.%20House%20Robber%20II/solution.py)|[go](./LeetCode/0213.%20House%20Robber%20II/solution.go)|
 [0215. Kth Largest Element in an Array](./LeetCode/0215.%20Kth%20Largest%20Element%20in%20an%20Array)||||||[kt](./LeetCode/0215.%20Kth%20Largest%20Element%20in%20an%20Array/Solution.kt)
 [0217. Contains Duplicate](./LeetCode/0217.%20Contains%20Duplicate)|[cpp](./LeetCode/0217.%20Contains%20Duplicate/Solution.cpp)|||[py](./LeetCode/0217.%20Contains%20Duplicate/solution.py)||[kt](./LeetCode/0217.%20Contains%20Duplicate/Solution.kt)
@@ -214,6 +216,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0518. Coin Change 2](./LeetCode/0518.%20Coin%20Change%202)|[cpp](./LeetCode/0518.%20Coin%20Change%202/solution.cpp)|||||
 [0520. Detect Capital](./LeetCode/0520.%20Detect%20Capital)||||||[kt](./LeetCode/0520.%20Detect%20Capital/Solution.kt)
 [0523. Continuous Subarray Sum](./LeetCode/0523.%20Continuous%20Subarray%20Sum)|[cpp](./LeetCode/0523.%20Continuous%20Subarray%20Sum/solution.cpp)|||[py](./LeetCode/0523.%20Continuous%20Subarray%20Sum/solution.py)||
+[0524. Longest Word in Dictionary through Deleting](./LeetCode/0524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting)|[cpp](./LeetCode/0524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting/solution.cpp)|||||
 [0525. Contiguous Array](./LeetCode/0525.%20Contiguous%20Array)|[cpp](./LeetCode/0525.%20Contiguous%20Array/solution.cpp)|||[py](./LeetCode/0525.%20Contiguous%20Array/solution.py)||
 [0526. Beautiful Arrangement](./LeetCode/0526.%20Beautiful%20Arrangement)|[cpp](./LeetCode/0526.%20Beautiful%20Arrangement/solution.cpp)|||||
 [0530. Minimum Absolute Difference in BST](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST)|[cpp](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/solution.cpp)|||||[kt](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/Solution.kt)
