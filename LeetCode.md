@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 342
+**Problems have been solved:** 345
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -23,6 +23,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0033. Search in Rotated Sorted Array](./LeetCode/0033.%20Search%20in%20Rotated%20Sorted%20Array)|[cpp](./LeetCode/0033.%20Search%20in%20Rotated%20Sorted%20Array/solution.cpp)|||[py](./LeetCode/0033.%20Search%20in%20Rotated%20Sorted%20Array/solution.py)||
 [0034. Search for a Range](./LeetCode/0034.%20Search%20for%20a%20Range)||||||[kt](./LeetCode/0034.%20Search%20for%20a%20Range/Solution.kt)
 [0035. Search Insert Position](./LeetCode/0035.%20Search%20Insert%20Position)||||||[kt](./LeetCode/0035.%20Search%20Insert%20Position/Solution.kt)
+[0036. Valid Sudoku](./LeetCode/0036.%20Valid%20Sudoku)|[cpp](./LeetCode/0036.%20Valid%20Sudoku/solution.cpp)|||||
 [0041. First Missing Positive](./LeetCode/0041.%20First%20Missing%20Positive)|[cpp](./LeetCode/0041.%20First%20Missing%20Positive/solution.cpp)|||||
 [0042. Trapping Rain Water](./LeetCode/0042.%20Trapping%20Rain%20Water)|[cpp](./LeetCode/0042.%20Trapping%20Rain%20Water/solution.cpp)|||[py](./LeetCode/0042.%20Trapping%20Rain%20Water/solution.py)||
 [0045. Jump Game II](./LeetCode/0045.%20Jump%20Game%20II)|[cpp](./LeetCode/0045.%20Jump%20Game%20II/solution.cpp)|||||
@@ -147,6 +148,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0283. Move Zeroes](./LeetCode/0283.%20Move%20Zeroes)||[java](./LeetCode/0283.%20Move%20Zeroes/Solution.java)|[js](./LeetCode/0283.%20Move%20Zeroes/Solution.js)|[py](./LeetCode/0283.%20Move%20Zeroes/Solution.py)||[kt](./LeetCode/0283.%20Move%20Zeroes/Solution.kt)
 [0287. Find the Duplicate Number](./LeetCode/0287.%20Find%20the%20Duplicate%20Number)|[cpp](./LeetCode/0287.%20Find%20the%20Duplicate%20Number/Solution.cpp)|||||
 [0290. Word Pattern](./LeetCode/0290.%20Word%20Pattern)|[cpp](./LeetCode/0290.%20Word%20Pattern/solution.cpp)|||[py](./LeetCode/0290.%20Word%20Pattern/solution.py)||
+[0292. Nim Game](./LeetCode/0292.%20Nim%20Game)|[cpp](./LeetCode/0292.%20Nim%20Game/solution.cpp)|[java](./LeetCode/0292.%20Nim%20Game/Solution.java)|[js](./LeetCode/0292.%20Nim%20Game/solution.js)|[py](./LeetCode/0292.%20Nim%20Game/solution.py)|[go](./LeetCode/0292.%20Nim%20Game/solution.go)|[kt](./LeetCode/0292.%20Nim%20Game/solution.kt)
 [0295. Find Median from Data Stream](./LeetCode/0295.%20Find%20Median%20from%20Data%20Stream)|[cpp](./LeetCode/0295.%20Find%20Median%20from%20Data%20Stream/solution.cpp)|||[py](./LeetCode/0295.%20Find%20Median%20from%20Data%20Stream/solution.py)||
 [0300. Longest Increasing Subsequence](./LeetCode/0300.%20Longest%20Increasing%20Subsequence)|[cpp](./LeetCode/0300.%20Longest%20Increasing%20Subsequence/solution.cpp)|||[py](./LeetCode/0300.%20Longest%20Increasing%20Subsequence/solution.py)||[kt](./LeetCode/0300.%20Longest%20Increasing%20Subsequence/Solution.kt)
 [0303. Range Sum Query - Immutable](./LeetCode/0303.%20Range%20Sum%20Query%20-%20Immutable)|[cpp](./LeetCode/0303.%20Range%20Sum%20Query%20-%20Immutable/solution.cpp)|||[py](./LeetCode/0303.%20Range%20Sum%20Query%20-%20Immutable/solution.py)||
@@ -241,6 +243,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0633. Sum of Square Numbers](./LeetCode/0633.%20Sum%20of%20Square%20Numbers)|[cpp](./LeetCode/0633.%20Sum%20of%20Square%20Numbers/solution.cpp)|||[py](./LeetCode/0633.%20Sum%20of%20Square%20Numbers/solution.py)||
 [0643. Maximum Average Subarray I](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I)|[cpp](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/solution.cpp)|||[py](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/solution.py)||[kt](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/Solution.kt)
 [0648. Replace Words](./LeetCode/0648.%20Replace%20Words)||||||[kt](./LeetCode/0648.%20Replace%20Words/Solution.kt)
+[0650. 2 Keys Keyboard](./LeetCode/0650.%202%20Keys%20Keyboard)|[cpp](./LeetCode/0650.%202%20Keys%20Keyboard/solution.cpp)|[java](./LeetCode/0650.%202%20Keys%20Keyboard/Solution.java)|[js](./LeetCode/0650.%202%20Keys%20Keyboard/solution.js)|[py](./LeetCode/0650.%202%20Keys%20Keyboard/solution.py)|[go](./LeetCode/0650.%202%20Keys%20Keyboard/solution.go)|[kt](./LeetCode/0650.%202%20Keys%20Keyboard/solution.kt)
 [0657. Robot Return to Origin](./LeetCode/0657.%20Robot%20Return%20to%20Origin)|[cpp](./LeetCode/0657.%20Robot%20Return%20to%20Origin/solution.cpp)||||[go](./LeetCode/0657.%20Robot%20Return%20to%20Origin/Solution.go)|
 [0665. Non-decreasing Array](./LeetCode/0665.%20Non-decreasing%20Array)|[cpp](./LeetCode/0665.%20Non-decreasing%20Array/solution.cpp)|||[py](./LeetCode/0665.%20Non-decreasing%20Array/solution.py)||[kt](./LeetCode/0665.%20Non-decreasing%20Array/Solution.kt)
 [0674. Longest Continuous Increasing Subsequence](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence)|[cpp](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence/solution.cpp)|||[py](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence/solution.py)||
