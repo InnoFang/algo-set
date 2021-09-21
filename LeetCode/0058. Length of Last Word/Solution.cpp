@@ -38,3 +38,18 @@ public:
         return len;
     }
 };
+
+/**
+ * 58 / 58 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 6.4 MB 
+ */
+class Solution3 {
+public:
+    int lengthOfLastWord(string s) {
+        int i = s.size() - 1, ans = 0;
+        for (; i >= 0 && s[i] == ' '; -- i) {}
+        for (; i >= 0 && s[i] != ' '; -- i, ++ ans) {}
+        return ans;
+    }
+};
