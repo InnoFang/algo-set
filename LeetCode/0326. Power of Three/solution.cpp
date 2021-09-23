@@ -11,3 +11,15 @@ public:
         return (x - int(x)) < 1e-10;
     }
 };
+
+/**
+ * 21038 / 21038 test cases passed.
+ * Runtime: 32 ms
+ * Memory Usage: 5.9 MB 
+ */
+class Solution2 {
+public:
+    bool isPowerOfThree(int n) {
+        return n > 0 && 1162261467 % n == 0;
+    }
+};
