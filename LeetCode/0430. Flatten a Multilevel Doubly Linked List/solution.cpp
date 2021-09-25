@@ -43,3 +43,36 @@ public:
         return flatten(head, tail);
     }
 };
+
+/**
+ * 26 / 26 test cases passed.
+ * Runtime: 4 ms
+ * Memory Usage: 7.1 MB 
+ */
+class Solution2 {
+public:
+    Node* dfs(Node* head) {
+        Node *curr = head;
+        Node *tail = curr;
+        while (curr) {
+            if (curr->child) {  
+                Node* child_tail = dfs(curr->child); 
+                child_tail->next = curr->next;
+                if (curr->next) 
+                    curr->next->prev = child_tail;  
+                curr->next = curr->child;
+                curr->child->prev = curr;
+                curr->child = nullptr;
+            }
+            curr = curr->next; 
+            if (curr) 
+                tail = curr; 
+        } 
+        return tail;
+    }
+
+    Node* flatten(Node* head) { 
+        dfs(head);
+        return head;
+    }
+};
