@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 350
+**Problems have been solved:** 351
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -177,6 +177,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0386. Lexicographical Numbers](./LeetCode/0386.%20Lexicographical%20Numbers)|[cpp](./LeetCode/0386.%20Lexicographical%20Numbers/solution.cpp)|||||
 [0389. Find the Difference](./LeetCode/0389.%20Find%20the%20Difference)|[cpp](./LeetCode/0389.%20Find%20the%20Difference/solution.cpp)|||||[kt](./LeetCode/0389.%20Find%20the%20Difference/Solution.kt)
 [0392. Is Subsequence](./LeetCode/0392.%20Is%20Subsequence)||[java](./LeetCode/0392.%20Is%20Subsequence/Solution.java)||||[kt](./LeetCode/0392.%20Is%20Subsequence/Solution.kt)
+[0395. Longest Substring with At Least K Repeating Characters](./LeetCode/0395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters)|[cpp](./LeetCode/0395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/solution.cpp)|||||
 [0397. Integer Replacement](./LeetCode/0397.%20Integer%20Replacement)||||||[kt](./LeetCode/0397.%20Integer%20Replacement/Solution.kt)
 [0401. Binary Watch](./LeetCode/0401.%20Binary%20Watch)|[cpp](./LeetCode/0401.%20Binary%20Watch/solution.cpp)|||[py](./LeetCode/0401.%20Binary%20Watch/solution.py)||
 [0405. Convert a Number to Hexadecimal](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal)||||||[kt](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal/Solution.kt)
