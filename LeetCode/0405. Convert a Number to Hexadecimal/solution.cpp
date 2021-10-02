@@ -38,3 +38,17 @@ public:
         return toHex(num >> 4) + string(1, HEX[num & 0xF]);
    }
 };
+
+/**
+ * 100 / 100 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 5.6 MB 
+ */
+class Solution3 {
+public:
+    string toHex(uint32_t num) {
+        string hex = "0123456789abcdef", ans;
+        for (ans = hex[num & 0xF]; num >>= 4; ans = hex[num & 0xF] + ans);
+        return ans;
+   }
+};
