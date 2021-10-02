@@ -24,3 +24,17 @@ public:
         return ans;
     }
 };
+
+/**
+ * 100 / 100 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 5.9 MB 
+ */
+class Solution2 {
+public:
+    string HEX = "0123456789abcdef";
+    string toHex(uint32_t num) {
+        if (num < 16) return string(1, HEX[num]);
+        return toHex(num >> 4) + string(1, HEX[num & 0xF]);
+   }
+};
