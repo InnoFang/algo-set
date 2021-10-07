@@ -22,3 +22,22 @@ public:
         return ans + 1;
     }
 };
+
+/**
+ * 27 / 27 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 6.1 MB 
+ */
+class Solution2 {
+public:
+    int countSegments(string s) {
+        istringstream iss(s);
+        string next;
+        int ans = 0;
+        while (iss) {
+            iss >> next;
+            ans += 1;
+        }
+        return ans - 1;
+    }
+};
