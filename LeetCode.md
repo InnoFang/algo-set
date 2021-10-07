@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 357
+**Problems have been solved:** 360
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -148,6 +148,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0278. First Bad Version](./LeetCode/0278.%20First%20Bad%20Version)|[cpp](./LeetCode/0278.%20First%20Bad%20Version/solution.cpp)|||[py](./LeetCode/0278.%20First%20Bad%20Version/solution.py)||
 [0279. Perfect Squares](./LeetCode/0279.%20Perfect%20Squares)|[cpp](./LeetCode/0279.%20Perfect%20Squares/solution.cpp)|||||[kt](./LeetCode/0279.%20Perfect%20Squares/Solution.kt)
 [0283. Move Zeroes](./LeetCode/0283.%20Move%20Zeroes)||[java](./LeetCode/0283.%20Move%20Zeroes/Solution.java)|[js](./LeetCode/0283.%20Move%20Zeroes/Solution.js)|[py](./LeetCode/0283.%20Move%20Zeroes/Solution.py)||[kt](./LeetCode/0283.%20Move%20Zeroes/Solution.kt)
+[0284. Peeking Iterator](./LeetCode/0284.%20Peeking%20Iterator)|[cpp](./LeetCode/0284.%20Peeking%20Iterator/solution.cpp)|||||
 [0287. Find the Duplicate Number](./LeetCode/0287.%20Find%20the%20Duplicate%20Number)|[cpp](./LeetCode/0287.%20Find%20the%20Duplicate%20Number/Solution.cpp)|||||
 [0290. Word Pattern](./LeetCode/0290.%20Word%20Pattern)|[cpp](./LeetCode/0290.%20Word%20Pattern/solution.cpp)|||[py](./LeetCode/0290.%20Word%20Pattern/solution.py)||
 [0292. Nim Game](./LeetCode/0292.%20Nim%20Game)|[cpp](./LeetCode/0292.%20Nim%20Game/solution.cpp)|[java](./LeetCode/0292.%20Nim%20Game/Solution.java)|[js](./LeetCode/0292.%20Nim%20Game/solution.js)|[py](./LeetCode/0292.%20Nim%20Game/solution.py)|[go](./LeetCode/0292.%20Nim%20Game/solution.go)|[kt](./LeetCode/0292.%20Nim%20Game/solution.kt)
@@ -186,11 +187,13 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0409. Longest Palindrome](./LeetCode/0409.%20Longest%20Palindrome)|||||[go](./LeetCode/0409.%20Longest%20Palindrome/solution.go)|
 [0412. Fizz Buzz](./LeetCode/0412.%20Fizz%20Buzz)||||||[kt](./LeetCode/0412.%20Fizz%20Buzz/Solution.kt)
 [0413. Arithmetic Slices](./LeetCode/0413.%20Arithmetic%20Slices)|[cpp](./LeetCode/0413.%20Arithmetic%20Slices/solution.cpp)|||||
+[0414. Third Maximum Number](./LeetCode/0414.%20Third%20Maximum%20Number)|[cpp](./LeetCode/0414.%20Third%20Maximum%20Number/solution.cpp)|||||
 [0415. Add Strings](./LeetCode/0415.%20Add%20Strings)||||||[kt](./LeetCode/0415.%20Add%20Strings/Solution.kt)
 [0416. Partition Equal Subset Sum](./LeetCode/0416.%20Partition%20Equal%20Subset%20Sum)||||||[kt](./LeetCode/0416.%20Partition%20Equal%20Subset%20Sum/Soution.kt)
 [0421. Maximum XOR of Two Numbers in an Array](./LeetCode/0421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array)|[cpp](./LeetCode/0421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/solution.cpp)|||||
 [0424. Longest Repeating Character Replacement](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement)|[cpp](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement/solution.cpp)|||[py](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement/solution.py)||
 [0430. Flatten a Multilevel Doubly Linked List](./LeetCode/0430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List)|[cpp](./LeetCode/0430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List/solution.cpp)|||||
+[0434. Number of Segments in a String](./LeetCode/0434.%20Number%20of%20Segments%20in%20a%20String)|[cpp](./LeetCode/0434.%20Number%20of%20Segments%20in%20a%20String/solution.cpp)|||||
 [0435. Non overlapping Intervals](./LeetCode/0435.%20Non%20overlapping%20Intervals)|[cpp](./LeetCode/0435.%20Non%20overlapping%20Intervals/solution.cpp)|||||[kt](./LeetCode/0435.%20Non%20overlapping%20Intervals/Solution.kt)
 [0437. Path Sum III](./LeetCode/0437.%20Path%20Sum%20III)|[cpp](./LeetCode/0437.%20Path%20Sum%20III/solution.cpp)|||||[kt](./LeetCode/0437.%20Path%20Sum%20III/Solution.kt)
 [0441. Arranging Coins](./LeetCode/0441.%20Arranging%20Coins)|[cpp](./LeetCode/0441.%20Arranging%20Coins/Solution.cpp)|||||
