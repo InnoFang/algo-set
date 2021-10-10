@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 361
+**Problems have been solved:** 362
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -170,6 +170,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0347. Top K Frequent Elements](./LeetCode/0347.%20Top%20K%20Frequent%20Elements)||||||[kt](./LeetCode/0347.%20Top%20K%20Frequent%20Elements/Solution.kt)
 [0349. Intersection of Two Arrays](./LeetCode/0349.%20Intersection%20of%20Two%20Arrays)||||||[kt](./LeetCode/0349.%20Intersection%20of%20Two%20Arrays/Solution.kt)
 [0350. Intersection of Two Arrays II](./LeetCode/0350.%20Intersection%20of%20Two%20Arrays%20II)||||||[kt](./LeetCode/0350.%20Intersection%20of%20Two%20Arrays%20II/Solution.kt)
+[0352. Data Stream as Disjoint Intervals](./LeetCode/0352.%20Data%20Stream%20as%20Disjoint%20Intervals)|[cpp](./LeetCode/0352.%20Data%20Stream%20as%20Disjoint%20Intervals/solution.cpp)|||||
 [0354. Russian Doll Envelopes](./LeetCode/0354.%20Russian%20Doll%20Envelopes)|[cpp](./LeetCode/0354.%20Russian%20Doll%20Envelopes/solution.cpp)|||[py](./LeetCode/0354.%20Russian%20Doll%20Envelopes/solution.py)||
 [0363. Max Sum of Rectangle No Larger Than K](./LeetCode/0363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K)||||||
 [0365. Water and Jug Problem](./LeetCode/0365.%20Water%20and%20Jug%20Problem)|||||[go](./LeetCode/0365.%20Water%20and%20Jug%20Problem/solution.go)|
@@ -197,7 +198,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0434. Number of Segments in a String](./LeetCode/0434.%20Number%20of%20Segments%20in%20a%20String)|[cpp](./LeetCode/0434.%20Number%20of%20Segments%20in%20a%20String/solution.cpp)|||||
 [0435. Non overlapping Intervals](./LeetCode/0435.%20Non%20overlapping%20Intervals)|[cpp](./LeetCode/0435.%20Non%20overlapping%20Intervals/solution.cpp)|||||[kt](./LeetCode/0435.%20Non%20overlapping%20Intervals/Solution.kt)
 [0437. Path Sum III](./LeetCode/0437.%20Path%20Sum%20III)|[cpp](./LeetCode/0437.%20Path%20Sum%20III/solution.cpp)|||||[kt](./LeetCode/0437.%20Path%20Sum%20III/Solution.kt)
-[0441. Arranging Coins](./LeetCode/0441.%20Arranging%20Coins)|[cpp](./LeetCode/0441.%20Arranging%20Coins/Solution.cpp)|||||
+[0441. Arranging Coins](./LeetCode/0441.%20Arranging%20Coins)|[cpp](./LeetCode/0441.%20Arranging%20Coins/Solution.cpp)|||[py](./LeetCode/0441.%20Arranging%20Coins/solution.py)||
 [0442. Find All Duplicates in an Array](./LeetCode/0442.%20Find%20All%20Duplicates%20in%20an%20Array)|[cpp](./LeetCode/0442.%20Find%20All%20Duplicates%20in%20an%20Array/solution.cpp)|||||
 [0443. String Compression](./LeetCode/0443.%20String%20Compression)|[cpp](./LeetCode/0443.%20String%20Compression/solution.cpp)|||||
 [0447. Number of Boomeranges](./LeetCode/0447.%20Number%20of%20Boomeranges)|[cpp](./LeetCode/0447.%20Number%20of%20Boomeranges/solution.cpp)|||||[kt](./LeetCode/0447.%20Number%20of%20Boomeranges/Solution.kt)
