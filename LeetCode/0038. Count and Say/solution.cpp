@@ -27,3 +27,26 @@ public:
         return dp.back();
     }
 }
+
+/**
+ * 30 / 30 test cases passed.
+ * Runtime: 8 ms
+ * Memory Usage: 6.1 MB 
+ */
+class Solution2 {
+public:
+    string countAndSay(int n) {
+        string temp = "1", say = "";
+        for (int i = 2; i <= n; i++) {
+            for (int l = 0, r = 0; r < temp.size(); ) {
+                while (r < temp.size() && temp[r] == temp[l])
+                    r++;
+                say += to_string(r - l) + temp[l];
+                l = r;
+            }
+            temp = say;
+            say.clear();
+        }
+        return temp;
+    }
+};
