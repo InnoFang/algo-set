@@ -30,3 +30,27 @@ public:
         return ans[k - 1];
     }
 };
+
+/**
+ * 93 / 93 test cases passed.
+ * Runtime: 12 ms
+ * Memory Usage: 23.6 MB 
+ */
+class Solution2 {
+public:
+    int kthSmallest(TreeNode* root, int k) {
+        stack<TreeNode *> stk;
+        while (root || !stk.empty()) {
+            while (root) {
+                stk.push(root);
+                root = root->left;
+            }
+            root = stk.top(); stk.pop();
+            k--;
+            if (k == 0) break;
+
+            root = root->right;
+        }
+        return root->val;
+    }
+}
