@@ -14,3 +14,16 @@ class Solution {
         return mask ^ num;
     }
 }
+
+/**
+ * 149 / 149 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 35.2 MB 
+ */
+class Solution2 {
+    public int findComplement(int num) {
+        int mask = ~0;
+        while ((mask & num) != 0) mask <<= 1;
+        return (~mask) & (~num);
+    }
+}
