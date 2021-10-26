@@ -9,6 +9,7 @@ using namespace std;
  * 17 / 17 test cases passed.
  * Status: Accepted
  * Runtime: 20 ms
+ * Memory Usage: 8.5 MB 
  */
 class Solution1 {
 public:
@@ -37,6 +38,7 @@ public:
  * 17 / 17 test cases passed.
  * Status: Accepted
  * Runtime: 20 ms
+ * Memory Usage: 9.4 MB 
  */
 class Solution2 {
 public:
@@ -65,6 +67,7 @@ public:
  * 15 / 15 test cases passed.
  * Status: Accepted
  * Runtime: 16 ms
+ * Memory Usage: 8.1 MB 
  */
 class Solution3 {
 public:
@@ -79,6 +82,34 @@ public:
             while (k < sz2 && nums2[k] < nums1[i]) { k++; }
             ret[i] = (k < sz2) ? nums2[k] : -1;
         }
+        return ret;
+    }
+};
+
+/**
+ * 15 / 15 test cases passed.
+ * Status: Accepted
+ * Runtime: 4 ms
+ * Memory Usage: 8.5 MB 
+ */
+class Solution4 {
+public:
+    vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+        unordered_map<int, int> hashmap;
+        stack<int> stk;
+        for (int i = nums2.size() - 1; i >= 0; i--) {
+            while (!stk.empty() && stk.top() < nums2[i]) {
+                stk.pop();
+            }
+            hashmap[nums2[i]] = stk.empty() ? -1 : stk.top();
+            stk.push(nums2[i]);
+        }
+
+        vector<int> ret(nums1.size());
+        for (int i = 0; i < nums1.size(); i++) {
+            ret[i] = hashmap[nums1[i]];
+        }
+        
         return ret;
     }
 };
