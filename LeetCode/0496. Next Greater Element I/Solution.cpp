@@ -61,6 +61,28 @@ public:
     }
 };
 
+/**
+ * 15 / 15 test cases passed.
+ * Status: Accepted
+ * Runtime: 16 ms
+ */
+class Solution3 {
+public:
+    vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+        int sz1 = nums1.size();
+        int sz2 = nums2.size();
+        vector<int> ret(sz1);
+        for (int i = 0; i < sz1; i++) {
+            int j = 0;
+            while (j < sz2 && nums2[j] != nums1[i]) { j++; }
+            int k = j + 1;
+            while (k < sz2 && nums2[k] < nums1[i]) { k++; }
+            ret[i] = (k < sz2) ? nums2[k] : -1;
+        }
+        return ret;
+    }
+};
+
 int main() {
     int n1[] = {4, 1, 2};
     int n2[] = {1, 3, 4, 2};
