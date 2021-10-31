@@ -44,3 +44,47 @@ private:
     unordered_set<char> second_set;
     unordered_set<char> thrid_set;
 };
+
+/**
+ * 22 / 22 test cases passed.
+ * Runtime: 4 ms
+ * Memory Usage: 6.7 MB 
+ */
+class Solution {
+public:
+    Solution() {
+        vector<string> keyboard = {
+            "qwertyuiop",
+            "asdfghjkl",
+            "zxcvbnm"
+        };
+        row_idx_.resize(26);
+        for (int row = 0; row < keyboard.size(); row++) {
+            for (auto &c: keyboard[row]) {
+                row_idx_[c - 'a'] = row;
+            }
+        } 
+    }
+
+    vector<string> findWords(vector<string>& words) {
+        vector<string> ans;
+        for (string &word: words) {
+            int rowidx = -1;
+            bool one_row = true;
+            for (char &c: word) {
+                if (rowidx == -1) {
+                    rowidx = row_idx_[tolower(c) - 'a'];
+                } else if (row_idx_[tolower(c) - 'a'] != rowidx) {
+                    one_row = false;
+                    break;
+                }
+            }
+            if (one_row) {
+                ans.emplace_back(word);
+            }
+        }
+        return ans;
+    }
+private:
+    vector<int> row_idx_;
+};
