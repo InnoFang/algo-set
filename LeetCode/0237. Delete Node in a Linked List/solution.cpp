@@ -6,13 +6,11 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
- 
- 
 
 /**
  * 41 / 41 test cases passed.
- * Status: Accepted
- * Runtime: 12 ms
+ * Runtime: 4 ms
+ * Memory Usage: 7.3 MB 
  */
 class Solution {
 public:
@@ -21,4 +19,3 @@ public:
         node->next = node->next->next;
     }
 };
-
