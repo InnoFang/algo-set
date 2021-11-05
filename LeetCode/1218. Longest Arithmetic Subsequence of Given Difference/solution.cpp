@@ -20,3 +20,21 @@ public:
         return *max_element(dp.begin(), dp.end());
     }
 };
+
+/**
+ * 39 / 39 test cases passed.
+ * Runtime: 112 ms
+ * Memory Usage: 55.3 MB 
+ */
+class Solution2 {
+public:
+    int longestSubsequence(vector<int>& arr, int difference) {
+        int ans = 0;
+        unordered_map<int, int> dp;
+        for (auto &num: arr) {
+            dp[num] = dp[num - difference] + 1;
+            ans = max(ans, dp[num]);
+        }
+        return ans;
+    }
+};
