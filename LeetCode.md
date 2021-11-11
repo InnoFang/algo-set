@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 381
+**Problems have been solved:** 382
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -229,6 +229,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0485. Max Consecutive Ones](./LeetCode/0485.%20Max%20Consecutive%20Ones)|[cpp](./LeetCode/0485.%20Max%20Consecutive%20Ones/solution.cpp)|||[py](./LeetCode/0485.%20Max%20Consecutive%20Ones/solution.py)||
 [0492. Construct the Rectangle](./LeetCode/0492.%20Construct%20the%20Rectangle)|[cpp](./LeetCode/0492.%20Construct%20the%20Rectangle/solution.cpp)|||||
 [0494. Target Sum](./LeetCode/0494.%20Target%20Sum)|[cpp](./LeetCode/0494.%20Target%20Sum/solution.cpp)|||||
+[0495. Teemo Attacking](./LeetCode/0495.%20Teemo%20Attacking)|[cpp](./LeetCode/0495.%20Teemo%20Attacking/solution.cpp)|||||
 [0496. Next Greater Element I](./LeetCode/0496.%20Next%20Greater%20Element%20I)|[cpp](./LeetCode/0496.%20Next%20Greater%20Element%20I/Solution.cpp)|||||
 [0498. Diagonal Traverse](./LeetCode/0498.%20Diagonal%20Traverse)||||||[kt](./LeetCode/0498.%20Diagonal%20Traverse/Solution.kt)
 [0500. Keyboard Row](./LeetCode/0500.%20Keyboard%20Row)|[cpp](./LeetCode/0500.%20Keyboard%20Row/solution.cpp)|||||[kt](./LeetCode/0500.%20Keyboard%20Row/Solution.kt)
