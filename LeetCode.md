@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 382
+**Problems have been solved:** 385
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -168,6 +168,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0303. Range Sum Query - Immutable](./LeetCode/0303.%20Range%20Sum%20Query%20-%20Immutable)|[cpp](./LeetCode/0303.%20Range%20Sum%20Query%20-%20Immutable/solution.cpp)|||[py](./LeetCode/0303.%20Range%20Sum%20Query%20-%20Immutable/solution.py)||
 [0304. Range Sum Query 2D - Immutable](./LeetCode/0304.%20Range%20Sum%20Query%202D%20-%20Immutable)|[cpp](./LeetCode/0304.%20Range%20Sum%20Query%202D%20-%20Immutable/solution.cpp)|||||
 [0316. Remove Duplicate Letters](./LeetCode/0316.%20Remove%20Duplicate%20Letters)|[cpp](./LeetCode/0316.%20Remove%20Duplicate%20Letters/solution.cpp)|||||
+[0318. Maximum Product of Word Lengths](./LeetCode/0318.%20Maximum%20Product%20of%20Word%20Lengths)|[cpp](./LeetCode/0318.%20Maximum%20Product%20of%20Word%20Lengths/solution.cpp)|||||
 [0322. Coin Change](./LeetCode/0322.%20Coin%20Change)||||||[kt](./LeetCode/0322.%20Coin%20Change/Solution.kt)
 [0326. Power of Three](./LeetCode/0326.%20Power%20of%20Three)|[cpp](./LeetCode/0326.%20Power%20of%20Three/solution.cpp)|||||[kt](./LeetCode/0326.%20Power%20of%20Three/Solution.kt)
 [0331. Verify Preorder Serialization of a Binary Tree](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree)|[cpp](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/solution.cpp)|||[py](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/solution.py)||
@@ -192,9 +193,10 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0377. Combination Sum IV](./LeetCode/0377.%20Combination%20Sum%20IV)|[cpp](./LeetCode/0377.%20Combination%20Sum%20IV/solution.cpp)|||[py](./LeetCode/0377.%20Combination%20Sum%20IV/solution.py)||
 [0386. Lexicographical Numbers](./LeetCode/0386.%20Lexicographical%20Numbers)|[cpp](./LeetCode/0386.%20Lexicographical%20Numbers/solution.cpp)|||||
 [0389. Find the Difference](./LeetCode/0389.%20Find%20the%20Difference)|[cpp](./LeetCode/0389.%20Find%20the%20Difference/solution.cpp)|||||[kt](./LeetCode/0389.%20Find%20the%20Difference/Solution.kt)
+[0391. Perfect Rectangle](./LeetCode/0391.%20Perfect%20Rectangle)|[cpp](./LeetCode/0391.%20Perfect%20Rectangle/solution.cpp)|||||
 [0392. Is Subsequence](./LeetCode/0392.%20Is%20Subsequence)||[java](./LeetCode/0392.%20Is%20Subsequence/Solution.java)||||[kt](./LeetCode/0392.%20Is%20Subsequence/Solution.kt)
 [0395. Longest Substring with At Least K Repeating Characters](./LeetCode/0395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters)|[cpp](./LeetCode/0395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/solution.cpp)|||||
-[0397. Integer Replacement](./LeetCode/0397.%20Integer%20Replacement)||||||[kt](./LeetCode/0397.%20Integer%20Replacement/Solution.kt)
+[0397. Integer Replacement](./LeetCode/0397.%20Integer%20Replacement)|[cpp](./LeetCode/0397.%20Integer%20Replacement/solution.cpp)|||||[kt](./LeetCode/0397.%20Integer%20Replacement/Solution.kt)
 [0401. Binary Watch](./LeetCode/0401.%20Binary%20Watch)|[cpp](./LeetCode/0401.%20Binary%20Watch/solution.cpp)|||[py](./LeetCode/0401.%20Binary%20Watch/solution.py)||
 [0405. Convert a Number to Hexadecimal](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal)|[cpp](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal/solution.cpp)|[java](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal/Solution.java)||||[kt](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal/Solution.kt)
 [0409. Longest Palindrome](./LeetCode/0409.%20Longest%20Palindrome)|||||[go](./LeetCode/0409.%20Longest%20Palindrome/solution.go)|
@@ -241,7 +243,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0516. Longest Palindromic Subsequence](./LeetCode/0516.%20Longest%20Palindromic%20Subsequence)|[cpp](./LeetCode/0516.%20Longest%20Palindromic%20Subsequence/solution.cpp)|||||
 [0517. Super Washing Machines](./LeetCode/0517.%20Super%20Washing%20Machines)|[cpp](./LeetCode/0517.%20Super%20Washing%20Machines/solution.cpp)|||||
 [0518. Coin Change 2](./LeetCode/0518.%20Coin%20Change%202)|[cpp](./LeetCode/0518.%20Coin%20Change%202/solution.cpp)|||||
-[0520. Detect Capital](./LeetCode/0520.%20Detect%20Capital)||||||[kt](./LeetCode/0520.%20Detect%20Capital/Solution.kt)
+[0520. Detect Capital](./LeetCode/0520.%20Detect%20Capital)|[cpp](./LeetCode/0520.%20Detect%20Capital/solution.cpp)|[java](./LeetCode/0520.%20Detect%20Capital/Solution.java)||||[kt](./LeetCode/0520.%20Detect%20Capital/Solution.kt)
 [0523. Continuous Subarray Sum](./LeetCode/0523.%20Continuous%20Subarray%20Sum)|[cpp](./LeetCode/0523.%20Continuous%20Subarray%20Sum/solution.cpp)|||[py](./LeetCode/0523.%20Continuous%20Subarray%20Sum/solution.py)||
 [0524. Longest Word in Dictionary through Deleting](./LeetCode/0524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting)|[cpp](./LeetCode/0524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting/solution.cpp)|||||
 [0525. Contiguous Array](./LeetCode/0525.%20Contiguous%20Array)|[cpp](./LeetCode/0525.%20Contiguous%20Array/solution.cpp)|||[py](./LeetCode/0525.%20Contiguous%20Array/solution.py)||
@@ -264,6 +266,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0581. Shortest Unsorted Continuous Subarray](./LeetCode/0581.%20Shortest%20Unsorted%20Continuous%20Subarray)|[cpp](./LeetCode/0581.%20Shortest%20Unsorted%20Continuous%20Subarray/solution.cpp)|||||
 [0583. Delete Operation for Two Strings](./LeetCode/0583.%20Delete%20Operation%20for%20Two%20Strings)|[cpp](./LeetCode/0583.%20Delete%20Operation%20for%20Two%20Strings/solution.cpp)|||||
 [0592. Fraction Addition and Subtraction](./LeetCode/0592.%20Fraction%20Addition%20and%20Subtraction)||||||[kt](./LeetCode/0592.%20Fraction%20Addition%20and%20Subtraction/Solution.kt)
+[0594. Longest Harmonious Subsequence](./LeetCode/0594.%20Longest%20Harmonious%20Subsequence)|[cpp](./LeetCode/0594.%20Longest%20Harmonious%20Subsequence/solution.cpp)|||[py](./LeetCode/0594.%20Longest%20Harmonious%20Subsequence/solution.py)||
 [0598. Range Addition II](./LeetCode/0598.%20Range%20Addition%20II)|[cpp](./LeetCode/0598.%20Range%20Addition%20II/solution.cpp)||||[go](./LeetCode/0598.%20Range%20Addition%20II/solution.go)|
 [0605. Can Place Flowers](./LeetCode/0605.%20Can%20Place%20Flowers)|[cpp](./LeetCode/0605.%20Can%20Place%20Flowers/solution.cpp)|||||
 [0611. Valid Triangle Number](./LeetCode/0611.%20Valid%20Triangle%20Number)|[cpp](./LeetCode/0611.%20Valid%20Triangle%20Number/solution.cpp)|||||[kt](./LeetCode/0611.%20Valid%20Triangle%20Number/Solution.kt)
