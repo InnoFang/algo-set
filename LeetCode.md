@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 385
+**Problems have been solved:** 393
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -188,15 +188,18 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0367. Valid Perfect Square](./LeetCode/0367.%20Valid%20Perfect%20Square)|[cpp](./LeetCode/0367.%20Valid%20Perfect%20Square/solution.cpp)|||||
 [0368. Largest Divisible Subset](./LeetCode/0368.%20Largest%20Divisible%20Subset)|[cpp](./LeetCode/0368.%20Largest%20Divisible%20Subset/solution.cpp)|||[py](./LeetCode/0368.%20Largest%20Divisible%20Subset/solution.py)||
 [0371. Sum of Two Integers](./LeetCode/0371.%20Sum%20of%20Two%20Integers)|[cpp](./LeetCode/0371.%20Sum%20of%20Two%20Integers/solution.cpp)|[java](./LeetCode/0371.%20Sum%20of%20Two%20Integers/Solution.java)||||[kt](./LeetCode/0371.%20Sum%20of%20Two%20Integers/Solution.kt)
-[0372. Super Pow](./LeetCode/0372.%20Super%20Pow)||[java](./LeetCode/0372.%20Super%20Pow/Solution.java)||||[kt](./LeetCode/0372.%20Super%20Pow/Solution.kt)
+[0372. Super Pow](./LeetCode/0372.%20Super%20Pow)|[cpp](./LeetCode/0372.%20Super%20Pow/solution.cpp)|[java](./LeetCode/0372.%20Super%20Pow/Solution.java)||||[kt](./LeetCode/0372.%20Super%20Pow/Solution.kt)
 [0374. Guess Number Higher or Lower](./LeetCode/0374.%20Guess%20Number%20Higher%20or%20Lower)|[cpp](./LeetCode/0374.%20Guess%20Number%20Higher%20or%20Lower/solution.cpp)|||[py](./LeetCode/0374.%20Guess%20Number%20Higher%20or%20Lower/solution.py)||
 [0377. Combination Sum IV](./LeetCode/0377.%20Combination%20Sum%20IV)|[cpp](./LeetCode/0377.%20Combination%20Sum%20IV/solution.cpp)|||[py](./LeetCode/0377.%20Combination%20Sum%20IV/solution.py)||
+[0383. Ransom Note](./LeetCode/0383.%20Ransom%20Note)|[cpp](./LeetCode/0383.%20Ransom%20Note/solution.cpp)|||||
+[0384. Shuffle an Array](./LeetCode/0384.%20Shuffle%20an%20Array)|[cpp](./LeetCode/0384.%20Shuffle%20an%20Array/solution.cpp)|||[py](./LeetCode/0384.%20Shuffle%20an%20Array/solution.py)||
 [0386. Lexicographical Numbers](./LeetCode/0386.%20Lexicographical%20Numbers)|[cpp](./LeetCode/0386.%20Lexicographical%20Numbers/solution.cpp)|||||
 [0389. Find the Difference](./LeetCode/0389.%20Find%20the%20Difference)|[cpp](./LeetCode/0389.%20Find%20the%20Difference/solution.cpp)|||||[kt](./LeetCode/0389.%20Find%20the%20Difference/Solution.kt)
 [0391. Perfect Rectangle](./LeetCode/0391.%20Perfect%20Rectangle)|[cpp](./LeetCode/0391.%20Perfect%20Rectangle/solution.cpp)|||||
 [0392. Is Subsequence](./LeetCode/0392.%20Is%20Subsequence)||[java](./LeetCode/0392.%20Is%20Subsequence/Solution.java)||||[kt](./LeetCode/0392.%20Is%20Subsequence/Solution.kt)
 [0395. Longest Substring with At Least K Repeating Characters](./LeetCode/0395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters)|[cpp](./LeetCode/0395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/solution.cpp)|||||
 [0397. Integer Replacement](./LeetCode/0397.%20Integer%20Replacement)|[cpp](./LeetCode/0397.%20Integer%20Replacement/solution.cpp)|||||[kt](./LeetCode/0397.%20Integer%20Replacement/Solution.kt)
+[0400. Nth Digit](./LeetCode/0400.%20Nth%20Digit)|[cpp](./LeetCode/0400.%20Nth%20Digit/solution.cpp)|||||
 [0401. Binary Watch](./LeetCode/0401.%20Binary%20Watch)|[cpp](./LeetCode/0401.%20Binary%20Watch/solution.cpp)|||[py](./LeetCode/0401.%20Binary%20Watch/solution.py)||
 [0405. Convert a Number to Hexadecimal](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal)|[cpp](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal/solution.cpp)|[java](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal/Solution.java)||||[kt](./LeetCode/0405.%20Convert%20a%20Number%20to%20Hexadecimal/Solution.kt)
 [0409. Longest Palindrome](./LeetCode/0409.%20Longest%20Palindrome)|||||[go](./LeetCode/0409.%20Longest%20Palindrome/solution.go)|
@@ -238,6 +241,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0502. IPO](./LeetCode/0502.%20IPO)|[cpp](./LeetCode/0502.%20IPO/solution.cpp)|||||
 [0503. Next Greater Element II](./LeetCode/0503.%20Next%20Greater%20Element%20II)|[cpp](./LeetCode/0503.%20Next%20Greater%20Element%20II/solution.cpp)|||[py](./LeetCode/0503.%20Next%20Greater%20Element%20II/solution.py)||
 [0504. Base 7](./LeetCode/0504.%20Base%207)||||||[kt](./LeetCode/0504.%20Base%207/Solution.kt)
+[0506. Relative Ranks](./LeetCode/0506.%20Relative%20Ranks)|[cpp](./LeetCode/0506.%20Relative%20Ranks/solution.cpp)|||||
 [0509. Fibonacci Number](./LeetCode/0509.%20Fibonacci%20Number)|[cpp](./LeetCode/0509.%20Fibonacci%20Number/solution.cpp)|[java](./LeetCode/0509.%20Fibonacci%20Number/Solution.java)|[js](./LeetCode/0509.%20Fibonacci%20Number/solution.js)|[py](./LeetCode/0509.%20Fibonacci%20Number/solution.py)|[go](./LeetCode/0509.%20Fibonacci%20Number/solution.go)|[kt](./LeetCode/0509.%20Fibonacci%20Number/solution.kt)
 [0513. Find Bottom Left Tree Value](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value)|[cpp](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.cpp)|||||[kt](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.kt)
 [0516. Longest Palindromic Subsequence](./LeetCode/0516.%20Longest%20Palindromic%20Subsequence)|[cpp](./LeetCode/0516.%20Longest%20Palindromic%20Subsequence/solution.cpp)|||||
@@ -288,6 +292,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0693. Binary Number with Alternating Bits](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits)||||||[kt](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits/Solution.kt)
 [0697. Degree of an Array](./LeetCode/0697.%20Degree%20of%20an%20Array)|[cpp](./LeetCode/0697.%20Degree%20of%20an%20Array/solution.cpp)|||[py](./LeetCode/0697.%20Degree%20of%20an%20Array/solution.py)||
 [0698. Partition to K Equal Sum Subsets](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)||||||[kt](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets/Solution.kt)
+[0700. Search in a Binary Search Tree](./LeetCode/0700.%20Search%20in%20a%20Binary%20Search%20Tree)|[cpp](./LeetCode/0700.%20Search%20in%20a%20Binary%20Search%20Tree/solution.cpp)|||||
 [0703. Kth Largest Element in a Stream](./LeetCode/0703.%20Kth%20Largest%20Element%20in%20a%20Stream)|[cpp](./LeetCode/0703.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.cpp)|||[py](./LeetCode/0703.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.py)||
 [0704. Binary Search](./LeetCode/0704.%20Binary%20Search)|[cpp](./LeetCode/0704.%20Binary%20Search/solution.cpp)|[java](./LeetCode/0704.%20Binary%20Search/Solution.java)||[py](./LeetCode/0704.%20Binary%20Search/solution.py)|[go](./LeetCode/0704.%20Binary%20Search/solution.go)|
 [0705. Design HashSet](./LeetCode/0705.%20Design%20HashSet)|[cpp](./LeetCode/0705.%20Design%20HashSet/solution.cpp)|||||
@@ -345,6 +350,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0995. Minimum Number of K Consecutive Bit Flips](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips)|[cpp](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/solution.cpp)|||[py](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/solution.py)||
 [0997. Find the Town Judge](./LeetCode/0997.%20Find%20the%20Town%20Judge)|[cpp](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.cpp)|||[py](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.py)||
 [1004. Max Consecutive Ones III](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III)|[cpp](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III/solution.cpp)|||[py](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III/solution.py)||
+[1005. Maximize Sum Of Array After K Negations](./LeetCode/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations)|[cpp](./LeetCode/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations/solution.cpp)|||||
 [1006. Clumsy Factorial](./LeetCode/1006.%20Clumsy%20Factorial)|[cpp](./LeetCode/1006.%20Clumsy%20Factorial/solution.cpp)|||[py](./LeetCode/1006.%20Clumsy%20Factorial/solution.py)||
 [1009. Complement of Base 10 Integer](./LeetCode/1009.%20Complement%20of%20Base%2010%20Integer)|[cpp](./LeetCode/1009.%20Complement%20of%20Base%2010%20Integer/solution.cpp)|[java](./LeetCode/1009.%20Complement%20of%20Base%2010%20Integer/Solution.java)||[py](./LeetCode/1009.%20Complement%20of%20Base%2010%20Integer/solution.py)||[kt](./LeetCode/1009.%20Complement%20of%20Base%2010%20Integer/solution.kt)
 [1011. Capacity To Ship Packages Within D Days](./LeetCode/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days)|[cpp](./LeetCode/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days/solution.cpp)|||[py](./LeetCode/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days/solution.py)||
@@ -373,6 +379,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1436. Destination City](./LeetCode/1436.%20Destination%20City)|[cpp](./LeetCode/1436.%20Destination%20City/solution.cpp)|||||
 [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit)|[cpp](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/solution.cpp)|||[py](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/solution.py)||
 [1442. Count Triplets That Can Form Two Arrays of Equal XOR](./LeetCode/1442.%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR)|[cpp](./LeetCode/1442.%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR/solution.cpp)|||[py](./LeetCode/1442.%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR/solution.py)||
+[1446. Consecutive Characters](./LeetCode/1446.%20Consecutive%20Characters)|[cpp](./LeetCode/1446.%20Consecutive%20Characters/solution.cpp)|||||
 [1464. Maximum Product of Two Elements in an Array](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)|[cpp](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.py)||
 [1480. Running Sum of 1d Array](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array)|[cpp](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array/solution.cpp)|||||
 [1486. XOR Operation in an Array](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array)|[cpp](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.py)||
@@ -385,6 +392,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1723. Find Minimum Time to Finish All Jobs](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs)|[cpp](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.cpp)|||[py](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.py)||
 [1734. Decode XORed Permutation](./LeetCode/1734.%20Decode%20XORed%20Permutation)|[cpp](./LeetCode/1734.%20Decode%20XORed%20Permutation/solution.cpp)|||[py](./LeetCode/1734.%20Decode%20XORed%20Permutation/solution.py)||
 [1738. Find Kth Largest XOR Coordinate Value](./LeetCode/1738.%20Find%20Kth%20Largest%20XOR%20Coordinate%20Value)|[cpp](./LeetCode/1738.%20Find%20Kth%20Largest%20XOR%20Coordinate%20Value/solution.cpp)|||||
+[1816. Truncate Sentence](./LeetCode/1816.%20Truncate%20Sentence)|[cpp](./LeetCode/1816.%20Truncate%20Sentence/solution.cpp)|||||
 [1894. Find the Student that Will Replace the Chalk](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk)|[cpp](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/solution.cpp)|||||
 [5531. Special Array With X Elements Greater Than or Equal X](./LeetCode/5531.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)|[cpp](./LeetCode/5531.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/solution.cpp)|||||
 [5532. Even Odd Tree](./LeetCode/5532.%20Even%20Odd%20Tree)|[cpp](./LeetCode/5532.%20Even%20Odd%20Tree/solution.cpp)|||||
