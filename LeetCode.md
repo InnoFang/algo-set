@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 393
+**Problems have been solved:** 396
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -106,6 +106,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0165. Compare Version Numbers](./LeetCode/0165.%20Compare%20Version%20Numbers)|[cpp](./LeetCode/0165.%20Compare%20Version%20Numbers/solution.cpp)|||[py](./LeetCode/0165.%20Compare%20Version%20Numbers/solution.py)||[kt](./LeetCode/0165.%20Compare%20Version%20Numbers/Solution.kt)
 [0166. Fraction to Recurring Decimal](./LeetCode/0166.%20Fraction%20to%20Recurring%20Decimal)|[cpp](./LeetCode/0166.%20Fraction%20to%20Recurring%20Decimal/solution.cpp)|||||
 [0167. Two Sum II - Input array is sorted](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)||[java](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.java)||[py](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.py)||[kt](./LeetCode/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.kt)
+[0168. Excel Sheet Column Title](./LeetCode/0168.%20Excel%20Sheet%20Column%20Title)|[cpp](./LeetCode/0168.%20Excel%20Sheet%20Column%20Title/solution.cpp)|||[py](./LeetCode/0168.%20Excel%20Sheet%20Column%20Title/solution.py)|[go](./LeetCode/0168.%20Excel%20Sheet%20Column%20Title/solution.go)|
 [0169. Majority Element](./LeetCode/0169.%20Majority%20Element)|||||[go](./LeetCode/0169.%20Majority%20Element/solution.go)|
 [0173. Binary Search Tree Iterator](./LeetCode/0173.%20Binary%20Search%20Tree%20Iterator)|[cpp](./LeetCode/0173.%20Binary%20Search%20Tree%20Iterator/solution.cpp)|||||
 [0179. Largest Number](./LeetCode/0179.%20Largest%20Number)|[cpp](./LeetCode/0179.%20Largest%20Number/solution.cpp)|[java](./LeetCode/0179.%20Largest%20Number/Solution.java)||[py](./LeetCode/0179.%20Largest%20Number/solution.py)||[kt](./LeetCode/0179.%20Largest%20Number/Solution.kt)
@@ -297,6 +298,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0704. Binary Search](./LeetCode/0704.%20Binary%20Search)|[cpp](./LeetCode/0704.%20Binary%20Search/solution.cpp)|[java](./LeetCode/0704.%20Binary%20Search/Solution.java)||[py](./LeetCode/0704.%20Binary%20Search/solution.py)|[go](./LeetCode/0704.%20Binary%20Search/solution.go)|
 [0705. Design HashSet](./LeetCode/0705.%20Design%20HashSet)|[cpp](./LeetCode/0705.%20Design%20HashSet/solution.cpp)|||||
 [0706. Design HashMap](./LeetCode/0706.%20Design%20HashMap)|[cpp](./LeetCode/0706.%20Design%20HashMap/solution.cpp)|||||
+[0709. To Lower Case](./LeetCode/0709.%20To%20Lower%20Case)|[cpp](./LeetCode/0709.%20To%20Lower%20Case/solution.cpp)|||[py](./LeetCode/0709.%20To%20Lower%20Case/solution.py)|[go](./LeetCode/0709.%20To%20Lower%20Case/solution.go)|
 [0721. Accounts Merge](./LeetCode/0721.%20Accounts%20Merge)||[java](./LeetCode/0721.%20Accounts%20Merge/Solution.java)||||[kt](./LeetCode/0721.%20Accounts%20Merge/Solution.kt)
 [0724. Find Pivot Index](./LeetCode/0724.%20Find%20Pivot%20Index)|[cpp](./LeetCode/0724.%20Find%20Pivot%20Index/solution.cpp)|||[py](./LeetCode/0724.%20Find%20Pivot%20Index/solution.py)||
 [0725. Split Linked List in Parts](./LeetCode/0725.%20Split%20Linked%20List%20in%20Parts)|[cpp](./LeetCode/0725.%20Split%20Linked%20List%20in%20Parts/solution.cpp)|||||
@@ -381,6 +383,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1442. Count Triplets That Can Form Two Arrays of Equal XOR](./LeetCode/1442.%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR)|[cpp](./LeetCode/1442.%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR/solution.cpp)|||[py](./LeetCode/1442.%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR/solution.py)||
 [1446. Consecutive Characters](./LeetCode/1446.%20Consecutive%20Characters)|[cpp](./LeetCode/1446.%20Consecutive%20Characters/solution.cpp)|||||
 [1464. Maximum Product of Two Elements in an Array](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)|[cpp](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.py)||
+[1470. Shuffle the Array](./LeetCode/1470.%20Shuffle%20the%20Array)|[cpp](./LeetCode/1470.%20Shuffle%20the%20Array/solution.cpp)|||[py](./LeetCode/1470.%20Shuffle%20the%20Array/solution.py)|[go](./LeetCode/1470.%20Shuffle%20the%20Array/solution.go)|
 [1480. Running Sum of 1d Array](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array)|[cpp](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array/solution.cpp)|||||
 [1486. XOR Operation in an Array](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array)|[cpp](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.py)||
 [1583. Count Unhappy Friends](./LeetCode/1583.%20Count%20Unhappy%20Friends)|[cpp](./LeetCode/1583.%20Count%20Unhappy%20Friends/solution.cpp)|||||
