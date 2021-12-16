@@ -36,3 +36,29 @@ public:
         return head->next;
     }
 };
+
+
+/**
+ * 208 / 208 test cases passed.
+ * Runtime: 8 ms
+ * Memory Usage: 14.4 MB 
+ */
+class Solution2 {
+public:
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+       ListNode *head = new ListNode(INT_MIN);
+       ListNode *curr = head, *l1 = list1, *l2 = list2;
+       while (l1 && l2) {
+            if (l1->val > l2->val) {
+                curr->next = l2;
+                l2 = l2->next;
+            }  else {
+                curr->next = l1;
+                l1 = l1->next;
+            }
+           curr = curr->next;
+        }
+        curr->next = l1 == nullptr ? l2 : l1; 
+        return head->next;
+    }
+};
