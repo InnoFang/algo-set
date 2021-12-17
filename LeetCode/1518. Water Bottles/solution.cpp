@@ -16,3 +16,15 @@ public:
         return ans;
     }
 };
+
+/**
+ * 64 / 64 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 5.8 MB 
+ */
+class Solution2 {
+public:
+    int numWaterBottles(int numBottles, int numExchange) {
+        return numBottles + (numBottles - 1) / (numExchange - 1); 
+    }
+};
