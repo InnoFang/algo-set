@@ -28,3 +28,17 @@ public:
         return numBottles + (numBottles - 1) / (numExchange - 1); 
     }
 };
+
+/**
+ * 64 / 64 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 5.9 MB 
+ */
+class Solution3 {
+public:
+    int numWaterBottles(int numBottles, int numExchange) {
+        if (numBottles < numExchange) return numBottles;
+        int exchange = numBottles / numExchange;
+        return exchange * numExchange + numWaterBottles(exchange + numBottles % numExchange, numExchange); 
+    }
+};
