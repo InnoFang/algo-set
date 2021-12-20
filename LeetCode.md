@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 396
+**Problems have been solved:** 398
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -16,6 +16,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0014. Longest Common Prefix](./LeetCode/0014.%20Longest%20Common%20Prefix)|[cpp](./LeetCode/0014.%20Longest%20Common%20Prefix/solution.cpp)|||||
 [0017. Letter Combinations of a Phone Number](./LeetCode/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number)||||||[kt](./LeetCode/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number/Solution.kt)
 [0020. Valid Parentheses](./LeetCode/0020.%20Valid%20Parentheses)|[cpp](./LeetCode/0020.%20Valid%20Parentheses/Solution.cpp)|||||[kt](./LeetCode/0020.%20Valid%20Parentheses/Solution.kt)
+[0021. Merge Two Sorted Lists](./LeetCode/0021.%20Merge%20Two%20Sorted%20Lists)|[cpp](./LeetCode/0021.%20Merge%20Two%20Sorted%20Lists/solution.cpp)|||[py](./LeetCode/0021.%20Merge%20Two%20Sorted%20Lists/solution.py)|[go](./LeetCode/0021.%20Merge%20Two%20Sorted%20Lists/solution.go)|
 [0022. Generate Parentheses](./LeetCode/0022.%20Generate%20Parentheses)|[cpp](./LeetCode/0022.%20Generate%20Parentheses/Solution.cpp)|||||
 [0024. Swap Nodes in Pairs](./LeetCode/0024.%20Swap%20Nodes%20in%20Pairs)|[cpp](./LeetCode/0024.%20Swap%20Nodes%20in%20Pairs/Solution.cpp)|[java](./LeetCode/0024.%20Swap%20Nodes%20in%20Pairs/Solution.java)||||
 [0026. Remove Duplicates from Sorted Array](./LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array)|[cpp](./LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.cpp)|||[py](./LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.py)||[kt](./LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.kt)
@@ -350,7 +351,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0992. Subarrays with K Different Integers](./LeetCode/0992.%20Subarrays%20with%20K%20Different%20Integers)|[cpp](./LeetCode/0992.%20Subarrays%20with%20K%20Different%20Integers/solution.cpp)|||||
 [0993. Cousins in Binary Tree](./LeetCode/0993.%20Cousins%20in%20Binary%20Tree)|[cpp](./LeetCode/0993.%20Cousins%20in%20Binary%20Tree/solution.cpp)|||||
 [0995. Minimum Number of K Consecutive Bit Flips](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips)|[cpp](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/solution.cpp)|||[py](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/solution.py)||
-[0997. Find the Town Judge](./LeetCode/0997.%20Find%20the%20Town%20Judge)|[cpp](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.cpp)|||[py](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.py)||
+[0997. Find the Town Judge](./LeetCode/0997.%20Find%20the%20Town%20Judge)|[cpp](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.cpp)|||[py](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.py)|[go](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.go)|
 [1004. Max Consecutive Ones III](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III)|[cpp](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III/solution.cpp)|||[py](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III/solution.py)||
 [1005. Maximize Sum Of Array After K Negations](./LeetCode/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations)|[cpp](./LeetCode/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations/solution.cpp)|||||
 [1006. Clumsy Factorial](./LeetCode/1006.%20Clumsy%20Factorial)|[cpp](./LeetCode/1006.%20Clumsy%20Factorial/solution.cpp)|||[py](./LeetCode/1006.%20Clumsy%20Factorial/solution.py)||
@@ -386,6 +387,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1470. Shuffle the Array](./LeetCode/1470.%20Shuffle%20the%20Array)|[cpp](./LeetCode/1470.%20Shuffle%20the%20Array/solution.cpp)|||[py](./LeetCode/1470.%20Shuffle%20the%20Array/solution.py)|[go](./LeetCode/1470.%20Shuffle%20the%20Array/solution.go)|
 [1480. Running Sum of 1d Array](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array)|[cpp](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array/solution.cpp)|||||
 [1486. XOR Operation in an Array](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array)|[cpp](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.py)||
+[1518. Water Bottles](./LeetCode/1518.%20Water%20Bottles)|[cpp](./LeetCode/1518.%20Water%20Bottles/solution.cpp)|||[py](./LeetCode/1518.%20Water%20Bottles/solution.py)|[go](./LeetCode/1518.%20Water%20Bottles/solution.go)|
 [1583. Count Unhappy Friends](./LeetCode/1583.%20Count%20Unhappy%20Friends)|[cpp](./LeetCode/1583.%20Count%20Unhappy%20Friends/solution.cpp)|||||
 [1584. Min Cost to Connect All Points](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points)|[cpp](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.cpp)|||[py](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.py)||
 [1588. Sum of All Odd Length Subarrays](./LeetCode/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays)|[cpp](./LeetCode/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays/solution.cpp)|||||
