@@ -21,3 +21,21 @@ public:
         return -1;
     }
 };
+
+/**
+ * 57 / 57 test cases passed.
+ * Runtime: 8 ms
+ * Memory Usage: 6.7 MB 
+ */
+class Solution2 {
+public:
+    int repeatedStringMatch(string a, string b) {
+        int times = (b.size() - 1) / a.size() + 1;
+        string pattern = "";
+        for (int i = 0; i < times; ++ i) pattern += a;
+        if (pattern.find(b) != pattern.npos) return times;
+        pattern += a;
+        if (pattern.find(b) != pattern.npos) return times + 1;
+        return -1;
+    }
+}; 
