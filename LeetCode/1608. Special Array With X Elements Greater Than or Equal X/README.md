@@ -1,4 +1,4 @@
-[5531. Special Array With X Elements Greater Than or Equal X](https://leetcode-cn.com/contest/weekly-contest-209/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+[1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 
 You are given an array `nums` of non-negative integers. `nums` is considered **special** if there exists a number `x` such that there are **exactly** `x` numbers in `nums` that are **greater than or equal to** `x`.
 
