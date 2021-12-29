@@ -14,3 +14,19 @@ class Solution:
                             ans += 1
         return ans
     
+"""
+211 / 211 test cases passed.
+Runtime: 52 ms
+Memory Usage: 15 MB
+"""
+class Solution2:
+    def countQuadruplets(self, nums: List[int]) -> int:
+        n, ans = len(nums), 0
+        store = defaultdict(int)
+        for b in range(n - 3, 0, -1):
+            for d in range(b + 2, n):
+                store[nums[d] - nums[b + 1]] += 1
+            for a in range(b):
+                if (s := nums[a] + nums[b]) in store:
+                    ans += store[s]
+        return ans
