@@ -24,14 +24,14 @@ public:
 
 /**
  * 211 / 211 test cases passed.
- * Runtime: 16 ms
+ * Runtime: 12 ms
  * Memory Usage: 11.9 MB 
  */
 class Solution2 {
 public:
     int countQuadruplets(vector<int>& nums) {
         int n = nums.size(), ans = 0;
-        map<int, int> store;
+        unordered_map<int, int> store;
         for (int b = n - 3; b >= 1; -- b) {
             for (int d = b + 2; d < n; ++ d) {
                 store[nums[d] - nums[b + 1]] ++;
