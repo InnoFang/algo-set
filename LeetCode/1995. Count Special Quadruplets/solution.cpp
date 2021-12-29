@@ -21,3 +21,27 @@ public:
         return ans;
     }
 };
+
+/**
+ * 211 / 211 test cases passed.
+ * Runtime: 16 ms
+ * Memory Usage: 11.9 MB 
+ */
+class Solution2 {
+public:
+    int countQuadruplets(vector<int>& nums) {
+        int n = nums.size(), ans = 0;
+        map<int, int> store;
+        for (int b = n - 3; b >= 1; -- b) {
+            for (int d = b + 2; d < n; ++ d) {
+                store[nums[d] - nums[b + 1]] ++;
+            }
+            for (int a = 0; a < b; ++ a) {
+                if (int sum = nums[a] + nums[b]; store.count(sum)) {
+                    ans += store[sum];
+                }
+            }
+        }
+        return ans;
+    }
+};
