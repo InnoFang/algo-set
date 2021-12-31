@@ -19,3 +19,15 @@ public:
         return sum == num;
     }
 };
+
+/**
+ * 98 / 98 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 5.7 MB 
+ */
+class Solution2 {
+public:
+    bool checkPerfectNumber(int num) {
+        return num == 6 || num == 28 || num == 496 || num == 8128 || num == 33550336;
+    }
+};
