@@ -11,11 +11,9 @@ public:
         path += "/";
         for (auto &c : path) {
             if (c == '/') {
-                if (sub == "." || sub == "") { 
-
-                } else if (sub == "..") {
+                if (sub == "..") {
                     if (!p.empty()) p.pop_back();
-                } else if (!sub.empty()) {
+                } else if (sub != "." && sub != "") {
                     p.push_back(sub);
                 }
                 sub.clear();
