@@ -1,7 +1,7 @@
 /**
- * 60 / 60 test cases passed.
- * Runtime: 0 ms
- * Memory Usage: 5.7 MB 
+ * 16 / 16 test cases passed.
+ * Runtime: 4 ms
+ * Memory Usage: 18.3 MB 
  */
 class Solution {
 public:
