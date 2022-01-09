@@ -26,13 +26,12 @@ public:
 /**
  * 109 / 109 test cases passed.
  * Runtime: 4 ms
- * Memory Usage: 10.7 MB 
+ * Memory Usage: 10.4 MB 
  */
 class Solution2 {
 public:
     char slowestKey(vector<int>& releaseTimes, string keysPressed) {
-        int n = keysPressed.size();
-        vector<int> cost(n);
+        int n = keysPressed.size(); 
         int max_cost = releaseTimes[0];
         char slowest_key = keysPressed[0];
         for (int i = 1; i < n; ++ i) {
