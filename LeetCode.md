@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 414
+**Problems have been solved:** 415
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -356,6 +356,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0961. N-Repeated Element in Size 2N Array](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array)|[cpp](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array/Solution.cpp)|||||
 [0977. Squares of a Sorted Array](./LeetCode/0977.%20Squares%20of%20a%20Sorted%20Array)|[cpp](./LeetCode/0977.%20Squares%20of%20a%20Sorted%20Array/solution.cpp)|||||
 [0978. Longest Turbulent Subarray](./LeetCode/0978.%20Longest%20Turbulent%20Subarray)|[cpp](./LeetCode/0978.%20Longest%20Turbulent%20Subarray/solution.cpp)|||[py](./LeetCode/0978.%20Longest%20Turbulent%20Subarray/solution.py)||
+[0989. Add to Array-Form of Integer](./LeetCode/0989.%20Add%20to%20Array-Form%20of%20Integer)||||[py](./LeetCode/0989.%20Add%20to%20Array-Form%20of%20Integer/solution.py)||
 [0992. Subarrays with K Different Integers](./LeetCode/0992.%20Subarrays%20with%20K%20Different%20Integers)|[cpp](./LeetCode/0992.%20Subarrays%20with%20K%20Different%20Integers/solution.cpp)|||||
 [0993. Cousins in Binary Tree](./LeetCode/0993.%20Cousins%20in%20Binary%20Tree)|[cpp](./LeetCode/0993.%20Cousins%20in%20Binary%20Tree/solution.cpp)|||||
 [0995. Minimum Number of K Consecutive Bit Flips](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips)|[cpp](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/solution.cpp)|||[py](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/solution.py)||
