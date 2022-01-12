@@ -27,3 +27,23 @@ public:
         return false;
     }
 };
+
+/**
+ * 76 / 76 test cases passed.
+ * Runtime: 56 ms
+ * Memory Usage: 60.1 MB 
+ */
+class Solution2 {
+public:
+    bool increasingTriplet(vector<int>& nums) {
+        int n = nums.size();
+        int first = nums[0], second = INT_MAX;
+        for (int i = 1; i < n; ++ i) {
+            int num = nums[i];
+            if (num > second) return true;
+            if (num > first) second = num;
+            else first = num;
+        }
+        return false;
+    }
+};
