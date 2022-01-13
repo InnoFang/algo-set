@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 415
+**Problems have been solved:** 417
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -176,6 +176,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0322. Coin Change](./LeetCode/0322.%20Coin%20Change)||||||[kt](./LeetCode/0322.%20Coin%20Change/Solution.kt)
 [0326. Power of Three](./LeetCode/0326.%20Power%20of%20Three)|[cpp](./LeetCode/0326.%20Power%20of%20Three/solution.cpp)|||||[kt](./LeetCode/0326.%20Power%20of%20Three/Solution.kt)
 [0331. Verify Preorder Serialization of a Binary Tree](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree)|[cpp](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/solution.cpp)|||[py](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/solution.py)||
+[0334. Increasing Triplet Subsequence](./LeetCode/0334.%20Increasing%20Triplet%20Subsequence)|[cpp](./LeetCode/0334.%20Increasing%20Triplet%20Subsequence/solution.cpp)|||||
 [0338. Counting Bits](./LeetCode/0338.%20Counting%20Bits)|[cpp](./LeetCode/0338.%20Counting%20Bits/solution.cpp)|||[py](./LeetCode/0338.%20Counting%20Bits/solution.py)||
 [0341. Flatten Nested List Iterator](./LeetCode/0341.%20Flatten%20Nested%20List%20Iterator)|[cpp](./LeetCode/0341.%20Flatten%20Nested%20List%20Iterator/solution.cpp)|||||
 [0342. Power of Four](./LeetCode/0342.%20Power%20of%20Four)|[cpp](./LeetCode/0342.%20Power%20of%20Four/solution.cpp)|||[py](./LeetCode/0342.%20Power%20of%20Four/solution.py)||[kt](./LeetCode/0342.%20Power%20of%20Four/Solution.kt)
@@ -315,7 +316,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0743. Network Delay Time](./LeetCode/0743.%20Network%20Delay%20Time)|[cpp](./LeetCode/0743.%20Network%20Delay%20Time/solution.cpp)|||||
 [0745. Prefix and Suffix Search](./LeetCode/0745.%20Prefix%20and%20Suffix%20Search)||||||[kt](./LeetCode/0745.%20Prefix%20and%20Suffix%20Search/Solution.kt)
 [0746. Min Cost Climbing Stairs](./LeetCode/0746.%20Min%20Cost%20Climbing%20Stairs)|[cpp](./LeetCode/0746.%20Min%20Cost%20Climbing%20Stairs/solution.cpp)|||[py](./LeetCode/0746.%20Min%20Cost%20Climbing%20Stairs/solution.py)|[go](./LeetCode/0746.%20Min%20Cost%20Climbing%20Stairs/solution.go)|
-[0747. Largest Number At Least Twice of Others](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others)||||||[kt](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/Solution.kt)
+[0747. Largest Number At Least Twice of Others](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others)|[cpp](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/solution.cpp)|||[py](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/solution.py)|[go](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/solution.go)|[kt](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/Solution.kt)
 [0760. Find Anagram Mappings](./LeetCode/0760.%20Find%20Anagram%20Mappings)||||||[kt](./LeetCode/0760.%20Find%20Anagram%20Mappings/Solution.kt)
 [0762. Prime Number of Set Bits in Binary Representation](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)||||||[kt](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/Solution.kt)
 [0765. Couples Holding Hands](./LeetCode/0765.%20Couples%20Holding%20Hands)|[cpp](./LeetCode/0765.%20Couples%20Holding%20Hands/solution.cpp)|||[py](./LeetCode/0765.%20Couples%20Holding%20Hands/solution.py)||
@@ -369,6 +370,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1013. Partition Array Into Three Parts With Equal Sum](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)|||||[go](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/solution.go)|
 [1029. Two City Scheduling](./LeetCode/1029.%20Two%20City%20Scheduling)|[cpp](./LeetCode/1029.%20Two%20City%20Scheduling/solution.cpp)|||||
 [1035. Uncrossed Lines](./LeetCode/1035.%20Uncrossed%20Lines)|[cpp](./LeetCode/1035.%20Uncrossed%20Lines/solution.cpp)|||[py](./LeetCode/1035.%20Uncrossed%20Lines/solution.py)||
+[1036. Escape a Large Maze](./LeetCode/1036.%20Escape%20a%20Large%20Maze)|[cpp](./LeetCode/1036.%20Escape%20a%20Large%20Maze/solution.cpp)|||||
 [1047. Remove All Adjacent Duplicates In String](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|[cpp](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/solution.cpp)|||[py](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/solution.py)||
 [1052. Grumpy Bookstore Owner](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner)|[cpp](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner/solution.cpp)|||[py](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner/solution.py)||
 [1078. Occurrences After Bigram](./LeetCode/1078.%20Occurrences%20After%20Bigram)|[cpp](./LeetCode/1078.%20Occurrences%20After%20Bigram/solution.cpp)|||[py](./LeetCode/1078.%20Occurrences%20After%20Bigram/solution.py)|[go](./LeetCode/1078.%20Occurrences%20After%20Bigram/solution.go)|
