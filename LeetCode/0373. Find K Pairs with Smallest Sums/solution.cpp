@@ -1,6 +1,6 @@
 /**
  * 32 / 32 test cases passed.
- * Runtime: 260 ms
+ * Runtime: 236 ms
  * Memory Usage: 240 MB 
  */
 class Solution {
