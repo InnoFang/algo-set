@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 417
+**Problems have been solved:** 420
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -194,8 +194,10 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0368. Largest Divisible Subset](./LeetCode/0368.%20Largest%20Divisible%20Subset)|[cpp](./LeetCode/0368.%20Largest%20Divisible%20Subset/solution.cpp)|||[py](./LeetCode/0368.%20Largest%20Divisible%20Subset/solution.py)||
 [0371. Sum of Two Integers](./LeetCode/0371.%20Sum%20of%20Two%20Integers)|[cpp](./LeetCode/0371.%20Sum%20of%20Two%20Integers/solution.cpp)|[java](./LeetCode/0371.%20Sum%20of%20Two%20Integers/Solution.java)||||[kt](./LeetCode/0371.%20Sum%20of%20Two%20Integers/Solution.kt)
 [0372. Super Pow](./LeetCode/0372.%20Super%20Pow)|[cpp](./LeetCode/0372.%20Super%20Pow/solution.cpp)|[java](./LeetCode/0372.%20Super%20Pow/Solution.java)||||[kt](./LeetCode/0372.%20Super%20Pow/Solution.kt)
+[0373. Find K Pairs with Smallest Sums](./LeetCode/0373.%20Find%20K%20Pairs%20with%20Smallest%20Sums)|[cpp](./LeetCode/0373.%20Find%20K%20Pairs%20with%20Smallest%20Sums/solution.cpp)|||||
 [0374. Guess Number Higher or Lower](./LeetCode/0374.%20Guess%20Number%20Higher%20or%20Lower)|[cpp](./LeetCode/0374.%20Guess%20Number%20Higher%20or%20Lower/solution.cpp)|||[py](./LeetCode/0374.%20Guess%20Number%20Higher%20or%20Lower/solution.py)||
 [0377. Combination Sum IV](./LeetCode/0377.%20Combination%20Sum%20IV)|[cpp](./LeetCode/0377.%20Combination%20Sum%20IV/solution.cpp)|||[py](./LeetCode/0377.%20Combination%20Sum%20IV/solution.py)||
+[0382. Linked List Random Node](./LeetCode/0382.%20Linked%20List%20Random%20Node)|[cpp](./LeetCode/0382.%20Linked%20List%20Random%20Node/solution.cpp)|||[py](./LeetCode/0382.%20Linked%20List%20Random%20Node/solution.py)||
 [0383. Ransom Note](./LeetCode/0383.%20Ransom%20Note)|[cpp](./LeetCode/0383.%20Ransom%20Note/solution.cpp)|||||
 [0384. Shuffle an Array](./LeetCode/0384.%20Shuffle%20an%20Array)|[cpp](./LeetCode/0384.%20Shuffle%20an%20Array/solution.cpp)|||[py](./LeetCode/0384.%20Shuffle%20an%20Array/solution.py)||
 [0386. Lexicographical Numbers](./LeetCode/0386.%20Lexicographical%20Numbers)|[cpp](./LeetCode/0386.%20Lexicographical%20Numbers/solution.cpp)|||||
@@ -412,6 +414,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1614. Maximum Nesting Depth of the Parentheses](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses)|[cpp](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/solution.cpp)|||[py](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/solution.py)|[go](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/solution.go)|
 [1629. Slowest Key](./LeetCode/1629.%20Slowest%20Key)|[cpp](./LeetCode/1629.%20Slowest%20Key/solution.cpp)|||[py](./LeetCode/1629.%20Slowest%20Key/solution.py)|[go](./LeetCode/1629.%20Slowest%20Key/solution.go)|
 [1646. Get Maximum in Generated Array](./LeetCode/1646.%20Get%20Maximum%20in%20Generated%20Array)|[cpp](./LeetCode/1646.%20Get%20Maximum%20in%20Generated%20Array/solution.cpp)|||||
+[1716. Calculate Money in Leetcode Bank](./LeetCode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank)|[cpp](./LeetCode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank/solution.cpp)|||||
 [1720. Decode XORed Array](./LeetCode/1720.%20Decode%20XORed%20Array)|[cpp](./LeetCode/1720.%20Decode%20XORed%20Array/solution.cpp)|||[py](./LeetCode/1720.%20Decode%20XORed%20Array/solution.py)||
 [1723. Find Minimum Time to Finish All Jobs](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs)|[cpp](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.cpp)|||[py](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.py)||
 [1734. Decode XORed Permutation](./LeetCode/1734.%20Decode%20XORed%20Permutation)|[cpp](./LeetCode/1734.%20Decode%20XORed%20Permutation/solution.cpp)|||[py](./LeetCode/1734.%20Decode%20XORed%20Permutation/solution.py)||
