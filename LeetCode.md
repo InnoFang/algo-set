@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 420
+**Problems have been solved:** 421
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -169,7 +169,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0300. Longest Increasing Subsequence](./LeetCode/0300.%20Longest%20Increasing%20Subsequence)|[cpp](./LeetCode/0300.%20Longest%20Increasing%20Subsequence/solution.cpp)|||[py](./LeetCode/0300.%20Longest%20Increasing%20Subsequence/solution.py)||[kt](./LeetCode/0300.%20Longest%20Increasing%20Subsequence/Solution.kt)
 [0301. Remove Invalid Parentheses](./LeetCode/0301.%20Remove%20Invalid%20Parentheses)|[cpp](./LeetCode/0301.%20Remove%20Invalid%20Parentheses/solution.cpp)|||||
 [0303. Range Sum Query - Immutable](./LeetCode/0303.%20Range%20Sum%20Query%20-%20Immutable)|[cpp](./LeetCode/0303.%20Range%20Sum%20Query%20-%20Immutable/solution.cpp)|||[py](./LeetCode/0303.%20Range%20Sum%20Query%20-%20Immutable/solution.py)||
-[0304. Range Sum Query 2D - Immutable](./LeetCode/0304.%20Range%20Sum%20Query%202D%20-%20Immutable)|[cpp](./LeetCode/0304.%20Range%20Sum%20Query%202D%20-%20Immutable/solution.cpp)|||||
+[0304. Range Sum Query 2D - Immutable](./LeetCode/0304.%20Range%20Sum%20Query%202D%20-%20Immutable)|[cpp](./LeetCode/0304.%20Range%20Sum%20Query%202D%20-%20Immutable/solution.cpp)|||[py](./LeetCode/0304.%20Range%20Sum%20Query%202D%20-%20Immutable/solution.py)||
 [0306. Additive Number](./LeetCode/0306.%20Additive%20Number)|[cpp](./LeetCode/0306.%20Additive%20Number/solution.cpp)|||||
 [0316. Remove Duplicate Letters](./LeetCode/0316.%20Remove%20Duplicate%20Letters)|[cpp](./LeetCode/0316.%20Remove%20Duplicate%20Letters/solution.cpp)|||||
 [0318. Maximum Product of Word Lengths](./LeetCode/0318.%20Maximum%20Product%20of%20Word%20Lengths)|[cpp](./LeetCode/0318.%20Maximum%20Product%20of%20Word%20Lengths/solution.cpp)|||||
@@ -390,6 +390,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1206. Design Skiplist](./LeetCode/1206.%20Design%20Skiplist)|[cpp](./LeetCode/1206.%20Design%20Skiplist/solution.cpp)|||||
 [1208. Get Equal Substrings Within Budget](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget)|[cpp](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.cpp)|||[py](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.py)||
 [1218. Longest Arithmetic Subsequence of Given Difference](./LeetCode/1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference)|[cpp](./LeetCode/1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/solution.cpp)|||||
+[1220. Count Vowels Permutation](./LeetCode/1220.%20Count%20Vowels%20Permutation)|[cpp](./LeetCode/1220.%20Count%20Vowels%20Permutation/solution.cpp)|||||
 [1221. Split a String in Balanced Strings](./LeetCode/1221.%20Split%20a%20String%20in%20Balanced%20Strings)|[cpp](./LeetCode/1221.%20Split%20a%20String%20in%20Balanced%20Strings/solution.cpp)|[java](./LeetCode/1221.%20Split%20a%20String%20in%20Balanced%20Strings/Solution.java)||[py](./LeetCode/1221.%20Split%20a%20String%20in%20Balanced%20Strings/solution.py)|[go](./LeetCode/1221.%20Split%20a%20String%20in%20Balanced%20Strings/solution.go)|
 [1232. Check If It Is a Straight Line](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line)|[cpp](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.cpp)|[java](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/Solution.java)||[py](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.py)||
 [1310. XOR Queries of a Subarray](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray)|[cpp](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray/solution.cpp)|||[py](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray/solution.py)||
