@@ -16,3 +16,15 @@ public:
         return ans;
     }
 };
+
+/**
+ * 200 / 200 test cases passed.
+ * Runtime: 0 ms
+ * Memory Usage: 5.8 MB 
+ */
+class Solution2 {
+public:
+    int numberOfMatches(int n) {
+        return n - 1;
+    }
+};
