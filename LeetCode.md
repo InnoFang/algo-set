@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 421
+**Problems have been solved:** 425
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -131,7 +131,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0213. House Robber II](./LeetCode/0213.%20House%20Robber%20II)|[cpp](./LeetCode/0213.%20House%20Robber%20II/solution.cpp)|||[py](./LeetCode/0213.%20House%20Robber%20II/solution.py)|[go](./LeetCode/0213.%20House%20Robber%20II/solution.go)|
 [0215. Kth Largest Element in an Array](./LeetCode/0215.%20Kth%20Largest%20Element%20in%20an%20Array)||||||[kt](./LeetCode/0215.%20Kth%20Largest%20Element%20in%20an%20Array/Solution.kt)
 [0217. Contains Duplicate](./LeetCode/0217.%20Contains%20Duplicate)|[cpp](./LeetCode/0217.%20Contains%20Duplicate/Solution.cpp)|||[py](./LeetCode/0217.%20Contains%20Duplicate/solution.py)||[kt](./LeetCode/0217.%20Contains%20Duplicate/Solution.kt)
-[0219. Contains Duplicate II](./LeetCode/0219.%20Contains%20Duplicate%20II)|[cpp](./LeetCode/0219.%20Contains%20Duplicate%20II/solution.cpp)|||[py](./LeetCode/0219.%20Contains%20Duplicate%20II/solution.py)||[kt](./LeetCode/0219.%20Contains%20Duplicate%20II/Solution.kt)
+[0219. Contains Duplicate II](./LeetCode/0219.%20Contains%20Duplicate%20II)|[cpp](./LeetCode/0219.%20Contains%20Duplicate%20II/solution.cpp)|||[py](./LeetCode/0219.%20Contains%20Duplicate%20II/solution.py)|[go](./LeetCode/0219.%20Contains%20Duplicate%20II/solution.go)|[kt](./LeetCode/0219.%20Contains%20Duplicate%20II/Solution.kt)
 [0220. Contains Duplicate III](./LeetCode/0220.%20Contains%20Duplicate%20III)|[cpp](./LeetCode/0220.%20Contains%20Duplicate%20III/solution.cpp)|||||[kt](./LeetCode/0220.%20Contains%20Duplicate%20III/Solution.kt)
 [0223. Rectangle Area](./LeetCode/0223.%20Rectangle%20Area)|[cpp](./LeetCode/0223.%20Rectangle%20Area/solution.cpp)|||||
 [0224. Basic Calculator](./LeetCode/0224.%20Basic%20Calculator)|[cpp](./LeetCode/0224.%20Basic%20Calculator/solution.cpp)|||||
@@ -263,6 +263,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0526. Beautiful Arrangement](./LeetCode/0526.%20Beautiful%20Arrangement)|[cpp](./LeetCode/0526.%20Beautiful%20Arrangement/solution.cpp)|||||
 [0530. Minimum Absolute Difference in BST](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST)|[cpp](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/solution.cpp)|||||[kt](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/Solution.kt)
 [0537. Complex Number Multiplication](./LeetCode/0537.%20Complex%20Number%20Multiplication)||[java](./LeetCode/0537.%20Complex%20Number%20Multiplication/Solution.java)||||
+[0539. Minimum Time Difference](./LeetCode/0539.%20Minimum%20Time%20Difference)|[cpp](./LeetCode/0539.%20Minimum%20Time%20Difference/solution.cpp)|||||
 [0540. Single Element in a Sorted Array](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array)||||||[kt](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array/Solution.kt)
 [0541. Reverse String II](./LeetCode/0541.%20Reverse%20String%20II)|[cpp](./LeetCode/0541.%20Reverse%20String%20II/solution.cpp)|||||[kt](./LeetCode/0541.%20Reverse%20String%20II/Solution.kt)
 [0543. Diameter of Binary Tree](./LeetCode/0543.%20Diameter%20of%20Binary%20Tree)|||||[go](./LeetCode/0543.%20Diameter%20of%20Binary%20Tree/solution.go)|
@@ -415,6 +416,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1614. Maximum Nesting Depth of the Parentheses](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses)|[cpp](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/solution.cpp)|||[py](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/solution.py)|[go](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/solution.go)|
 [1629. Slowest Key](./LeetCode/1629.%20Slowest%20Key)|[cpp](./LeetCode/1629.%20Slowest%20Key/solution.cpp)|||[py](./LeetCode/1629.%20Slowest%20Key/solution.py)|[go](./LeetCode/1629.%20Slowest%20Key/solution.go)|
 [1646. Get Maximum in Generated Array](./LeetCode/1646.%20Get%20Maximum%20in%20Generated%20Array)|[cpp](./LeetCode/1646.%20Get%20Maximum%20in%20Generated%20Array/solution.cpp)|||||
+[1688. Count of Matches in Tournament](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament)|[cpp](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.cpp)|||[py](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.py)|[go](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.go)|
 [1716. Calculate Money in Leetcode Bank](./LeetCode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank)|[cpp](./LeetCode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank/solution.cpp)|||||
 [1720. Decode XORed Array](./LeetCode/1720.%20Decode%20XORed%20Array)|[cpp](./LeetCode/1720.%20Decode%20XORed%20Array/solution.cpp)|||[py](./LeetCode/1720.%20Decode%20XORed%20Array/solution.py)||
 [1723. Find Minimum Time to Finish All Jobs](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs)|[cpp](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.cpp)|||[py](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.py)||
@@ -423,7 +425,9 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1816. Truncate Sentence](./LeetCode/1816.%20Truncate%20Sentence)|[cpp](./LeetCode/1816.%20Truncate%20Sentence/solution.cpp)|||||
 [1894. Find the Student that Will Replace the Chalk](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk)|[cpp](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/solution.cpp)|||||
 [1995. Count Special Quadruplets](./LeetCode/1995.%20Count%20Special%20Quadruplets)|[cpp](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.cpp)|||[py](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.py)|[go](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.go)|
+[2013. Detect Squares](./LeetCode/2013.%20Detect%20Squares)|[cpp](./LeetCode/2013.%20Detect%20Squares/solution.cpp)|||||
 [2022. Convert 1D Array Into 2D Array](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array)|[cpp](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.cpp)|||[py](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.py)|[go](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.go)|
+[2047. Number of Valid Words in a Sentence](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence)|[cpp](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence/solution.cpp)|||||
 
 
 ------
