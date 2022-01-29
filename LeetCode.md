@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 425
+**Problems have been solved:** 426
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -425,6 +425,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1816. Truncate Sentence](./LeetCode/1816.%20Truncate%20Sentence)|[cpp](./LeetCode/1816.%20Truncate%20Sentence/solution.cpp)|||||
 [1894. Find the Student that Will Replace the Chalk](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk)|[cpp](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/solution.cpp)|||||
 [1995. Count Special Quadruplets](./LeetCode/1995.%20Count%20Special%20Quadruplets)|[cpp](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.cpp)|||[py](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.py)|[go](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.go)|
+[1996. The Number of Weak Characters in the Game](./LeetCode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game)|[cpp](./LeetCode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game/solution.cpp)|||||
 [2013. Detect Squares](./LeetCode/2013.%20Detect%20Squares)|[cpp](./LeetCode/2013.%20Detect%20Squares/solution.cpp)|||||
 [2022. Convert 1D Array Into 2D Array](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array)|[cpp](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.cpp)|||[py](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.py)|[go](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.go)|
 [2047. Number of Valid Words in a Sentence](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence)|[cpp](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence/solution.cpp)|||||
