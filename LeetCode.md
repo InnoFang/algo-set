@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 426
+**Problems have been solved:** 432
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -349,6 +349,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0869. Reordered Power of 2](./LeetCode/0869.%20Reordered%20Power%20of%202)|[cpp](./LeetCode/0869.%20Reordered%20Power%20of%202/solution.cpp)|||||
 [0872. Leaf-Similar Trees](./LeetCode/0872.%20Leaf-Similar%20Trees)|[cpp](./LeetCode/0872.%20Leaf-Similar%20Trees/Solution.cpp)|||[py](./LeetCode/0872.%20Leaf-Similar%20Trees/solution.py)||
 [0876. Middle of the Linked List](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List)|||||[go](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List/solution.go)|
+[0884. Uncommon Words from Two Sentences](./LeetCode/0884.%20Uncommon%20Words%20from%20Two%20Sentences)|[cpp](./LeetCode/0884.%20Uncommon%20Words%20from%20Two%20Sentences/solution.cpp)|||[py](./LeetCode/0884.%20Uncommon%20Words%20from%20Two%20Sentences/solution.py)|[go](./LeetCode/0884.%20Uncommon%20Words%20from%20Two%20Sentences/solution.go)|
 [0888. Fair Candy Swap](./LeetCode/0888.%20Fair%20Candy%20Swap)|[cpp](./LeetCode/0888.%20Fair%20Candy%20Swap/solution.cpp)|||[py](./LeetCode/0888.%20Fair%20Candy%20Swap/solution.py)||
 [0890. Find and Replace Pattern](./LeetCode/0890.%20Find%20and%20Replace%20Pattern)|[cpp](./LeetCode/0890.%20Find%20and%20Replace%20Pattern/solution.cpp)|||||
 [0896. Monotonic Array](./LeetCode/0896.%20Monotonic%20Array)|[cpp](./LeetCode/0896.%20Monotonic%20Array/solution.cpp)|||||
@@ -396,6 +397,8 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1232. Check If It Is a Straight Line](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line)|[cpp](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.cpp)|[java](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/Solution.java)||[py](./LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/solution.py)||
 [1310. XOR Queries of a Subarray](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray)|[cpp](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray/solution.cpp)|||[py](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray/solution.py)||
 [1337. The K Weakest Rows in a Matrix](./LeetCode/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix)|[cpp](./LeetCode/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/solution.cpp)|||[py](./LeetCode/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/solution.py)|[go](./LeetCode/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/solution.go)|
+[1342. Number of Steps to Reduce a Number to Zero](./LeetCode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)|[cpp](./LeetCode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/solution.cpp)|||[py](./LeetCode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/solution.py)|[go](./LeetCode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/solution.go)|
+[1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](./LeetCode/1414.%20Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K)|[cpp](./LeetCode/1414.%20Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K/solution.cpp)|||||
 [1423. Maximum Points You Can Obtain from Cards](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)|[cpp](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/solution.cpp)|||[py](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/solution.py)||
 [1436. Destination City](./LeetCode/1436.%20Destination%20City)|[cpp](./LeetCode/1436.%20Destination%20City/solution.cpp)|||||
 [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit)|[cpp](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/solution.cpp)|||[py](./LeetCode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/solution.py)||
@@ -405,7 +408,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1470. Shuffle the Array](./LeetCode/1470.%20Shuffle%20the%20Array)|[cpp](./LeetCode/1470.%20Shuffle%20the%20Array/solution.cpp)|||[py](./LeetCode/1470.%20Shuffle%20the%20Array/solution.py)|[go](./LeetCode/1470.%20Shuffle%20the%20Array/solution.go)|
 [1480. Running Sum of 1d Array](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array)|[cpp](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array/solution.cpp)|||||
 [1486. XOR Operation in an Array](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array)|[cpp](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.py)||
-[1518. Water Bottles](./LeetCode/1518.%20Water%20Bottles)|[cpp](./LeetCode/1518.%20Water%20Bottles/solution.cpp)|||[py](./LeetCode/1518.%20Water%20Bottles/solution.py)|[go](./LeetCode/1518.%20Water%20Bottles/solution.go)|
+[1518. Water Bottles](./LeetCode/1518.%20Water%20Bottles)|[cpp](./LeetCode/1518.%20Water%20Bottles/solution.cpp)|||||
 [1576. Replace All s to Avoid Consecutive Repeating Characters](./LeetCode/1576.%20Replace%20All%20s%20to%20Avoid%20Consecutive%20Repeating%20Characters)|[cpp](./LeetCode/1576.%20Replace%20All%20s%20to%20Avoid%20Consecutive%20Repeating%20Characters/solution.cpp)|||||
 [1583. Count Unhappy Friends](./LeetCode/1583.%20Count%20Unhappy%20Friends)|[cpp](./LeetCode/1583.%20Count%20Unhappy%20Friends/solution.cpp)|||||
 [1584. Min Cost to Connect All Points](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points)|[cpp](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.cpp)|||[py](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.py)||
@@ -420,12 +423,15 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1716. Calculate Money in Leetcode Bank](./LeetCode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank)|[cpp](./LeetCode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank/solution.cpp)|||||
 [1720. Decode XORed Array](./LeetCode/1720.%20Decode%20XORed%20Array)|[cpp](./LeetCode/1720.%20Decode%20XORed%20Array/solution.cpp)|||[py](./LeetCode/1720.%20Decode%20XORed%20Array/solution.py)||
 [1723. Find Minimum Time to Finish All Jobs](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs)|[cpp](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.cpp)|||[py](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.py)||
+[1725. Number Of Rectangles That Can Form The Largest Square](./LeetCode/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square)|[cpp](./LeetCode/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/solution.cpp)|||||
 [1734. Decode XORed Permutation](./LeetCode/1734.%20Decode%20XORed%20Permutation)|[cpp](./LeetCode/1734.%20Decode%20XORed%20Permutation/solution.cpp)|||[py](./LeetCode/1734.%20Decode%20XORed%20Permutation/solution.py)||
 [1738. Find Kth Largest XOR Coordinate Value](./LeetCode/1738.%20Find%20Kth%20Largest%20XOR%20Coordinate%20Value)|[cpp](./LeetCode/1738.%20Find%20Kth%20Largest%20XOR%20Coordinate%20Value/solution.cpp)|||||
+[1763. Longest Nice Substring](./LeetCode/1763.%20Longest%20Nice%20Substring)|[cpp](./LeetCode/1763.%20Longest%20Nice%20Substring/solution.cpp)|||||
 [1816. Truncate Sentence](./LeetCode/1816.%20Truncate%20Sentence)|[cpp](./LeetCode/1816.%20Truncate%20Sentence/solution.cpp)|||||
 [1894. Find the Student that Will Replace the Chalk](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk)|[cpp](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/solution.cpp)|||||
 [1995. Count Special Quadruplets](./LeetCode/1995.%20Count%20Special%20Quadruplets)|[cpp](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.cpp)|||[py](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.py)|[go](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.go)|
 [1996. The Number of Weak Characters in the Game](./LeetCode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game)|[cpp](./LeetCode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game/solution.cpp)|||||
+[2000. Reverse Prefix of Word](./LeetCode/2000.%20Reverse%20Prefix%20of%20Word)|[cpp](./LeetCode/2000.%20Reverse%20Prefix%20of%20Word/solution.cpp)|||[py](./LeetCode/2000.%20Reverse%20Prefix%20of%20Word/solution.py)||
 [2013. Detect Squares](./LeetCode/2013.%20Detect%20Squares)|[cpp](./LeetCode/2013.%20Detect%20Squares/solution.cpp)|||||
 [2022. Convert 1D Array Into 2D Array](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array)|[cpp](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.cpp)|||[py](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.py)|[go](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.go)|
 [2047. Number of Valid Words in a Sentence](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence)|[cpp](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence/solution.cpp)|||||
