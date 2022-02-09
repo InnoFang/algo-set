@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 432
+**Problems have been solved:** 434
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -426,12 +426,14 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [1725. Number Of Rectangles That Can Form The Largest Square](./LeetCode/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square)|[cpp](./LeetCode/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/solution.cpp)|||||
 [1734. Decode XORed Permutation](./LeetCode/1734.%20Decode%20XORed%20Permutation)|[cpp](./LeetCode/1734.%20Decode%20XORed%20Permutation/solution.cpp)|||[py](./LeetCode/1734.%20Decode%20XORed%20Permutation/solution.py)||
 [1738. Find Kth Largest XOR Coordinate Value](./LeetCode/1738.%20Find%20Kth%20Largest%20XOR%20Coordinate%20Value)|[cpp](./LeetCode/1738.%20Find%20Kth%20Largest%20XOR%20Coordinate%20Value/solution.cpp)|||||
+[1748. Sum of Unique Elements](./LeetCode/1748.%20Sum%20of%20Unique%20Elements)|[cpp](./LeetCode/1748.%20Sum%20of%20Unique%20Elements/solution.cpp)|||||
 [1763. Longest Nice Substring](./LeetCode/1763.%20Longest%20Nice%20Substring)|[cpp](./LeetCode/1763.%20Longest%20Nice%20Substring/solution.cpp)|||||
 [1816. Truncate Sentence](./LeetCode/1816.%20Truncate%20Sentence)|[cpp](./LeetCode/1816.%20Truncate%20Sentence/solution.cpp)|||||
 [1894. Find the Student that Will Replace the Chalk](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk)|[cpp](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/solution.cpp)|||||
 [1995. Count Special Quadruplets](./LeetCode/1995.%20Count%20Special%20Quadruplets)|[cpp](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.cpp)|||[py](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.py)|[go](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.go)|
 [1996. The Number of Weak Characters in the Game](./LeetCode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game)|[cpp](./LeetCode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game/solution.cpp)|||||
 [2000. Reverse Prefix of Word](./LeetCode/2000.%20Reverse%20Prefix%20of%20Word)|[cpp](./LeetCode/2000.%20Reverse%20Prefix%20of%20Word/solution.cpp)|||[py](./LeetCode/2000.%20Reverse%20Prefix%20of%20Word/solution.py)||
+[2006. Count Number of Pairs With Absolute Difference K](./LeetCode/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K)|[cpp](./LeetCode/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/solution.cpp)|||||
 [2013. Detect Squares](./LeetCode/2013.%20Detect%20Squares)|[cpp](./LeetCode/2013.%20Detect%20Squares/solution.cpp)|||||
 [2022. Convert 1D Array Into 2D Array](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array)|[cpp](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.cpp)|||[py](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.py)|[go](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.go)|
 [2047. Number of Valid Words in a Sentence](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence)|[cpp](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence/solution.cpp)|||||
