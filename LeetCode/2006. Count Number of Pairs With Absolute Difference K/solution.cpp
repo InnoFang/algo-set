@@ -17,3 +17,22 @@ public:
         return ans;
     }
 };
+
+/**
+ * 237 / 237 test cases passed.
+ * Runtime: 4 ms
+ * Memory Usage: 13.1 MB 
+ */
+class Solution2 {
+public:
+    int countKDifference(vector<int>& nums, int k) {
+        int ans = 0, n = nums.size();
+        unordered_map<int, int> record;        
+        for (int i = 0; i < n; ++ i) {
+            ans += record.count(nums[i] - k) ? record[nums[i] - k] : 0;
+            ans += record.count(nums[i] + k) ? record[nums[i] + k] : 0;
+            record[nums[i]]++;
+        }
+        return ans;
+    }
+};
