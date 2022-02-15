@@ -1,6 +1,6 @@
 /**
  * 104 / 104 test cases passed.
- * Runtime: 20 ms
+ * Runtime: 16 ms
  * Memory Usage: 11.3 MB 
  */
 class Solution {
@@ -18,7 +18,7 @@ public:
         vector<int> ans;
         for (int i = 0; i < m; ++ i) {
             for (int j = 0; j < n; ++ j) {
-                if (matrix[i][j] == minn[i] && matrix[i][j] == maxn[j]) {
+                if (minn[i] == maxn[j]) {
                     ans.push_back(matrix[i][j]);
                 }
             }
