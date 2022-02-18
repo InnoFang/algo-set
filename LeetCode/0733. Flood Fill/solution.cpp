@@ -24,3 +24,34 @@ public:
         return image;
     }
 };
+
+/**
+ * 277 / 277 test cases passed.
+ * Runtime: 4 ms
+ * Memory Usage: 13.6 MB 
+ */
+class Solution2 {
+public:
+    using pii = pair<int, int>;
+    int direct[4][2] = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int newColor) {
+        int oldColor = image[sr][sc];
+        if (oldColor == newColor) {
+            return image;
+        }
+        queue<pii> que;
+        que.push({sr, sc});
+        while (!que.empty()) {
+            auto [x, y] = que.front(); que.pop();
+            image[x][y] = newColor;
+            for (auto &d : direct) {
+                int xx = x + d[0];
+                int yy = y + d[1];
+                if (xx < 0 || xx >= image.size() || yy < 0 || yy >= image[0].size()) continue;
+                if (image[xx][yy] != oldColor) continue;
+                que.push({xx, yy});
+            }
+        }
+        return image;
+    }
+};
