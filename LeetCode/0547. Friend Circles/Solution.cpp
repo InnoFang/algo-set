@@ -45,3 +45,32 @@ private:
         group--;
     }
 };
+
+/**
+ * 113 / 113 test cases passed.
+ * Status: Accepted
+ * Runtime: 12 ms
+ */
+class Solution2 {
+public:
+    void dfs(vector<vector<int>> &isConnected, vector<bool> &used, int provinces, int i) {
+        for (int j = 0; j < provinces; ++ j) {
+            if (isConnected[i][j] && !used[j]) {
+                used[j] = true;
+                dfs(isConnected, used, provinces, j);
+            }
+        }
+    }
+    int findCircleNum(vector<vector<int>>& isConnected) {
+        int ans = 0;
+        int provinces = isConnected.size();
+        vector<bool> used(provinces);
+        for (int i = 0; i < provinces; ++ i) {
+            if (!used[i]) {
+                dfs(isConnected, used, provinces, i);
+                ++ ans;
+            }
+        }
+        return ans;
+    }
+};
