@@ -36,3 +36,38 @@ public:
         return ans;
     }
 };
+
+/**
+ * 728 / 728 test cases passed.
+ * Runtime: 12 ms
+ * Memory Usage: 22.6 MB 
+ */
+class Solution {
+public:
+    int direct[4][2] = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+    int m, n;
+    int dfs(vector<vector<int>> &grid, int x, int y) {
+        grid[x][y] = 0;
+        int count = 1;
+        for (auto &d: direct) {
+            int xx = x + d[0];
+            int yy = y + d[1];
+            if (xx < 0 || xx >= m || yy < 0 || yy >= n) continue;
+            if (!grid[xx][yy]) continue;
+            count += dfs(grid, xx, yy);
+        }
+        return count;
+    }
+    int maxAreaOfIsland(vector<vector<int>>& grid) {
+        m = grid.size(), n = grid[0].size();
+        int ans = 0;
+        for (int i = 0; i < m; ++ i) {
+            for (int j = 0; j < n; ++ j) {
+                if (grid[i][j]) {
+                    ans = max(ans, dfs(grid, i, j));
+                }
+            }
+        }
+        return ans;
+    }
+};
