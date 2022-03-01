@@ -269,7 +269,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0540. Single Element in a Sorted Array](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array)|[cpp](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array/solution.cpp)|||||[kt](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array/Solution.kt)
 [0541. Reverse String II](./LeetCode/0541.%20Reverse%20String%20II)|[cpp](./LeetCode/0541.%20Reverse%20String%20II/solution.cpp)|||||[kt](./LeetCode/0541.%20Reverse%20String%20II/Solution.kt)
 [0543. Diameter of Binary Tree](./LeetCode/0543.%20Diameter%20of%20Binary%20Tree)|||||[go](./LeetCode/0543.%20Diameter%20of%20Binary%20Tree/solution.go)|
-[0547. Friend Circles](./LeetCode/0547.%20Friend%20Circles)|[cpp](./LeetCode/0547.%20Friend%20Circles/Solution.cpp)|[java](./LeetCode/0547.%20Friend%20Circles/Solution.java)||||[kt](./LeetCode/0547.%20Friend%20Circles/Solution.kt)
+[0547. Number of Provinces](./LeetCode/0547.%20Number%20of%20Provinces)|[cpp](./LeetCode/0547.%20Number%20of%20Provinces/Solution.cpp)|[java](./LeetCode/0547.%20Number%20of%20Provinces/Solution.java)||[py](./LeetCode/0547.%20Number%20of%20Provinces/solution.py)||[kt](./LeetCode/0547.%20Number%20of%20Provinces/Solution.kt)
 [0551. Student Attendance Record I](./LeetCode/0551.%20Student%20Attendance%20Record%20I)|[cpp](./LeetCode/0551.%20Student%20Attendance%20Record%20I/solution.cpp)|||||
 [0552. Student Attendance Record II](./LeetCode/0552.%20Student%20Attendance%20Record%20II)|[cpp](./LeetCode/0552.%20Student%20Attendance%20Record%20II/solution.cpp)|||||
 [0553. Optimal Division](./LeetCode/0553.%20Optimal%20Division)|[cpp](./LeetCode/0553.%20Optimal%20Division/solution.cpp)|||||
@@ -338,7 +338,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0789. Escape The Ghosts](./LeetCode/0789.%20Escape%20The%20Ghosts)|[cpp](./LeetCode/0789.%20Escape%20The%20Ghosts/solution.cpp)|||||[kt](./LeetCode/0789.%20Escape%20The%20Ghosts/Solution.kt)
 [0791. Custom Sort String](./LeetCode/0791.%20Custom%20Sort%20String)||||||[kt](./LeetCode/0791.%20Custom%20Sort%20String/Solution.kt)
 [0796. Rotate String](./LeetCode/0796.%20Rotate%20String)||||||[kt](./LeetCode/0796.%20Rotate%20String/Solution.kt)
-[0797. All Paths From Source to Target](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target)|[cpp](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target/solution.cpp)|||||[kt](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target/Solution.kt)
+[0797. All Paths From Source to Target](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target)|[cpp](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target/solution.cpp)|||[py](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target/solution.py)||[kt](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target/Solution.kt)
 [0802. Find Eventual Safe States](./LeetCode/0802.%20Find%20Eventual%20Safe%20States)|[cpp](./LeetCode/0802.%20Find%20Eventual%20Safe%20States/solution.cpp)|||||
 [0810. Chalkboard XOR Game](./LeetCode/0810.%20Chalkboard%20XOR%20Game)|[cpp](./LeetCode/0810.%20Chalkboard%20XOR%20Game/solution.cpp)|||[py](./LeetCode/0810.%20Chalkboard%20XOR%20Game/solution.py)||
 [0824. Goat Latin](./LeetCode/0824.%20Goat%20Latin)|[cpp](./LeetCode/0824.%20Goat%20Latin/Solution.cpp)|||||
