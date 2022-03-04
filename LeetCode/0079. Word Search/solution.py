@@ -1,6 +1,6 @@
 """
 83 / 83 test cases passed.
-Runtime: 3712 ms
+Runtime: 3868 ms
 Memory Usage: 15.2 MB
 """
 class Solution:
@@ -13,12 +13,13 @@ class Solution:
                 return False
             if k == ws - 1:
                 return True
-            used[x][y] = True
             for xx, yy in [(x + 1, y), (x - 1, y), (x, y + 1), (x, y - 1)]:
                 if 0 <= xx < m and 0 <= yy < n and not used[xx][yy]:
+                    used[x][y] = True
                     if dfs(xx, yy, k + 1):
                         return True
-            used[x][y] = False
+                    else:
+                        used[x][y] = False
             return False
 
         for i in range(m):
