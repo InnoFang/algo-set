@@ -1,21 +1,23 @@
 # Leetcode
-**Problems have been solved:** 458
+**Problems have been solved:** 462
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
 [0001. Two Sum](./LeetCode/0001.%20Two%20Sum)|[cpp](./LeetCode/0001.%20Two%20Sum/solution.cpp)|[java](./LeetCode/0001.%20Two%20Sum/Solution.java)|[js](./LeetCode/0001.%20Two%20Sum/solution.js)|[py](./LeetCode/0001.%20Two%20Sum/solution.py)|[go](./LeetCode/0001.%20Two%20Sum/Solution.go)|[kt](./LeetCode/0001.%20Two%20Sum/Solution.kt)
 [0002. Add Two Numbers](./LeetCode/0002.%20Add%20Two%20Numbers)|[cpp](./LeetCode/0002.%20Add%20Two%20Numbers/solution.cpp)|||[py](./LeetCode/0002.%20Add%20Two%20Numbers/solution.py)||
-[0003. Longest Substring Without Repeating Characters](./LeetCode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters)|||||[go](./LeetCode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.go)|[kt](./LeetCode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters/Solution.kt)
+[0003. Longest Substring Without Repeating Characters](./LeetCode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters)|[cpp](./LeetCode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.cpp)|||[py](./LeetCode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.py)|[go](./LeetCode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.go)|[kt](./LeetCode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters/Solution.kt)
 [0004. Median of Two Sorted Arrays](./LeetCode/0004.%20Median%20of%20Two%20Sorted%20Arrays)||||||[kt](./LeetCode/0004.%20Median%20of%20Two%20Sorted%20Arrays/Solution.kt)
 [0005. Longest Palindromic Substring](./LeetCode/0005.%20Longest%20Palindromic%20Substring)|[cpp](./LeetCode/0005.%20Longest%20Palindromic%20Substring/Solution.cpp)|[java](./LeetCode/0005.%20Longest%20Palindromic%20Substring/Solution.java)||||[kt](./LeetCode/0005.%20Longest%20Palindromic%20Substring/Solution.kt)
 [0006. ZigZag Conversion](./LeetCode/0006.%20ZigZag%20Conversion)|[cpp](./LeetCode/0006.%20ZigZag%20Conversion/solution.cpp)|[java](./LeetCode/0006.%20ZigZag%20Conversion/Solution.java)||[py](./LeetCode/0006.%20ZigZag%20Conversion/solution.py)||[kt](./LeetCode/0006.%20ZigZag%20Conversion/Solution.kt)
 [0007. Reverse Integer](./LeetCode/0007.%20Reverse%20Integer)|[cpp](./LeetCode/0007.%20Reverse%20Integer/solution.cpp)|||[py](./LeetCode/0007.%20Reverse%20Integer/solution.py)||[kt](./LeetCode/0007.%20Reverse%20Integer/Solution.kt)
 [0009. Palindrome Number](./LeetCode/0009.%20Palindrome%20Number)||||||[kt](./LeetCode/0009.%20Palindrome%20Number/solution.kt)
-[0011. Container With Most Water](./LeetCode/0011.%20Container%20With%20Most%20Water)|[cpp](./LeetCode/0011.%20Container%20With%20Most%20Water/solution.cpp)|||||
+[0011. Container With Most Water](./LeetCode/0011.%20Container%20With%20Most%20Water)|[cpp](./LeetCode/0011.%20Container%20With%20Most%20Water/solution.cpp)|||[py](./LeetCode/0011.%20Container%20With%20Most%20Water/solution.py)||
 [0012. Integer to Roman](./LeetCode/0012.%20Integer%20to%20Roman)|[cpp](./LeetCode/0012.%20Integer%20to%20Roman/solution.cpp)|||[py](./LeetCode/0012.%20Integer%20to%20Roman/solution.py)||[kt](./LeetCode/0012.%20Integer%20to%20Roman/Solution.kt)
 [0013. Roman to Integer](./LeetCode/0013.%20Roman%20to%20Integer)|[cpp](./LeetCode/0013.%20Roman%20to%20Integer/solution.cpp)|||||[kt](./LeetCode/0013.%20Roman%20to%20Integer/Solution.kt)
 [0014. Longest Common Prefix](./LeetCode/0014.%20Longest%20Common%20Prefix)|[cpp](./LeetCode/0014.%20Longest%20Common%20Prefix/solution.cpp)|||||
+[0015. 3Sum](./LeetCode/0015.%203Sum)|[cpp](./LeetCode/0015.%203Sum/solution.cpp)|||[py](./LeetCode/0015.%203Sum/solution.py)||
 [0017. Letter Combinations of a Phone Number](./LeetCode/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number)||||||[kt](./LeetCode/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number/Solution.kt)
+[0018. 4Sum](./LeetCode/0018.%204Sum)|[cpp](./LeetCode/0018.%204Sum/solution.cpp)|||[py](./LeetCode/0018.%204Sum/solution.py)||
 [0020. Valid Parentheses](./LeetCode/0020.%20Valid%20Parentheses)|[cpp](./LeetCode/0020.%20Valid%20Parentheses/Solution.cpp)|||||[kt](./LeetCode/0020.%20Valid%20Parentheses/Solution.kt)
 [0021. Merge Two Sorted Lists](./LeetCode/0021.%20Merge%20Two%20Sorted%20Lists)|[cpp](./LeetCode/0021.%20Merge%20Two%20Sorted%20Lists/solution.cpp)|||[py](./LeetCode/0021.%20Merge%20Two%20Sorted%20Lists/solution.py)|[go](./LeetCode/0021.%20Merge%20Two%20Sorted%20Lists/solution.go)|
 [0022. Generate Parentheses](./LeetCode/0022.%20Generate%20Parentheses)|[cpp](./LeetCode/0022.%20Generate%20Parentheses/Solution.cpp)|||||
@@ -55,7 +57,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0075. Sort Colors](./LeetCode/0075.%20Sort%20Colors)||[java](./LeetCode/0075.%20Sort%20Colors/Solution.java)|[js](./LeetCode/0075.%20Sort%20Colors/Solution.js)|[py](./LeetCode/0075.%20Sort%20Colors/Solution.py)||[kt](./LeetCode/0075.%20Sort%20Colors/Solution.kt)
 [0077. Combinations](./LeetCode/0077.%20Combinations)||||||[kt](./LeetCode/0077.%20Combinations/Solution.kt)
 [0078. Subsets](./LeetCode/0078.%20Subsets)|[cpp](./LeetCode/0078.%20Subsets/solution.cpp)|||[py](./LeetCode/0078.%20Subsets/solution.py)||
-[0079. Word Search](./LeetCode/0079.%20Word%20Search)||||||[kt](./LeetCode/0079.%20Word%20Search/Solution.kt)
+[0079. Word Search](./LeetCode/0079.%20Word%20Search)|[cpp](./LeetCode/0079.%20Word%20Search/solution.cpp)|||[py](./LeetCode/0079.%20Word%20Search/solution.py)||[kt](./LeetCode/0079.%20Word%20Search/Solution.kt)
 [0080. Remove Duplicates from Sorted Array II](./LeetCode/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)|[cpp](./LeetCode/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.cpp)|||[py](./LeetCode/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.py)||
 [0081. Search in Rotated Sorted Array II](./LeetCode/0081.%20Search%20in%20Rotated%20Sorted%20Array%20II)|[cpp](./LeetCode/0081.%20Search%20in%20Rotated%20Sorted%20Array%20II/solution.cpp)|||[py](./LeetCode/0081.%20Search%20in%20Rotated%20Sorted%20Array%20II/solution.py)||
 [0082. Remove Duplicates from Sorted List II](./LeetCode/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II)|[cpp](./LeetCode/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II/solution.cpp)|||[py](./LeetCode/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II/solution.py)||
@@ -158,7 +160,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0268. Missing Number](./LeetCode/0268.%20Missing%20Number)|[cpp](./LeetCode/0268.%20Missing%20Number/solution.cpp)|||||[kt](./LeetCode/0268.%20Missing%20Number/Solution.kt)
 [0273. Integer to English Words](./LeetCode/0273.%20Integer%20to%20English%20Words)|[cpp](./LeetCode/0273.%20Integer%20to%20English%20Words/solution.cpp)|||||
 [0278. First Bad Version](./LeetCode/0278.%20First%20Bad%20Version)|[cpp](./LeetCode/0278.%20First%20Bad%20Version/solution.cpp)|||[py](./LeetCode/0278.%20First%20Bad%20Version/solution.py)||
-[0279. Perfect Squares](./LeetCode/0279.%20Perfect%20Squares)|[cpp](./LeetCode/0279.%20Perfect%20Squares/solution.cpp)|||||[kt](./LeetCode/0279.%20Perfect%20Squares/Solution.kt)
+[0279. Perfect Squares](./LeetCode/0279.%20Perfect%20Squares)|[cpp](./LeetCode/0279.%20Perfect%20Squares/solution.cpp)|||[py](./LeetCode/0279.%20Perfect%20Squares/solution.py)||[kt](./LeetCode/0279.%20Perfect%20Squares/Solution.kt)
 [0282. Expression Add Operators](./LeetCode/0282.%20Expression%20Add%20Operators)|[cpp](./LeetCode/0282.%20Expression%20Add%20Operators/solution.cpp)|||||
 [0283. Move Zeroes](./LeetCode/0283.%20Move%20Zeroes)||[java](./LeetCode/0283.%20Move%20Zeroes/Solution.java)|[js](./LeetCode/0283.%20Move%20Zeroes/Solution.js)|[py](./LeetCode/0283.%20Move%20Zeroes/Solution.py)||[kt](./LeetCode/0283.%20Move%20Zeroes/Solution.kt)
 [0284. Peeking Iterator](./LeetCode/0284.%20Peeking%20Iterator)|[cpp](./LeetCode/0284.%20Peeking%20Iterator/solution.cpp)|||||
@@ -218,6 +220,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0414. Third Maximum Number](./LeetCode/0414.%20Third%20Maximum%20Number)|[cpp](./LeetCode/0414.%20Third%20Maximum%20Number/solution.cpp)|||||
 [0415. Add Strings](./LeetCode/0415.%20Add%20Strings)||||||[kt](./LeetCode/0415.%20Add%20Strings/Solution.kt)
 [0416. Partition Equal Subset Sum](./LeetCode/0416.%20Partition%20Equal%20Subset%20Sum)|[cpp](./LeetCode/0416.%20Partition%20Equal%20Subset%20Sum/solution.cpp)|||[py](./LeetCode/0416.%20Partition%20Equal%20Subset%20Sum/solution.py)||[kt](./LeetCode/0416.%20Partition%20Equal%20Subset%20Sum/Soution.kt)
+[0417. Pacific Atlantic Water Flow](./LeetCode/0417.%20Pacific%20Atlantic%20Water%20Flow)|[cpp](./LeetCode/0417.%20Pacific%20Atlantic%20Water%20Flow/solution.cpp)|||[py](./LeetCode/0417.%20Pacific%20Atlantic%20Water%20Flow/solution.py)||
 [0421. Maximum XOR of Two Numbers in an Array](./LeetCode/0421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array)|[cpp](./LeetCode/0421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/solution.cpp)|||||
 [0424. Longest Repeating Character Replacement](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement)|[cpp](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement/solution.cpp)|||[py](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement/solution.py)||
 [0430. Flatten a Multilevel Doubly Linked List](./LeetCode/0430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List)|[cpp](./LeetCode/0430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List/solution.cpp)|||||
@@ -259,8 +262,9 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0517. Super Washing Machines](./LeetCode/0517.%20Super%20Washing%20Machines)|[cpp](./LeetCode/0517.%20Super%20Washing%20Machines/solution.cpp)|||||
 [0518. Coin Change 2](./LeetCode/0518.%20Coin%20Change%202)|[cpp](./LeetCode/0518.%20Coin%20Change%202/solution.cpp)|||||
 [0520. Detect Capital](./LeetCode/0520.%20Detect%20Capital)|[cpp](./LeetCode/0520.%20Detect%20Capital/solution.cpp)|[java](./LeetCode/0520.%20Detect%20Capital/Solution.java)||||[kt](./LeetCode/0520.%20Detect%20Capital/Solution.kt)
+[0521. Longest Uncommon Subsequence I](./LeetCode/0521.%20Longest%20Uncommon%20Subsequence%20I)|[cpp](./LeetCode/0521.%20Longest%20Uncommon%20Subsequence%20I/solution.cpp)|||[py](./LeetCode/0521.%20Longest%20Uncommon%20Subsequence%20I/solution.py)||
 [0523. Continuous Subarray Sum](./LeetCode/0523.%20Continuous%20Subarray%20Sum)|[cpp](./LeetCode/0523.%20Continuous%20Subarray%20Sum/solution.cpp)|||[py](./LeetCode/0523.%20Continuous%20Subarray%20Sum/solution.py)||
-[0524. Longest Word in Dictionary through Deleting](./LeetCode/0524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting)|[cpp](./LeetCode/0524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting/solution.cpp)|||||
+[0524. Longest Word in Dictionary through Deleting](./LeetCode/0524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting)|[cpp](./LeetCode/0524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting/solution.cpp)|||[py](./LeetCode/0524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting/solution.py)||
 [0525. Contiguous Array](./LeetCode/0525.%20Contiguous%20Array)|[cpp](./LeetCode/0525.%20Contiguous%20Array/solution.cpp)|||[py](./LeetCode/0525.%20Contiguous%20Array/solution.py)||
 [0526. Beautiful Arrangement](./LeetCode/0526.%20Beautiful%20Arrangement)|[cpp](./LeetCode/0526.%20Beautiful%20Arrangement/solution.cpp)|||||
 [0530. Minimum Absolute Difference in BST](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST)|[cpp](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/solution.cpp)|||||[kt](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/Solution.kt)
