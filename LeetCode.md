@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 464
+**Problems have been solved:** 467
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -90,7 +90,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0121. Best Time to Buy and Sell Stock](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|[cpp](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.cpp)|[java](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.java)|[js](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.js)|[py](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.py)|[go](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.go)|[kt](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.kt)
 [0122. Best Time to Buy and Sell Stock II](./LeetCode/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)|[cpp](./LeetCode/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/solution.cpp)|||[py](./LeetCode/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/solution.py)||[kt](./LeetCode/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.kt)
 [0125. Valid Palindrome](./LeetCode/0125.%20Valid%20Palindrome)||||||[kt](./LeetCode/0125.%20Valid%20Palindrome/Solution.kt)
-[0127. Word Ladder](./LeetCode/0127.%20Word%20Ladder)||[java](./LeetCode/0127.%20Word%20Ladder/Solution.java)||||[kt](./LeetCode/0127.%20Word%20Ladder/Solution.kt)
+[0127. Word Ladder](./LeetCode/0127.%20Word%20Ladder)|[cpp](./LeetCode/0127.%20Word%20Ladder/solution.cpp)|[java](./LeetCode/0127.%20Word%20Ladder/Solution.java)||||[kt](./LeetCode/0127.%20Word%20Ladder/Solution.kt)
 [0128. Longest Consecutive Sequence](./LeetCode/0128.%20Longest%20Consecutive%20Sequence)||||||[kt](./LeetCode/0128.%20Longest%20Consecutive%20Sequence/Solution.kt)
 [0129. Sum Root to Leaf Numbers](./LeetCode/0129.%20Sum%20Root%20to%20Leaf%20Numbers)||||[py](./LeetCode/0129.%20Sum%20Root%20to%20Leaf%20Numbers/solution.py)||
 [0130. Surrounded Regions](./LeetCode/0130.%20Surrounded%20Regions)||||||[kt](./LeetCode/0130.%20Surrounded%20Regions/Solution.kt)
@@ -180,6 +180,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0318. Maximum Product of Word Lengths](./LeetCode/0318.%20Maximum%20Product%20of%20Word%20Lengths)|[cpp](./LeetCode/0318.%20Maximum%20Product%20of%20Word%20Lengths/solution.cpp)|||||
 [0322. Coin Change](./LeetCode/0322.%20Coin%20Change)|[cpp](./LeetCode/0322.%20Coin%20Change/solution.cpp)|||[py](./LeetCode/0322.%20Coin%20Change/solution.py)||[kt](./LeetCode/0322.%20Coin%20Change/Solution.kt)
 [0326. Power of Three](./LeetCode/0326.%20Power%20of%20Three)|[cpp](./LeetCode/0326.%20Power%20of%20Three/solution.cpp)|||||[kt](./LeetCode/0326.%20Power%20of%20Three/Solution.kt)
+[0329. Longest Increasing Path in a Matrix](./LeetCode/0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix)|[cpp](./LeetCode/0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix/solution.cpp)|||[py](./LeetCode/0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix/solution.py)||
 [0331. Verify Preorder Serialization of a Binary Tree](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree)|[cpp](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/solution.cpp)|||[py](./LeetCode/0331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/solution.py)||
 [0334. Increasing Triplet Subsequence](./LeetCode/0334.%20Increasing%20Triplet%20Subsequence)|[cpp](./LeetCode/0334.%20Increasing%20Triplet%20Subsequence/solution.cpp)|||||
 [0338. Counting Bits](./LeetCode/0338.%20Counting%20Bits)|[cpp](./LeetCode/0338.%20Counting%20Bits/solution.cpp)|||[py](./LeetCode/0338.%20Counting%20Bits/solution.py)||
@@ -194,7 +195,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0352. Data Stream as Disjoint Intervals](./LeetCode/0352.%20Data%20Stream%20as%20Disjoint%20Intervals)|[cpp](./LeetCode/0352.%20Data%20Stream%20as%20Disjoint%20Intervals/solution.cpp)|||||
 [0354. Russian Doll Envelopes](./LeetCode/0354.%20Russian%20Doll%20Envelopes)|[cpp](./LeetCode/0354.%20Russian%20Doll%20Envelopes/solution.cpp)|||[py](./LeetCode/0354.%20Russian%20Doll%20Envelopes/solution.py)||
 [0363. Max Sum of Rectangle No Larger Than K](./LeetCode/0363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K)||||||
-[0365. Water and Jug Problem](./LeetCode/0365.%20Water%20and%20Jug%20Problem)|||||[go](./LeetCode/0365.%20Water%20and%20Jug%20Problem/solution.go)|
+[0365. Water and Jug Problem](./LeetCode/0365.%20Water%20and%20Jug%20Problem)|[cpp](./LeetCode/0365.%20Water%20and%20Jug%20Problem/solution.cpp)|||[py](./LeetCode/0365.%20Water%20and%20Jug%20Problem/solution.py)|[go](./LeetCode/0365.%20Water%20and%20Jug%20Problem/solution.go)|
 [0367. Valid Perfect Square](./LeetCode/0367.%20Valid%20Perfect%20Square)|[cpp](./LeetCode/0367.%20Valid%20Perfect%20Square/solution.cpp)|||||
 [0368. Largest Divisible Subset](./LeetCode/0368.%20Largest%20Divisible%20Subset)|[cpp](./LeetCode/0368.%20Largest%20Divisible%20Subset/solution.cpp)|||[py](./LeetCode/0368.%20Largest%20Divisible%20Subset/solution.py)||
 [0371. Sum of Two Integers](./LeetCode/0371.%20Sum%20of%20Two%20Integers)|[cpp](./LeetCode/0371.%20Sum%20of%20Two%20Integers/solution.cpp)|[java](./LeetCode/0371.%20Sum%20of%20Two%20Integers/Solution.java)||||[kt](./LeetCode/0371.%20Sum%20of%20Two%20Integers/Solution.kt)
@@ -225,6 +226,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0421. Maximum XOR of Two Numbers in an Array](./LeetCode/0421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array)|[cpp](./LeetCode/0421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/solution.cpp)|||||
 [0424. Longest Repeating Character Replacement](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement)|[cpp](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement/solution.cpp)|||[py](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement/solution.py)||
 [0430. Flatten a Multilevel Doubly Linked List](./LeetCode/0430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List)|[cpp](./LeetCode/0430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List/solution.cpp)|||||
+[0433. Minimum Genetic Mutation](./LeetCode/0433.%20Minimum%20Genetic%20Mutation)|[cpp](./LeetCode/0433.%20Minimum%20Genetic%20Mutation/solution.cpp)|||[py](./LeetCode/0433.%20Minimum%20Genetic%20Mutation/solution.py)||
 [0434. Number of Segments in a String](./LeetCode/0434.%20Number%20of%20Segments%20in%20a%20String)|[cpp](./LeetCode/0434.%20Number%20of%20Segments%20in%20a%20String/solution.cpp)|||||
 [0435. Non overlapping Intervals](./LeetCode/0435.%20Non%20overlapping%20Intervals)|[cpp](./LeetCode/0435.%20Non%20overlapping%20Intervals/solution.cpp)|||||[kt](./LeetCode/0435.%20Non%20overlapping%20Intervals/Solution.kt)
 [0437. Path Sum III](./LeetCode/0437.%20Path%20Sum%20III)|[cpp](./LeetCode/0437.%20Path%20Sum%20III/solution.cpp)|||||[kt](./LeetCode/0437.%20Path%20Sum%20III/Solution.kt)
@@ -254,7 +256,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0500. Keyboard Row](./LeetCode/0500.%20Keyboard%20Row)|[cpp](./LeetCode/0500.%20Keyboard%20Row/solution.cpp)|||||[kt](./LeetCode/0500.%20Keyboard%20Row/Solution.kt)
 [0502. IPO](./LeetCode/0502.%20IPO)|[cpp](./LeetCode/0502.%20IPO/solution.cpp)|||||
 [0503. Next Greater Element II](./LeetCode/0503.%20Next%20Greater%20Element%20II)|[cpp](./LeetCode/0503.%20Next%20Greater%20Element%20II/solution.cpp)|||[py](./LeetCode/0503.%20Next%20Greater%20Element%20II/solution.py)||
-[0504. Base 7](./LeetCode/0504.%20Base%207)||||||[kt](./LeetCode/0504.%20Base%207/Solution.kt)
+[0504. Base 7](./LeetCode/0504.%20Base%207)|[cpp](./LeetCode/0504.%20Base%207/solution.cpp)|||[py](./LeetCode/0504.%20Base%207/solution.py)||[kt](./LeetCode/0504.%20Base%207/Solution.kt)
 [0506. Relative Ranks](./LeetCode/0506.%20Relative%20Ranks)|[cpp](./LeetCode/0506.%20Relative%20Ranks/solution.cpp)|||||
 [0507. Perfect Number](./LeetCode/0507.%20Perfect%20Number)|[cpp](./LeetCode/0507.%20Perfect%20Number/solution.cpp)|||[py](./LeetCode/0507.%20Perfect%20Number/solution.py)|[go](./LeetCode/0507.%20Perfect%20Number/solution.go)|
 [0509. Fibonacci Number](./LeetCode/0509.%20Fibonacci%20Number)|[cpp](./LeetCode/0509.%20Fibonacci%20Number/solution.cpp)|[java](./LeetCode/0509.%20Fibonacci%20Number/Solution.java)|[js](./LeetCode/0509.%20Fibonacci%20Number/solution.js)|[py](./LeetCode/0509.%20Fibonacci%20Number/solution.py)|[go](./LeetCode/0509.%20Fibonacci%20Number/solution.go)|[kt](./LeetCode/0509.%20Fibonacci%20Number/solution.kt)
@@ -381,7 +383,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0992. Subarrays with K Different Integers](./LeetCode/0992.%20Subarrays%20with%20K%20Different%20Integers)|[cpp](./LeetCode/0992.%20Subarrays%20with%20K%20Different%20Integers/solution.cpp)|||||
 [0993. Cousins in Binary Tree](./LeetCode/0993.%20Cousins%20in%20Binary%20Tree)|[cpp](./LeetCode/0993.%20Cousins%20in%20Binary%20Tree/solution.cpp)|||||
 [0995. Minimum Number of K Consecutive Bit Flips](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips)|[cpp](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/solution.cpp)|||[py](./LeetCode/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/solution.py)||
-[0997. Find the Town Judge](./LeetCode/0997.%20Find%20the%20Town%20Judge)|[cpp](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.cpp)|||[py](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.py)|[go](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.go)|
+[0997. Find the Town Judge](./LeetCode/0997.%20Find%20the%20Town%20Judge)|[cpp](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.cpp)|[java](./LeetCode/0997.%20Find%20the%20Town%20Judge/Solution.java)||[py](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.py)|[go](./LeetCode/0997.%20Find%20the%20Town%20Judge/solution.go)|
 [1004. Max Consecutive Ones III](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III)|[cpp](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III/solution.cpp)|||[py](./LeetCode/1004.%20Max%20Consecutive%20Ones%20III/solution.py)||
 [1005. Maximize Sum Of Array After K Negations](./LeetCode/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations)|[cpp](./LeetCode/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations/solution.cpp)|||||
 [1006. Clumsy Factorial](./LeetCode/1006.%20Clumsy%20Factorial)|[cpp](./LeetCode/1006.%20Clumsy%20Factorial/solution.cpp)|||[py](./LeetCode/1006.%20Clumsy%20Factorial/solution.py)||
@@ -463,6 +465,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [2016. Maximum Difference Between Increasing Elements](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements)|[cpp](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements/solution.cpp)|||||
 [2022. Convert 1D Array Into 2D Array](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array)|[cpp](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.cpp)|||[py](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.py)|[go](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.go)|
 [2047. Number of Valid Words in a Sentence](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence)|[cpp](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence/solution.cpp)|||||
+[2055. Plates Between Candles](./LeetCode/2055.%20Plates%20Between%20Candles)|[cpp](./LeetCode/2055.%20Plates%20Between%20Candles/solution.cpp)|||[py](./LeetCode/2055.%20Plates%20Between%20Candles/solution.py)||
 [2179. Count Integers With Even Digit Sum](./LeetCode/2179.%20Count%20Integers%20With%20Even%20Digit%20Sum)|[cpp](./LeetCode/2179.%20Count%20Integers%20With%20Even%20Digit%20Sum/solution.cpp)|||||
 [2180. Merge Nodes in Between Zeros](./LeetCode/2180.%20Merge%20Nodes%20in%20Between%20Zeros)|[cpp](./LeetCode/2180.%20Merge%20Nodes%20in%20Between%20Zeros/solution.cpp)|||||
 [2181. Construct String With Repeat Limit](./LeetCode/2181.%20Construct%20String%20With%20Repeat%20Limit)|[cpp](./LeetCode/2181.%20Construct%20String%20With%20Repeat%20Limit/solution.cpp)|||||
