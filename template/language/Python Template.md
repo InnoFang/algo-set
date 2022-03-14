@@ -26,7 +26,6 @@ pause
 ## template
 
 ```Python
-from sys import stdin
 from itertools import *
 from functools import *
 from collections import *
@@ -34,16 +33,17 @@ from bisect import *
 from decimal import *
 
 # single-line input
-read = lambda tp: list(map(tp, stdin.readline().split()))
+read = lambda tp: list(map(tp, input().split()))
 
-def solve(N):
-    pass
+def solve():
+    a, b = read(int)
+    print(a + b)
 
 # multi-cases input
-while True:
-    N = read(int):
-    if len(N) == 0: 
-        break
-    solve(N)
-
+if __name__ == '__main__':
+    while True:
+        try:
+            solve()
+        except EOFError:
+            break
 ```
