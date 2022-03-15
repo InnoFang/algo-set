@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 477
+**Problems have been solved:** 482
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -31,6 +31,8 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0035. Search Insert Position](./LeetCode/0035.%20Search%20Insert%20Position)||||||[kt](./LeetCode/0035.%20Search%20Insert%20Position/Solution.kt)
 [0036. Valid Sudoku](./LeetCode/0036.%20Valid%20Sudoku)|[cpp](./LeetCode/0036.%20Valid%20Sudoku/solution.cpp)|||||
 [0038. Count and Say](./LeetCode/0038.%20Count%20and%20Say)|[cpp](./LeetCode/0038.%20Count%20and%20Say/solution.cpp)|||||
+[0039. Combination Sum](./LeetCode/0039.%20Combination%20Sum)||||[py](./LeetCode/0039.%20Combination%20Sum/solution.py)||
+[0040. Combination Sum II](./LeetCode/0040.%20Combination%20Sum%20II)||||[py](./LeetCode/0040.%20Combination%20Sum%20II/solution.py)||
 [0041. First Missing Positive](./LeetCode/0041.%20First%20Missing%20Positive)|[cpp](./LeetCode/0041.%20First%20Missing%20Positive/solution.cpp)|||||
 [0042. Trapping Rain Water](./LeetCode/0042.%20Trapping%20Rain%20Water)|[cpp](./LeetCode/0042.%20Trapping%20Rain%20Water/solution.cpp)|||[py](./LeetCode/0042.%20Trapping%20Rain%20Water/solution.py)||
 [0045. Jump Game II](./LeetCode/0045.%20Jump%20Game%20II)|[cpp](./LeetCode/0045.%20Jump%20Game%20II/solution.cpp)|||[py](./LeetCode/0045.%20Jump%20Game%20II/solution.py)|[go](./LeetCode/0045.%20Jump%20Game%20II/solution.go)|
@@ -46,7 +48,8 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0059. Spiral Matrix II](./LeetCode/0059.%20Spiral%20Matrix%20II)|[cpp](./LeetCode/0059.%20Spiral%20Matrix%20II/solution.cpp)|||||
 [0061. Rotate List](./LeetCode/0061.%20Rotate%20List)|[cpp](./LeetCode/0061.%20Rotate%20List/solution.cpp)|||[py](./LeetCode/0061.%20Rotate%20List/solution.py)||
 [0062. Unique Paths](./LeetCode/0062.%20Unique%20Paths)||||[py](./LeetCode/0062.%20Unique%20Paths/solution.py)||
-[0064. Minimum Path Sum](./LeetCode/0064.%20Minimum%20Path%20Sum)||||||[kt](./LeetCode/0064.%20Minimum%20Path%20Sum/solution.kt)
+[0063. Unique Paths II](./LeetCode/0063.%20Unique%20Paths%20II)||||[py](./LeetCode/0063.%20Unique%20Paths%20II/solution.py)||
+[0064. Minimum Path Sum](./LeetCode/0064.%20Minimum%20Path%20Sum)|[cpp](./LeetCode/0064.%20Minimum%20Path%20Sum/solution.cpp)|||[py](./LeetCode/0064.%20Minimum%20Path%20Sum/solution.py)||[kt](./LeetCode/0064.%20Minimum%20Path%20Sum/solution.kt)
 [0066. Plus One](./LeetCode/0066.%20Plus%20One)|[cpp](./LeetCode/0066.%20Plus%20One/Solution.cpp)|||[py](./LeetCode/0066.%20Plus%20One/Solution.py)||
 [0067. Add Binary](./LeetCode/0067.%20Add%20Binary)||||||[kt](./LeetCode/0067.%20Add%20Binary/Solution.kt)
 [0068. Text Justification](./LeetCode/0068.%20Text%20Justification)|[cpp](./LeetCode/0068.%20Text%20Justification/solution.cpp)|||||
@@ -87,9 +90,9 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0112. Path Sum](./LeetCode/0112.%20Path%20Sum)|[cpp](./LeetCode/0112.%20Path%20Sum/solution.cpp)|||[py](./LeetCode/0112.%20Path%20Sum/solution.py)||[kt](./LeetCode/0112.%20Path%20Sum/Solution.kt)
 [0115. Distinct Subsequences](./LeetCode/0115.%20Distinct%20Subsequences)|[cpp](./LeetCode/0115.%20Distinct%20Subsequences/solution.cpp)|||[py](./LeetCode/0115.%20Distinct%20Subsequences/solution.py)||
 [0117. Populating Next Right Pointers in Each Node II](./LeetCode/0117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II)|[cpp](./LeetCode/0117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/solution.cpp)|||[py](./LeetCode/0117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/solution.py)||
-[0118. Pascal's Triangle](./LeetCode/0118.%20Pascal's%20Triangle)||[java](./LeetCode/0118.%20Pascal's%20Triangle/Solution.java)||[py](./LeetCode/0118.%20Pascal's%20Triangle/Solution.py)||[kt](./LeetCode/0118.%20Pascal's%20Triangle/Solution.kt)
+[0118. Pascal's Triangle](./LeetCode/0118.%20Pascal's%20Triangle)|[cpp](./LeetCode/0118.%20Pascal's%20Triangle/solution.cpp)|[java](./LeetCode/0118.%20Pascal's%20Triangle/Solution.java)||[py](./LeetCode/0118.%20Pascal's%20Triangle/Solution.py)||[kt](./LeetCode/0118.%20Pascal's%20Triangle/Solution.kt)
 [0119. Pascal's Triangle II](./LeetCode/0119.%20Pascal's%20Triangle%20II)|[cpp](./LeetCode/0119.%20Pascal's%20Triangle%20II/solution.cpp)|||[py](./LeetCode/0119.%20Pascal's%20Triangle%20II/solution.py)||
-[0120. Triangle](./LeetCode/0120.%20Triangle)|[cpp](./LeetCode/0120.%20Triangle/Solution.cpp)|||||[kt](./LeetCode/0120.%20Triangle/Solution.kt)
+[0120. Triangle](./LeetCode/0120.%20Triangle)|[cpp](./LeetCode/0120.%20Triangle/Solution.cpp)|||[py](./LeetCode/0120.%20Triangle/solution.py)||[kt](./LeetCode/0120.%20Triangle/Solution.kt)
 [0121. Best Time to Buy and Sell Stock](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|[cpp](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.cpp)|[java](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.java)|[js](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.js)|[py](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.py)|[go](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.go)|[kt](./LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.kt)
 [0122. Best Time to Buy and Sell Stock II](./LeetCode/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)|[cpp](./LeetCode/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/solution.cpp)|||[py](./LeetCode/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/solution.py)||[kt](./LeetCode/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.kt)
 [0125. Valid Palindrome](./LeetCode/0125.%20Valid%20Palindrome)||||||[kt](./LeetCode/0125.%20Valid%20Palindrome/Solution.kt)
@@ -301,6 +304,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0592. Fraction Addition and Subtraction](./LeetCode/0592.%20Fraction%20Addition%20and%20Subtraction)||||||[kt](./LeetCode/0592.%20Fraction%20Addition%20and%20Subtraction/Solution.kt)
 [0594. Longest Harmonious Subsequence](./LeetCode/0594.%20Longest%20Harmonious%20Subsequence)|[cpp](./LeetCode/0594.%20Longest%20Harmonious%20Subsequence/solution.cpp)|||[py](./LeetCode/0594.%20Longest%20Harmonious%20Subsequence/solution.py)||
 [0598. Range Addition II](./LeetCode/0598.%20Range%20Addition%20II)|[cpp](./LeetCode/0598.%20Range%20Addition%20II/solution.cpp)||||[go](./LeetCode/0598.%20Range%20Addition%20II/solution.go)|
+[0599. Minimum Index Sum of Two Lists](./LeetCode/0599.%20Minimum%20Index%20Sum%20of%20Two%20Lists)|[cpp](./LeetCode/0599.%20Minimum%20Index%20Sum%20of%20Two%20Lists/solution.cpp)|||[py](./LeetCode/0599.%20Minimum%20Index%20Sum%20of%20Two%20Lists/solution.py)||
 [0605. Can Place Flowers](./LeetCode/0605.%20Can%20Place%20Flowers)|[cpp](./LeetCode/0605.%20Can%20Place%20Flowers/solution.cpp)|||||
 [0611. Valid Triangle Number](./LeetCode/0611.%20Valid%20Triangle%20Number)|[cpp](./LeetCode/0611.%20Valid%20Triangle%20Number/solution.cpp)|||||[kt](./LeetCode/0611.%20Valid%20Triangle%20Number/Solution.kt)
 [0628. Maximum Product of Three Numbers](./LeetCode/0628.%20Maximum%20Product%20of%20Three%20Numbers)||||[py](./LeetCode/0628.%20Maximum%20Product%20of%20Three%20Numbers/solution.py)||
@@ -474,6 +478,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [2013. Detect Squares](./LeetCode/2013.%20Detect%20Squares)|[cpp](./LeetCode/2013.%20Detect%20Squares/solution.cpp)|||||
 [2016. Maximum Difference Between Increasing Elements](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements)|[cpp](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements/solution.cpp)|||||
 [2022. Convert 1D Array Into 2D Array](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array)|[cpp](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.cpp)|||[py](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.py)|[go](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.go)|
+[2044. Count Number of Maximum Bitwise-OR Subsets](./LeetCode/2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets)|[cpp](./LeetCode/2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/solution.cpp)|||[py](./LeetCode/2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/solution.py)||
 [2047. Number of Valid Words in a Sentence](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence)|[cpp](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence/solution.cpp)|||||
 [2055. Plates Between Candles](./LeetCode/2055.%20Plates%20Between%20Candles)|[cpp](./LeetCode/2055.%20Plates%20Between%20Candles/solution.cpp)|||[py](./LeetCode/2055.%20Plates%20Between%20Candles/solution.py)||
 [2179. Count Integers With Even Digit Sum](./LeetCode/2179.%20Count%20Integers%20With%20Even%20Digit%20Sum)|[cpp](./LeetCode/2179.%20Count%20Integers%20With%20Even%20Digit%20Sum/solution.cpp)|||||
