@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 482
+**Problems have been solved:** 487
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin
 ---|---|---|---|---|---|---
@@ -74,6 +74,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0091. Decode Ways](./LeetCode/0091.%20Decode%20Ways)|[cpp](./LeetCode/0091.%20Decode%20Ways/solution.cpp)|||[py](./LeetCode/0091.%20Decode%20Ways/solution.py)||[kt](./LeetCode/0091.%20Decode%20Ways/Solution.kt)
 [0092. Reverse Linked List II](./LeetCode/0092.%20Reverse%20Linked%20List%20II)|[cpp](./LeetCode/0092.%20Reverse%20Linked%20List%20II/solution.cpp)|||[py](./LeetCode/0092.%20Reverse%20Linked%20List%20II/solution.py)||
 [0094. Binary Tree Inorder Traversal](./LeetCode/0094.%20Binary%20Tree%20Inorder%20Traversal)||||||[kt](./LeetCode/0094.%20Binary%20Tree%20Inorder%20Traversal/Solution.kt)
+[0096. Unique Binary Search Trees](./LeetCode/0096.%20Unique%20Binary%20Search%20Trees)||||[py](./LeetCode/0096.%20Unique%20Binary%20Search%20Trees/solution.py)||
 [0097. Interleaving String](./LeetCode/0097.%20Interleaving%20String)|[cpp](./LeetCode/0097.%20Interleaving%20String/solution.cpp)|||[py](./LeetCode/0097.%20Interleaving%20String/solution.py)||
 [0098. Validate Binary Search Tree](./LeetCode/0098.%20Validate%20Binary%20Search%20Tree)|[cpp](./LeetCode/0098.%20Validate%20Binary%20Search%20Tree/Solution.cpp)|||||
 [0100. Same Tree](./LeetCode/0100.%20Same%20Tree)||||||[kt](./LeetCode/0100.%20Same%20Tree/Solution.kt)
@@ -104,6 +105,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0132. Palindrome Partitioning II](./LeetCode/0132.%20Palindrome%20Partitioning%20II)|[cpp](./LeetCode/0132.%20Palindrome%20Partitioning%20II/solution.cpp)|||[py](./LeetCode/0132.%20Palindrome%20Partitioning%20II/solution.py)||
 [0136. Single Number](./LeetCode/0136.%20Single%20Number)||||||[kt](./LeetCode/0136.%20Single%20Number/Solution.kt)
 [0137. Single Number II](./LeetCode/0137.%20Single%20Number%20II)|[cpp](./LeetCode/0137.%20Single%20Number%20II/solution.cpp)|||[py](./LeetCode/0137.%20Single%20Number%20II/solution.py)||
+[0139. Word Break](./LeetCode/0139.%20Word%20Break)||||[py](./LeetCode/0139.%20Word%20Break/solution.py)||
 [0141. Linked List Cycle](./LeetCode/0141.%20Linked%20List%20Cycle)|[cpp](./LeetCode/0141.%20Linked%20List%20Cycle/Solution.cpp)|||||
 [0142. Linked List Cycle II](./LeetCode/0142.%20Linked%20List%20Cycle%20II)|[cpp](./LeetCode/0142.%20Linked%20List%20Cycle%20II/Solution.cpp)|||||
 [0144. Binary Tree Preorder Traversal](./LeetCode/0144.%20Binary%20Tree%20Preorder%20Traversal)||||||[kt](./LeetCode/0144.%20Binary%20Tree%20Preorder%20Traversal/Solution.kt)
@@ -111,6 +113,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0148. Sort List](./LeetCode/0148.%20Sort%20List)||[java](./LeetCode/0148.%20Sort%20List/Solution.java)||||[kt](./LeetCode/0148.%20Sort%20List/Solution.kt)
 [0150. Evaluate Reverse Polish Notation](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation)|[cpp](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/solution.cpp)|[java](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.java)|[js](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.js)|[py](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.py)||[kt](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.kt)
 [0151. Reverse Words in a String](./LeetCode/0151.%20Reverse%20Words%20in%20a%20String)||[java](./LeetCode/0151.%20Reverse%20Words%20in%20a%20String/Solution.java)||||
+[0152. Maximum Product Subarray](./LeetCode/0152.%20Maximum%20Product%20Subarray)||||[py](./LeetCode/0152.%20Maximum%20Product%20Subarray/solution.py)||
 [0153. Find Minimum in Rotated Sorted Array](./LeetCode/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)|[cpp](./LeetCode/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/solution.cpp)|||[py](./LeetCode/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/solution.py)||
 [0154. Find Minimum in Rotated Sorted Array II](./LeetCode/0154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II)|[cpp](./LeetCode/0154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/solution.cpp)|||[py](./LeetCode/0154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/solution.py)||
 [0160. Intersection of Two Linked Lists](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists)|[cpp](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists/Solution.cpp)|||[py](./LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists/solution.py)||
@@ -234,6 +237,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0421. Maximum XOR of Two Numbers in an Array](./LeetCode/0421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array)|[cpp](./LeetCode/0421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/solution.cpp)|||||
 [0424. Longest Repeating Character Replacement](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement)|[cpp](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement/solution.cpp)|||[py](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement/solution.py)||
 [0430. Flatten a Multilevel Doubly Linked List](./LeetCode/0430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List)|[cpp](./LeetCode/0430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List/solution.cpp)|||||
+[0432. All O`one Data Structure](./LeetCode/0432.%20All%20O`one%20Data%20Structure)|[cpp](./LeetCode/0432.%20All%20O`one%20Data%20Structure/solution.cpp)|||||
 [0433. Minimum Genetic Mutation](./LeetCode/0433.%20Minimum%20Genetic%20Mutation)|[cpp](./LeetCode/0433.%20Minimum%20Genetic%20Mutation/solution.cpp)|||[py](./LeetCode/0433.%20Minimum%20Genetic%20Mutation/solution.py)||
 [0434. Number of Segments in a String](./LeetCode/0434.%20Number%20of%20Segments%20in%20a%20String)|[cpp](./LeetCode/0434.%20Number%20of%20Segments%20in%20a%20String/solution.cpp)|||||
 [0435. Non overlapping Intervals](./LeetCode/0435.%20Non%20overlapping%20Intervals)|[cpp](./LeetCode/0435.%20Non%20overlapping%20Intervals/solution.cpp)|||||[kt](./LeetCode/0435.%20Non%20overlapping%20Intervals/Solution.kt)
@@ -260,7 +264,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0492. Construct the Rectangle](./LeetCode/0492.%20Construct%20the%20Rectangle)|[cpp](./LeetCode/0492.%20Construct%20the%20Rectangle/solution.cpp)|||||
 [0494. Target Sum](./LeetCode/0494.%20Target%20Sum)|[cpp](./LeetCode/0494.%20Target%20Sum/solution.cpp)|||||
 [0495. Teemo Attacking](./LeetCode/0495.%20Teemo%20Attacking)|[cpp](./LeetCode/0495.%20Teemo%20Attacking/solution.cpp)|||||
-[0496. Next Greater Element I](./LeetCode/0496.%20Next%20Greater%20Element%20I)|[cpp](./LeetCode/0496.%20Next%20Greater%20Element%20I/Solution.cpp)|||||
+[0496. Next Greater Element I](./LeetCode/0496.%20Next%20Greater%20Element%20I)|[cpp](./LeetCode/0496.%20Next%20Greater%20Element%20I/Solution.cpp)|||[py](./LeetCode/0496.%20Next%20Greater%20Element%20I/solution.py)||
 [0498. Diagonal Traverse](./LeetCode/0498.%20Diagonal%20Traverse)||||||[kt](./LeetCode/0498.%20Diagonal%20Traverse/Solution.kt)
 [0500. Keyboard Row](./LeetCode/0500.%20Keyboard%20Row)|[cpp](./LeetCode/0500.%20Keyboard%20Row/solution.cpp)|||||[kt](./LeetCode/0500.%20Keyboard%20Row/Solution.kt)
 [0502. IPO](./LeetCode/0502.%20IPO)|[cpp](./LeetCode/0502.%20IPO/solution.cpp)|||||
@@ -270,7 +274,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0507. Perfect Number](./LeetCode/0507.%20Perfect%20Number)|[cpp](./LeetCode/0507.%20Perfect%20Number/solution.cpp)|||[py](./LeetCode/0507.%20Perfect%20Number/solution.py)|[go](./LeetCode/0507.%20Perfect%20Number/solution.go)|
 [0509. Fibonacci Number](./LeetCode/0509.%20Fibonacci%20Number)|[cpp](./LeetCode/0509.%20Fibonacci%20Number/solution.cpp)|[java](./LeetCode/0509.%20Fibonacci%20Number/Solution.java)|[js](./LeetCode/0509.%20Fibonacci%20Number/solution.js)|[py](./LeetCode/0509.%20Fibonacci%20Number/solution.py)|[go](./LeetCode/0509.%20Fibonacci%20Number/solution.go)|[kt](./LeetCode/0509.%20Fibonacci%20Number/solution.kt)
 [0513. Find Bottom Left Tree Value](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value)|[cpp](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.cpp)|||||[kt](./LeetCode/0513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.kt)
-[0516. Longest Palindromic Subsequence](./LeetCode/0516.%20Longest%20Palindromic%20Subsequence)|[cpp](./LeetCode/0516.%20Longest%20Palindromic%20Subsequence/solution.cpp)|||||
+[0516. Longest Palindromic Subsequence](./LeetCode/0516.%20Longest%20Palindromic%20Subsequence)|[cpp](./LeetCode/0516.%20Longest%20Palindromic%20Subsequence/solution.cpp)|||[py](./LeetCode/0516.%20Longest%20Palindromic%20Subsequence/solution.py)||
 [0517. Super Washing Machines](./LeetCode/0517.%20Super%20Washing%20Machines)|[cpp](./LeetCode/0517.%20Super%20Washing%20Machines/solution.cpp)|||||
 [0518. Coin Change 2](./LeetCode/0518.%20Coin%20Change%202)|[cpp](./LeetCode/0518.%20Coin%20Change%202/solution.cpp)|||[py](./LeetCode/0518.%20Coin%20Change%202/solution.py)||
 [0520. Detect Capital](./LeetCode/0520.%20Detect%20Capital)|[cpp](./LeetCode/0520.%20Detect%20Capital/solution.cpp)|[java](./LeetCode/0520.%20Detect%20Capital/Solution.java)||||[kt](./LeetCode/0520.%20Detect%20Capital/Solution.kt)
@@ -334,6 +338,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin
 [0706. Design HashMap](./LeetCode/0706.%20Design%20HashMap)|[cpp](./LeetCode/0706.%20Design%20HashMap/solution.cpp)|||||
 [0709. To Lower Case](./LeetCode/0709.%20To%20Lower%20Case)|[cpp](./LeetCode/0709.%20To%20Lower%20Case/solution.cpp)|||[py](./LeetCode/0709.%20To%20Lower%20Case/solution.py)|[go](./LeetCode/0709.%20To%20Lower%20Case/solution.go)|
 [0717. 1-bit and 2-bit Characters](./LeetCode/0717.%201-bit%20and%202-bit%20Characters)|[cpp](./LeetCode/0717.%201-bit%20and%202-bit%20Characters/solution.cpp)|||||
+[0720. Longest Word in Dictionary](./LeetCode/0720.%20Longest%20Word%20in%20Dictionary)|[cpp](./LeetCode/0720.%20Longest%20Word%20in%20Dictionary/solution.cpp)|||[py](./LeetCode/0720.%20Longest%20Word%20in%20Dictionary/solution.py)|[go](./LeetCode/0720.%20Longest%20Word%20in%20Dictionary/solution.go)|
 [0721. Accounts Merge](./LeetCode/0721.%20Accounts%20Merge)||[java](./LeetCode/0721.%20Accounts%20Merge/Solution.java)||||[kt](./LeetCode/0721.%20Accounts%20Merge/Solution.kt)
 [0724. Find Pivot Index](./LeetCode/0724.%20Find%20Pivot%20Index)|[cpp](./LeetCode/0724.%20Find%20Pivot%20Index/solution.cpp)|||[py](./LeetCode/0724.%20Find%20Pivot%20Index/solution.py)||
 [0725. Split Linked List in Parts](./LeetCode/0725.%20Split%20Linked%20List%20in%20Parts)|[cpp](./LeetCode/0725.%20Split%20Linked%20List%20in%20Parts/solution.cpp)|||||
