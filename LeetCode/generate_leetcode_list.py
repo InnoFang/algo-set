@@ -7,7 +7,7 @@ solution = {
     'file_urls': {}
 }
 
-suffix = ["cpp", "java", "js", "py", "go", "kt"]
+suffix = ["cpp", "java", "js", "py", "go", "kt", "rs"]
 leetcode_loc = '.'
 
 def main():
@@ -23,8 +23,8 @@ def main():
     with open('./LeetCode.md', 'w+', encoding="utf-8") as md:
         md.write("# Leetcode\n**Problems have been solved:** " + str(len(solution_list)))
         md.write("\n\n")
-        md.write("Problem | Cpp | Java | JS | Python | Go | Kotlin\n")
-        md.write("---|---|---|---|---|---|---\n")
+        md.write("Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust\n")
+        md.write("---|---|---|---|---|---|---|---\n")
 
         for s in solution_list:
             md.write("[{}]({})".format(s['dir_name'], s['dir_url'].replace(" ", "%20")).replace("\\", "/"))

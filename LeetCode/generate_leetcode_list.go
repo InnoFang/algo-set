@@ -18,7 +18,7 @@ type Solution struct {
 
 const LEETCODE_DIR = `.\LeetCode`
 
-var suffix = []string{"cpp", "java", "js", "py", "go", "kt"}
+var suffix = []string{"cpp", "java", "js", "py", "go", "kt", "rs"}
 
 func main() {
 	md, err := os.OpenFile("./LeetCode.md", os.O_CREATE|os.O_WRONLY, 0666)
@@ -52,8 +52,8 @@ func main() {
 
 	generateHeader(md, len(solutions))
 
-	md.WriteString("Problem | Cpp | Java | JS | Python | Go | Kotlin\n")
-	md.WriteString("---|---|---|---|---|---|---\n")
+	md.WriteString("Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust\n")
+	md.WriteString("---|---|---|---|---|---|---|---\n")
 	for _, s := range solutions { 
 		md.WriteString(fmt.Sprintf("[%s](%s)", s.DirName, strings.Replace(s.DirUrl, " ", "%20", -1)))
 		for _, suf := range suffix {
