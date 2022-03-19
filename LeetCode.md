@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 487
+**Problems have been solved:** 493
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---
@@ -111,6 +111,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0144. Binary Tree Preorder Traversal](./LeetCode/0144.%20Binary%20Tree%20Preorder%20Traversal)||||||[kt](./LeetCode/0144.%20Binary%20Tree%20Preorder%20Traversal/Solution.kt)|
 [0145. Binary Tree Postorder Traversal](./LeetCode/0145.%20Binary%20Tree%20Postorder%20Traversal)||||||[kt](./LeetCode/0145.%20Binary%20Tree%20Postorder%20Traversal/Solution.kt)|
 [0148. Sort List](./LeetCode/0148.%20Sort%20List)||[java](./LeetCode/0148.%20Sort%20List/Solution.java)||||[kt](./LeetCode/0148.%20Sort%20List/Solution.kt)|
+[0149. Max Points on a Line](./LeetCode/0149.%20Max%20Points%20on%20a%20Line)|[cpp](./LeetCode/0149.%20Max%20Points%20on%20a%20Line/solution.cpp)|||[py](./LeetCode/0149.%20Max%20Points%20on%20a%20Line/solution.py)|||
 [0150. Evaluate Reverse Polish Notation](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation)|[cpp](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/solution.cpp)|[java](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.java)|[js](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.js)|[py](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.py)||[kt](./LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation/Solution.kt)|
 [0151. Reverse Words in a String](./LeetCode/0151.%20Reverse%20Words%20in%20a%20String)||[java](./LeetCode/0151.%20Reverse%20Words%20in%20a%20String/Solution.java)|||||
 [0152. Maximum Product Subarray](./LeetCode/0152.%20Maximum%20Product%20Subarray)||||[py](./LeetCode/0152.%20Maximum%20Product%20Subarray/solution.py)|||
@@ -132,6 +133,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0198. House Robber](./LeetCode/0198.%20House%20Robber)|[cpp](./LeetCode/0198.%20House%20Robber/solution.cpp)|||[py](./LeetCode/0198.%20House%20Robber/solution.py)|[go](./LeetCode/0198.%20House%20Robber/solution.go)|[kt](./LeetCode/0198.%20House%20Robber/Solution.kt)|
 [0199. Binary Tree Right Side View](./LeetCode/0199.%20Binary%20Tree%20Right%20Side%20View)||||||[kt](./LeetCode/0199.%20Binary%20Tree%20Right%20Side%20View/Solution.kt)|
 [0200. Number of Islands](./LeetCode/0200.%20Number%20of%20Islands)|[cpp](./LeetCode/0200.%20Number%20of%20Islands/solution.cpp)|||[py](./LeetCode/0200.%20Number%20of%20Islands/solution.py)||[kt](./LeetCode/0200.%20Number%20of%20Islands/Solution.kt)|
+[0201. Bitwise AND of Numbers Range](./LeetCode/0201.%20Bitwise%20AND%20of%20Numbers%20Range)||||[py](./LeetCode/0201.%20Bitwise%20AND%20of%20Numbers%20Range/solution.py)|||
 [0202. Happy Number](./LeetCode/0202.%20Happy%20Number)|[cpp](./LeetCode/0202.%20Happy%20Number/solution.cpp)|||[py](./LeetCode/0202.%20Happy%20Number/solution.py)||[kt](./LeetCode/0202.%20Happy%20Number/Solution.kt)|
 [0203. Remove Linked List Elements](./LeetCode/0203.%20Remove%20Linked%20List%20Elements)||||||[kt](./LeetCode/0203.%20Remove%20Linked%20List%20Elements/Solution.kt)|
 [0204. Count Primes](./LeetCode/0204.%20Count%20Primes)||||||[kt](./LeetCode/0204.%20Count%20Primes/Solution.kt)|
@@ -146,6 +148,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0217. Contains Duplicate](./LeetCode/0217.%20Contains%20Duplicate)|[cpp](./LeetCode/0217.%20Contains%20Duplicate/Solution.cpp)|||[py](./LeetCode/0217.%20Contains%20Duplicate/solution.py)||[kt](./LeetCode/0217.%20Contains%20Duplicate/Solution.kt)|
 [0219. Contains Duplicate II](./LeetCode/0219.%20Contains%20Duplicate%20II)|[cpp](./LeetCode/0219.%20Contains%20Duplicate%20II/solution.cpp)|||[py](./LeetCode/0219.%20Contains%20Duplicate%20II/solution.py)|[go](./LeetCode/0219.%20Contains%20Duplicate%20II/solution.go)|[kt](./LeetCode/0219.%20Contains%20Duplicate%20II/Solution.kt)|
 [0220. Contains Duplicate III](./LeetCode/0220.%20Contains%20Duplicate%20III)|[cpp](./LeetCode/0220.%20Contains%20Duplicate%20III/solution.cpp)|||||[kt](./LeetCode/0220.%20Contains%20Duplicate%20III/Solution.kt)|
+[0221. Maximal Square](./LeetCode/0221.%20Maximal%20Square)||||[py](./LeetCode/0221.%20Maximal%20Square/solution.py)|||
 [0223. Rectangle Area](./LeetCode/0223.%20Rectangle%20Area)|[cpp](./LeetCode/0223.%20Rectangle%20Area/solution.cpp)||||||
 [0224. Basic Calculator](./LeetCode/0224.%20Basic%20Calculator)|[cpp](./LeetCode/0224.%20Basic%20Calculator/solution.cpp)||||||
 [0225. Implement Stack using Queues](./LeetCode/0225.%20Implement%20Stack%20using%20Queues)|[cpp](./LeetCode/0225.%20Implement%20Stack%20using%20Queues/Solution.cpp)||||||
@@ -220,7 +223,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0389. Find the Difference](./LeetCode/0389.%20Find%20the%20Difference)|[cpp](./LeetCode/0389.%20Find%20the%20Difference/solution.cpp)|||||[kt](./LeetCode/0389.%20Find%20the%20Difference/Solution.kt)|
 [0390. Elimination Game](./LeetCode/0390.%20Elimination%20Game)|[cpp](./LeetCode/0390.%20Elimination%20Game/solution.cpp)|||[py](./LeetCode/0390.%20Elimination%20Game/solution.py)|[go](./LeetCode/0390.%20Elimination%20Game/solution.go)||
 [0391. Perfect Rectangle](./LeetCode/0391.%20Perfect%20Rectangle)|[cpp](./LeetCode/0391.%20Perfect%20Rectangle/solution.cpp)||||||
-[0392. Is Subsequence](./LeetCode/0392.%20Is%20Subsequence)||[java](./LeetCode/0392.%20Is%20Subsequence/Solution.java)||||[kt](./LeetCode/0392.%20Is%20Subsequence/Solution.kt)|
+[0392. Is Subsequence](./LeetCode/0392.%20Is%20Subsequence)|[cpp](./LeetCode/0392.%20Is%20Subsequence/solution.cpp)|[java](./LeetCode/0392.%20Is%20Subsequence/Solution.java)||[py](./LeetCode/0392.%20Is%20Subsequence/solution.py)||[kt](./LeetCode/0392.%20Is%20Subsequence/Solution.kt)|
 [0393. UTF-8 Validation](./LeetCode/0393.%20UTF-8%20Validation)|[cpp](./LeetCode/0393.%20UTF-8%20Validation/solution.cpp)|||[py](./LeetCode/0393.%20UTF-8%20Validation/solution.py)|||
 [0395. Longest Substring with At Least K Repeating Characters](./LeetCode/0395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters)|[cpp](./LeetCode/0395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/solution.cpp)||||||
 [0397. Integer Replacement](./LeetCode/0397.%20Integer%20Replacement)|[cpp](./LeetCode/0397.%20Integer%20Replacement/solution.cpp)|||||[kt](./LeetCode/0397.%20Integer%20Replacement/Solution.kt)|
@@ -237,7 +240,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0421. Maximum XOR of Two Numbers in an Array](./LeetCode/0421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array)|[cpp](./LeetCode/0421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/solution.cpp)||||||
 [0424. Longest Repeating Character Replacement](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement)|[cpp](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement/solution.cpp)|||[py](./LeetCode/0424.%20Longest%20Repeating%20Character%20Replacement/solution.py)|||
 [0430. Flatten a Multilevel Doubly Linked List](./LeetCode/0430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List)|[cpp](./LeetCode/0430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List/solution.cpp)||||||
-[0432. All O`one Data Structure](./LeetCode/0432.%20All%20O`one%20Data%20Structure)|[cpp](./LeetCode/0432.%20All%20O`one%20Data%20Structure/solution.cpp)||||||
+[0432. All O one Data Structure](./LeetCode/0432.%20All%20O%20one%20Data%20Structure)|[cpp](./LeetCode/0432.%20All%20O%20one%20Data%20Structure/solution.cpp)||||||
 [0433. Minimum Genetic Mutation](./LeetCode/0433.%20Minimum%20Genetic%20Mutation)|[cpp](./LeetCode/0433.%20Minimum%20Genetic%20Mutation/solution.cpp)|||[py](./LeetCode/0433.%20Minimum%20Genetic%20Mutation/solution.py)|||
 [0434. Number of Segments in a String](./LeetCode/0434.%20Number%20of%20Segments%20in%20a%20String)|[cpp](./LeetCode/0434.%20Number%20of%20Segments%20in%20a%20String/solution.cpp)||||||
 [0435. Non overlapping Intervals](./LeetCode/0435.%20Non%20overlapping%20Intervals)|[cpp](./LeetCode/0435.%20Non%20overlapping%20Intervals/solution.cpp)|||||[kt](./LeetCode/0435.%20Non%20overlapping%20Intervals/Solution.kt)|
@@ -310,6 +313,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0598. Range Addition II](./LeetCode/0598.%20Range%20Addition%20II)|[cpp](./LeetCode/0598.%20Range%20Addition%20II/solution.cpp)||||[go](./LeetCode/0598.%20Range%20Addition%20II/solution.go)||
 [0599. Minimum Index Sum of Two Lists](./LeetCode/0599.%20Minimum%20Index%20Sum%20of%20Two%20Lists)|[cpp](./LeetCode/0599.%20Minimum%20Index%20Sum%20of%20Two%20Lists/solution.cpp)|||[py](./LeetCode/0599.%20Minimum%20Index%20Sum%20of%20Two%20Lists/solution.py)|||
 [0605. Can Place Flowers](./LeetCode/0605.%20Can%20Place%20Flowers)|[cpp](./LeetCode/0605.%20Can%20Place%20Flowers/solution.cpp)||||||
+[0606. Construct String from Binary Tree](./LeetCode/0606.%20Construct%20String%20from%20Binary%20Tree)|[cpp](./LeetCode/0606.%20Construct%20String%20from%20Binary%20Tree/solution.cpp)||||||
 [0611. Valid Triangle Number](./LeetCode/0611.%20Valid%20Triangle%20Number)|[cpp](./LeetCode/0611.%20Valid%20Triangle%20Number/solution.cpp)|||||[kt](./LeetCode/0611.%20Valid%20Triangle%20Number/Solution.kt)|
 [0628. Maximum Product of Three Numbers](./LeetCode/0628.%20Maximum%20Product%20of%20Three%20Numbers)||||[py](./LeetCode/0628.%20Maximum%20Product%20of%20Three%20Numbers/solution.py)|||
 [0633. Sum of Square Numbers](./LeetCode/0633.%20Sum%20of%20Square%20Numbers)|[cpp](./LeetCode/0633.%20Sum%20of%20Square%20Numbers/solution.cpp)|||[py](./LeetCode/0633.%20Sum%20of%20Square%20Numbers/solution.py)|||
@@ -350,6 +354,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0745. Prefix and Suffix Search](./LeetCode/0745.%20Prefix%20and%20Suffix%20Search)||||||[kt](./LeetCode/0745.%20Prefix%20and%20Suffix%20Search/Solution.kt)|
 [0746. Min Cost Climbing Stairs](./LeetCode/0746.%20Min%20Cost%20Climbing%20Stairs)|[cpp](./LeetCode/0746.%20Min%20Cost%20Climbing%20Stairs/solution.cpp)|||[py](./LeetCode/0746.%20Min%20Cost%20Climbing%20Stairs/solution.py)|[go](./LeetCode/0746.%20Min%20Cost%20Climbing%20Stairs/solution.go)||
 [0747. Largest Number At Least Twice of Others](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others)|[cpp](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/solution.cpp)|||[py](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/solution.py)|[go](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/solution.go)|[kt](./LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/Solution.kt)|
+[0752. Open the Lock](./LeetCode/0752.%20Open%20the%20Lock)|[cpp](./LeetCode/0752.%20Open%20the%20Lock/solution.cpp)|||[py](./LeetCode/0752.%20Open%20the%20Lock/solution.py)|||
 [0760. Find Anagram Mappings](./LeetCode/0760.%20Find%20Anagram%20Mappings)||||||[kt](./LeetCode/0760.%20Find%20Anagram%20Mappings/Solution.kt)|
 [0762. Prime Number of Set Bits in Binary Representation](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)||||||[kt](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/Solution.kt)|
 [0765. Couples Holding Hands](./LeetCode/0765.%20Couples%20Holding%20Hands)|[cpp](./LeetCode/0765.%20Couples%20Holding%20Hands/solution.cpp)|||[py](./LeetCode/0765.%20Couples%20Holding%20Hands/solution.py)|||
@@ -483,6 +488,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2013. Detect Squares](./LeetCode/2013.%20Detect%20Squares)|[cpp](./LeetCode/2013.%20Detect%20Squares/solution.cpp)||||||
 [2016. Maximum Difference Between Increasing Elements](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements)|[cpp](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements/solution.cpp)||||||
 [2022. Convert 1D Array Into 2D Array](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array)|[cpp](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.cpp)|||[py](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.py)|[go](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.go)||
+[2043. Simple Bank System](./LeetCode/2043.%20Simple%20Bank%20System)|[cpp](./LeetCode/2043.%20Simple%20Bank%20System/solution.cpp)|||[py](./LeetCode/2043.%20Simple%20Bank%20System/solution.py)|[go](./LeetCode/2043.%20Simple%20Bank%20System/solution.go)||[rs](./LeetCode/2043.%20Simple%20Bank%20System/solution.rs)
 [2044. Count Number of Maximum Bitwise-OR Subsets](./LeetCode/2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets)|[cpp](./LeetCode/2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/solution.cpp)|||[py](./LeetCode/2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/solution.py)|||
 [2047. Number of Valid Words in a Sentence](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence)|[cpp](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence/solution.cpp)||||||
 [2055. Plates Between Candles](./LeetCode/2055.%20Plates%20Between%20Candles)|[cpp](./LeetCode/2055.%20Plates%20Between%20Candles/solution.cpp)|||[py](./LeetCode/2055.%20Plates%20Between%20Candles/solution.py)|||
