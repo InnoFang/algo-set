@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 493
+**Problems have been solved:** 498
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---
@@ -188,6 +188,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0304. Range Sum Query 2D - Immutable](./LeetCode/0304.%20Range%20Sum%20Query%202D%20-%20Immutable)|[cpp](./LeetCode/0304.%20Range%20Sum%20Query%202D%20-%20Immutable/solution.cpp)|||[py](./LeetCode/0304.%20Range%20Sum%20Query%202D%20-%20Immutable/solution.py)|||
 [0306. Additive Number](./LeetCode/0306.%20Additive%20Number)|[cpp](./LeetCode/0306.%20Additive%20Number/solution.cpp)||||||
 [0307. Range Sum Query - Mutable](./LeetCode/0307.%20Range%20Sum%20Query%20-%20Mutable)|[cpp](./LeetCode/0307.%20Range%20Sum%20Query%20-%20Mutable/solution.cpp)||||||
+[0309. Best Time to Buy and Sell Stock with Cooldown](./LeetCode/0309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)||||[py](./LeetCode/0309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown/solution.py)|||
 [0316. Remove Duplicate Letters](./LeetCode/0316.%20Remove%20Duplicate%20Letters)|[cpp](./LeetCode/0316.%20Remove%20Duplicate%20Letters/solution.cpp)||||||
 [0318. Maximum Product of Word Lengths](./LeetCode/0318.%20Maximum%20Product%20of%20Word%20Lengths)|[cpp](./LeetCode/0318.%20Maximum%20Product%20of%20Word%20Lengths/solution.cpp)||||||
 [0322. Coin Change](./LeetCode/0322.%20Coin%20Change)|[cpp](./LeetCode/0322.%20Coin%20Change/solution.cpp)|||[py](./LeetCode/0322.%20Coin%20Change/solution.py)||[kt](./LeetCode/0322.%20Coin%20Change/Solution.kt)|
@@ -341,6 +342,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0705. Design HashSet](./LeetCode/0705.%20Design%20HashSet)|[cpp](./LeetCode/0705.%20Design%20HashSet/solution.cpp)||||||
 [0706. Design HashMap](./LeetCode/0706.%20Design%20HashMap)|[cpp](./LeetCode/0706.%20Design%20HashMap/solution.cpp)||||||
 [0709. To Lower Case](./LeetCode/0709.%20To%20Lower%20Case)|[cpp](./LeetCode/0709.%20To%20Lower%20Case/solution.cpp)|||[py](./LeetCode/0709.%20To%20Lower%20Case/solution.py)|[go](./LeetCode/0709.%20To%20Lower%20Case/solution.go)||
+[0714. Best Time to Buy and Sell Stock with Transaction Fee](./LeetCode/0714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)||||[py](./LeetCode/0714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee/solution.py)|||
 [0717. 1-bit and 2-bit Characters](./LeetCode/0717.%201-bit%20and%202-bit%20Characters)|[cpp](./LeetCode/0717.%201-bit%20and%202-bit%20Characters/solution.cpp)||||||
 [0720. Longest Word in Dictionary](./LeetCode/0720.%20Longest%20Word%20in%20Dictionary)|[cpp](./LeetCode/0720.%20Longest%20Word%20in%20Dictionary/solution.cpp)|||[py](./LeetCode/0720.%20Longest%20Word%20in%20Dictionary/solution.py)|[go](./LeetCode/0720.%20Longest%20Word%20in%20Dictionary/solution.go)||
 [0721. Accounts Merge](./LeetCode/0721.%20Accounts%20Merge)||[java](./LeetCode/0721.%20Accounts%20Merge/Solution.java)||||[kt](./LeetCode/0721.%20Accounts%20Merge/Solution.kt)|
@@ -413,6 +415,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1009. Complement of Base 10 Integer](./LeetCode/1009.%20Complement%20of%20Base%2010%20Integer)|[cpp](./LeetCode/1009.%20Complement%20of%20Base%2010%20Integer/solution.cpp)|[java](./LeetCode/1009.%20Complement%20of%20Base%2010%20Integer/Solution.java)||[py](./LeetCode/1009.%20Complement%20of%20Base%2010%20Integer/solution.py)||[kt](./LeetCode/1009.%20Complement%20of%20Base%2010%20Integer/solution.kt)|
 [1011. Capacity To Ship Packages Within D Days](./LeetCode/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days)|[cpp](./LeetCode/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days/solution.cpp)|||[py](./LeetCode/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days/solution.py)|||
 [1013. Partition Array Into Three Parts With Equal Sum](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)|||||[go](./LeetCode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/solution.go)||
+[1014. Best Sightseeing Pair](./LeetCode/1014.%20Best%20Sightseeing%20Pair)||||[py](./LeetCode/1014.%20Best%20Sightseeing%20Pair/solution.py)|||
 [1020. Number of Enclaves](./LeetCode/1020.%20Number%20of%20Enclaves)|[cpp](./LeetCode/1020.%20Number%20of%20Enclaves/solution.cpp)|||[py](./LeetCode/1020.%20Number%20of%20Enclaves/solution.py)|||
 [1029. Two City Scheduling](./LeetCode/1029.%20Two%20City%20Scheduling)|[cpp](./LeetCode/1029.%20Two%20City%20Scheduling/solution.cpp)||||||
 [1035. Uncrossed Lines](./LeetCode/1035.%20Uncrossed%20Lines)|[cpp](./LeetCode/1035.%20Uncrossed%20Lines/solution.cpp)|||[py](./LeetCode/1035.%20Uncrossed%20Lines/solution.py)|||
@@ -441,6 +444,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1254. Number of Closed Islands](./LeetCode/1254.%20Number%20of%20Closed%20Islands)|[cpp](./LeetCode/1254.%20Number%20of%20Closed%20Islands/solution.cpp)|||[py](./LeetCode/1254.%20Number%20of%20Closed%20Islands/solution.py)|||
 [1306. Jump Game III](./LeetCode/1306.%20Jump%20Game%20III)|[cpp](./LeetCode/1306.%20Jump%20Game%20III/solution.cpp)|||[py](./LeetCode/1306.%20Jump%20Game%20III/solution.py)|||
 [1310. XOR Queries of a Subarray](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray)|[cpp](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray/solution.cpp)|||[py](./LeetCode/1310.%20XOR%20Queries%20of%20a%20Subarray/solution.py)|||
+[1314. Matrix Block Sum](./LeetCode/1314.%20Matrix%20Block%20Sum)||||[py](./LeetCode/1314.%20Matrix%20Block%20Sum/solution.py)|||
 [1319. Number of Operations to Make Network Connected](./LeetCode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected)|[cpp](./LeetCode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected/solution.cpp)|||[py](./LeetCode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected/solution.py)|||
 [1337. The K Weakest Rows in a Matrix](./LeetCode/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix)|[cpp](./LeetCode/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/solution.cpp)|||[py](./LeetCode/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/solution.py)|[go](./LeetCode/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/solution.go)||
 [1342. Number of Steps to Reduce a Number to Zero](./LeetCode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)|[cpp](./LeetCode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/solution.cpp)|||[py](./LeetCode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/solution.py)|[go](./LeetCode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/solution.go)||
@@ -488,6 +492,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2013. Detect Squares](./LeetCode/2013.%20Detect%20Squares)|[cpp](./LeetCode/2013.%20Detect%20Squares/solution.cpp)||||||
 [2016. Maximum Difference Between Increasing Elements](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements)|[cpp](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements/solution.cpp)||||||
 [2022. Convert 1D Array Into 2D Array](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array)|[cpp](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.cpp)|||[py](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.py)|[go](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.go)||
+[2039. The Time When the Network Becomes Idle](./LeetCode/2039.%20The%20Time%20When%20the%20Network%20Becomes%20Idle)||||[py](./LeetCode/2039.%20The%20Time%20When%20the%20Network%20Becomes%20Idle/solution.py)|||
 [2043. Simple Bank System](./LeetCode/2043.%20Simple%20Bank%20System)|[cpp](./LeetCode/2043.%20Simple%20Bank%20System/solution.cpp)|||[py](./LeetCode/2043.%20Simple%20Bank%20System/solution.py)|[go](./LeetCode/2043.%20Simple%20Bank%20System/solution.go)||[rs](./LeetCode/2043.%20Simple%20Bank%20System/solution.rs)
 [2044. Count Number of Maximum Bitwise-OR Subsets](./LeetCode/2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets)|[cpp](./LeetCode/2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/solution.cpp)|||[py](./LeetCode/2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/solution.py)|||
 [2047. Number of Valid Words in a Sentence](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence)|[cpp](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence/solution.cpp)||||||
