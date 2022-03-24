@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 507
+**Problems have been solved:** 510
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---
@@ -325,6 +325,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0650. 2 Keys Keyboard](./LeetCode/0650.%202%20Keys%20Keyboard)|[cpp](./LeetCode/0650.%202%20Keys%20Keyboard/solution.cpp)|[java](./LeetCode/0650.%202%20Keys%20Keyboard/Solution.java)|[js](./LeetCode/0650.%202%20Keys%20Keyboard/solution.js)|[py](./LeetCode/0650.%202%20Keys%20Keyboard/solution.py)|[go](./LeetCode/0650.%202%20Keys%20Keyboard/solution.go)|[kt](./LeetCode/0650.%202%20Keys%20Keyboard/solution.kt)|
 [0653. Two Sum IV - Input is a BST](./LeetCode/0653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST)|[cpp](./LeetCode/0653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/solution.cpp)|||[py](./LeetCode/0653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/solution.py)|||
 [0657. Robot Return to Origin](./LeetCode/0657.%20Robot%20Return%20to%20Origin)|[cpp](./LeetCode/0657.%20Robot%20Return%20to%20Origin/solution.cpp)||||[go](./LeetCode/0657.%20Robot%20Return%20to%20Origin/Solution.go)||
+[0661. Image Smoother](./LeetCode/0661.%20Image%20Smoother)|[cpp](./LeetCode/0661.%20Image%20Smoother/solution.cpp)||||||[rs](./LeetCode/0661.%20Image%20Smoother/solution.rs)
 [0665. Non-decreasing Array](./LeetCode/0665.%20Non-decreasing%20Array)|[cpp](./LeetCode/0665.%20Non-decreasing%20Array/solution.cpp)|||[py](./LeetCode/0665.%20Non-decreasing%20Array/solution.py)||[kt](./LeetCode/0665.%20Non-decreasing%20Array/Solution.kt)|
 [0673. Number of Longest Increasing Subsequence](./LeetCode/0673.%20Number%20of%20Longest%20Increasing%20Subsequence)|[cpp](./LeetCode/0673.%20Number%20of%20Longest%20Increasing%20Subsequence/solution.cpp)|||[py](./LeetCode/0673.%20Number%20of%20Longest%20Increasing%20Subsequence/solution.py)|||
 [0674. Longest Continuous Increasing Subsequence](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence)|[cpp](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence/solution.cpp)|||[py](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence/solution.py)|||
@@ -394,6 +395,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0872. Leaf-Similar Trees](./LeetCode/0872.%20Leaf-Similar%20Trees)|[cpp](./LeetCode/0872.%20Leaf-Similar%20Trees/Solution.cpp)|||[py](./LeetCode/0872.%20Leaf-Similar%20Trees/solution.py)|||
 [0876. Middle of the Linked List](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List)|||||[go](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List/solution.go)||
 [0884. Uncommon Words from Two Sentences](./LeetCode/0884.%20Uncommon%20Words%20from%20Two%20Sentences)|[cpp](./LeetCode/0884.%20Uncommon%20Words%20from%20Two%20Sentences/solution.cpp)|||[py](./LeetCode/0884.%20Uncommon%20Words%20from%20Two%20Sentences/solution.py)|[go](./LeetCode/0884.%20Uncommon%20Words%20from%20Two%20Sentences/solution.go)||
+[0886. Possible Bipartition](./LeetCode/0886.%20Possible%20Bipartition)|[cpp](./LeetCode/0886.%20Possible%20Bipartition/solution.cpp)|||[py](./LeetCode/0886.%20Possible%20Bipartition/solution.py)|||
 [0888. Fair Candy Swap](./LeetCode/0888.%20Fair%20Candy%20Swap)|[cpp](./LeetCode/0888.%20Fair%20Candy%20Swap/solution.cpp)|||[py](./LeetCode/0888.%20Fair%20Candy%20Swap/solution.py)|||
 [0890. Find and Replace Pattern](./LeetCode/0890.%20Find%20and%20Replace%20Pattern)|[cpp](./LeetCode/0890.%20Find%20and%20Replace%20Pattern/solution.cpp)||||||
 [0896. Monotonic Array](./LeetCode/0896.%20Monotonic%20Array)|[cpp](./LeetCode/0896.%20Monotonic%20Array/solution.cpp)||||||
@@ -490,6 +492,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1816. Truncate Sentence](./LeetCode/1816.%20Truncate%20Sentence)|[cpp](./LeetCode/1816.%20Truncate%20Sentence/solution.cpp)||||||
 [1894. Find the Student that Will Replace the Chalk](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk)|[cpp](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/solution.cpp)||||||
 [1905. Count Sub Islands](./LeetCode/1905.%20Count%20Sub%20Islands)|[cpp](./LeetCode/1905.%20Count%20Sub%20Islands/solution.cpp)|||[py](./LeetCode/1905.%20Count%20Sub%20Islands/solution.py)|||
+[1926. Nearest Exit from Entrance in Maze](./LeetCode/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze)|[cpp](./LeetCode/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze/solution.cpp)|||[py](./LeetCode/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze/solution.py)|||
 [1984. Minimum Difference Between Highest and Lowest of K Scores](./LeetCode/1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores)|[cpp](./LeetCode/1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/solution.cpp)|||[py](./LeetCode/1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/solution.py)|||
 [1995. Count Special Quadruplets](./LeetCode/1995.%20Count%20Special%20Quadruplets)|[cpp](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.cpp)|||[py](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.py)|[go](./LeetCode/1995.%20Count%20Special%20Quadruplets/solution.go)||
 [1996. The Number of Weak Characters in the Game](./LeetCode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game)|[cpp](./LeetCode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game/solution.cpp)||||||
