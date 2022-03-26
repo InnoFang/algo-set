@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 512
+**Problems have been solved:** 514
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---
@@ -331,6 +331,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0673. Number of Longest Increasing Subsequence](./LeetCode/0673.%20Number%20of%20Longest%20Increasing%20Subsequence)|[cpp](./LeetCode/0673.%20Number%20of%20Longest%20Increasing%20Subsequence/solution.cpp)|||[py](./LeetCode/0673.%20Number%20of%20Longest%20Increasing%20Subsequence/solution.py)|||
 [0674. Longest Continuous Increasing Subsequence](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence)|[cpp](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence/solution.cpp)|||[py](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence/solution.py)|||
 [0678. Valid Parenthesis String](./LeetCode/0678.%20Valid%20Parenthesis%20String)|[cpp](./LeetCode/0678.%20Valid%20Parenthesis%20String/solution.cpp)||||||
+[0682. Baseball Game](./LeetCode/0682.%20Baseball%20Game)|[cpp](./LeetCode/0682.%20Baseball%20Game/solution.cpp)|||[py](./LeetCode/0682.%20Baseball%20Game/solution.py)|||
 [0684. Redundant Connection](./LeetCode/0684.%20Redundant%20Connection)|[cpp](./LeetCode/0684.%20Redundant%20Connection/Solution.cpp)|[java](./LeetCode/0684.%20Redundant%20Connection/Solution.java)||[py](./LeetCode/0684.%20Redundant%20Connection/Solution.py)||[kt](./LeetCode/0684.%20Redundant%20Connection/Solution.kt)|
 [0686. Repeated String Match](./LeetCode/0686.%20Repeated%20String%20Match)|[cpp](./LeetCode/0686.%20Repeated%20String%20Match/solution.cpp)|||[py](./LeetCode/0686.%20Repeated%20String%20Match/solution.py)|[go](./LeetCode/0686.%20Repeated%20String%20Match/solution.go)||
 [0690. Employee Importance](./LeetCode/0690.%20Employee%20Importance)|[cpp](./LeetCode/0690.%20Employee%20Importance/solution.cpp)|||[py](./LeetCode/0690.%20Employee%20Importance/solution.py)|||
@@ -429,6 +430,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1029. Two City Scheduling](./LeetCode/1029.%20Two%20City%20Scheduling)|[cpp](./LeetCode/1029.%20Two%20City%20Scheduling/solution.cpp)||||||
 [1035. Uncrossed Lines](./LeetCode/1035.%20Uncrossed%20Lines)|[cpp](./LeetCode/1035.%20Uncrossed%20Lines/solution.cpp)|||[py](./LeetCode/1035.%20Uncrossed%20Lines/solution.py)|||
 [1036. Escape a Large Maze](./LeetCode/1036.%20Escape%20a%20Large%20Maze)|[cpp](./LeetCode/1036.%20Escape%20a%20Large%20Maze/solution.cpp)||||||
+[1042. Flower Planting With No Adjacent](./LeetCode/1042.%20Flower%20Planting%20With%20No%20Adjacent)|[cpp](./LeetCode/1042.%20Flower%20Planting%20With%20No%20Adjacent/solution.cpp)|||[py](./LeetCode/1042.%20Flower%20Planting%20With%20No%20Adjacent/solution.py)|||
 [1047. Remove All Adjacent Duplicates In String](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|[cpp](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/solution.cpp)|||[py](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/solution.py)|||
 [1052. Grumpy Bookstore Owner](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner)|[cpp](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner/solution.cpp)|||[py](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner/solution.py)|||
 [1078. Occurrences After Bigram](./LeetCode/1078.%20Occurrences%20After%20Bigram)|[cpp](./LeetCode/1078.%20Occurrences%20After%20Bigram/solution.cpp)|||[py](./LeetCode/1078.%20Occurrences%20After%20Bigram/solution.py)|[go](./LeetCode/1078.%20Occurrences%20After%20Bigram/solution.go)||
