@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 514
+**Problems have been solved:** 517
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---
@@ -405,6 +405,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0913. Cat and Mouse](./LeetCode/0913.%20Cat%20and%20Mouse)|[cpp](./LeetCode/0913.%20Cat%20and%20Mouse/solution.cpp)||||||
 [0917. Reverse Only Letters](./LeetCode/0917.%20Reverse%20Only%20Letters)|[cpp](./LeetCode/0917.%20Reverse%20Only%20Letters/solution.cpp)||||||
 [0918. Maximum Sum Circular Subarray](./LeetCode/0918.%20Maximum%20Sum%20Circular%20Subarray)|[cpp](./LeetCode/0918.%20Maximum%20Sum%20Circular%20Subarray/solution.cpp)|||[py](./LeetCode/0918.%20Maximum%20Sum%20Circular%20Subarray/solution.py)|||
+[0931. Minimum Falling Path Sum](./LeetCode/0931.%20Minimum%20Falling%20Path%20Sum)||||[py](./LeetCode/0931.%20Minimum%20Falling%20Path%20Sum/solution.py)|||
 [0934. Shortest Bridge](./LeetCode/0934.%20Shortest%20Bridge)|[cpp](./LeetCode/0934.%20Shortest%20Bridge/solution.cpp)|||[py](./LeetCode/0934.%20Shortest%20Bridge/solution.py)|||
 [0938. Range Sum of BST](./LeetCode/0938.%20Range%20Sum%20of%20BST)|[cpp](./LeetCode/0938.%20Range%20Sum%20of%20BST/solution.cpp)|||[py](./LeetCode/0938.%20Range%20Sum%20of%20BST/solution.py)|||
 [0945. Minimum Increment to Make Array Unique](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique)|[cpp](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.cpp)|||[py](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.py)|[go](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.go)||
@@ -483,6 +484,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1614. Maximum Nesting Depth of the Parentheses](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses)|[cpp](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/solution.cpp)|||[py](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/solution.py)|[go](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/solution.go)||
 [1629. Slowest Key](./LeetCode/1629.%20Slowest%20Key)|[cpp](./LeetCode/1629.%20Slowest%20Key/solution.cpp)|||[py](./LeetCode/1629.%20Slowest%20Key/solution.py)|[go](./LeetCode/1629.%20Slowest%20Key/solution.go)||
 [1646. Get Maximum in Generated Array](./LeetCode/1646.%20Get%20Maximum%20in%20Generated%20Array)|[cpp](./LeetCode/1646.%20Get%20Maximum%20in%20Generated%20Array/solution.cpp)||||||
+[1654. Minimum Jumps to Reach Home](./LeetCode/1654.%20Minimum%20Jumps%20to%20Reach%20Home)|[cpp](./LeetCode/1654.%20Minimum%20Jumps%20to%20Reach%20Home/solution.cpp)|||[py](./LeetCode/1654.%20Minimum%20Jumps%20to%20Reach%20Home/solution.py)|||
 [1688. Count of Matches in Tournament](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament)|[cpp](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.cpp)|||[py](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.py)|[go](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.go)||
 [1716. Calculate Money in Leetcode Bank](./LeetCode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank)|[cpp](./LeetCode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank/solution.cpp)||||||
 [1720. Decode XORed Array](./LeetCode/1720.%20Decode%20XORed%20Array)|[cpp](./LeetCode/1720.%20Decode%20XORed%20Array/solution.cpp)|||[py](./LeetCode/1720.%20Decode%20XORed%20Array/solution.py)|||
@@ -505,6 +507,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2013. Detect Squares](./LeetCode/2013.%20Detect%20Squares)|[cpp](./LeetCode/2013.%20Detect%20Squares/solution.cpp)||||||
 [2016. Maximum Difference Between Increasing Elements](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements)|[cpp](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements/solution.cpp)||||||
 [2022. Convert 1D Array Into 2D Array](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array)|[cpp](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.cpp)|||[py](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.py)|[go](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.go)||
+[2028. Find Missing Observations](./LeetCode/2028.%20Find%20Missing%20Observations)|[cpp](./LeetCode/2028.%20Find%20Missing%20Observations/solution.cpp)||||||
 [2038. Remove Colored Pieces if Both Neighbors are the Same Color](./LeetCode/2038.%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color)|[cpp](./LeetCode/2038.%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/solution.cpp)||||||
 [2039. The Time When the Network Becomes Idle](./LeetCode/2039.%20The%20Time%20When%20the%20Network%20Becomes%20Idle)||||[py](./LeetCode/2039.%20The%20Time%20When%20the%20Network%20Becomes%20Idle/solution.py)|||
 [2043. Simple Bank System](./LeetCode/2043.%20Simple%20Bank%20System)|[cpp](./LeetCode/2043.%20Simple%20Bank%20System/solution.cpp)|||[py](./LeetCode/2043.%20Simple%20Bank%20System/solution.py)|[go](./LeetCode/2043.%20Simple%20Bank%20System/solution.go)||[rs](./LeetCode/2043.%20Simple%20Bank%20System/solution.rs)
