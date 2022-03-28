@@ -1,7 +1,7 @@
 /**
- * 60 / 60 test cases passed.
+ * 204 / 204 test cases passed.
  * Runtime: 0 ms
- * Memory Usage: 34.9 MB 
+ * Memory Usage: 38.4 MB 
  */
 class Solution {
     public boolean hasAlternatingBits(int n) {
