@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 517
+**Problems have been solved:** 519
 
 Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---
@@ -336,7 +336,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0686. Repeated String Match](./LeetCode/0686.%20Repeated%20String%20Match)|[cpp](./LeetCode/0686.%20Repeated%20String%20Match/solution.cpp)|||[py](./LeetCode/0686.%20Repeated%20String%20Match/solution.py)|[go](./LeetCode/0686.%20Repeated%20String%20Match/solution.go)||
 [0690. Employee Importance](./LeetCode/0690.%20Employee%20Importance)|[cpp](./LeetCode/0690.%20Employee%20Importance/solution.cpp)|||[py](./LeetCode/0690.%20Employee%20Importance/solution.py)|||
 [0692. Top K Frequent Words](./LeetCode/0692.%20Top%20K%20Frequent%20Words)|[cpp](./LeetCode/0692.%20Top%20K%20Frequent%20Words/solution.cpp)|||[py](./LeetCode/0692.%20Top%20K%20Frequent%20Words/solution.py)|||
-[0693. Binary Number with Alternating Bits](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits)||||||[kt](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits/Solution.kt)|
+[0693. Binary Number with Alternating Bits](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits)|[cpp](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits/solution.cpp)|[java](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits/Solution.java)||[py](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits/solution.py)|[go](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits/solution.go)|[kt](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits/Solution.kt)|[rs](./LeetCode/0693.%20Binary%20Number%20with%20Alternating%20Bits/solution.rs)
 [0695. Max Area of Island](./LeetCode/0695.%20Max%20Area%20of%20Island)|[cpp](./LeetCode/0695.%20Max%20Area%20of%20Island/solution.cpp)|||[py](./LeetCode/0695.%20Max%20Area%20of%20Island/solution.py)|||
 [0697. Degree of an Array](./LeetCode/0697.%20Degree%20of%20an%20Array)|[cpp](./LeetCode/0697.%20Degree%20of%20an%20Array/solution.cpp)|||[py](./LeetCode/0697.%20Degree%20of%20an%20Array/solution.py)|||
 [0698. Partition to K Equal Sum Subsets](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)||||||[kt](./LeetCode/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets/Solution.kt)|
@@ -482,6 +482,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1608. Special Array With X Elements Greater Than or Equal X](./LeetCode/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)|[cpp](./LeetCode/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/solution.cpp)||||||
 [1609. Even Odd Three](./LeetCode/1609.%20Even%20Odd%20Three)|[cpp](./LeetCode/1609.%20Even%20Odd%20Three/solution.cpp)||||||
 [1614. Maximum Nesting Depth of the Parentheses](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses)|[cpp](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/solution.cpp)|||[py](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/solution.py)|[go](./LeetCode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/solution.go)||
+[1615. Maximal Network Rank](./LeetCode/1615.%20Maximal%20Network%20Rank)|[cpp](./LeetCode/1615.%20Maximal%20Network%20Rank/solution.cpp)|||[py](./LeetCode/1615.%20Maximal%20Network%20Rank/solution.py)|||
 [1629. Slowest Key](./LeetCode/1629.%20Slowest%20Key)|[cpp](./LeetCode/1629.%20Slowest%20Key/solution.cpp)|||[py](./LeetCode/1629.%20Slowest%20Key/solution.py)|[go](./LeetCode/1629.%20Slowest%20Key/solution.go)||
 [1646. Get Maximum in Generated Array](./LeetCode/1646.%20Get%20Maximum%20in%20Generated%20Array)|[cpp](./LeetCode/1646.%20Get%20Maximum%20in%20Generated%20Array/solution.cpp)||||||
 [1654. Minimum Jumps to Reach Home](./LeetCode/1654.%20Minimum%20Jumps%20to%20Reach%20Home)|[cpp](./LeetCode/1654.%20Minimum%20Jumps%20to%20Reach%20Home/solution.cpp)|||[py](./LeetCode/1654.%20Minimum%20Jumps%20to%20Reach%20Home/solution.py)|||
@@ -507,6 +508,7 @@ Problem | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2013. Detect Squares](./LeetCode/2013.%20Detect%20Squares)|[cpp](./LeetCode/2013.%20Detect%20Squares/solution.cpp)||||||
 [2016. Maximum Difference Between Increasing Elements](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements)|[cpp](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements/solution.cpp)||||||
 [2022. Convert 1D Array Into 2D Array](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array)|[cpp](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.cpp)|||[py](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.py)|[go](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.go)||
+[2024. Maximize the Confusion of an Exam](./LeetCode/2024.%20Maximize%20the%20Confusion%20of%20an%20Exam)|[cpp](./LeetCode/2024.%20Maximize%20the%20Confusion%20of%20an%20Exam/solution.cpp)|||[py](./LeetCode/2024.%20Maximize%20the%20Confusion%20of%20an%20Exam/solution.py)|||
 [2028. Find Missing Observations](./LeetCode/2028.%20Find%20Missing%20Observations)|[cpp](./LeetCode/2028.%20Find%20Missing%20Observations/solution.cpp)||||||
 [2038. Remove Colored Pieces if Both Neighbors are the Same Color](./LeetCode/2038.%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color)|[cpp](./LeetCode/2038.%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/solution.cpp)||||||
 [2039. The Time When the Network Becomes Idle](./LeetCode/2039.%20The%20Time%20When%20the%20Network%20Becomes%20Idle)||||[py](./LeetCode/2039.%20The%20Time%20When%20the%20Network%20Becomes%20Idle/solution.py)|||
