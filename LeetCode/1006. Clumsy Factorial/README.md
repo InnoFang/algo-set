@@ -1,35 +1,48 @@
-# []()
+# [1006. Clumsy Factorial](https://leetcode-cn.com/problems/clumsy-factorial/)
 
-![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
 ![](https://img.shields.io/badge/Difficulty-Medium-F8AF40.svg)
-![](https://img.shields.io/badge/Difficulty-Hard-red.svg)
 
 <details>
 <summary>Topics</summary>
 
-* [`Array`](https://leetcode-cn.com/tag/array/)
-* [`Backtracking`](https://leetcode-cn.com/tag/backtracking/)
-* [`Two Pointers`](https://leetcode-cn.com/tag/two-pointers/)
-* [`String`](https://leetcode-cn.com/tag/string/)
-* [`Linked List`](https://leetcode-cn.com/tag/linked-list/)
-* [`Binary Search`](https://leetcode-cn.com/tag/binary-search/)
-* [`Hash Table`](https://leetcode-cn.com/tag/hash-table/)
-* [`Bit Manipulation`](https://leetcode-cn.com/tag/bit-manipulation/)
-* [`Dynamic Programming`](https://leetcode-cn.com/tag/dynamic-programming/)
-* [`Math`](https://leetcode-cn.com/tag/math/)
-* [`Greedy`](https://leetcode-cn.com/tag/greedy/)
-* [`Trie`](https://leetcode-cn.com/tag/trie/)
 * [`Stack`](https://leetcode-cn.com/tag/stack/)
-* [`Sort`](https://leetcode-cn.com/tag/sort)
-* [`Binary Search Tree`](https://leetcode-cn.com/tag/binary-search-tree/)
-* [`Tree`](https://leetcode-cn.com/tag/tree/)
-* [`Breadth-first Search`](https://leetcode-cn.com/tag/breadth-first-search/)
-* [`Depth-first Search`](https://leetcode-cn.com/tag/depth-first-search/)
-* [`Union Find`](https://leetcode-cn.com/tag/union-find/)
-* [`Divide and Conquer`](https://leetcode-cn.com/tag/divide-and-conquer/)
-* [`Heap`](https://leetcode-cn.com/tag/heap/)
-* [`Graph`](https://leetcode-cn.com/tag/graph/)
-* [`Sliding Window`](https://leetcode-cn.com/tag/sliding-window/)
+* [`Math`](https://leetcode-cn.com/tag/math/)
+* [`Simulation`](https://leetcode-cn.com/tag/simulation/)
 
 </details>
 <br />
+
+The **factorial** of a positive integer `n` is the product of all positive integers less than or equal to `n`.
+
++ For example, `factorial(10) = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1`.
+
+We make a **clumsy factorial** using the integers in decreasing order by swapping out the multiply operations for a fixed rotation of operations with multiply `'*'`, divide `'/'`, add `'+'`, and subtract `'-'` in this order.
+
+ + For example, `clumsy(10) = 10 * 9 / 8 + 7 - 6 * 5 / 4 + 3 - 2 * 1`.
+
+However, these operations are still applied using the usual order of operations of arithmetic. We do all multiplication and division steps before any addition or subtraction steps, and multiplication and division steps are processed left to right.
+
+Additionally, the division that we use is floor division such that `10 * 9 / 8 = 90 / 8 = 11`.
+
+Given an integer `n`, return *the clumsy factorial of `n`*.
+
+
+**Example 1:**
+
+```
+Input: n = 4
+Output: 7
+Explanation: 7 = 4 * 3 / 2 + 1
+```
+
+**Example 2:**
+
+```
+Input: n = 10
+Output: 12
+Explanation: 12 = 10 * 9 / 8 + 7 - 6 * 5 / 4 + 3 - 2 * 1
+```
+
+**Constraints:**
+
+ + `1 <= n <= 10^4`
