@@ -1,10 +1,10 @@
 # [316. Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/)
 
 
-![316. Remove Duplicate Letters](https://img.shields.io/badge/Difficulty-Medium-F8AF40.svg)
+![](https://img.shields.io/badge/Difficulty-Medium-F8AF40.svg)
 
 <details>
-<summary style="color:#4FC3F7">Topics</summary>
+<summary>Topics</summary>
 
 * [`Stack`](https://leetcode.com/tag/stack/)
 * [`Greedy`](https://leetcode.com/tag/greedy/)
