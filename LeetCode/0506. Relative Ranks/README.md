@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Difficulty-Easy-green.svg) 
 
 <details>
-<summary>Topics</summary>ii
+<summary>Topics</summary>
 
 * [`Array`](https://leetcode.com/tag/array/)
 
