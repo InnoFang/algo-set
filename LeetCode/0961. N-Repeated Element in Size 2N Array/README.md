@@ -1,19 +1,18 @@
 # [961. N-Repeated Element in Size 2N Array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/submissions/)
 
+![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
+
 <details>
-<summary style="color:#4FC3F7">Topics</summary>
+<summary>Topics</summary>
 
 * [`Hash Table`](https://leetcode.com/tag/hash-table/)
 
 </details>
 <br />
 
-
 In a array `A` of size `2N`, there are `N+1` unique elements, and exactly one of these elements is repeated `N` times.
 
 Return the element repeated N times.
-
- 
 
 **Example 1:**
 
