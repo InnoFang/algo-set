@@ -2,6 +2,17 @@
 
 ![](https://img.shields.io/badge/Difficulty-Medium-F8AF40.svg)
 
+<details>
+<summary>Topics</summary>
+
+* [`Backtracking`](https://leetcode.com/tag/backtracking/)
+* [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/)
+* [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)
+* [`Graph`](https://leetcode.com/tag/graph/)
+
+</details>
+<br />
+
 Given a directed, acyclic graph of `N` nodes.  Find all possible paths from node `0` to node `N-1`, and return them in any order.
 
 The graph is given as follows:  the nodes are 0, 1, ..., graph.length - 1.  graph[i] is a list of all nodes j for which the edge (i, j) exists.
