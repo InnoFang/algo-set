@@ -1,5 +1,15 @@
 # [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/)
 
+![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
+
+<details>
+<summary>Topics</summary>
+
+* [`String`](https://leetcode.com/tag/string/)
+
+</details>
+<br />
+
 Given a word, you need to judge whether the usage of capitals in it is right or not.
 
 We define the usage of capitals in a word to be right when one of the following cases holds:
