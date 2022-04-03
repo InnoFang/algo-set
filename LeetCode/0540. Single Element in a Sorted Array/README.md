@@ -2,6 +2,15 @@
 
 ![](https://img.shields.io/badge/Difficulty-Medium-F8AF40.svg)
 
+<details>
+<summary>Topics</summary>
+
+* [`Array`](https://leetcode.com/tag/array/)
+* [`Binary Search`](https://leetcode.com/tag/binary-search/)
+
+</details>
+<br />
+
 Given a sorted array consisting of only integers where every element appears twice except for one element which appears once. Find this single element that appears only once.
 
 **Example 1:**
