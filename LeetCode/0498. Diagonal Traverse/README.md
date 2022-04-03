@@ -2,6 +2,15 @@
 
 ![](https://img.shields.io/badge/Difficulty-Medium-F8AF40.svg)
 
+<details>
+<summary>Topics</summary>
+
+* [`Array`](https://leetcode.com/tag/array/)
+* [`Matrix`](https://leetcode.com/tag/matrix/)
+* [`Simulation`](https://leetcode.com/tag/simulation/)
+
+</details>
+<br />
 
 Given a matrix of M x N elements (M rows, N columns), return all elements of the matrix in diagonal order as shown in the below image.
 
