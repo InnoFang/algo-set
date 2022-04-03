@@ -2,6 +2,14 @@
 
 ![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
 
+<details>
+<summary>Topics</summary>
+
+* [`Math`](https://leetcode.com/tag/math/)
+
+</details>
+<br />
+
 Given an integer, return its base 7 string representation.
 
 **Example 1:**
