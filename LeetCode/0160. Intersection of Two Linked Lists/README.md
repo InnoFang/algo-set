@@ -1,5 +1,17 @@
 # [160. Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 
+![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
+
+<details>
+<summary>Topics</summary>
+
+* [`Two Pointers`](https://leetcode.com/tag/two-pointers/)
+* [`Linked List`](https://leetcode.com/tag/linked-list/)
+* [`Hash Table`](https://leetcode.com/tag/hash-table/)
+
+</details>
+<br />
+
 # Solution
 
 如果你把两个链表的数字结合起来看的话，就可以发现很有意思的一点，比如
@@ -20,7 +32,7 @@ B 在前 A 在后, `[b1, b2, c1, c2, c3, a1, a2, a3, c1, c2, c3]`
 
 你会发现，两者长度相等（这是废话~），并且如果两个链表有交集，那么在最后相同的部分在同一位置
 
-那么解题思路就有了，同时遍历两个链表，但是不同的时候，如果其中一个链表遍历完后，要要接着从第二个链表开始继续遍历
+那么解题思路就有了，同时遍历两个链表，但是不同的时候，如果其中一个链表遍历完后，要接着从第二个链表开始继续遍历
 
 **为什么要这样呢？** 其实就是模拟把两个链表结合起来遍历的过程
 
