@@ -1,5 +1,17 @@
 [1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 
+![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
+
+<details>
+<summary>Topics</summary>
+
+* [`Array`](https://leetcode.com/tag/array/)
+* [`Sorting`](https://leetcode.com/tag/sorting/)
+* [`Binary Search`](https://leetcode.com/tag/binary-search/)
+
+</details>
+<br />
+
 You are given an array `nums` of non-negative integers. `nums` is considered **special** if there exists a number `x` such that there are **exactly** `x` numbers in `nums` that are **greater than or equal to** `x`.
 
 Notice that `x` **does not** have to be an element in `nums`.
@@ -47,4 +59,3 @@ Output: -1
 
  + `1 <= nums.length <= 100`
  + `0 <= nums[i] <= 1000`
-
