@@ -1,6 +1,16 @@
-# [2182. Count Array Pairs Divisible by K](https://leetcode-cn.com/problems/count-array-pairs-divisible-by-k/)
+# [2183. Count Array Pairs Divisible by K](https://leetcode-cn.com/problems/count-array-pairs-divisible-by-k/)
 
 ![](https://img.shields.io/badge/Difficulty-Hard-red.svg)
+
+<details>
+<summary>Topics</summary>
+
+* [`Array`](https://leetcode.com/tag/array/)
+* [`Math`](https://leetcode.com/tag/math/)
+* [`Number Theory`](https://leetcode.com/tag/number-theory/)
+
+</details>
+<br />
 
 Given a **0-indexed** integer array `nums` of length `n` and an integer `k`, return *the **number of pairs** `(i, j)` such that*:
 
