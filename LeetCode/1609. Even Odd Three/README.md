@@ -1,5 +1,17 @@
 [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)
 
+![](https://img.shields.io/badge/Difficulty-Medium-F8AF40.svg)
+
+<details>
+<summary>Topics</summary>
+
+* [`Binary Tree`](https://leetcode.com/tag/binary-tree/)
+* [`Tree`](https://leetcode.com/tag/tree/)
+* [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/)
+
+</details>
+<br />
+
 A binary tree is named **Even-Odd** if it meets the following conditions:
 
  + The root of the binary tree is at level index `0`, its children are at level index `1`, their children are at level index `2`, etc.
@@ -67,4 +79,3 @@ Output: true
 
  + The number of nodes in the tree is in the range `[1, 10^5]`.
  + `1 <= Node.val <= 10^6`
-
