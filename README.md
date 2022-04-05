@@ -1,10 +1,10 @@
 # Algorithm Set
  
-🎈 LeetCode solution collection, as well as data structure and algorithm practice.
+🎈 LeetCode solution collection, data structures and algorithm practice.
 
 ## [LeetCode](./LeetCode.md)
 
-Use a variety of programming languages to solve problems, learn how to use skills and problem solving ideas. Mainly is Kotlin.
+Use a variety of programming languages to solve problems, learn how to use skills and problem solving ideas. 
 
 LeetCode solution list please click [here](./LeetCode.md) to see.
 
@@ -103,19 +103,3 @@ LeetCode solution list please click [here](./LeetCode.md) to see.
     * [Level-order](./Data%20Structure/Tree/Traversal/Level%20Order)
 
       [`C++`](./Data%20Structure/Tree/Traversal/Level%20Order/main.cpp) [`Java`](./Data%20Structure/Tree/Traversal/Level%20Order/Main.java) [`JavaScript`](./Data%20Structure/Tree/Traversal/Level%20Order/main.js) [`Python`](./Data%20Structure/Tree/Traversal/Level%20Order/main.py) [`Kotlin`](./Data%20Structure/Tree/Traversal/Level%20Order/main.kt)
-
-## [License](./LICENSE)
-
-    Copyright 2017 InnoFang
-  
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
- 
-        http://www.apache.org/licenses/LICENSE-2.0
- 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
