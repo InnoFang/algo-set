@@ -14,3 +14,19 @@ public:
         return ans;
     }
 };
+
+/**
+ * 202 / 202 test cases passed.
+ * Runtime: 4 ms
+ * Memory Usage: 5.7 MB 
+ */
+class Solution2 {
+public:
+    int countPrimeSetBits(int left, int right) {
+        int ans = 0;
+        for (int i = left; i <= right; ++ i) {
+            ans += ((1 << __builtin_popcount(i)) & 0b10100010100010101100) != 0;
+        }
+        return ans;
+    }
+};
