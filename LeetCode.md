@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 531
+**Problems have been solved:** 532
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -383,6 +383,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0797. All Paths From Source to Target](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target)|Medium| [`Backtracking`](https://leetcode.com/tag/backtracking/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/) [`Graph`](https://leetcode.com/tag/graph/)|[cpp](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target/solution.cpp)|||[py](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target/solution.py)||[kt](./LeetCode/0797.%20All%20Paths%20From%20Source%20to%20Target/Solution.kt)|
 [0802. Find Eventual Safe States](./LeetCode/0802.%20Find%20Eventual%20Safe%20States)|Medium| [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/) [`Graph`](https://leetcode.com/tag/graph/) [`Topological Sort`](https://leetcode.com/tag/topological-sort/)|[cpp](./LeetCode/0802.%20Find%20Eventual%20Safe%20States/solution.cpp)|||[py](./LeetCode/0802.%20Find%20Eventual%20Safe%20States/solution.py)|||
 [0804. Unique Morse Code Words](./LeetCode/0804.%20Unique%20Morse%20Code%20Words)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/0804.%20Unique%20Morse%20Code%20Words/solution.cpp)|||[py](./LeetCode/0804.%20Unique%20Morse%20Code%20Words/solution.py)|||
+[0806. Number of Lines To Write String](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String/solution.cpp)||||[go](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String/solution.go)||[rs](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String/solution.rs)
 [0807. Max Increase to Keep City Skyline](./LeetCode/0807.%20Max%20Increase%20to%20Keep%20City%20Skyline)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/0807.%20Max%20Increase%20to%20Keep%20City%20Skyline/solution.cpp)|||[py](./LeetCode/0807.%20Max%20Increase%20to%20Keep%20City%20Skyline/solution.py)|||
 [0810. Chalkboard XOR Game](./LeetCode/0810.%20Chalkboard%20XOR%20Game)|Hard| [`Math`](https://leetcode-cn.com/tag/math/)|[cpp](./LeetCode/0810.%20Chalkboard%20XOR%20Game/solution.cpp)|||[py](./LeetCode/0810.%20Chalkboard%20XOR%20Game/solution.py)|||
 [0824. Goat Latin](./LeetCode/0824.%20Goat%20Latin)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0824.%20Goat%20Latin/Solution.cpp)||||||
