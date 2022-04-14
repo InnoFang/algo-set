@@ -5,6 +5,6 @@
  */
 impl Solution {
     pub fn maximum_wealth(accounts: Vec<Vec<i32>>) -> i32 {
-        accounts.into_iter().fold(0i32, |ans, account| ans.max(account.iter().sum()))
+        accounts.iter().fold(0i32, |ans, account| ans.max(account.iter().sum()))
     }
 }
