@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 534
+**Problems have been solved:** 536
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -224,6 +224,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0382. Linked List Random Node](./LeetCode/0382.%20Linked%20List%20Random%20Node)|Medium| [`Linked List`](https://leetcode.com/tag/linked-list/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/0382.%20Linked%20List%20Random%20Node/solution.cpp)|||[py](./LeetCode/0382.%20Linked%20List%20Random%20Node/solution.py)|||
 [0383. Ransom Note](./LeetCode/0383.%20Ransom%20Note)|Easy| [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/0383.%20Ransom%20Note/solution.cpp)||||||
 [0384. Shuffle an Array](./LeetCode/0384.%20Shuffle%20an%20Array)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/0384.%20Shuffle%20an%20Array/solution.cpp)|||[py](./LeetCode/0384.%20Shuffle%20an%20Array/solution.py)|||
+[0385. Mini Parser](./LeetCode/0385.%20Mini%20Parser)|Medium| [`String`](https://leetcode.com/tag/string/) [`Stack`](https://leetcode.com/tag/stack/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/0385.%20Mini%20Parser/solution.cpp)||||||
 [0386. Lexicographical Numbers](./LeetCode/0386.%20Lexicographical%20Numbers)|Medium| [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/) [`Trie`](https://leetcode.com/tag/trie/)|[cpp](./LeetCode/0386.%20Lexicographical%20Numbers/solution.cpp)||||||
 [0389. Find the Difference](./LeetCode/0389.%20Find%20the%20Difference)|Easy| [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/)|[cpp](./LeetCode/0389.%20Find%20the%20Difference/solution.cpp)|||||[kt](./LeetCode/0389.%20Find%20the%20Difference/Solution.kt)|
 [0390. Elimination Game](./LeetCode/0390.%20Elimination%20Game)|Medium| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/0390.%20Elimination%20Game/solution.cpp)|||[py](./LeetCode/0390.%20Elimination%20Game/solution.py)|[go](./LeetCode/0390.%20Elimination%20Game/solution.go)||
@@ -387,6 +388,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0806. Number of Lines To Write String](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String/solution.cpp)||||[go](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String/solution.go)||[rs](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String/solution.rs)
 [0807. Max Increase to Keep City Skyline](./LeetCode/0807.%20Max%20Increase%20to%20Keep%20City%20Skyline)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/0807.%20Max%20Increase%20to%20Keep%20City%20Skyline/solution.cpp)|||[py](./LeetCode/0807.%20Max%20Increase%20to%20Keep%20City%20Skyline/solution.py)|||
 [0810. Chalkboard XOR Game](./LeetCode/0810.%20Chalkboard%20XOR%20Game)|Hard| [`Math`](https://leetcode-cn.com/tag/math/)|[cpp](./LeetCode/0810.%20Chalkboard%20XOR%20Game/solution.cpp)|||[py](./LeetCode/0810.%20Chalkboard%20XOR%20Game/solution.py)|||
+[0819. Most Common Word](./LeetCode/0819.%20Most%20Common%20Word)|Easy| [`Counting`](https://leetcode.com/tag/Counting/) [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/0819.%20Most%20Common%20Word/solution.cpp)|||[py](./LeetCode/0819.%20Most%20Common%20Word/solution.py)|||
 [0824. Goat Latin](./LeetCode/0824.%20Goat%20Latin)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0824.%20Goat%20Latin/Solution.cpp)||||||
 [0825. Friends Of Appropriate Ages](./LeetCode/0825.%20Friends%20Of%20Appropriate%20Ages)|Hard| [`Array`](https://leetcode.com/tag/array/) [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`Binary Search`](https://leetcode.com/tag/binary-search/)|[cpp](./LeetCode/0825.%20Friends%20Of%20Appropriate%20Ages/solution.cpp)||||||
 [0832. Flipping an Image](./LeetCode/0832.%20Flipping%20an%20Image)|Easy| [`Array`](https://leetcode-cn.com/tag/array/)|[cpp](./LeetCode/0832.%20Flipping%20an%20Image/solution.cpp)|||[py](./LeetCode/0832.%20Flipping%20an%20Image/solution.py)|||
