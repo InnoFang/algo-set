@@ -46,3 +46,25 @@ public:
     }
 };
 
+
+/**
+ * 261 / 261 test cases passed
+ * Runtime: 0 ms
+ * Memory Usage: 5.9 MB
+ */
+class Solution3 {
+public:
+    int binaryGap(int n) {
+        int l = -1;
+        int ans = 0;
+        for (int r = 0, i = 1; r <= 30 && i <= n; ++ r, i <<= 1) {
+            if ((n & i) == i) {
+                if (l != -1) {
+                    ans = max(ans, r - l);
+                }
+                l = r;
+            }
+        }
+        return ans;
+    }
+};
