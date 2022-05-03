@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 546
+**Problems have been solved:** 548
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -549,6 +549,8 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2183. Count Array Pairs Divisible by K](./LeetCode/2183.%20Count%20Array%20Pairs%20Divisible%20by%20K)|Hard| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/) [`Number Theory`](https://leetcode.com/tag/number-theory/)|[cpp](./LeetCode/2183.%20Count%20Array%20Pairs%20Divisible%20by%20K/solution.cpp)||||||
 [2210. Count Hills and Valleys in an Array](./LeetCode/2210.%20Count%20Hills%20and%20Valleys%20in%20an%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/)||||[py](./LeetCode/2210.%20Count%20Hills%20and%20Valleys%20in%20an%20Array/solution.py)|||
 [2215. Find the Difference of Two Arrays](./LeetCode/2215.%20Find%20the%20Difference%20of%20Two%20Arrays)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/)||||[py](./LeetCode/2215.%20Find%20the%20Difference%20of%20Two%20Arrays/solution.py)|||
+[2216. Minimum Deletions to Make Array Beautiful](./LeetCode/2216.%20Minimum%20Deletions%20to%20Make%20Array%20Beautiful)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Greedy`](https://leetcode.com/tag/greedy/) [`Stack`](https://leetcode.com/tag/stack/)||||[py](./LeetCode/2216.%20Minimum%20Deletions%20to%20Make%20Array%20Beautiful/solution.py)|||
+[2217. Find Palindrome With Fixed Length](./LeetCode/2217.%20Find%20Palindrome%20With%20Fixed%20Length)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/)||||[py](./LeetCode/2217.%20Find%20Palindrome%20With%20Fixed%20Length/solution.py)|||
 
 
 ------
