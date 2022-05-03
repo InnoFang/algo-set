@@ -1,6 +1,16 @@
-# [2179. Count Integers With Even Digit Sum](https://leetcode-cn.com/problems/count-integers-with-even-digit-sum/)
+# [2180. Count Integers With Even Digit Sum](https://leetcode-cn.com/problems/count-integers-with-even-digit-sum/)
 
 ![](https://img.shields.io/badge/Difficulty-Easy-green.svg)
+
+<details>
+<summary>Topics</summary>
+
+* [`Math`](https://leetcode.com/tag/math/)
+* [`Simulation`](https://leetcode.com/tag/simulation/)
+
+</details>
+<br />
+
 
 Given a positive integer `num`, return *the number of positive integers **less than or equal to** `num` whose digit sums are even*.
 
