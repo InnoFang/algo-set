@@ -1,6 +1,15 @@
-# [2180. Merge Nodes in Between Zeros](https://leetcode-cn.com/problems/merge-nodes-in-between-zeros/)
+# [2181. Merge Nodes in Between Zeros](https://leetcode-cn.com/problems/merge-nodes-in-between-zeros/)
 
 ![](https://img.shields.io/badge/Difficulty-Medium-F8AF40.svg)
+
+<details>
+<summary>Topics</summary>
+
+* [`Linked List`](https://leetcode.com/tag/linked-list/)
+* [`Simulation`](https://leetcode.com/tag/simulation/)
+
+</details>
+<br />
 
 You are given the `head` of a linked list, which contains a series of integers **separated** by `0`'s. The **beginning** and **end** of the linked list will have `Node.val == 0`.
 
