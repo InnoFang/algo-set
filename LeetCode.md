@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 548
+**Problems have been solved:** 549
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -522,6 +522,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1763. Longest Nice Substring](./LeetCode/1763.%20Longest%20Nice%20Substring)|Easy| [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/)|[cpp](./LeetCode/1763.%20Longest%20Nice%20Substring/solution.cpp)||||||
 [1791. Find Center of Star Graph](./LeetCode/1791.%20Find%20Center%20of%20Star%20Graph)|Easy| [`Graph`](https://leetcode.com/tag/graph/)|[cpp](./LeetCode/1791.%20Find%20Center%20of%20Star%20Graph/solution.cpp)||||||
 [1816. Truncate Sentence](./LeetCode/1816.%20Truncate%20Sentence)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1816.%20Truncate%20Sentence/solution.cpp)||||||
+[1823. Find the Winner of the Circular Game](./LeetCode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Recursion`](https://leetcode.com/tag/recursion/) [`Queue`](https://leetcode.com/tag/queue/) [`Math`](https://leetcode.com/tag/math/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game/solution.cpp)|||[py](./LeetCode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game/solution.py)|||
 [1894. Find the Student that Will Replace the Chalk](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Binary Search`](https://leetcode.com/tag/binary-search/) [`Prefix Sum`](https://leetcode.com/tag/prefix-sum/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/solution.cpp)||||||
 [1905. Count Sub Islands](./LeetCode/1905.%20Count%20Sub%20Islands)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/) [`Union Find`](https://leetcode.com/tag/union-find/)|[cpp](./LeetCode/1905.%20Count%20Sub%20Islands/solution.cpp)|||[py](./LeetCode/1905.%20Count%20Sub%20Islands/solution.py)|||
 [1926. Nearest Exit from Entrance in Maze](./LeetCode/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/)|[cpp](./LeetCode/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze/solution.cpp)|||[py](./LeetCode/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze/solution.py)|||
