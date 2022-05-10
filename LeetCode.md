@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 550
+**Problems have been solved:** 553
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -425,6 +425,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0933. Number of Recent Calls](./LeetCode/0933.%20Number%20of%20Recent%20Calls)|Easy| [`Queue`](https://leetcode.com/tag/queue/) [`Design`](https://leetcode.com/tag/design/)||||[py](./LeetCode/0933.%20Number%20of%20Recent%20Calls/solution.py)|||
 [0934. Shortest Bridge](./LeetCode/0934.%20Shortest%20Bridge)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/0934.%20Shortest%20Bridge/solution.cpp)|||[py](./LeetCode/0934.%20Shortest%20Bridge/solution.py)|||
 [0938. Range Sum of BST](./LeetCode/0938.%20Range%20Sum%20of%20BST)|Easy| [`Tree`](https://leetcode-cn.com/tag/tree/) [`Depth-first Search`](https://leetcode-cn.com/tag/depth-first-search/) [`Recursion`](https://leetcode-cn.com/tag/recursion/)|[cpp](./LeetCode/0938.%20Range%20Sum%20of%20BST/solution.cpp)|||[py](./LeetCode/0938.%20Range%20Sum%20of%20BST/solution.py)|||
+[0942. DI String Match](./LeetCode/0942.%20DI%20String%20Match)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`String`](https://leetcode.com/tag/string/) [`Math`](https://leetcode.com/tag/math/) [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/0942.%20DI%20String%20Match/solution.cpp)|||[py](./LeetCode/0942.%20DI%20String%20Match/solution.py)|||
 [0945. Minimum Increment to Make Array Unique](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique)|Medium| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.cpp)|||[py](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.py)|[go](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.go)||
 [0951. Flip Equivalent Binary Trees](./LeetCode/0951.%20Flip%20Equivalent%20Binary%20Trees)|Medium| [`Tree`](https://leetcode-cn.com/tag/tree/)|[cpp](./LeetCode/0951.%20Flip%20Equivalent%20Binary%20Trees/solution.cpp)|||[py](./LeetCode/0951.%20Flip%20Equivalent%20Binary%20Trees/solution.py)|||
 [0954. Array of Doubled Pairs](./LeetCode/0954.%20Array%20of%20Doubled%20Pairs)|Medium| [`Greedy`](https://leetcode.com/tag/greedy/) [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Sorting`](https://leetcode.com/tag/sorting/)|[cpp](./LeetCode/0954.%20Array%20of%20Doubled%20Pairs/solution.cpp)|||[py](./LeetCode/0954.%20Array%20of%20Doubled%20Pairs/solution.py)|||
@@ -553,6 +554,8 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2215. Find the Difference of Two Arrays](./LeetCode/2215.%20Find%20the%20Difference%20of%20Two%20Arrays)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/)||||[py](./LeetCode/2215.%20Find%20the%20Difference%20of%20Two%20Arrays/solution.py)|||
 [2216. Minimum Deletions to Make Array Beautiful](./LeetCode/2216.%20Minimum%20Deletions%20to%20Make%20Array%20Beautiful)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Greedy`](https://leetcode.com/tag/greedy/) [`Stack`](https://leetcode.com/tag/stack/)||||[py](./LeetCode/2216.%20Minimum%20Deletions%20to%20Make%20Array%20Beautiful/solution.py)|||
 [2217. Find Palindrome With Fixed Length](./LeetCode/2217.%20Find%20Palindrome%20With%20Fixed%20Length)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/)||||[py](./LeetCode/2217.%20Find%20Palindrome%20With%20Fixed%20Length/solution.py)|||
+[2224. Minimum Number of Operations to Convert Time](./LeetCode/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time)|Easy| [`String`](https://leetcode.com/tag/string/) [`Greedy`](https://leetcode.com/tag/greedy/)||||[py](./LeetCode/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time/solution.py)|||
+[2225. Find Players With Zero or One Losses](./LeetCode/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Counting`](https://leetcode.com/tag/Counting/) [`Sorting`](https://leetcode.com/tag/sorting/)||||[py](./LeetCode/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses/solution.py)|||
 
 
 ------
