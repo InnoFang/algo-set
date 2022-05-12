@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 554
+**Problems have been solved:** 555
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -427,6 +427,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0934. Shortest Bridge](./LeetCode/0934.%20Shortest%20Bridge)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/0934.%20Shortest%20Bridge/solution.cpp)|||[py](./LeetCode/0934.%20Shortest%20Bridge/solution.py)|||
 [0938. Range Sum of BST](./LeetCode/0938.%20Range%20Sum%20of%20BST)|Easy| [`Tree`](https://leetcode-cn.com/tag/tree/) [`Depth-first Search`](https://leetcode-cn.com/tag/depth-first-search/) [`Recursion`](https://leetcode-cn.com/tag/recursion/)|[cpp](./LeetCode/0938.%20Range%20Sum%20of%20BST/solution.cpp)|||[py](./LeetCode/0938.%20Range%20Sum%20of%20BST/solution.py)|||
 [0942. DI String Match](./LeetCode/0942.%20DI%20String%20Match)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`String`](https://leetcode.com/tag/string/) [`Math`](https://leetcode.com/tag/math/) [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/0942.%20DI%20String%20Match/solution.cpp)|||[py](./LeetCode/0942.%20DI%20String%20Match/solution.py)|||
+[0944. Delete Columns to Make Sorted](./LeetCode/0944.%20Delete%20Columns%20to%20Make%20Sorted)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0944.%20Delete%20Columns%20to%20Make%20Sorted/solution.cpp)|||[py](./LeetCode/0944.%20Delete%20Columns%20to%20Make%20Sorted/solution.py)|||
 [0945. Minimum Increment to Make Array Unique](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique)|Medium| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.cpp)|||[py](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.py)|[go](./LeetCode/0945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/solution.go)||
 [0951. Flip Equivalent Binary Trees](./LeetCode/0951.%20Flip%20Equivalent%20Binary%20Trees)|Medium| [`Tree`](https://leetcode-cn.com/tag/tree/)|[cpp](./LeetCode/0951.%20Flip%20Equivalent%20Binary%20Trees/solution.cpp)|||[py](./LeetCode/0951.%20Flip%20Equivalent%20Binary%20Trees/solution.py)|||
 [0954. Array of Doubled Pairs](./LeetCode/0954.%20Array%20of%20Doubled%20Pairs)|Medium| [`Greedy`](https://leetcode.com/tag/greedy/) [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Sorting`](https://leetcode.com/tag/sorting/)|[cpp](./LeetCode/0954.%20Array%20of%20Doubled%20Pairs/solution.cpp)|||[py](./LeetCode/0954.%20Array%20of%20Doubled%20Pairs/solution.py)|||
