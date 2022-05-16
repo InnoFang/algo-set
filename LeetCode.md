@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 555
+**Problems have been solved:** 556
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -392,6 +392,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0806. Number of Lines To Write String](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String/solution.cpp)||||[go](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String/solution.go)||[rs](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String/solution.rs)
 [0807. Max Increase to Keep City Skyline](./LeetCode/0807.%20Max%20Increase%20to%20Keep%20City%20Skyline)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/0807.%20Max%20Increase%20to%20Keep%20City%20Skyline/solution.cpp)|||[py](./LeetCode/0807.%20Max%20Increase%20to%20Keep%20City%20Skyline/solution.py)|||
 [0810. Chalkboard XOR Game](./LeetCode/0810.%20Chalkboard%20XOR%20Game)|Hard| [`Math`](https://leetcode-cn.com/tag/math/)|[cpp](./LeetCode/0810.%20Chalkboard%20XOR%20Game/solution.cpp)|||[py](./LeetCode/0810.%20Chalkboard%20XOR%20Game/solution.py)|||
+[0812. Largest Triangle Area](./LeetCode/0812.%20Largest%20Triangle%20Area)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/) [`Geometry`](https://leetcode.com/tag/geometry/)|[cpp](./LeetCode/0812.%20Largest%20Triangle%20Area/solution.cpp)|||[py](./LeetCode/0812.%20Largest%20Triangle%20Area/solution.py)|||
 [0819. Most Common Word](./LeetCode/0819.%20Most%20Common%20Word)|Easy| [`Counting`](https://leetcode.com/tag/Counting/) [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/0819.%20Most%20Common%20Word/solution.cpp)|||[py](./LeetCode/0819.%20Most%20Common%20Word/solution.py)|||
 [0821. Shortest Distance to a Character](./LeetCode/0821.%20Shortest%20Distance%20to%20a%20Character)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0821.%20Shortest%20Distance%20to%20a%20Character/solution.cpp)||||||
 [0824. Goat Latin](./LeetCode/0824.%20Goat%20Latin)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0824.%20Goat%20Latin/Solution.cpp)|||[py](./LeetCode/0824.%20Goat%20Latin/solution.py)|||
