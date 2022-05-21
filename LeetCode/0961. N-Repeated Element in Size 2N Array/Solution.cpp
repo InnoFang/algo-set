@@ -20,3 +20,21 @@ public:
         return ret;
     }
 };  
+
+/**
+ * 102 / 102 test cases passed.
+ * Runtime: 24 ms
+ * Memory Usage: 24.2 MB 
+ */
+class Solution2 {
+public:
+    int arr[10010] = { 0 };
+    int repeatedNTimes(vector<int>& nums) {
+        for (auto &num : nums) {
+            if (++ arr[num] > 1) {
+                return num;
+            }
+        }
+        return -1;
+    }
+};
