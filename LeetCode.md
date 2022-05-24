@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 560
+**Problems have been solved:** 561
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -437,6 +437,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0953. Verifying an Alien Dictionary](./LeetCode/0953.%20Verifying%20an%20Alien%20Dictionary)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/0953.%20Verifying%20an%20Alien%20Dictionary/solution.cpp)||||||
 [0954. Array of Doubled Pairs](./LeetCode/0954.%20Array%20of%20Doubled%20Pairs)|Medium| [`Greedy`](https://leetcode.com/tag/greedy/) [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Sorting`](https://leetcode.com/tag/sorting/)|[cpp](./LeetCode/0954.%20Array%20of%20Doubled%20Pairs/solution.cpp)|||[py](./LeetCode/0954.%20Array%20of%20Doubled%20Pairs/solution.py)|||
 [0961. N-Repeated Element in Size 2N Array](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array/Solution.cpp)|||[py](./LeetCode/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array/solution.py)|||
+[0965. Univalued Binary Tree](./LeetCode/0965.%20Univalued%20Binary%20Tree)|Easy| [`Binary Tree`](https://leetcode.com/tag/binary-tree/) [`Tree`](https://leetcode.com/tag/tree/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/0965.%20Univalued%20Binary%20Tree/solution.cpp)|||[py](./LeetCode/0965.%20Univalued%20Binary%20Tree/solution.py)|||
 [0969. Pancake Sorting](./LeetCode/0969.%20Pancake%20Sorting)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`Two Pointers`](https://leetcode.com/tag/two-points/)|[cpp](./LeetCode/0969.%20Pancake%20Sorting/solution.cpp)||||||
 [0977. Squares of a Sorted Array](./LeetCode/0977.%20Squares%20of%20a%20Sorted%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Two Points`](https://leetcode.com/tag/two-points/)|[cpp](./LeetCode/0977.%20Squares%20of%20a%20Sorted%20Array/solution.cpp)||||||
 [0978. Longest Turbulent Subarray](./LeetCode/0978.%20Longest%20Turbulent%20Subarray)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Sliding Windows`](https://leetcode.com/tag/sliding-windows/)|[cpp](./LeetCode/0978.%20Longest%20Turbulent%20Subarray/solution.cpp)|||[py](./LeetCode/0978.%20Longest%20Turbulent%20Subarray/solution.py)|||
