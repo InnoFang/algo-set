@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 563
+**Problems have been solved:** 564
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -457,6 +457,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1014. Best Sightseeing Pair](./LeetCode/1014.%20Best%20Sightseeing%20Pair)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/)||||[py](./LeetCode/1014.%20Best%20Sightseeing%20Pair/solution.py)|||
 [1020. Number of Enclaves](./LeetCode/1020.%20Number%20of%20Enclaves)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/) [`Union Find`](https://leetcode.com/tag/union-find/)|[cpp](./LeetCode/1020.%20Number%20of%20Enclaves/solution.cpp)|||[py](./LeetCode/1020.%20Number%20of%20Enclaves/solution.py)|||
 [1021. Remove Outermost Parentheses](./LeetCode/1021.%20Remove%20Outermost%20Parentheses)|Hard| [`String`](https://leetcode.com/tag/string/) [`Stack`](https://leetcode.com/tag/stack/)|[cpp](./LeetCode/1021.%20Remove%20Outermost%20Parentheses/solution.cpp)|||[py](./LeetCode/1021.%20Remove%20Outermost%20Parentheses/solution.py)|||
+[1022. Sum of Root To Leaf Binary Numbers](./LeetCode/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)|Easy| [`Binary Tree`](https://leetcode.com/tag/binary-tree/) [`Tree`](https://leetcode.com/tag/tree/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/solution.cpp)|||[py](./LeetCode/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/solution.py)|||
 [1029. Two City Scheduling](./LeetCode/1029.%20Two%20City%20Scheduling)|Medium| [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/1029.%20Two%20City%20Scheduling/solution.cpp)||||||
 [1035. Uncrossed Lines](./LeetCode/1035.%20Uncrossed%20Lines)|Hard| [`Array`](https://leetcode-cn.com/tag/array/) [`Dynamic Programming`](https://leetcode-cn.com/tag/dynamic-programming/)|[cpp](./LeetCode/1035.%20Uncrossed%20Lines/solution.cpp)|||[py](./LeetCode/1035.%20Uncrossed%20Lines/solution.py)|||
 [1036. Escape a Large Maze](./LeetCode/1036.%20Escape%20a%20Large%20Maze)|Hard| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/1036.%20Escape%20a%20Large%20Maze/solution.cpp)||||||
