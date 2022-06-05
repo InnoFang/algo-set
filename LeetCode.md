@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 566
+**Problems have been solved:** 567
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -277,6 +277,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0470. Implement Rand10() Using Rand7()](./LeetCode/0470.%20Implement%20Rand10()%20Using%20Rand7())|Medium| [`Math`](https://leetcode.com/tag/math/) [`Rejection Sampling`](https://leetcode.com/tag/regection-sampling/) [`Probability and Statistics`](https://leetcode.com/tag/probability-and-statistics/) [`Randomized`](https://leetcode.com/tag/randomized/)|[cpp](./LeetCode/0470.%20Implement%20Rand10()%20Using%20Rand7()/solution.cpp)|||[py](./LeetCode/0470.%20Implement%20Rand10()%20Using%20Rand7()/solution.py)|[go](./LeetCode/0470.%20Implement%20Rand10()%20Using%20Rand7()/solution.go)||
 [0476. Number Complement](./LeetCode/0476.%20Number%20Complement)|Easy| [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/)|[cpp](./LeetCode/0476.%20Number%20Complement/solution.cpp)|[java](./LeetCode/0476.%20Number%20Complement/Solution.java)||[py](./LeetCode/0476.%20Number%20Complement/solution.py)||[kt](./LeetCode/0476.%20Number%20Complement/Solution.kt)|
 [0477. Total Hamming Distance](./LeetCode/0477.%20Total%20Hamming%20Distance)|Medium| [`Bit Manipulation`](https://leetcode-cn.com/tag/bit-manipulation/)|[cpp](./LeetCode/0477.%20Total%20Hamming%20Distance/solution.cpp)|||[py](./LeetCode/0477.%20Total%20Hamming%20Distance/solution.py)|||
+[0478. Generate Random Point in a Circle](./LeetCode/0478.%20Generate%20Random%20Point%20in%20a%20Circle)|Medium| [`Math`](https://leetcode.com/tag/math/) [`Geometry`](https://leetcode.com/tag/geometry/) [`Rejection Sampling`](https://leetcode.com/tag/rejection-sampling/) [`Randomized`](https://leetcode.com/tag/randomized/)||||[py](./LeetCode/0478.%20Generate%20Random%20Point%20in%20a%20Circle/solution.py)|||
 [0480. Sliding Window Median](./LeetCode/0480.%20Sliding%20Window%20Median)|Hard| [`Sliding Window`](https://leetcode.com/tag/sliding-window/)||||[py](./LeetCode/0480.%20Sliding%20Window%20Median/solution.py)|||
 [0482. License Key Formatting](./LeetCode/0482.%20License%20Key%20Formatting)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0482.%20License%20Key%20Formatting/solution.cpp)||||||
 [0485. Max Consecutive Ones](./LeetCode/0485.%20Max%20Consecutive%20Ones)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/0485.%20Max%20Consecutive%20Ones/solution.cpp)|||[py](./LeetCode/0485.%20Max%20Consecutive%20Ones/solution.py)|||
