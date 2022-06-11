@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 569
+**Problems have been solved:** 570
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -430,6 +430,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0913. Cat and Mouse](./LeetCode/0913.%20Cat%20and%20Mouse)|Hard| [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Math`](https://leetcode.com/tag/math/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Graph`](https://leetcode.com/tag/graph/)|[cpp](./LeetCode/0913.%20Cat%20and%20Mouse/solution.cpp)||||||
 [0917. Reverse Only Letters](./LeetCode/0917.%20Reverse%20Only%20Letters)|Hard| [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0917.%20Reverse%20Only%20Letters/solution.cpp)||||||
 [0918. Maximum Sum Circular Subarray](./LeetCode/0918.%20Maximum%20Sum%20Circular%20Subarray)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/)|[cpp](./LeetCode/0918.%20Maximum%20Sum%20Circular%20Subarray/solution.cpp)|||[py](./LeetCode/0918.%20Maximum%20Sum%20Circular%20Subarray/solution.py)|||
+[0926. Flip String to Monotone Increasing](./LeetCode/0926.%20Flip%20String%20to%20Monotone%20Increasing)|Medium| [`String`](https://leetcode.com/tag/string/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/)||||[py](./LeetCode/0926.%20Flip%20String%20to%20Monotone%20Increasing/solution.py)|||
 [0929. Unique Email Addresses](./LeetCode/0929.%20Unique%20Email%20Addresses)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/0929.%20Unique%20Email%20Addresses/solution.cpp)|||[py](./LeetCode/0929.%20Unique%20Email%20Addresses/solution.py)|||
 [0931. Minimum Falling Path Sum](./LeetCode/0931.%20Minimum%20Falling%20Path%20Sum)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/)||||[py](./LeetCode/0931.%20Minimum%20Falling%20Path%20Sum/solution.py)|||
 [0933. Number of Recent Calls](./LeetCode/0933.%20Number%20of%20Recent%20Calls)|Easy| [`Queue`](https://leetcode.com/tag/queue/) [`Design`](https://leetcode.com/tag/design/)||||[py](./LeetCode/0933.%20Number%20of%20Recent%20Calls/solution.py)|||
