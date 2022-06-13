@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 570
+**Problems have been solved:** 571
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -469,6 +469,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1037. Valid Boomerang](./LeetCode/1037.%20Valid%20Boomerang)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/) [`Geometry`](https://leetcode.com/tag/geometry/)|[cpp](./LeetCode/1037.%20Valid%20Boomerang/solution.cpp)|||[py](./LeetCode/1037.%20Valid%20Boomerang/solution.py)|||
 [1042. Flower Planting With No Adjacent](./LeetCode/1042.%20Flower%20Planting%20With%20No%20Adjacent)|Medium| [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/) [`Graph`](https://leetcode.com/tag/graph/)|[cpp](./LeetCode/1042.%20Flower%20Planting%20With%20No%20Adjacent/solution.cpp)|||[py](./LeetCode/1042.%20Flower%20Planting%20With%20No%20Adjacent/solution.py)|||
 [1047. Remove All Adjacent Duplicates In String](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|Easy| [`Stack`](https://leetcode-cn.com/tag/stack/)|[cpp](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/solution.cpp)|||[py](./LeetCode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/solution.py)|||
+[1051. Height Checker](./LeetCode/1051.%20Height%20Checker)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Sorting`](https://leetcode.com/tag/sorting/) [`Counting Sort`](https://leetcode.com/tag/counting-sort/)||||[py](./LeetCode/1051.%20Height%20Checker/solution.py)|||
 [1052. Grumpy Bookstore Owner](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner)|Medium| [`Array`](https://leetcode-cn.com/tag/array/) [`Sliding Window`](https://leetcode-cn.com/tag/sliding-window/)|[cpp](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner/solution.cpp)|||[py](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner/solution.py)|||
 [1078. Occurrences After Bigram](./LeetCode/1078.%20Occurrences%20After%20Bigram)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1078.%20Occurrences%20After%20Bigram/solution.cpp)|||[py](./LeetCode/1078.%20Occurrences%20After%20Bigram/solution.py)|[go](./LeetCode/1078.%20Occurrences%20After%20Bigram/solution.go)||
 [1081. Smallest Subsequence of Distinct Characters](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters)|Medium| [`Stack`](https://leetcode.com/tag/stack/) [`Greedy`](https://leetcode.com/tag/greedy/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/solution.cpp)||||||
