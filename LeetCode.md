@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 571
+**Problems have been solved:** 573
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -574,6 +574,8 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2217. Find Palindrome With Fixed Length](./LeetCode/2217.%20Find%20Palindrome%20With%20Fixed%20Length)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/)||||[py](./LeetCode/2217.%20Find%20Palindrome%20With%20Fixed%20Length/solution.py)|||
 [2224. Minimum Number of Operations to Convert Time](./LeetCode/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time)|Easy| [`String`](https://leetcode.com/tag/string/) [`Greedy`](https://leetcode.com/tag/greedy/)||||[py](./LeetCode/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time/solution.py)|||
 [2225. Find Players With Zero or One Losses](./LeetCode/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Counting`](https://leetcode.com/tag/Counting/) [`Sorting`](https://leetcode.com/tag/sorting/)||||[py](./LeetCode/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses/solution.py)|||
+[2287. Rearrange Characters to Make Target String](./LeetCode/2287.%20Rearrange%20Characters%20to%20Make%20Target%20String)|Easy| [`Counting`](https://leetcode.com/tag/Counting/) [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)||||[py](./LeetCode/2287.%20Rearrange%20Characters%20to%20Make%20Target%20String/solution.py)|||
+[2288. Apply Discount to Prices](./LeetCode/2288.%20Apply%20Discount%20to%20Prices)|Medium| [`String`](https://leetcode.com/tag/string/)||||[py](./LeetCode/2288.%20Apply%20Discount%20to%20Prices/solution.py)|||
 
 
 ------
