@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 573
+**Problems have been solved:** 575
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -304,6 +304,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0525. Contiguous Array](./LeetCode/0525.%20Contiguous%20Array)|Medium| [`Hash Table`](https://leetcode-cn.com/tag/hash-table/)|[cpp](./LeetCode/0525.%20Contiguous%20Array/solution.cpp)|||[py](./LeetCode/0525.%20Contiguous%20Array/solution.py)|||
 [0526. Beautiful Arrangement](./LeetCode/0526.%20Beautiful%20Arrangement)|Medium| [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/) [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Backtracking`](https://leetcode.com/tag/backtracking/)|[cpp](./LeetCode/0526.%20Beautiful%20Arrangement/solution.cpp)||||||
 [0530. Minimum Absolute Difference in BST](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST)|Easy| [`Binary Search Tree`](https://leetcode.com/tag/binary-search-tree/)|[cpp](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/solution.cpp)|||||[kt](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/Solution.kt)|
+[0532. K-diff Pairs in an Array](./LeetCode/0532.%20K-diff%20Pairs%20in%20an%20Array)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Sorting`](https://leetcode.com/tag/sorting/) [`Binary Search`](https://leetcode.com/tag/binary-search/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Two Pointers`](https://leetcode.com/tag/two-pointers/)||||[py](./LeetCode/0532.%20K-diff%20Pairs%20in%20an%20Array/solution.py)|||
 [0537. Complex Number Multiplication](./LeetCode/0537.%20Complex%20Number%20Multiplication)|Medium| [`Math`](https://leetcode.com/tag/math/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0537.%20Complex%20Number%20Multiplication/solution.cpp)|[java](./LeetCode/0537.%20Complex%20Number%20Multiplication/Solution.java)|||||
 [0539. Minimum Time Difference](./LeetCode/0539.%20Minimum%20Time%20Difference)|Medium| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/0539.%20Minimum%20Time%20Difference/solution.cpp)||||||
 [0540. Single Element in a Sorted Array](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Binary Search`](https://leetcode.com/tag/binary-search/)|[cpp](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array/solution.cpp)|||||[kt](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array/Solution.kt)|
@@ -576,6 +577,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2225. Find Players With Zero or One Losses](./LeetCode/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Counting`](https://leetcode.com/tag/Counting/) [`Sorting`](https://leetcode.com/tag/sorting/)||||[py](./LeetCode/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses/solution.py)|||
 [2287. Rearrange Characters to Make Target String](./LeetCode/2287.%20Rearrange%20Characters%20to%20Make%20Target%20String)|Easy| [`Counting`](https://leetcode.com/tag/Counting/) [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)||||[py](./LeetCode/2287.%20Rearrange%20Characters%20to%20Make%20Target%20String/solution.py)|||
 [2288. Apply Discount to Prices](./LeetCode/2288.%20Apply%20Discount%20to%20Prices)|Medium| [`String`](https://leetcode.com/tag/string/)||||[py](./LeetCode/2288.%20Apply%20Discount%20to%20Prices/solution.py)|||
+[2290. Minimum Obstacle Removal to Reach Corner](./LeetCode/2290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner)|Hard| [`Array`](https://leetcode.com/tag/array/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Graph`](https://leetcode.com/tag/graph/) [`Matrix`](https://leetcode.com/tag/matrix/) [`Shortest Path`](https://leetcode.com/tag/shortest-path/)||||[py](./LeetCode/2290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/solution.py)|||
 
 
 ------
