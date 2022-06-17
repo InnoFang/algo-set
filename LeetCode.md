@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 575
+**Problems have been solved:** 576
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -474,6 +474,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1052. Grumpy Bookstore Owner](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner)|Medium| [`Array`](https://leetcode-cn.com/tag/array/) [`Sliding Window`](https://leetcode-cn.com/tag/sliding-window/)|[cpp](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner/solution.cpp)|||[py](./LeetCode/1052.%20Grumpy%20Bookstore%20Owner/solution.py)|||
 [1078. Occurrences After Bigram](./LeetCode/1078.%20Occurrences%20After%20Bigram)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1078.%20Occurrences%20After%20Bigram/solution.cpp)|||[py](./LeetCode/1078.%20Occurrences%20After%20Bigram/solution.py)|[go](./LeetCode/1078.%20Occurrences%20After%20Bigram/solution.go)||
 [1081. Smallest Subsequence of Distinct Characters](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters)|Medium| [`Stack`](https://leetcode.com/tag/stack/) [`Greedy`](https://leetcode.com/tag/greedy/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/solution.cpp)||||||
+[1089. Duplicate Zeros](./LeetCode/1089.%20Duplicate%20Zeros)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Two Pointers`](https://leetcode.com/tag/two-pointers/)||||[py](./LeetCode/1089.%20Duplicate%20Zeros/solution.py)|||
 [1091. Shortest Path in Binary Matrix](./LeetCode/1091.%20Shortest%20Path%20in%20Binary%20Matrix)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/)|[cpp](./LeetCode/1091.%20Shortest%20Path%20in%20Binary%20Matrix/solution.cpp)|||[py](./LeetCode/1091.%20Shortest%20Path%20in%20Binary%20Matrix/solution.py)|||
 [1103. Distribute Candies to People](./LeetCode/1103.%20Distribute%20Candies%20to%20People)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1103.%20Distribute%20Candies%20to%20People/solution.cpp)|[java](./LeetCode/1103.%20Distribute%20Candies%20to%20People/Solution.java)|||||
 [1109. Corporate Flight Bookings](./LeetCode/1109.%20Corporate%20Flight%20Bookings)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Prefix Sum](https://leetcode.com/tag/prefix-sum/)|[cpp](./LeetCode/1109.%20Corporate%20Flight%20Bookings/solution.cpp)||||||
