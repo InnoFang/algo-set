@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 576
+**Problems have been solved:** 577
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -579,6 +579,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2287. Rearrange Characters to Make Target String](./LeetCode/2287.%20Rearrange%20Characters%20to%20Make%20Target%20String)|Easy| [`Counting`](https://leetcode.com/tag/Counting/) [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)||||[py](./LeetCode/2287.%20Rearrange%20Characters%20to%20Make%20Target%20String/solution.py)|||
 [2288. Apply Discount to Prices](./LeetCode/2288.%20Apply%20Discount%20to%20Prices)|Medium| [`String`](https://leetcode.com/tag/string/)||||[py](./LeetCode/2288.%20Apply%20Discount%20to%20Prices/solution.py)|||
 [2290. Minimum Obstacle Removal to Reach Corner](./LeetCode/2290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner)|Hard| [`Array`](https://leetcode.com/tag/array/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Graph`](https://leetcode.com/tag/graph/) [`Matrix`](https://leetcode.com/tag/matrix/) [`Shortest Path`](https://leetcode.com/tag/shortest-path/)||||[py](./LeetCode/2290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/solution.py)|||
+[2303. Calculate Amount Paid in Taxes](./LeetCode/2303.%20Calculate%20Amount%20Paid%20in%20Taxes)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Simulation`](https://leetcode.com/tag/simulation/)||||[py](./LeetCode/2303.%20Calculate%20Amount%20Paid%20in%20Taxes/solution.py)|||
 
 
 ------
