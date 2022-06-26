@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 581
+**Problems have been solved:** 582
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -365,6 +365,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0705. Design HashSet](./LeetCode/0705.%20Design%20HashSet)|Easy| [`Design`](https://leetcode-cn.com/tag/design/) [`Hash Table`](https://leetcode-cn.com/tag/hash-table/)|[cpp](./LeetCode/0705.%20Design%20HashSet/solution.cpp)||||||
 [0706. Design HashMap](./LeetCode/0706.%20Design%20HashMap)|Easy| [`Design`](https://leetcode-cn.com/tag/design/) [`Hash Table`](https://leetcode-cn.com/tag/hash-table/)|[cpp](./LeetCode/0706.%20Design%20HashMap/solution.cpp)||||||
 [0709. To Lower Case](./LeetCode/0709.%20To%20Lower%20Case)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0709.%20To%20Lower%20Case/solution.cpp)|||[py](./LeetCode/0709.%20To%20Lower%20Case/solution.py)|[go](./LeetCode/0709.%20To%20Lower%20Case/solution.go)||
+[0710. Random Pick with Blacklist](./LeetCode/0710.%20Random%20Pick%20with%20Blacklist)|Hard| [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Math`](https://leetcode.com/tag/math/) [`Binary Search`](https://leetcode.com/tag/binary-search/) [`Sorting`](https://leetcode.com/tag/sorting/)||||[py](./LeetCode/0710.%20Random%20Pick%20with%20Blacklist/solution.py)|||
 [0713. Subarray Product Less Than K](./LeetCode/0713.%20Subarray%20Product%20Less%20Than%20K)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Sliding Window`](https://leetcode.com/tag/sliding-window/)|[cpp](./LeetCode/0713.%20Subarray%20Product%20Less%20Than%20K/solution.cpp)|||[py](./LeetCode/0713.%20Subarray%20Product%20Less%20Than%20K/solution.py)|||
 [0714. Best Time to Buy and Sell Stock with Transaction Fee](./LeetCode/0714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Greedy`](https://leetcode.com/tag/greedy/)||||[py](./LeetCode/0714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee/solution.py)|||
 [0717. 1-bit and 2-bit Characters](./LeetCode/0717.%201-bit%20and%202-bit%20Characters)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/0717.%201-bit%20and%202-bit%20Characters/solution.cpp)||||||
