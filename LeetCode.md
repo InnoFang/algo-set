@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 584
+**Problems have been solved:** 585
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -308,6 +308,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0526. Beautiful Arrangement](./LeetCode/0526.%20Beautiful%20Arrangement)|Medium| [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/) [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Backtracking`](https://leetcode.com/tag/backtracking/)|[cpp](./LeetCode/0526.%20Beautiful%20Arrangement/solution.cpp)||||||
 [0530. Minimum Absolute Difference in BST](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST)|Easy| [`Binary Search Tree`](https://leetcode.com/tag/binary-search-tree/)|[cpp](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/solution.cpp)|||||[kt](./LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST/Solution.kt)|
 [0532. K-diff Pairs in an Array](./LeetCode/0532.%20K-diff%20Pairs%20in%20an%20Array)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Sorting`](https://leetcode.com/tag/sorting/) [`Binary Search`](https://leetcode.com/tag/binary-search/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Two Pointers`](https://leetcode.com/tag/two-pointers/)||||[py](./LeetCode/0532.%20K-diff%20Pairs%20in%20an%20Array/solution.py)|||
+[0535. Encode and Decode TinyURL](./LeetCode/0535.%20Encode%20and%20Decode%20TinyURL)|Medium| [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Design`](https://leetcode.com/tag/design/) [`Hash Function`](https://leetcode.com/tag/hash-function/)||||[py](./LeetCode/0535.%20Encode%20and%20Decode%20TinyURL/solution.py)|||
 [0537. Complex Number Multiplication](./LeetCode/0537.%20Complex%20Number%20Multiplication)|Medium| [`Math`](https://leetcode.com/tag/math/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0537.%20Complex%20Number%20Multiplication/solution.cpp)|[java](./LeetCode/0537.%20Complex%20Number%20Multiplication/Solution.java)|||||
 [0539. Minimum Time Difference](./LeetCode/0539.%20Minimum%20Time%20Difference)|Medium| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/0539.%20Minimum%20Time%20Difference/solution.cpp)||||||
 [0540. Single Element in a Sorted Array](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Binary Search`](https://leetcode.com/tag/binary-search/)|[cpp](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array/solution.cpp)|||||[kt](./LeetCode/0540.%20Single%20Element%20in%20a%20Sorted%20Array/Solution.kt)|
