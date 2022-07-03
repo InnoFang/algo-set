@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 585
+**Problems have been solved:** 586
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -27,6 +27,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0028. Implement strStr()](./LeetCode/0028.%20Implement%20strStr())|Easy| [`Two Pointers`](https://leetcode-cn.com/tag/two-pointers/) [`String`](https://leetcode-cn.com/tag/string/)|[cpp](./LeetCode/0028.%20Implement%20strStr()/solution.cpp)||||||
 [0029. Divide Two Integers](./LeetCode/0029.%20Divide%20Two%20Integers)|Medium| [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/0029.%20Divide%20Two%20Integers/solution.cpp)||||||
 [0030. Substring with Concatenation of All Words](./LeetCode/0030.%20Substring%20with%20Concatenation%20of%20All%20Words)|Hard| [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Slide Window`](https://leetcode.com/tag/slide-window/)||||[py](./LeetCode/0030.%20Substring%20with%20Concatenation%20of%20All%20Words/solution.py)|||
+[0031. Next Permutation](./LeetCode/0031.%20Next%20Permutation)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Two Pointers`](https://leetcode.com/tag/two-pointers/)||||[py](./LeetCode/0031.%20Next%20Permutation/solution.py)|||
 [0033. Search in Rotated Sorted Array](./LeetCode/0033.%20Search%20in%20Rotated%20Sorted%20Array)|Medium| [`Array`](https://leetcode-cn.com/tag/array/) [`Binary Search`](https://leetcode-cn.com/tag/binary-search/)|[cpp](./LeetCode/0033.%20Search%20in%20Rotated%20Sorted%20Array/solution.cpp)|||[py](./LeetCode/0033.%20Search%20in%20Rotated%20Sorted%20Array/solution.py)|||
 [0034. Search for a Range](./LeetCode/0034.%20Search%20for%20a%20Range)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Binary Search`](https://leetcode.com/tag/binary-search/)|[cpp](./LeetCode/0034.%20Search%20for%20a%20Range/solution.cpp)|||[py](./LeetCode/0034.%20Search%20for%20a%20Range/solution.py)||[kt](./LeetCode/0034.%20Search%20for%20a%20Range/Solution.kt)|
 [0035. Search Insert Position](./LeetCode/0035.%20Search%20Insert%20Position)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Binary Search`](https://leetcode.com/tag/binary-search/)||||||[kt](./LeetCode/0035.%20Search%20Insert%20Position/Solution.kt)|
