@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 586
+**Problems have been solved:** 587
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -496,6 +496,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1185. Day of the Week](./LeetCode/1185.%20Day%20of%20the%20Week)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1185.%20Day%20of%20the%20Week/solution.cpp)|||[py](./LeetCode/1185.%20Day%20of%20the%20Week/solution.py)|[go](./LeetCode/1185.%20Day%20of%20the%20Week/solution.go)||
 [1189. Maximum Number of Balloons](./LeetCode/1189.%20Maximum%20Number%20of%20Balloons)|Easy| [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/1189.%20Maximum%20Number%20of%20Balloons/solution.cpp)||||||
 [1190. Reverse Substrings Between Each Pair of Parentheses](./LeetCode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses)|Medium| [`Stack`](https://leetcode-cn.com/tag/stack/)|[cpp](./LeetCode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/solution.cpp)|||[py](./LeetCode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/solution.py)|||
+[1200. Minimum Absolute Difference](./LeetCode/1200.%20Minimum%20Absolute%20Difference)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Sorting`](https://leetcode.com/tag/sorting/)|[cpp](./LeetCode/1200.%20Minimum%20Absolute%20Difference/solution.cpp)|||[py](./LeetCode/1200.%20Minimum%20Absolute%20Difference/solution.py)|[go](./LeetCode/1200.%20Minimum%20Absolute%20Difference/solution.go)||
 [1206. Design Skiplist](./LeetCode/1206.%20Design%20Skiplist)|Hard| [`Design`](https://leetcode.com/tag/design/) [`Linked List`](https://leetcode.com/tag/linked-list/)|[cpp](./LeetCode/1206.%20Design%20Skiplist/solution.cpp)||||||
 [1208. Get Equal Substrings Within Budget](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Sliding Window`](https://leetcode.com/tag/sliding-window/)|[cpp](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.cpp)|||[py](./LeetCode/1208.%20Get%20Equal%20Substrings%20Within%20Budget/solution.py)|||
 [1218. Longest Arithmetic Subsequence of Given Difference](./LeetCode/1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/)|[cpp](./LeetCode/1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/solution.cpp)||||||
