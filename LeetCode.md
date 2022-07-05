@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 587
+**Problems have been solved:** 588
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -376,6 +376,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0724. Find Pivot Index](./LeetCode/0724.%20Find%20Pivot%20Index)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/0724.%20Find%20Pivot%20Index/solution.cpp)|||[py](./LeetCode/0724.%20Find%20Pivot%20Index/solution.py)|||
 [0725. Split Linked List in Parts](./LeetCode/0725.%20Split%20Linked%20List%20in%20Parts)|Medium| [`Linked List`](https://leetcode.com/tag/linked-list/)|[cpp](./LeetCode/0725.%20Split%20Linked%20List%20in%20Parts/solution.cpp)||||||
 [0728. Self Dividing Numbers](./LeetCode/0728.%20Self%20Dividing%20Numbers)|Easy| [`Math`](https://leetcode.com/tag/math/)||||[py](./LeetCode/0728.%20Self%20Dividing%20Numbers/solution.py)||[kt](./LeetCode/0728.%20Self%20Dividing%20Numbers/Solution.kt)|
+[0729. My Calendar I](./LeetCode/0729.%20My%20Calendar%20I)|Medium| [`Design`](https://leetcode.com/tag/design/) [`Binary Search`](https://leetcode.com/tag/binary-search/) [`Ordered Set`](https://leetcode.com/tag/ordered-set/)|[cpp](./LeetCode/0729.%20My%20Calendar%20I/solution.cpp)|||[py](./LeetCode/0729.%20My%20Calendar%20I/solution.py)|[go](./LeetCode/0729.%20My%20Calendar%20I/solution.go)||
 [0733. Flood Fill](./LeetCode/0733.%20Flood%20Fill)|Easy| [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/0733.%20Flood%20Fill/solution.cpp)|||[py](./LeetCode/0733.%20Flood%20Fill/solution.py)||[kt](./LeetCode/0733.%20Flood%20Fill/Solution.kt)|
 [0738. Monotone Increasing Digits](./LeetCode/0738.%20Monotone%20Increasing%20Digits)|Medium| [`Greedy`](https://leetcode.com/tag/greedy/)||||||[kt](./LeetCode/0738.%20Monotone%20Increasing%20Digits/Solution.kt)|
 [0740. Delete and Earn](./LeetCode/0740.%20Delete%20and%20Earn)|Medium| [`Dynamic Programming`](https://leetcode-cn.com/tag/dynamic-programming/)|[cpp](./LeetCode/0740.%20Delete%20and%20Earn/solution.cpp)|||[py](./LeetCode/0740.%20Delete%20and%20Earn/solution.py)|[go](./LeetCode/0740.%20Delete%20and%20Earn/solution.go)||
