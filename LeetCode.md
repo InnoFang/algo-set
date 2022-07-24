@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 591
+**Problems have been solved:** 592
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -495,6 +495,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1160. Find Words That Can Be Formed by Characters](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|||||[go](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/solution.go)||
 [1162. As Far from Land as Possible](./LeetCode/1162.%20As%20Far%20from%20Land%20as%20Possible)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/)|[cpp](./LeetCode/1162.%20As%20Far%20from%20Land%20as%20Possible/solution.cpp)|||[py](./LeetCode/1162.%20As%20Far%20from%20Land%20as%20Possible/solution.py)|||
 [1178. Number of Valid Words for Each Puzzle](./LeetCode/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle)|Hard| [`Hash Table`](https://leetcode-cn.com/tag/hash-table/) [`Bit Manipulation`](https://leetcode-cn.com/tag/bit-manipulation/)|[cpp](./LeetCode/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/solution.cpp)||||||
+[1184. Distance Between Bus Stops](./LeetCode/1184.%20Distance%20Between%20Bus%20Stops)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1184.%20Distance%20Between%20Bus%20Stops/solution.cpp)|||[py](./LeetCode/1184.%20Distance%20Between%20Bus%20Stops/solution.py)|||
 [1185. Day of the Week](./LeetCode/1185.%20Day%20of%20the%20Week)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1185.%20Day%20of%20the%20Week/solution.cpp)|||[py](./LeetCode/1185.%20Day%20of%20the%20Week/solution.py)|[go](./LeetCode/1185.%20Day%20of%20the%20Week/solution.go)||
 [1189. Maximum Number of Balloons](./LeetCode/1189.%20Maximum%20Number%20of%20Balloons)|Easy| [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/1189.%20Maximum%20Number%20of%20Balloons/solution.cpp)||||||
 [1190. Reverse Substrings Between Each Pair of Parentheses](./LeetCode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses)|Medium| [`Stack`](https://leetcode-cn.com/tag/stack/)|[cpp](./LeetCode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/solution.cpp)|||[py](./LeetCode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/solution.py)|||
