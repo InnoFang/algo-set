@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 593
+**Problems have been solved:** 594
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -493,6 +493,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1143. Longest Common Subsequence](./LeetCode/1143.%20Longest%20Common%20Subsequence)|Medium| [`Dynamic Programming`](https://leetcode-cn.com/tag/dynamic-programming/)|[cpp](./LeetCode/1143.%20Longest%20Common%20Subsequence/solution.cpp)|||[py](./LeetCode/1143.%20Longest%20Common%20Subsequence/solution.py)|||
 [1154. Day of the Year](./LeetCode/1154.%20Day%20of%20the%20Year)|Easy| [`String`](https://leetcode.com/tag/string/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1154.%20Day%20of%20the%20Year/solution.cpp)|||[py](./LeetCode/1154.%20Day%20of%20the%20Year/solution.py)|[go](./LeetCode/1154.%20Day%20of%20the%20Year/solution.go)||
 [1160. Find Words That Can Be Formed by Characters](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|||||[go](./LeetCode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/solution.go)||
+[1161. Maximum Level Sum of a Binary Tree](./LeetCode/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)|Medium| [`Binary Tree`](https://leetcode.com/tag/binary-tree/) [`Tree`](https://leetcode.com/tag/tree/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/solution.cpp)|||[py](./LeetCode/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/solution.py)|||
 [1162. As Far from Land as Possible](./LeetCode/1162.%20As%20Far%20from%20Land%20as%20Possible)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/)|[cpp](./LeetCode/1162.%20As%20Far%20from%20Land%20as%20Possible/solution.cpp)|||[py](./LeetCode/1162.%20As%20Far%20from%20Land%20as%20Possible/solution.py)|||
 [1178. Number of Valid Words for Each Puzzle](./LeetCode/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle)|Hard| [`Hash Table`](https://leetcode-cn.com/tag/hash-table/) [`Bit Manipulation`](https://leetcode-cn.com/tag/bit-manipulation/)|[cpp](./LeetCode/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/solution.cpp)||||||
 [1184. Distance Between Bus Stops](./LeetCode/1184.%20Distance%20Between%20Bus%20Stops)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1184.%20Distance%20Between%20Bus%20Stops/solution.cpp)|||[py](./LeetCode/1184.%20Distance%20Between%20Bus%20Stops/solution.py)|||
