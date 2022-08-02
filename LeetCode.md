@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 595
+**Problems have been solved:** 596
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -338,6 +338,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0605. Can Place Flowers](./LeetCode/0605.%20Can%20Place%20Flowers)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/0605.%20Can%20Place%20Flowers/solution.cpp)||||||
 [0606. Construct String from Binary Tree](./LeetCode/0606.%20Construct%20String%20from%20Binary%20Tree)|Easy| [`Tree`](https://leetcode.com/tag/tree/) [`Binary Tree`](https://leetcode.com/tag/binary-tree/) [`String`](https://leetcode.com/tag/string/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/0606.%20Construct%20String%20from%20Binary%20Tree/solution.cpp)||||||
 [0611. Valid Triangle Number](./LeetCode/0611.%20Valid%20Triangle%20Number)|Medium| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/0611.%20Valid%20Triangle%20Number/solution.cpp)|||||[kt](./LeetCode/0611.%20Valid%20Triangle%20Number/Solution.kt)|
+[0622. Design Circular Queue](./LeetCode/0622.%20Design%20Circular%20Queue)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Linked List`](https://leetcode.com/tag/linked-list/) [`Queue`](https://leetcode.com/tag/queue/) [`Design`](https://leetcode.com/tag/design/)||||[py](./LeetCode/0622.%20Design%20Circular%20Queue/solution.py)|||
 [0628. Maximum Product of Three Numbers](./LeetCode/0628.%20Maximum%20Product%20of%20Three%20Numbers)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/)||||[py](./LeetCode/0628.%20Maximum%20Product%20of%20Three%20Numbers/solution.py)|||
 [0633. Sum of Square Numbers](./LeetCode/0633.%20Sum%20of%20Square%20Numbers)|Medium| [`Math`](https://leetcode-cn.com/tag/math/)|[cpp](./LeetCode/0633.%20Sum%20of%20Square%20Numbers/solution.cpp)|||[py](./LeetCode/0633.%20Sum%20of%20Square%20Numbers/solution.py)|||
 [0638. Shopping Offers](./LeetCode/0638.%20Shopping%20Offers)|Medium| [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/) [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Backtracking`](https://leetcode.com/tag/backtracking/)|[cpp](./LeetCode/0638.%20Shopping%20Offers/solution.cpp)||||||
