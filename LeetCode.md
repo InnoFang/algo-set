@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 599
+**Problems have been solved:** 600
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -342,6 +342,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0623. Add One Row to Tree](./LeetCode/0623.%20Add%20One%20Row%20to%20Tree)|Medium| [`Binary Tree`](https://leetcode.com/tag/binary-tree/) [`Tree`](https://leetcode.com/tag/tree/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/0623.%20Add%20One%20Row%20to%20Tree/solution.cpp)|||[py](./LeetCode/0623.%20Add%20One%20Row%20to%20Tree/solution.py)|||
 [0628. Maximum Product of Three Numbers](./LeetCode/0628.%20Maximum%20Product%20of%20Three%20Numbers)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/)||||[py](./LeetCode/0628.%20Maximum%20Product%20of%20Three%20Numbers/solution.py)|||
 [0633. Sum of Square Numbers](./LeetCode/0633.%20Sum%20of%20Square%20Numbers)|Medium| [`Math`](https://leetcode-cn.com/tag/math/)|[cpp](./LeetCode/0633.%20Sum%20of%20Square%20Numbers/solution.cpp)|||[py](./LeetCode/0633.%20Sum%20of%20Square%20Numbers/solution.py)|||
+[0636. Exclusive Time of Functions](./LeetCode/0636.%20Exclusive%20Time%20of%20Functions)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Stack`](https://leetcode.com/tag/stack/)||||[py](./LeetCode/0636.%20Exclusive%20Time%20of%20Functions/solution.py)|||
 [0638. Shopping Offers](./LeetCode/0638.%20Shopping%20Offers)|Medium| [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/) [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Backtracking`](https://leetcode.com/tag/backtracking/)|[cpp](./LeetCode/0638.%20Shopping%20Offers/solution.cpp)||||||
 [0639. Decode Ways II](./LeetCode/0639.%20Decode%20Ways%20II)|Hard| [`String`](https://leetcode.com/tag/string/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/)|[cpp](./LeetCode/0639.%20Decode%20Ways%20II/solution.cpp)||||||
 [0643. Maximum Average Subarray I](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/solution.cpp)|||[py](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/solution.py)||[kt](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/Solution.kt)|
