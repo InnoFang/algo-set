@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 600
+**Problems have been solved:** 601
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -526,6 +526,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1380. Lucky Numbers in a Matrix](./LeetCode/1380.%20Lucky%20Numbers%20in%20a%20Matrix)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1380.%20Lucky%20Numbers%20in%20a%20Matrix/solution.cpp)||||||
 [1403. Minimum Subsequence in Non-Increasing Order](./LeetCode/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Sorting`](https://leetcode.com/tag/sorting/) [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order/solution.cpp)|||[py](./LeetCode/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order/solution.py)|||
 [1408. String Matching in an Array](./LeetCode/1408.%20String%20Matching%20in%20an%20Array)|Easy| [`String`](https://leetcode.com/tag/string/) [`String Matching`](https://leetcode.com/tag/string-matching/)|[cpp](./LeetCode/1408.%20String%20Matching%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1408.%20String%20Matching%20in%20an%20Array/solution.py)|||
+[1413. Minimum Value to Get Positive Step by Step Sum](./LeetCode/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Prefix Sum`](https://leetcode.com/tag/prefix-sum/)|[cpp](./LeetCode/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/solution.cpp)|||[py](./LeetCode/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/solution.py)|||
 [1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](./LeetCode/1414.%20Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K)|Medium| [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/1414.%20Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K/solution.cpp)||||||
 [1423. Maximum Points You Can Obtain from Cards](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Sliding Window`](https://leetcode.com/tag/sliding-window/)|[cpp](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/solution.cpp)|||[py](./LeetCode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/solution.py)|||
 [1436. Destination City](./LeetCode/1436.%20Destination%20City)|Easy| [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/1436.%20Destination%20City/solution.cpp)||||||
