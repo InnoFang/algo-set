@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 601
+**Problems have been solved:** 602
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -345,6 +345,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0636. Exclusive Time of Functions](./LeetCode/0636.%20Exclusive%20Time%20of%20Functions)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Stack`](https://leetcode.com/tag/stack/)||||[py](./LeetCode/0636.%20Exclusive%20Time%20of%20Functions/solution.py)|||
 [0638. Shopping Offers](./LeetCode/0638.%20Shopping%20Offers)|Medium| [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/) [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Backtracking`](https://leetcode.com/tag/backtracking/)|[cpp](./LeetCode/0638.%20Shopping%20Offers/solution.cpp)||||||
 [0639. Decode Ways II](./LeetCode/0639.%20Decode%20Ways%20II)|Hard| [`String`](https://leetcode.com/tag/string/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/)|[cpp](./LeetCode/0639.%20Decode%20Ways%20II/solution.cpp)||||||
+[0640. Solve the Equation](./LeetCode/0640.%20Solve%20the%20Equation)|Medium| [`String`](https://leetcode.com/tag/string/) [`Math`](https://leetcode.com/tag/math/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/0640.%20Solve%20the%20Equation/solution.cpp)|||[py](./LeetCode/0640.%20Solve%20the%20Equation/solution.py)|||
 [0643. Maximum Average Subarray I](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/solution.cpp)|||[py](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/solution.py)||[kt](./LeetCode/0643.%20Maximum%20Average%20Subarray%20I/Solution.kt)|
 [0648. Replace Words](./LeetCode/0648.%20Replace%20Words)|Medium| [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Trie`](https://leetcode.com/tag/trie/)||||||[kt](./LeetCode/0648.%20Replace%20Words/Solution.kt)|
 [0650. 2 Keys Keyboard](./LeetCode/0650.%202%20Keys%20Keyboard)|Medium| [`Math`](https://leetcode.com/tag/math/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/)|[cpp](./LeetCode/0650.%202%20Keys%20Keyboard/solution.cpp)|[java](./LeetCode/0650.%202%20Keys%20Keyboard/Solution.java)|[js](./LeetCode/0650.%202%20Keys%20Keyboard/solution.js)|[py](./LeetCode/0650.%202%20Keys%20Keyboard/solution.py)|[go](./LeetCode/0650.%202%20Keys%20Keyboard/solution.go)|[kt](./LeetCode/0650.%202%20Keys%20Keyboard/solution.kt)|
