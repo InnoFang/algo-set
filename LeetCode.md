@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 604
+**Problems have been solved:** 605
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -394,6 +394,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0762. Prime Number of Set Bits in Binary Representation](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)|Easy| [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/)|[cpp](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/solution.cpp)|||[py](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/solution.py)||[kt](./LeetCode/0762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/Solution.kt)|
 [0765. Couples Holding Hands](./LeetCode/0765.%20Couples%20Holding%20Hands)|Hard| [`Greedy`](https://leetcode.com/tag/greedy/) [`Union Find`](https://leetcode.com/tag/union-find/) [`Graph`](https://leetcode.com/tag/graph/)|[cpp](./LeetCode/0765.%20Couples%20Holding%20Hands/solution.cpp)|||[py](./LeetCode/0765.%20Couples%20Holding%20Hands/solution.py)|||
 [0766. Toeplitz Matrix](./LeetCode/0766.%20Toeplitz%20Matrix)|Easy| [`Array`](https://leetcode-cn.com/tag/array/)|[cpp](./LeetCode/0766.%20Toeplitz%20Matrix/solution.cpp)|||[py](./LeetCode/0766.%20Toeplitz%20Matrix/solution.py)|||
+[0768. Max Chunks To Make Sorted II](./LeetCode/0768.%20Max%20Chunks%20To%20Make%20Sorted%20II)|Hard| [`Array`](https://leetcode.com/tag/array/) [`Sorting`](https://leetcode.com/tag/sorting/) [`Greedy`](https://leetcode.com/tag/greedy/) [`Stack`](https://leetcode.com/tag/stack/) [`Monotonic Stack`](https://leetcode.com/tag/monotonic-stack/)|[cpp](./LeetCode/0768.%20Max%20Chunks%20To%20Make%20Sorted%20II/solution.cpp)|[java](./LeetCode/0768.%20Max%20Chunks%20To%20Make%20Sorted%20II/Solution.java)||[py](./LeetCode/0768.%20Max%20Chunks%20To%20Make%20Sorted%20II/solution.py)|||
 [0771. Jewels and Stones](./LeetCode/0771.%20Jewels%20and%20Stones)|Easy| [`Hash Table`](https://leetcode.com/tag/hash-table/)||||||[kt](./LeetCode/0771.%20Jewels%20and%20Stones/Solution.kt)|
 [0780. Reaching Points](./LeetCode/0780.%20Reaching%20Points)|Hard| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/0780.%20Reaching%20Points/solution.cpp)|||[py](./LeetCode/0780.%20Reaching%20Points/solution.py)|[go](./LeetCode/0780.%20Reaching%20Points/solution.go)|[kt](./LeetCode/0780.%20Reaching%20Points/Solution.kt)|[rs](./LeetCode/0780.%20Reaching%20Points/solution.rs)
 [0781. Rabbits in Forest](./LeetCode/0781.%20Rabbits%20in%20Forest)|Medium| [`Hash Table`](https://leetcode-cn.com/tag/hash-table/) [`Math`](https://leetcode-cn.com/tag/math/)|[cpp](./LeetCode/0781.%20Rabbits%20in%20Forest/solution.cpp)|||[py](./LeetCode/0781.%20Rabbits%20in%20Forest/solution.py)|||
