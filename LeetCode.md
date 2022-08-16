@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 607
+**Problems have been solved:** 608
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -560,6 +560,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1629. Slowest Key](./LeetCode/1629.%20Slowest%20Key)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1629.%20Slowest%20Key/solution.cpp)|||[py](./LeetCode/1629.%20Slowest%20Key/solution.py)|[go](./LeetCode/1629.%20Slowest%20Key/solution.go)||
 [1646. Get Maximum in Generated Array](./LeetCode/1646.%20Get%20Maximum%20in%20Generated%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/)|[cpp](./LeetCode/1646.%20Get%20Maximum%20in%20Generated%20Array/solution.cpp)||||||
 [1654. Minimum Jumps to Reach Home](./LeetCode/1654.%20Minimum%20Jumps%20to%20Reach%20Home)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/1654.%20Minimum%20Jumps%20to%20Reach%20Home/solution.cpp)|||[py](./LeetCode/1654.%20Minimum%20Jumps%20to%20Reach%20Home/solution.py)|||
+[1656. Design an Ordered Stream](./LeetCode/1656.%20Design%20an%20Ordered%20Stream)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Design`](https://leetcode.com/tag/design/) [`Data Stream`](https://leetcode.com/tag/data-stream/)||||[py](./LeetCode/1656.%20Design%20an%20Ordered%20Stream/solution.py)|||
 [1672. Richest Customer Wealth](./LeetCode/1672.%20Richest%20Customer%20Wealth)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/)|[cpp](./LeetCode/1672.%20Richest%20Customer%20Wealth/solution.cpp)|||[py](./LeetCode/1672.%20Richest%20Customer%20Wealth/solution.py)|||[rs](./LeetCode/1672.%20Richest%20Customer%20Wealth/solution.rs)
 [1688. Count of Matches in Tournament](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.cpp)|||[py](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.py)|[go](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.go)||
 [1716. Calculate Money in Leetcode Bank](./LeetCode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank/solution.cpp)||||||
