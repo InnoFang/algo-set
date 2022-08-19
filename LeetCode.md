@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 609
+**Problems have been solved:** 610
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -541,6 +541,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1442. Count Triplets That Can Form Two Arrays of Equal XOR](./LeetCode/1442.%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR)|Medium| [`Array`](https://leetcode-cn.com/tag/array/) [`Bit Manipulation`](https://leetcode-cn.com/tag/bit-manipulation/) [`Math`](https://leetcode-cn.com/tag/math/)|[cpp](./LeetCode/1442.%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR/solution.cpp)|||[py](./LeetCode/1442.%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR/solution.py)|||
 [1446. Consecutive Characters](./LeetCode/1446.%20Consecutive%20Characters)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1446.%20Consecutive%20Characters/solution.cpp)||||||
 [1447. Simplified Fractions](./LeetCode/1447.%20Simplified%20Fractions)|Medium| [`String`](https://leetcode.com/tag/string/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1447.%20Simplified%20Fractions/solution.cpp)||||||
+[1450. Number of Students Doing Homework at a Given Time](./LeetCode/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/solution.cpp)|||[py](./LeetCode/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/solution.py)|||
 [1464. Maximum Product of Two Elements in an Array](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.py)|||
 [1466. Reorder Routes to Make All Paths Lead to the City Zero](./LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero)|Medium| [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/) [`Graph`](https://leetcode.com/tag/graph/)|[cpp](./LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/solution.cpp)|||[py](./LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/solution.py)|||
 [1470. Shuffle the Array](./LeetCode/1470.%20Shuffle%20the%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1470.%20Shuffle%20the%20Array/solution.cpp)|||[py](./LeetCode/1470.%20Shuffle%20the%20Array/solution.py)|[go](./LeetCode/1470.%20Shuffle%20the%20Array/solution.go)||
