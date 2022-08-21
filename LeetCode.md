@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 611
+**Problems have been solved:** 612
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -543,6 +543,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1446. Consecutive Characters](./LeetCode/1446.%20Consecutive%20Characters)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1446.%20Consecutive%20Characters/solution.cpp)||||||
 [1447. Simplified Fractions](./LeetCode/1447.%20Simplified%20Fractions)|Medium| [`String`](https://leetcode.com/tag/string/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1447.%20Simplified%20Fractions/solution.cpp)||||||
 [1450. Number of Students Doing Homework at a Given Time](./LeetCode/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/solution.cpp)|||[py](./LeetCode/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/solution.py)|||
+[1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](./LeetCode/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence)|Easy| [`String`](https://leetcode.com/tag/string/) [`String Matching`](https://leetcode.com/tag/string-matching/)|[cpp](./LeetCode/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence/solution.cpp)|||[py](./LeetCode/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence/solution.py)|||
 [1464. Maximum Product of Two Elements in an Array](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.py)|||
 [1466. Reorder Routes to Make All Paths Lead to the City Zero](./LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero)|Medium| [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/) [`Graph`](https://leetcode.com/tag/graph/)|[cpp](./LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/solution.cpp)|||[py](./LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/solution.py)|||
 [1470. Shuffle the Array](./LeetCode/1470.%20Shuffle%20the%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1470.%20Shuffle%20the%20Array/solution.cpp)|||[py](./LeetCode/1470.%20Shuffle%20the%20Array/solution.py)|[go](./LeetCode/1470.%20Shuffle%20the%20Array/solution.go)||
