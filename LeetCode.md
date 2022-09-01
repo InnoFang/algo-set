@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 620
+**Problems have been solved:** 621
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -555,6 +555,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1464. Maximum Product of Two Elements in an Array](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.cpp)|[java](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/Solution.java)||[py](./LeetCode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/solution.py)|||
 [1466. Reorder Routes to Make All Paths Lead to the City Zero](./LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero)|Medium| [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/) [`Graph`](https://leetcode.com/tag/graph/)|[cpp](./LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/solution.cpp)|||[py](./LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/solution.py)|||
 [1470. Shuffle the Array](./LeetCode/1470.%20Shuffle%20the%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1470.%20Shuffle%20the%20Array/solution.cpp)|[java](./LeetCode/1470.%20Shuffle%20the%20Array/Solution.java)||[py](./LeetCode/1470.%20Shuffle%20the%20Array/solution.py)|[go](./LeetCode/1470.%20Shuffle%20the%20Array/solution.go)||
+[1475. Final Prices With a Special Discount in a Shop](./LeetCode/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Stack`](https://leetcode.com/tag/stack/) [`Monotonic Stack`](https://leetcode.com/tag/monotonic-stack/)|[cpp](./LeetCode/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/solution.cpp)|||[py](./LeetCode/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/solution.py)|||
 [1480. Running Sum of 1d Array](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1480.%20Running%20Sum%20of%201d%20Array/solution.cpp)||||||
 [1486. XOR Operation in an Array](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array)|Easy| [`Array`](https://leetcode-cn.com/tag/array/) [`Bit Manipulation`](https://leetcode-cn.com/tag/bit-manipulation/)|[cpp](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.py)|||
 [1518. Water Bottles](./LeetCode/1518.%20Water%20Bottles)|Hard| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1518.%20Water%20Bottles/solution.cpp)||||||
