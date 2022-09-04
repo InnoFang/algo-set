@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 623
+**Problems have been solved:** 624
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -564,6 +564,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1557. Minimum Number of Vertices to Reach All Nodes](./LeetCode/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes)|Medium| [`Graph`](https://leetcode.com/tag/graph/)|[cpp](./LeetCode/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/solution.cpp)|||[py](./LeetCode/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/solution.py)|||
 [1567. Maximum Length of Subarray With Positive Product](./LeetCode/1567.%20Maximum%20Length%20of%20Subarray%20With%20Positive%20Product)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Greedy`](https://leetcode.com/tag/greedy/)||||[py](./LeetCode/1567.%20Maximum%20Length%20of%20Subarray%20With%20Positive%20Product/solution.py)|||
 [1576. Replace All s to Avoid Consecutive Repeating Characters](./LeetCode/1576.%20Replace%20All%20s%20to%20Avoid%20Consecutive%20Repeating%20Characters)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1576.%20Replace%20All%20s%20to%20Avoid%20Consecutive%20Repeating%20Characters/solution.cpp)||||||
+[1582. Special Positions in a Binary Matrix](./LeetCode/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/)|[cpp](./LeetCode/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/solution.cpp)|||[py](./LeetCode/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/solution.py)|||
 [1583. Count Unhappy Friends](./LeetCode/1583.%20Count%20Unhappy%20Friends)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/1583.%20Count%20Unhappy%20Friends/solution.cpp)||||||
 [1584. Min Cost to Connect All Points](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points)|Medium| [`Union Find`](https://leetcode.com/tag/union-find/)|[cpp](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.cpp)|||[py](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.py)|||
 [1588. Sum of All Odd Length Subarrays](./LeetCode/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Prefix Sum`](https://leetcode.com/tag/prefix-sum/)|[cpp](./LeetCode/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays/solution.cpp)||||||
