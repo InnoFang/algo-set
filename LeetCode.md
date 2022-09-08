@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 626
+**Problems have been solved:** 627
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -361,6 +361,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0661. Image Smoother](./LeetCode/0661.%20Image%20Smoother)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/)|[cpp](./LeetCode/0661.%20Image%20Smoother/solution.cpp)||||||[rs](./LeetCode/0661.%20Image%20Smoother/solution.rs)
 [0662. Maximum Width of Binary Tree](./LeetCode/0662.%20Maximum%20Width%20of%20Binary%20Tree)|Medium| [`Binary Tree`](https://leetcode.com/tag/binary-tree/) [`Tree`](https://leetcode.com/tag/tree/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/0662.%20Maximum%20Width%20of%20Binary%20Tree/solution.cpp)|||[py](./LeetCode/0662.%20Maximum%20Width%20of%20Binary%20Tree/solution.py)|||
 [0665. Non-decreasing Array](./LeetCode/0665.%20Non-decreasing%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/0665.%20Non-decreasing%20Array/solution.cpp)|||[py](./LeetCode/0665.%20Non-decreasing%20Array/solution.py)||[kt](./LeetCode/0665.%20Non-decreasing%20Array/Solution.kt)|
+[0667. Beautiful Arrangement II](./LeetCode/0667.%20Beautiful%20Arrangement%20II)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/0667.%20Beautiful%20Arrangement%20II/solution.cpp)||||||
 [0673. Number of Longest Increasing Subsequence](./LeetCode/0673.%20Number%20of%20Longest%20Increasing%20Subsequence)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/)|[cpp](./LeetCode/0673.%20Number%20of%20Longest%20Increasing%20Subsequence/solution.cpp)|||[py](./LeetCode/0673.%20Number%20of%20Longest%20Increasing%20Subsequence/solution.py)|||
 [0674. Longest Continuous Increasing Subsequence](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence/solution.cpp)|||[py](./LeetCode/0674.%20Longest%20Continuous%20Increasing%20Subsequence/solution.py)|||
 [0678. Valid Parenthesis String](./LeetCode/0678.%20Valid%20Parenthesis%20String)|Medium| [`Stack`](https://leetcode.com/tag/stack/) [`Greedy`](https://leetcode.com/tag/greedy/) [`String`](https://leetcode.com/tag/string/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/)|[cpp](./LeetCode/0678.%20Valid%20Parenthesis%20String/solution.cpp)||||||
