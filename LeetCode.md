@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 627
+**Problems have been solved:** 628
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -571,6 +571,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1584. Min Cost to Connect All Points](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points)|Medium| [`Union Find`](https://leetcode.com/tag/union-find/)|[cpp](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.cpp)|||[py](./LeetCode/1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.py)|||
 [1588. Sum of All Odd Length Subarrays](./LeetCode/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Prefix Sum`](https://leetcode.com/tag/prefix-sum/)|[cpp](./LeetCode/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays/solution.cpp)||||||
 [1592. Rearrange Spaces Between Words](./LeetCode/1592.%20Rearrange%20Spaces%20Between%20Words)|Easy| [`String`](https://leetcode.com/tag/string/)||||[py](./LeetCode/1592.%20Rearrange%20Spaces%20Between%20Words/solution.py)|||
+[1598. Crawler Log Folder](./LeetCode/1598.%20Crawler%20Log%20Folder)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/) [`Stack`](https://leetcode.com/tag/stack/)|[cpp](./LeetCode/1598.%20Crawler%20Log%20Folder/solution.cpp)|||[py](./LeetCode/1598.%20Crawler%20Log%20Folder/solution.py)|||
 [1603. Design Parking System](./LeetCode/1603.%20Design%20Parking%20System)|Easy| [`Design`](https://leetcode-cn.com/tag/design/)|[cpp](./LeetCode/1603.%20Design%20Parking%20System/solution.cpp)|||[py](./LeetCode/1603.%20Design%20Parking%20System/solution.py)|||
 [1608. Special Array With X Elements Greater Than or Equal X](./LeetCode/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Sorting`](https://leetcode.com/tag/sorting/) [`Binary Search`](https://leetcode.com/tag/binary-search/)|[cpp](./LeetCode/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/solution.cpp)||||||
 [1609. Even Odd Three](./LeetCode/1609.%20Even%20Odd%20Three)|Medium| [`Binary Tree`](https://leetcode.com/tag/binary-tree/) [`Tree`](https://leetcode.com/tag/tree/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/)|[cpp](./LeetCode/1609.%20Even%20Odd%20Three/solution.cpp)||||||
