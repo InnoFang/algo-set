@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 635
+**Problems have been solved:** 636
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -383,6 +383,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0704. Binary Search](./LeetCode/0704.%20Binary%20Search)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Binary Search`](https://leetcode.com/tag/binary-search/)|[cpp](./LeetCode/0704.%20Binary%20Search/solution.cpp)|[java](./LeetCode/0704.%20Binary%20Search/Solution.java)||[py](./LeetCode/0704.%20Binary%20Search/solution.py)|[go](./LeetCode/0704.%20Binary%20Search/solution.go)||
 [0705. Design HashSet](./LeetCode/0705.%20Design%20HashSet)|Easy| [`Design`](https://leetcode-cn.com/tag/design/) [`Hash Table`](https://leetcode-cn.com/tag/hash-table/)|[cpp](./LeetCode/0705.%20Design%20HashSet/solution.cpp)||||||
 [0706. Design HashMap](./LeetCode/0706.%20Design%20HashMap)|Easy| [`Design`](https://leetcode-cn.com/tag/design/) [`Hash Table`](https://leetcode-cn.com/tag/hash-table/)|[cpp](./LeetCode/0706.%20Design%20HashMap/solution.cpp)||||||
+[0707. Design Linked List](./LeetCode/0707.%20Design%20Linked%20List)|Medium| [`Linked List`](https://leetcode.com/tag/linked-list/) [`Design`](https://leetcode.com/tag/design/)||||[py](./LeetCode/0707.%20Design%20Linked%20List/solution.py)|||
 [0709. To Lower Case](./LeetCode/0709.%20To%20Lower%20Case)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0709.%20To%20Lower%20Case/solution.cpp)|||[py](./LeetCode/0709.%20To%20Lower%20Case/solution.py)|[go](./LeetCode/0709.%20To%20Lower%20Case/solution.go)||
 [0710. Random Pick with Blacklist](./LeetCode/0710.%20Random%20Pick%20with%20Blacklist)|Hard| [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Math`](https://leetcode.com/tag/math/) [`Binary Search`](https://leetcode.com/tag/binary-search/) [`Sorting`](https://leetcode.com/tag/sorting/)||||[py](./LeetCode/0710.%20Random%20Pick%20with%20Blacklist/solution.py)|||
 [0713. Subarray Product Less Than K](./LeetCode/0713.%20Subarray%20Product%20Less%20Than%20K)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Sliding Window`](https://leetcode.com/tag/sliding-window/)|[cpp](./LeetCode/0713.%20Subarray%20Product%20Less%20Than%20K/solution.cpp)|||[py](./LeetCode/0713.%20Subarray%20Product%20Less%20Than%20K/solution.py)|||
