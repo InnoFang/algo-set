@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 638
+**Problems have been solved:** 639
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -593,6 +593,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1656. Design an Ordered Stream](./LeetCode/1656.%20Design%20an%20Ordered%20Stream)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Design`](https://leetcode.com/tag/design/) [`Data Stream`](https://leetcode.com/tag/data-stream/)||||[py](./LeetCode/1656.%20Design%20an%20Ordered%20Stream/solution.py)|||
 [1672. Richest Customer Wealth](./LeetCode/1672.%20Richest%20Customer%20Wealth)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/)|[cpp](./LeetCode/1672.%20Richest%20Customer%20Wealth/solution.cpp)|||[py](./LeetCode/1672.%20Richest%20Customer%20Wealth/solution.py)|||[rs](./LeetCode/1672.%20Richest%20Customer%20Wealth/solution.rs)
 [1688. Count of Matches in Tournament](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.cpp)|||[py](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.py)|[go](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.go)||
+[1694. Reformat Phone Number](./LeetCode/1694.%20Reformat%20Phone%20Number)|Easy| [`String`](https://leetcode.com/tag/string/)||||[py](./LeetCode/1694.%20Reformat%20Phone%20Number/solution.py)|||
 [1716. Calculate Money in Leetcode Bank](./LeetCode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank/solution.cpp)||||||
 [1720. Decode XORed Array](./LeetCode/1720.%20Decode%20XORed%20Array)|Easy| [`Bit Manipulation`](https://leetcode-cn.com/tag/bit-manipulation/)|[cpp](./LeetCode/1720.%20Decode%20XORed%20Array/solution.cpp)|||[py](./LeetCode/1720.%20Decode%20XORed%20Array/solution.py)|||
 [1723. Find Minimum Time to Finish All Jobs](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs)|Hard| [`Recursion`](https://leetcode-cn.com/tag/recursion/) [`Backtracking`](https://leetcode-cn.com/tag/backtracking/)|[cpp](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.cpp)|||[py](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.py)|||
