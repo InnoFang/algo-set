@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 639
+**Problems have been solved:** 640
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -411,6 +411,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0766. Toeplitz Matrix](./LeetCode/0766.%20Toeplitz%20Matrix)|Easy| [`Array`](https://leetcode-cn.com/tag/array/)|[cpp](./LeetCode/0766.%20Toeplitz%20Matrix/solution.cpp)|||[py](./LeetCode/0766.%20Toeplitz%20Matrix/solution.py)|||
 [0768. Max Chunks To Make Sorted II](./LeetCode/0768.%20Max%20Chunks%20To%20Make%20Sorted%20II)|Hard| [`Array`](https://leetcode.com/tag/array/) [`Sorting`](https://leetcode.com/tag/sorting/) [`Greedy`](https://leetcode.com/tag/greedy/) [`Stack`](https://leetcode.com/tag/stack/) [`Monotonic Stack`](https://leetcode.com/tag/monotonic-stack/)|[cpp](./LeetCode/0768.%20Max%20Chunks%20To%20Make%20Sorted%20II/solution.cpp)|[java](./LeetCode/0768.%20Max%20Chunks%20To%20Make%20Sorted%20II/Solution.java)||[py](./LeetCode/0768.%20Max%20Chunks%20To%20Make%20Sorted%20II/solution.py)|||
 [0771. Jewels and Stones](./LeetCode/0771.%20Jewels%20and%20Stones)|Easy| [`Hash Table`](https://leetcode.com/tag/hash-table/)||||||[kt](./LeetCode/0771.%20Jewels%20and%20Stones/Solution.kt)|
+[0777. Swap Adjacent in LR String](./LeetCode/0777.%20Swap%20Adjacent%20in%20LR%20String)|Medium| [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0777.%20Swap%20Adjacent%20in%20LR%20String/solution.cpp)|||[py](./LeetCode/0777.%20Swap%20Adjacent%20in%20LR%20String/solution.py)|||
 [0780. Reaching Points](./LeetCode/0780.%20Reaching%20Points)|Hard| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/0780.%20Reaching%20Points/solution.cpp)|||[py](./LeetCode/0780.%20Reaching%20Points/solution.py)|[go](./LeetCode/0780.%20Reaching%20Points/solution.go)|[kt](./LeetCode/0780.%20Reaching%20Points/Solution.kt)|[rs](./LeetCode/0780.%20Reaching%20Points/solution.rs)
 [0781. Rabbits in Forest](./LeetCode/0781.%20Rabbits%20in%20Forest)|Medium| [`Hash Table`](https://leetcode-cn.com/tag/hash-table/) [`Math`](https://leetcode-cn.com/tag/math/)|[cpp](./LeetCode/0781.%20Rabbits%20in%20Forest/solution.cpp)|||[py](./LeetCode/0781.%20Rabbits%20in%20Forest/solution.py)|||
 [0783. Minimum Distance Between BST Nodes](./LeetCode/0783.%20Minimum%20Distance%20Between%20BST%20Nodes)|Easy| [`Binary Search Tree`](https://leetcode.com/tag/binary-search-tree/)|[cpp](./LeetCode/0783.%20Minimum%20Distance%20Between%20BST%20Nodes/solution.cpp)|||||[kt](./LeetCode/0783.%20Minimum%20Distance%20Between%20BST%20Nodes/Solution.kt)|
