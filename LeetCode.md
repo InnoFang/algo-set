@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 641
+**Problems have been solved:** 642
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -428,6 +428,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0806. Number of Lines To Write String](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String/solution.cpp)||||[go](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String/solution.go)||[rs](./LeetCode/0806.%20Number%20of%20Lines%20To%20Write%20String/solution.rs)
 [0807. Max Increase to Keep City Skyline](./LeetCode/0807.%20Max%20Increase%20to%20Keep%20City%20Skyline)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/0807.%20Max%20Increase%20to%20Keep%20City%20Skyline/solution.cpp)|||[py](./LeetCode/0807.%20Max%20Increase%20to%20Keep%20City%20Skyline/solution.py)|||
 [0810. Chalkboard XOR Game](./LeetCode/0810.%20Chalkboard%20XOR%20Game)|Hard| [`Math`](https://leetcode-cn.com/tag/math/)|[cpp](./LeetCode/0810.%20Chalkboard%20XOR%20Game/solution.cpp)|||[py](./LeetCode/0810.%20Chalkboard%20XOR%20Game/solution.py)|||
+[0811. Subdomain Visit Count](./LeetCode/0811.%20Subdomain%20Visit%20Count)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Counting`](https://leetcode.com/tag/Counting/) [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)||||[py](./LeetCode/0811.%20Subdomain%20Visit%20Count/solution.py)|||
 [0812. Largest Triangle Area](./LeetCode/0812.%20Largest%20Triangle%20Area)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/) [`Geometry`](https://leetcode.com/tag/geometry/)|[cpp](./LeetCode/0812.%20Largest%20Triangle%20Area/solution.cpp)|||[py](./LeetCode/0812.%20Largest%20Triangle%20Area/solution.py)|||
 [0814. Binary Tree Pruning](./LeetCode/0814.%20Binary%20Tree%20Pruning)|Medium| [`Binary Tree`](https://leetcode.com/tag/binary-tree/) [`Tree`](https://leetcode.com/tag/tree/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/0814.%20Binary%20Tree%20Pruning/solution.cpp)|||[py](./LeetCode/0814.%20Binary%20Tree%20Pruning/solution.py)|[go](./LeetCode/0814.%20Binary%20Tree%20Pruning/solution.go)||
 [0819. Most Common Word](./LeetCode/0819.%20Most%20Common%20Word)|Easy| [`Counting`](https://leetcode.com/tag/Counting/) [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/0819.%20Most%20Common%20Word/solution.cpp)|||[py](./LeetCode/0819.%20Most%20Common%20Word/solution.py)|||
