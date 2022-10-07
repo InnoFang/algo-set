@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 642
+**Problems have been solved:** 643
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -606,6 +606,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1748. Sum of Unique Elements](./LeetCode/1748.%20Sum%20of%20Unique%20Elements)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/1748.%20Sum%20of%20Unique%20Elements/solution.cpp)||||||
 [1763. Longest Nice Substring](./LeetCode/1763.%20Longest%20Nice%20Substring)|Easy| [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/)|[cpp](./LeetCode/1763.%20Longest%20Nice%20Substring/solution.cpp)||||||
 [1791. Find Center of Star Graph](./LeetCode/1791.%20Find%20Center%20of%20Star%20Graph)|Easy| [`Graph`](https://leetcode.com/tag/graph/)|[cpp](./LeetCode/1791.%20Find%20Center%20of%20Star%20Graph/solution.cpp)||||||
+[1800. Maximum Ascending Subarray Sum](./LeetCode/1800.%20Maximum%20Ascending%20Subarray%20Sum)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1800.%20Maximum%20Ascending%20Subarray%20Sum/solution.cpp)|||[py](./LeetCode/1800.%20Maximum%20Ascending%20Subarray%20Sum/solution.py)|||
 [1816. Truncate Sentence](./LeetCode/1816.%20Truncate%20Sentence)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1816.%20Truncate%20Sentence/solution.cpp)||||||
 [1823. Find the Winner of the Circular Game](./LeetCode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Recursion`](https://leetcode.com/tag/recursion/) [`Queue`](https://leetcode.com/tag/queue/) [`Math`](https://leetcode.com/tag/math/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game/solution.cpp)|||[py](./LeetCode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game/solution.py)|||
 [1894. Find the Student that Will Replace the Chalk](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Binary Search`](https://leetcode.com/tag/binary-search/) [`Prefix Sum`](https://leetcode.com/tag/prefix-sum/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/solution.cpp)||||||
