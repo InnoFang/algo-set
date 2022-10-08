@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 643
+**Problems have been solved:** 644
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -448,6 +448,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0867. Transpose Matrix](./LeetCode/0867.%20Transpose%20Matrix)|Easy| [`Array`](https://leetcode-cn.com/tag/array/)|[cpp](./LeetCode/0867.%20Transpose%20Matrix/solution.cpp)|||[py](./LeetCode/0867.%20Transpose%20Matrix/solution.py)|||
 [0868. Binary Gap](./LeetCode/0868.%20Binary%20Gap)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/0868.%20Binary%20Gap/solution.cpp)||||||
 [0869. Reordered Power of 2](./LeetCode/0869.%20Reordered%20Power%20of%202)|Medium| [`Math`](https://leetcode.com/tag/math/) [`Counting`](https://leetcode.com/tag/counting/) [`Sorting`](https://leetcode.com/tag/sorting/)|[cpp](./LeetCode/0869.%20Reordered%20Power%20of%202/solution.cpp)||||||
+[0870. Advantage Shuffle](./LeetCode/0870.%20Advantage%20Shuffle)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`Sorting`](https://leetcode.com/tag/sorting/) [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/0870.%20Advantage%20Shuffle/solution.cpp)|||[py](./LeetCode/0870.%20Advantage%20Shuffle/solution.py)|||
 [0872. Leaf-Similar Trees](./LeetCode/0872.%20Leaf-Similar%20Trees)|Easy| [`Tree`](https://leetcode.com/tag/tree/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/0872.%20Leaf-Similar%20Trees/Solution.cpp)|||[py](./LeetCode/0872.%20Leaf-Similar%20Trees/solution.py)|||
 [0875. Koko Eating Bananas](./LeetCode/0875.%20Koko%20Eating%20Bananas)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Binary Search`](https://leetcode.com/tag/binary-search/)|[cpp](./LeetCode/0875.%20Koko%20Eating%20Bananas/solution.cpp)|||[py](./LeetCode/0875.%20Koko%20Eating%20Bananas/solution.py)|||
 [0876. Middle of the Linked List](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List)|Easy| [`Linked List`](https://leetcode.com/tag/linked-list/)|||||[go](./LeetCode/0876.%20Middle%20of%20the%20Linked%20List/solution.go)||
