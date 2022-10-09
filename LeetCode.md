@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 644
+**Problems have been solved:** 645
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -444,6 +444,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [0847. Shortest Path Visiting All Nodes](./LeetCode/0847.%20Shortest%20Path%20Visiting%20All%20Nodes)|Hard| [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Graph`](https://leetcode.com/tag/graph/) [`Bitmask`](https://leetcode.com/tag/bitmask/)|[cpp](./LeetCode/0847.%20Shortest%20Path%20Visiting%20All%20Nodes/solution.cpp)|||[py](./LeetCode/0847.%20Shortest%20Path%20Visiting%20All%20Nodes/solution.py)|||
 [0850. Rectangle Area II](./LeetCode/0850.%20Rectangle%20Area%20II)|Hard| [`Array`](https://leetcode.com/tag/array/) [`Line Sweep`](https://leetcode.com/tag/line-sweep/) [`Ordered Set`](https://leetcode.com/tag/ordered-set/) [`Segment Tree`](https://leetcode.com/tag/segment-tree/)||||[py](./LeetCode/0850.%20Rectangle%20Area%20II/solution.py)|||
 [0852. Peak Index in a Mountain Array](./LeetCode/0852.%20Peak%20Index%20in%20a%20Mountain%20Array)|Easy| [`Binary Search`](https://leetcode-cn.com/tag/binary-search/)|[cpp](./LeetCode/0852.%20Peak%20Index%20in%20a%20Mountain%20Array/solution.cpp)|||[py](./LeetCode/0852.%20Peak%20Index%20in%20a%20Mountain%20Array/solution.py)|||
+[0856. Score of Parentheses](./LeetCode/0856.%20Score%20of%20Parentheses)|Medium| [`String`](https://leetcode.com/tag/string/) [`Stack`](https://leetcode.com/tag/stack/)||||[py](./LeetCode/0856.%20Score%20of%20Parentheses/solution.py)|||
 [0860. Lemonade Change](./LeetCode/0860.%20Lemonade%20Change)|Easy| [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/0860.%20Lemonade%20Change/Solution.cpp)||||||
 [0867. Transpose Matrix](./LeetCode/0867.%20Transpose%20Matrix)|Easy| [`Array`](https://leetcode-cn.com/tag/array/)|[cpp](./LeetCode/0867.%20Transpose%20Matrix/solution.cpp)|||[py](./LeetCode/0867.%20Transpose%20Matrix/solution.py)|||
 [0868. Binary Gap](./LeetCode/0868.%20Binary%20Gap)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/0868.%20Binary%20Gap/solution.cpp)||||||
