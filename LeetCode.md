@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 645
+**Problems have been solved:** 646
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -607,6 +607,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1738. Find Kth Largest XOR Coordinate Value](./LeetCode/1738.%20Find%20Kth%20Largest%20XOR%20Coordinate%20Value)|Medium| [`Array`](https://leetcode-cn.com/tag/array/)|[cpp](./LeetCode/1738.%20Find%20Kth%20Largest%20XOR%20Coordinate%20Value/solution.cpp)||||||
 [1748. Sum of Unique Elements](./LeetCode/1748.%20Sum%20of%20Unique%20Elements)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/1748.%20Sum%20of%20Unique%20Elements/solution.cpp)||||||
 [1763. Longest Nice Substring](./LeetCode/1763.%20Longest%20Nice%20Substring)|Easy| [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/)|[cpp](./LeetCode/1763.%20Longest%20Nice%20Substring/solution.cpp)||||||
+[1790. Check if One String Swap Can Make Strings Equal](./LeetCode/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal)|Easy| [`String`](https://leetcode.com/tag/string/) [`Counting`](https://leetcode.com/tag/counting/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/solution.cpp)|||[py](./LeetCode/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/solution.py)|||
 [1791. Find Center of Star Graph](./LeetCode/1791.%20Find%20Center%20of%20Star%20Graph)|Easy| [`Graph`](https://leetcode.com/tag/graph/)|[cpp](./LeetCode/1791.%20Find%20Center%20of%20Star%20Graph/solution.cpp)||||||
 [1800. Maximum Ascending Subarray Sum](./LeetCode/1800.%20Maximum%20Ascending%20Subarray%20Sum)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1800.%20Maximum%20Ascending%20Subarray%20Sum/solution.cpp)|||[py](./LeetCode/1800.%20Maximum%20Ascending%20Subarray%20Sum/solution.py)|||
 [1816. Truncate Sentence](./LeetCode/1816.%20Truncate%20Sentence)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1816.%20Truncate%20Sentence/solution.cpp)||||||
