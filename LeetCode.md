@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 653
+**Problems have been solved:** 654
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -602,6 +602,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1688. Count of Matches in Tournament](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.cpp)|||[py](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.py)|[go](./LeetCode/1688.%20Count%20of%20Matches%20in%20Tournament/solution.go)||
 [1694. Reformat Phone Number](./LeetCode/1694.%20Reformat%20Phone%20Number)|Easy| [`String`](https://leetcode.com/tag/string/)||||[py](./LeetCode/1694.%20Reformat%20Phone%20Number/solution.py)|||
 [1704. Determine if String Halves Are Alike](./LeetCode/1704.%20Determine%20if%20String%20Halves%20Are%20Alike)|Easy| [`Counting`](https://leetcode.com/tag/Counting/) [`String`](https://leetcode.com/tag/string/)||||[py](./LeetCode/1704.%20Determine%20if%20String%20Halves%20Are%20Alike/solution.py)|||
+[1710. Maximum Units on a Truck](./LeetCode/1710.%20Maximum%20Units%20on%20a%20Truck)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Sorting`](https://leetcode.com/tag/sorting/) [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/1710.%20Maximum%20Units%20on%20a%20Truck/solution.cpp)|||[py](./LeetCode/1710.%20Maximum%20Units%20on%20a%20Truck/solution.py)|||
 [1716. Calculate Money in Leetcode Bank](./LeetCode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank/solution.cpp)||||||
 [1720. Decode XORed Array](./LeetCode/1720.%20Decode%20XORed%20Array)|Easy| [`Bit Manipulation`](https://leetcode-cn.com/tag/bit-manipulation/)|[cpp](./LeetCode/1720.%20Decode%20XORed%20Array/solution.cpp)|||[py](./LeetCode/1720.%20Decode%20XORed%20Array/solution.py)|||
 [1723. Find Minimum Time to Finish All Jobs](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs)|Hard| [`Recursion`](https://leetcode-cn.com/tag/recursion/) [`Backtracking`](https://leetcode-cn.com/tag/backtracking/)|[cpp](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.cpp)|||[py](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.py)|||
