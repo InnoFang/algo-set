@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 654
+**Problems have been solved:** 655
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -657,6 +657,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2303. Calculate Amount Paid in Taxes](./LeetCode/2303.%20Calculate%20Amount%20Paid%20in%20Taxes)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Simulation`](https://leetcode.com/tag/simulation/)||||[py](./LeetCode/2303.%20Calculate%20Amount%20Paid%20in%20Taxes/solution.py)|||
 [2396. Strictly Palindromic Number](./LeetCode/2396.%20Strictly%20Palindromic%20Number)|Medium| [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2396.%20Strictly%20Palindromic%20Number/solution.cpp)|||[py](./LeetCode/2396.%20Strictly%20Palindromic%20Number/solution.py)|||
 [2413. Smallest Even Multiple](./LeetCode/2413.%20Smallest%20Even%20Multiple)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2413.%20Smallest%20Even%20Multiple/solution.cpp)|||[py](./LeetCode/2413.%20Smallest%20Even%20Multiple/solution.py)|||
+[2469. Convert the Temperature](./LeetCode/2469.%20Convert%20the%20Temperature)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2469.%20Convert%20the%20Temperature/solution.cpp)|||[py](./LeetCode/2469.%20Convert%20the%20Temperature/solution.py)|||
 
 
 ------
