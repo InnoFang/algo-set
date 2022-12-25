@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 656
+**Problems have been solved:** 657
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -628,6 +628,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1996. The Number of Weak Characters in the Game](./LeetCode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Greedy`](https://leetcode.com/tag/greedy/) [`Stack`](https://leetcode.com/tag/stack/)|[cpp](./LeetCode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game/solution.cpp)||||||
 [2000. Reverse Prefix of Word](./LeetCode/2000.%20Reverse%20Prefix%20of%20Word)|Easy| [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/2000.%20Reverse%20Prefix%20of%20Word/solution.cpp)|||[py](./LeetCode/2000.%20Reverse%20Prefix%20of%20Word/solution.py)|||
 [2006. Count Number of Pairs With Absolute Difference K](./LeetCode/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K)|Hard| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/solution.cpp)||||||
+[2011. Final Value of Variable After Performing Operations](./LeetCode/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/solution.cpp)|||[py](./LeetCode/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/solution.py)|||
 [2013. Detect Squares](./LeetCode/2013.%20Detect%20Squares)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/2013.%20Detect%20Squares/solution.cpp)||||||
 [2016. Maximum Difference Between Increasing Elements](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements/solution.cpp)||||||
 [2022. Convert 1D Array Into 2D Array](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.cpp)|||[py](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.py)|[go](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.go)||
