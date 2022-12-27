@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 658
+**Problems have been solved:** 659
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -634,6 +634,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2016. Maximum Difference Between Increasing Elements](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements/solution.cpp)||||||
 [2022. Convert 1D Array Into 2D Array](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.cpp)|||[py](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.py)|[go](./LeetCode/2022.%20Convert%201D%20Array%20Into%202D%20Array/solution.go)||
 [2024. Maximize the Confusion of an Exam](./LeetCode/2024.%20Maximize%20the%20Confusion%20of%20an%20Exam)|Medium| [`Prefix Sum`](https://leetcode.com/tag/prefix-sum/) [`String`](https://leetcode.com/tag/string/) [`Prefix Sum`](https://leetcode.com/tag/prefix-sum/) [`Sliding Window`](https://leetcode.com/tag/sliding-window/)|[cpp](./LeetCode/2024.%20Maximize%20the%20Confusion%20of%20an%20Exam/solution.cpp)|||[py](./LeetCode/2024.%20Maximize%20the%20Confusion%20of%20an%20Exam/solution.py)|||
+[2027. Minimum Moves to Convert String](./LeetCode/2027.%20Minimum%20Moves%20to%20Convert%20String)|Easy| [`String`](https://leetcode.com/tag/string/) [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/2027.%20Minimum%20Moves%20to%20Convert%20String/solution.cpp)|||[py](./LeetCode/2027.%20Minimum%20Moves%20to%20Convert%20String/solution.py)|||
 [2028. Find Missing Observations](./LeetCode/2028.%20Find%20Missing%20Observations)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/)|[cpp](./LeetCode/2028.%20Find%20Missing%20Observations/solution.cpp)||||||
 [2038. Remove Colored Pieces if Both Neighbors are the Same Color](./LeetCode/2038.%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color)|Medium| [`Greedy`](https://leetcode.com/tag/greedy/) [`Math`](https://leetcode.com/tag/math/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/2038.%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/solution.cpp)||||||
 [2039. The Time When the Network Becomes Idle](./LeetCode/2039.%20The%20Time%20When%20the%20Network%20Becomes%20Idle)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Graph`](https://leetcode.com/tag/graph/)||||[py](./LeetCode/2039.%20The%20Time%20When%20the%20Network%20Becomes%20Idle/solution.py)|||
