@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 663
+**Problems have been solved:** 664
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -639,6 +639,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2027. Minimum Moves to Convert String](./LeetCode/2027.%20Minimum%20Moves%20to%20Convert%20String)|Easy| [`String`](https://leetcode.com/tag/string/) [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/2027.%20Minimum%20Moves%20to%20Convert%20String/solution.cpp)|||[py](./LeetCode/2027.%20Minimum%20Moves%20to%20Convert%20String/solution.py)|||
 [2028. Find Missing Observations](./LeetCode/2028.%20Find%20Missing%20Observations)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/)|[cpp](./LeetCode/2028.%20Find%20Missing%20Observations/solution.cpp)||||||
 [2032. Two Out of Three](./LeetCode/2032.%20Two%20Out%20of%20Three)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/2032.%20Two%20Out%20of%20Three/solution.cpp)|||[py](./LeetCode/2032.%20Two%20Out%20of%20Three/solution.py)|||
+[2037. Minimum Number of Moves to Seat Everyone](./LeetCode/2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Sorting`](https://leetcode.com/tag/sorting/)|[cpp](./LeetCode/2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/solution.cpp)|||[py](./LeetCode/2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/solution.py)|||
 [2038. Remove Colored Pieces if Both Neighbors are the Same Color](./LeetCode/2038.%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color)|Medium| [`Greedy`](https://leetcode.com/tag/greedy/) [`Math`](https://leetcode.com/tag/math/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/2038.%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/solution.cpp)||||||
 [2039. The Time When the Network Becomes Idle](./LeetCode/2039.%20The%20Time%20When%20the%20Network%20Becomes%20Idle)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Graph`](https://leetcode.com/tag/graph/)||||[py](./LeetCode/2039.%20The%20Time%20When%20the%20Network%20Becomes%20Idle/solution.py)|||
 [2043. Simple Bank System](./LeetCode/2043.%20Simple%20Bank%20System)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Design`](https://leetcode.com/tag/design/) [`simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/2043.%20Simple%20Bank%20System/solution.cpp)|||[py](./LeetCode/2043.%20Simple%20Bank%20System/solution.py)|[go](./LeetCode/2043.%20Simple%20Bank%20System/solution.go)||[rs](./LeetCode/2043.%20Simple%20Bank%20System/solution.rs)
