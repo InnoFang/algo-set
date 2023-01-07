@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 670
+**Problems have been solved:** 671
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -660,6 +660,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2215. Find the Difference of Two Arrays](./LeetCode/2215.%20Find%20the%20Difference%20of%20Two%20Arrays)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/)||||[py](./LeetCode/2215.%20Find%20the%20Difference%20of%20Two%20Arrays/solution.py)|||
 [2216. Minimum Deletions to Make Array Beautiful](./LeetCode/2216.%20Minimum%20Deletions%20to%20Make%20Array%20Beautiful)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Greedy`](https://leetcode.com/tag/greedy/) [`Stack`](https://leetcode.com/tag/stack/)||||[py](./LeetCode/2216.%20Minimum%20Deletions%20to%20Make%20Array%20Beautiful/solution.py)|||
 [2217. Find Palindrome With Fixed Length](./LeetCode/2217.%20Find%20Palindrome%20With%20Fixed%20Length)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/)||||[py](./LeetCode/2217.%20Find%20Palindrome%20With%20Fixed%20Length/solution.py)|||
+[2220. Minimum Bit Flips to Convert Number](./LeetCode/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number)|Easy| [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/)|[cpp](./LeetCode/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number/solution.cpp)|||[py](./LeetCode/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number/solution.py)|||
 [2224. Minimum Number of Operations to Convert Time](./LeetCode/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time)|Easy| [`String`](https://leetcode.com/tag/string/) [`Greedy`](https://leetcode.com/tag/greedy/)||||[py](./LeetCode/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time/solution.py)|||
 [2225. Find Players With Zero or One Losses](./LeetCode/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Counting`](https://leetcode.com/tag/Counting/) [`Sorting`](https://leetcode.com/tag/sorting/)||||[py](./LeetCode/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses/solution.py)|||
 [2235. Add Two Integers](./LeetCode/2235.%20Add%20Two%20Integers)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2235.%20Add%20Two%20Integers/solution.cpp)|[java](./LeetCode/2235.%20Add%20Two%20Integers/Solution.java)|[js](./LeetCode/2235.%20Add%20Two%20Integers/solution.js)|[py](./LeetCode/2235.%20Add%20Two%20Integers/solution.py)|[go](./LeetCode/2235.%20Add%20Two%20Integers/solution.go)|[kt](./LeetCode/2235.%20Add%20Two%20Integers/Solution.kt)|[rs](./LeetCode/2235.%20Add%20Two%20Integers/solution.rs)
