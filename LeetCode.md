@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 671
+**Problems have been solved:** 672
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -671,6 +671,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2290. Minimum Obstacle Removal to Reach Corner](./LeetCode/2290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner)|Hard| [`Array`](https://leetcode.com/tag/array/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Graph`](https://leetcode.com/tag/graph/) [`Matrix`](https://leetcode.com/tag/matrix/) [`Shortest Path`](https://leetcode.com/tag/shortest-path/)||||[py](./LeetCode/2290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/solution.py)|||
 [2303. Calculate Amount Paid in Taxes](./LeetCode/2303.%20Calculate%20Amount%20Paid%20in%20Taxes)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Simulation`](https://leetcode.com/tag/simulation/)||||[py](./LeetCode/2303.%20Calculate%20Amount%20Paid%20in%20Taxes/solution.py)|||
 [2351. First Letter to Appear Twice](./LeetCode/2351.%20First%20Letter%20to%20Appear%20Twice)|Easy| [`Counting`](https://leetcode.com/tag/Counting/) [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/2351.%20First%20Letter%20to%20Appear%20Twice/solution.cpp)|||[py](./LeetCode/2351.%20First%20Letter%20to%20Appear%20Twice/solution.py)|||
+[2367. Number of Arithmetic Triplets](./LeetCode/2367.%20Number%20of%20Arithmetic%20Triplets)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/2367.%20Number%20of%20Arithmetic%20Triplets/solution.cpp)|||[py](./LeetCode/2367.%20Number%20of%20Arithmetic%20Triplets/solution.py)|||
 [2396. Strictly Palindromic Number](./LeetCode/2396.%20Strictly%20Palindromic%20Number)|Medium| [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2396.%20Strictly%20Palindromic%20Number/solution.cpp)|||[py](./LeetCode/2396.%20Strictly%20Palindromic%20Number/solution.py)|||
 [2413. Smallest Even Multiple](./LeetCode/2413.%20Smallest%20Even%20Multiple)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2413.%20Smallest%20Even%20Multiple/solution.cpp)|||[py](./LeetCode/2413.%20Smallest%20Even%20Multiple/solution.py)|||
 [2469. Convert the Temperature](./LeetCode/2469.%20Convert%20the%20Temperature)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2469.%20Convert%20the%20Temperature/solution.cpp)|||[py](./LeetCode/2469.%20Convert%20the%20Temperature/solution.py)|||
