@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 674
+**Problems have been solved:** 675
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -676,6 +676,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2396. Strictly Palindromic Number](./LeetCode/2396.%20Strictly%20Palindromic%20Number)|Medium| [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2396.%20Strictly%20Palindromic%20Number/solution.cpp)|||[py](./LeetCode/2396.%20Strictly%20Palindromic%20Number/solution.py)|||
 [2413. Smallest Even Multiple](./LeetCode/2413.%20Smallest%20Even%20Multiple)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2413.%20Smallest%20Even%20Multiple/solution.cpp)|||[py](./LeetCode/2413.%20Smallest%20Even%20Multiple/solution.py)|||
 [2469. Convert the Temperature](./LeetCode/2469.%20Convert%20the%20Temperature)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2469.%20Convert%20the%20Temperature/solution.cpp)|||[py](./LeetCode/2469.%20Convert%20the%20Temperature/solution.py)|||
+[2500. Delete Greatest Value in Each Row](./LeetCode/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/) [`Sorting`](https://leetcode.com/tag/sorting/)|[cpp](./LeetCode/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row/solution.cpp)|||[py](./LeetCode/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row/solution.py)|||
 [2529. Maximum Count of Positive Integer and Negative Integer](./LeetCode/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Counting`](https://leetcode.com/tag/Counting/) [`Binary Search`](https://leetcode.com/tag/binary-search/)|[cpp](./LeetCode/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/solution.cpp)|||[py](./LeetCode/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/solution.py)|||
 
 
