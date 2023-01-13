@@ -75,10 +75,18 @@ for num, solution_path in soltuion_path_list:
             upload_command(file_path, f":memo: upload #{num} README")
         elif filename.endswith("cpp"):
             upload_command(file_path, f":sparkles: upload #{num} cpp solution")
-        elif filename.endswith("py"):
-            upload_command(file_path, f":sparkles: upload #{num} python solution")
         elif filename.endswith("go"):
             upload_command(file_path, f":sparkles: upload #{num} golang solution")
+        elif filename.endswith("java"):
+            upload_command(file_path, f":sparkles: upload #{num} java solution")
+        elif filename.endswith("js"):
+            upload_command(file_path, f":sparkles: upload #{num} javascript solution")
+        elif filename.endswith("kt"):
+            upload_command(file_path, f":sparkles: upload #{num} kotlin solution")
+        elif filename.endswith("py"):
+            upload_command(file_path, f":sparkles: upload #{num} python solution")
+        elif filename.endswith("rs"):
+            upload_command(file_path, f":sparkles: upload #{num} rust solution")
 
 
 """
