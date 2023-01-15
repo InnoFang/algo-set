@@ -16,7 +16,6 @@ if len(sys.argv) == 1:
 Get the legal solution number and path list
 """
 
-# The LeetCode solution folder is under the current direcotry
 leetcode_dir = 'LeetCode' 
 
 def get_new_solution_path_list():
@@ -24,14 +23,14 @@ def get_new_solution_path_list():
     new_solution_path_list = []
     for num in solution_number_list:
         if not num.isnumeric():
-            print(f'The solution numebr {num} souble be integer.')
+            print(f'The solution numebr {num} should be integer.')
             exit(2)
 
     index = 0
     for dir_name in os.listdir(leetcode_dir):
         num = solution_number_list[index]
         if dir_name.startswith(num):
-            check = input(f"Are you sure to add the solution '{dir_name}'? (Y/N)")
+            check = input(f"Are you sure to add the solution for '{dir_name}'? (Y/N)")
             if check.lower() == 'n':
                 print(f"Skip the solution '{dir_name}'.\n")
                 continue
@@ -59,6 +58,15 @@ def get_new_solution_path_list():
 Add the solution list to remote
 """
 
+def number_format(number):
+    if num[-1] == '1':
+        return f'{number}st'
+    if num[-1] == '2':
+        return f'{number}nd'
+    if num[-1] == '3':
+        return f'{number}rd'
+    return f'{number}th'
+
 soltuion_path_list = get_new_solution_path_list()
 
 def upload_command(file_path, message):
@@ -71,22 +79,23 @@ def upload_command(file_path, message):
 for num, solution_path in soltuion_path_list:
     for filename in os.listdir(solution_path):
         file_path = os.path.join(solution_path, filename)
+        solution_number = number_format(num)
         if filename.endswith("md"):
-            upload_command(file_path, f":memo: upload #{num} README")
+            upload_command(file_path, f":memo: upload {solution_number} README")
         elif filename.endswith("cpp"):
-            upload_command(file_path, f":sparkles: upload #{num} cpp solution")
+            upload_command(file_path, f":sparkles: upload {solution_number} cpp solution")
         elif filename.endswith("go"):
-            upload_command(file_path, f":sparkles: upload #{num} golang solution")
+            upload_command(file_path, f":sparkles: upload {solution_number} golang solution")
         elif filename.endswith("java"):
-            upload_command(file_path, f":sparkles: upload #{num} java solution")
+            upload_command(file_path, f":sparkles: upload {solution_number} java solution")
         elif filename.endswith("js"):
-            upload_command(file_path, f":sparkles: upload #{num} javascript solution")
+            upload_command(file_path, f":sparkles: upload {solution_number} javascript solution")
         elif filename.endswith("kt"):
-            upload_command(file_path, f":sparkles: upload #{num} kotlin solution")
+            upload_command(file_path, f":sparkles: upload {solution_number} kotlin solution")
         elif filename.endswith("py"):
-            upload_command(file_path, f":sparkles: upload #{num} python solution")
+            upload_command(file_path, f":sparkles: upload {solution_number} python solution")
         elif filename.endswith("rs"):
-            upload_command(file_path, f":sparkles: upload #{num} rust solution")
+            upload_command(file_path, f":sparkles: upload {solution_number} rust solution")
 
 
 """
