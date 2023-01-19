@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 680
+**Problems have been solved:** 681
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -654,6 +654,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2049. Count Nodes With the Highest Score](./LeetCode/2049.%20Count%20Nodes%20With%20the%20Highest%20Score)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Binary Tree`](https://leetcode.com/tag/binary-tree/) [`Tree`](https://leetcode.com/tag/tree/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)||||[py](./LeetCode/2049.%20Count%20Nodes%20With%20the%20Highest%20Score/solution.py)|||
 [2055. Plates Between Candles](./LeetCode/2055.%20Plates%20Between%20Candles)|Medium| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/) [`Binary Search`](https://leetcode.com/tag/binary-search/)|[cpp](./LeetCode/2055.%20Plates%20Between%20Candles/solution.cpp)|||[py](./LeetCode/2055.%20Plates%20Between%20Candles/solution.py)|||
 [2114. Maximum Number of Words Found in Sentences](./LeetCode/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/solution.cpp)|||[py](./LeetCode/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/solution.py)|||
+[2160. Minimum Sum of Four Digit Number After Splitting Digits](./LeetCode/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits)|Easy| [`Math`](https://leetcode.com/tag/math/) [`Greedy`](https://leetcode.com/tag/greedy/) [`Sorting`](https://leetcode.com/tag/sorting/)|[cpp](./LeetCode/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/solution.cpp)|||[py](./LeetCode/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/solution.py)|||
 [2169. Count Operations to Obtain Zero](./LeetCode/2169.%20Count%20Operations%20to%20Obtain%20Zero)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2169.%20Count%20Operations%20to%20Obtain%20Zero/solution.cpp)||||||
 [2180. Count Integers With Even Digit Sum](./LeetCode/2180.%20Count%20Integers%20With%20Even%20Digit%20Sum)|Easy| [`Math`](https://leetcode.com/tag/math/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/2180.%20Count%20Integers%20With%20Even%20Digit%20Sum/solution.cpp)||||||
 [2181. Merge Nodes in Between Zeros](./LeetCode/2181.%20Merge%20Nodes%20in%20Between%20Zeros)|Medium| [`Linked List`](https://leetcode.com/tag/linked-list/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/2181.%20Merge%20Nodes%20in%20Between%20Zeros/solution.cpp)||||||
