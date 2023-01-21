@@ -5,6 +5,8 @@ import sys
 """
 Usage: python add-solution.py solution-number-1 solution-number-2 ...
 Note: Solution number is a 4-digit number with leading 0s, e.g. 0001, 0002, etc
+
+This script should be under the folder of `LeetCode` solutions 
 """
 
 if len(sys.argv) == 1:
@@ -16,7 +18,8 @@ if len(sys.argv) == 1:
 Get the legal solution number and path list
 """
 
-leetcode_dir = 'LeetCode' 
+leetcode_dir = 'LeetCode'
+
 
 def get_new_solution_path_list():
     solution_number_list = sorted(sys.argv[1:])
@@ -30,7 +33,8 @@ def get_new_solution_path_list():
     for dir_name in os.listdir(leetcode_dir):
         num = solution_number_list[index]
         if dir_name.startswith(num):
-            check = input(f"Are you sure to add the solution for '{dir_name}'? (Y/N)")
+            check = input(
+                f"Are you sure to add the solution for '{dir_name}'? (Y/N)")
             if check.lower() == 'n':
                 print(f"Skip the solution '{dir_name}'.\n")
                 continue
@@ -44,7 +48,8 @@ def get_new_solution_path_list():
             break
 
     if index < len(solution_number_list):
-        check = input(f"Here is no solution numebr {solution_number_list[index:]}, continue or not? (Y/N)")
+        check = input(
+            f"Here is no solution numebr {solution_number_list[index:]}, continue or not? (Y/N)")
         if check.lower() == 'n':
             print("Terminal the program.")
             os.exit(0)
@@ -53,10 +58,10 @@ def get_new_solution_path_list():
     return new_solution_path_list
 
 
-
 """
 Add the solution list to remote
 """
+
 
 def number_format(number):
     number = int(number)
@@ -68,7 +73,9 @@ def number_format(number):
         return f'{number}rd'
     return f'{number}th'
 
+
 soltuion_path_list = get_new_solution_path_list()
+
 
 def upload_command(file_path, message):
     print("==>", message, '<==')
@@ -77,26 +84,35 @@ def upload_command(file_path, message):
     os.system('git push')
     print()
 
+
 for num, solution_path in soltuion_path_list:
     for filename in os.listdir(solution_path):
         file_path = os.path.join(solution_path, filename)
         solution_number = number_format(num)
         if filename.endswith("md"):
-            upload_command(file_path, f":memo: upload {solution_number} README")
+            upload_command(
+                file_path, f":memo: upload {solution_number} README")
         elif filename.endswith("cpp"):
-            upload_command(file_path, f":sparkles: upload {solution_number} cpp solution")
+            upload_command(
+                file_path, f":sparkles: upload {solution_number} cpp solution")
         elif filename.endswith("go"):
-            upload_command(file_path, f":sparkles: upload {solution_number} golang solution")
+            upload_command(
+                file_path, f":sparkles: upload {solution_number} golang solution")
         elif filename.endswith("java"):
-            upload_command(file_path, f":sparkles: upload {solution_number} java solution")
+            upload_command(
+                file_path, f":sparkles: upload {solution_number} java solution")
         elif filename.endswith("js"):
-            upload_command(file_path, f":sparkles: upload {solution_number} javascript solution")
+            upload_command(
+                file_path, f":sparkles: upload {solution_number} javascript solution")
         elif filename.endswith("kt"):
-            upload_command(file_path, f":sparkles: upload {solution_number} kotlin solution")
+            upload_command(
+                file_path, f":sparkles: upload {solution_number} kotlin solution")
         elif filename.endswith("py"):
-            upload_command(file_path, f":sparkles: upload {solution_number} python solution")
+            upload_command(
+                file_path, f":sparkles: upload {solution_number} python solution")
         elif filename.endswith("rs"):
-            upload_command(file_path, f":sparkles: upload {solution_number} rust solution")
+            upload_command(
+                file_path, f":sparkles: upload {solution_number} rust solution")
 
 
 """
@@ -107,7 +123,8 @@ check = input("Update the 'LeetCode.md' or not? (Y/N)")
 
 nums = list(map(int, sys.argv[1:]))
 if check.lower() == 'n':
-    print(f"The LeetCode soltion number {nums} has been uploaded, but the 'LeetCode.md' has not been updated")
+    print(
+        f"The LeetCode soltion number {nums} has been uploaded, but the 'LeetCode.md' has not been updated")
 else:
     print("==>", "Update the LeetCode list", "<==")
     os.system("python LeetCode\generate_leetcode_list.py")
