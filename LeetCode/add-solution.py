@@ -59,6 +59,7 @@ Add the solution list to remote
 """
 
 def number_format(number):
+    number = int(number)
     if num[-1] == '1':
         return f'{number}st'
     if num[-1] == '2':
@@ -104,11 +105,12 @@ Update the LeetCode.md
 
 check = input("Update the 'LeetCode.md' or not? (Y/N)")
 
+nums = list(map(int, sys.argv[1:]))
 if check.lower() == 'n':
-    print(f"The LeetCode soltion number {num} has been uploaded, but the 'LeetCode.md' has not been updated")
+    print(f"The LeetCode soltion number {nums} has been uploaded, but the 'LeetCode.md' has not been updated")
 else:
     print("==>", "Update the LeetCode list", "<==")
     os.system("python LeetCode\generate_leetcode_list.py")
     os.system("git add LeetCode.md")
-    os.system(f'git commit -m ":memo: add solution number {sys.argv[1:]}"')
+    os.system(f'git commit -m ":memo: add solution number {nums}"')
     os.system('git push')
