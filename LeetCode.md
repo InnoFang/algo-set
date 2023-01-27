@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 687
+**Problems have been solved:** 688
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -679,6 +679,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2290. Minimum Obstacle Removal to Reach Corner](./LeetCode/2290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner)|Hard| [`Array`](https://leetcode.com/tag/array/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Graph`](https://leetcode.com/tag/graph/) [`Matrix`](https://leetcode.com/tag/matrix/) [`Shortest Path`](https://leetcode.com/tag/shortest-path/)||||[py](./LeetCode/2290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/solution.py)|||
 [2293. Min Max Game](./LeetCode/2293.%20Min%20Max%20Game)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/2293.%20Min%20Max%20Game/solution.cpp)|||[py](./LeetCode/2293.%20Min%20Max%20Game/solution.py)|||
 [2303. Calculate Amount Paid in Taxes](./LeetCode/2303.%20Calculate%20Amount%20Paid%20in%20Taxes)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Simulation`](https://leetcode.com/tag/simulation/)||||[py](./LeetCode/2303.%20Calculate%20Amount%20Paid%20in%20Taxes/solution.py)|||
+[2309. Greatest English Letter in Upper and Lower Case](./LeetCode/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case)|Easy| [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/solution.cpp)|||[py](./LeetCode/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/solution.py)|||
 [2315. Count Asterisks](./LeetCode/2315.%20Count%20Asterisks)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/2315.%20Count%20Asterisks/solution.cpp)|[java](./LeetCode/2315.%20Count%20Asterisks/Solution.java)||[py](./LeetCode/2315.%20Count%20Asterisks/solution.py)|[go](./LeetCode/2315.%20Count%20Asterisks/solution.go)||
 [2351. First Letter to Appear Twice](./LeetCode/2351.%20First%20Letter%20to%20Appear%20Twice)|Easy| [`Counting`](https://leetcode.com/tag/Counting/) [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/2351.%20First%20Letter%20to%20Appear%20Twice/solution.cpp)|||[py](./LeetCode/2351.%20First%20Letter%20to%20Appear%20Twice/solution.py)|||
 [2367. Number of Arithmetic Triplets](./LeetCode/2367.%20Number%20of%20Arithmetic%20Triplets)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/2367.%20Number%20of%20Arithmetic%20Triplets/solution.cpp)|||[py](./LeetCode/2367.%20Number%20of%20Arithmetic%20Triplets/solution.py)|||
