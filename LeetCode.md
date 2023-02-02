@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 693
+**Problems have been solved:** 694
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -584,6 +584,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1518. Water Bottles](./LeetCode/1518.%20Water%20Bottles)|Hard| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1518.%20Water%20Bottles/solution.cpp)||||||
 [1557. Minimum Number of Vertices to Reach All Nodes](./LeetCode/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes)|Medium| [`Graph`](https://leetcode.com/tag/graph/)|[cpp](./LeetCode/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/solution.cpp)|||[py](./LeetCode/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/solution.py)|||
 [1567. Maximum Length of Subarray With Positive Product](./LeetCode/1567.%20Maximum%20Length%20of%20Subarray%20With%20Positive%20Product)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Greedy`](https://leetcode.com/tag/greedy/)||||[py](./LeetCode/1567.%20Maximum%20Length%20of%20Subarray%20With%20Positive%20Product/solution.py)|||
+[1572. Matrix Diagonal Sum](./LeetCode/1572.%20Matrix%20Diagonal%20Sum)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/)|[cpp](./LeetCode/1572.%20Matrix%20Diagonal%20Sum/solution.cpp)|||[py](./LeetCode/1572.%20Matrix%20Diagonal%20Sum/solution.py)|||
 [1576. Replace All s to Avoid Consecutive Repeating Characters](./LeetCode/1576.%20Replace%20All%20s%20to%20Avoid%20Consecutive%20Repeating%20Characters)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1576.%20Replace%20All%20s%20to%20Avoid%20Consecutive%20Repeating%20Characters/solution.cpp)||||||
 [1582. Special Positions in a Binary Matrix](./LeetCode/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/)|[cpp](./LeetCode/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/solution.cpp)|||[py](./LeetCode/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/solution.py)|||
 [1583. Count Unhappy Friends](./LeetCode/1583.%20Count%20Unhappy%20Friends)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/1583.%20Count%20Unhappy%20Friends/solution.cpp)||||||
