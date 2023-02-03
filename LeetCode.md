@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 694
+**Problems have been solved:** 695
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -697,6 +697,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2520. Count the Digits That Divide a Number](./LeetCode/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number/solution.cpp)|||[py](./LeetCode/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number/solution.py)|||
 [2529. Maximum Count of Positive Integer and Negative Integer](./LeetCode/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Counting`](https://leetcode.com/tag/Counting/) [`Binary Search`](https://leetcode.com/tag/binary-search/)|[cpp](./LeetCode/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/solution.cpp)|||[py](./LeetCode/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/solution.py)|||
 [2535. Difference Between Element Sum and Digit Sum of an Array](./LeetCode/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/solution.cpp)|[java](./LeetCode/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/Solution.java)||[py](./LeetCode/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/solution.py)|[go](./LeetCode/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/solution.go)||
+[2544. Alternating Digit Sum](./LeetCode/2544.%20Alternating%20Digit%20Sum)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2544.%20Alternating%20Digit%20Sum/solution.cpp)|||[py](./LeetCode/2544.%20Alternating%20Digit%20Sum/solution.py)|[go](./LeetCode/2544.%20Alternating%20Digit%20Sum/solution.go)||
 
 
 ------
