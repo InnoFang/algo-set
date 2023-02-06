@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 697
+**Problems have been solved:** 698
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -688,6 +688,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2315. Count Asterisks](./LeetCode/2315.%20Count%20Asterisks)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/2315.%20Count%20Asterisks/solution.cpp)|[java](./LeetCode/2315.%20Count%20Asterisks/Solution.java)||[py](./LeetCode/2315.%20Count%20Asterisks/solution.py)|[go](./LeetCode/2315.%20Count%20Asterisks/solution.go)||
 [2319. Check if Matrix Is X-Matrix](./LeetCode/2319.%20Check%20if%20Matrix%20Is%20X-Matrix)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/)|[cpp](./LeetCode/2319.%20Check%20if%20Matrix%20Is%20X-Matrix/solution.cpp)|||[py](./LeetCode/2319.%20Check%20if%20Matrix%20Is%20X-Matrix/solution.py)|||
 [2325. Decode the Message](./LeetCode/2325.%20Decode%20the%20Message)|Medium| [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)||||[py](./LeetCode/2325.%20Decode%20the%20Message/solution.py)|||
+[2331. Evaluate Boolean Binary Tree](./LeetCode/2331.%20Evaluate%20Boolean%20Binary%20Tree)|Easy| [`Binary Tree`](https://leetcode.com/tag/binary-tree/) [`Tree`](https://leetcode.com/tag/tree/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)|[cpp](./LeetCode/2331.%20Evaluate%20Boolean%20Binary%20Tree/solution.cpp)|||[py](./LeetCode/2331.%20Evaluate%20Boolean%20Binary%20Tree/solution.py)|||
 [2341. Maximum Number of Pairs in Array](./LeetCode/2341.%20Maximum%20Number%20of%20Pairs%20in%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Counting`](https://leetcode.com/tag/Counting/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/2341.%20Maximum%20Number%20of%20Pairs%20in%20Array/solution.cpp)|||[py](./LeetCode/2341.%20Maximum%20Number%20of%20Pairs%20in%20Array/solution.py)|||
 [2351. First Letter to Appear Twice](./LeetCode/2351.%20First%20Letter%20to%20Appear%20Twice)|Easy| [`Counting`](https://leetcode.com/tag/Counting/) [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/2351.%20First%20Letter%20to%20Appear%20Twice/solution.cpp)|||[py](./LeetCode/2351.%20First%20Letter%20to%20Appear%20Twice/solution.py)|||
 [2367. Number of Arithmetic Triplets](./LeetCode/2367.%20Number%20of%20Arithmetic%20Triplets)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/2367.%20Number%20of%20Arithmetic%20Triplets/solution.cpp)|||[py](./LeetCode/2367.%20Number%20of%20Arithmetic%20Triplets/solution.py)|||
