@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 698
+**Problems have been solved:** 699
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -622,6 +622,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1738. Find Kth Largest XOR Coordinate Value](./LeetCode/1738.%20Find%20Kth%20Largest%20XOR%20Coordinate%20Value)|Medium| [`Array`](https://leetcode-cn.com/tag/array/)|[cpp](./LeetCode/1738.%20Find%20Kth%20Largest%20XOR%20Coordinate%20Value/solution.cpp)||||||
 [1748. Sum of Unique Elements](./LeetCode/1748.%20Sum%20of%20Unique%20Elements)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/1748.%20Sum%20of%20Unique%20Elements/solution.cpp)||||||
 [1763. Longest Nice Substring](./LeetCode/1763.%20Longest%20Nice%20Substring)|Easy| [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Bit Manipulation`](https://leetcode.com/tag/bit-manipulation/)|[cpp](./LeetCode/1763.%20Longest%20Nice%20Substring/solution.cpp)||||||
+[1768. Merge Strings Alternately](./LeetCode/1768.%20Merge%20Strings%20Alternately)|Easy| [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1768.%20Merge%20Strings%20Alternately/solution.cpp)|||[py](./LeetCode/1768.%20Merge%20Strings%20Alternately/solution.py)|||
 [1773. Count Items Matching a Rule](./LeetCode/1773.%20Count%20Items%20Matching%20a%20Rule)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1773.%20Count%20Items%20Matching%20a%20Rule/solution.cpp)|||[py](./LeetCode/1773.%20Count%20Items%20Matching%20a%20Rule/solution.py)|||
 [1779. Find Nearest Point That Has the Same X or Y Coordinate](./LeetCode/1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate/solution.cpp)|||[py](./LeetCode/1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate/solution.py)|||
 [1790. Check if One String Swap Can Make Strings Equal](./LeetCode/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal)|Easy| [`String`](https://leetcode.com/tag/string/) [`Counting`](https://leetcode.com/tag/counting/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/solution.cpp)|||[py](./LeetCode/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/solution.py)|||
