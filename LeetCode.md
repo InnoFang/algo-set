@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 699
+**Problems have been solved:** 700
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -634,6 +634,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1827. Minimum Operations to Make the Array Increasing](./LeetCode/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Greedy`](https://leetcode.com/tag/greedy/)|[cpp](./LeetCode/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing/solution.cpp)||||||
 [1828. Queries on Number of Points Inside a Circle](./LeetCode/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle/solution.cpp)|||[py](./LeetCode/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle/solution.py)|||
 [1832. Check if the Sentence Is Pangram](./LeetCode/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram)|Easy| [`String`](https://leetcode.com/tag/string/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/solution.cpp)|||[py](./LeetCode/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/solution.py)|||
+[1844. Replace All Digits with Characters](./LeetCode/1844.%20Replace%20All%20Digits%20with%20Characters)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1844.%20Replace%20All%20Digits%20with%20Characters/solution.cpp)||||||
 [1894. Find the Student that Will Replace the Chalk](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Binary Search`](https://leetcode.com/tag/binary-search/) [`Prefix Sum`](https://leetcode.com/tag/prefix-sum/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/solution.cpp)||||||
 [1905. Count Sub Islands](./LeetCode/1905.%20Count%20Sub%20Islands)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Breadth-first Search`](https://leetcode.com/tag/breadth-first-search/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/) [`Union Find`](https://leetcode.com/tag/union-find/)|[cpp](./LeetCode/1905.%20Count%20Sub%20Islands/solution.cpp)|||[py](./LeetCode/1905.%20Count%20Sub%20Islands/solution.py)|||
 [1920. Build Array from Permutation](./LeetCode/1920.%20Build%20Array%20from%20Permutation)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/1920.%20Build%20Array%20from%20Permutation/solution.cpp)|||[py](./LeetCode/1920.%20Build%20Array%20from%20Permutation/solution.py)|||
