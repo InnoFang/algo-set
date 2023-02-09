@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 700
+**Problems have been solved:** 701
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -697,6 +697,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2373. Largest Local Values in a Matrix](./LeetCode/2373.%20Largest%20Local%20Values%20in%20a%20Matrix)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/)|[cpp](./LeetCode/2373.%20Largest%20Local%20Values%20in%20a%20Matrix/solution.cpp)|[java](./LeetCode/2373.%20Largest%20Local%20Values%20in%20a%20Matrix/Solution.java)||[py](./LeetCode/2373.%20Largest%20Local%20Values%20in%20a%20Matrix/solution.py)|[go](./LeetCode/2373.%20Largest%20Local%20Values%20in%20a%20Matrix/solution.go)||
 [2396. Strictly Palindromic Number](./LeetCode/2396.%20Strictly%20Palindromic%20Number)|Medium| [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2396.%20Strictly%20Palindromic%20Number/solution.cpp)|||[py](./LeetCode/2396.%20Strictly%20Palindromic%20Number/solution.py)|||
 [2413. Smallest Even Multiple](./LeetCode/2413.%20Smallest%20Even%20Multiple)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2413.%20Smallest%20Even%20Multiple/solution.cpp)|||[py](./LeetCode/2413.%20Smallest%20Even%20Multiple/solution.py)|||
+[2418. Sort the People](./LeetCode/2418.%20Sort%20the%20People)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/) [`Sorting`](https://leetcode.com/tag/sorting/) [`Hash Table`](https://leetcode.com/tag/hash-table/)||||[py](./LeetCode/2418.%20Sort%20the%20People/solution.py)|||
 [2469. Convert the Temperature](./LeetCode/2469.%20Convert%20the%20Temperature)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2469.%20Convert%20the%20Temperature/solution.cpp)|||[py](./LeetCode/2469.%20Convert%20the%20Temperature/solution.py)|||
 [2500. Delete Greatest Value in Each Row](./LeetCode/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/) [`Sorting`](https://leetcode.com/tag/sorting/)|[cpp](./LeetCode/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row/solution.cpp)|||[py](./LeetCode/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row/solution.py)|||
 [2520. Count the Digits That Divide a Number](./LeetCode/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number/solution.cpp)|||[py](./LeetCode/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number/solution.py)|||
