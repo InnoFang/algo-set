@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 704
+**Problems have been solved:** 705
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -618,6 +618,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1720. Decode XORed Array](./LeetCode/1720.%20Decode%20XORed%20Array)|Easy| [`Bit Manipulation`](https://leetcode-cn.com/tag/bit-manipulation/)|[cpp](./LeetCode/1720.%20Decode%20XORed%20Array/solution.cpp)|||[py](./LeetCode/1720.%20Decode%20XORed%20Array/solution.py)|||
 [1723. Find Minimum Time to Finish All Jobs](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs)|Hard| [`Recursion`](https://leetcode-cn.com/tag/recursion/) [`Backtracking`](https://leetcode-cn.com/tag/backtracking/)|[cpp](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.cpp)|||[py](./LeetCode/1723.%20Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/solution.py)|||
 [1725. Number Of Rectangles That Can Form The Largest Square](./LeetCode/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/solution.cpp)||||||
+[1732. Find the Highest Altitude](./LeetCode/1732.%20Find%20the%20Highest%20Altitude)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Prefix Sum`](https://leetcode.com/tag/prefix-sum/)|[cpp](./LeetCode/1732.%20Find%20the%20Highest%20Altitude/solution.cpp)|||[py](./LeetCode/1732.%20Find%20the%20Highest%20Altitude/solution.py)|[go](./LeetCode/1732.%20Find%20the%20Highest%20Altitude/solution.go)||
 [1734. Decode XORed Permutation](./LeetCode/1734.%20Decode%20XORed%20Permutation)|Hard| [`Bit Manipulation`](https://leetcode-cn.com/tag/bit-manipulation/)|[cpp](./LeetCode/1734.%20Decode%20XORed%20Permutation/solution.cpp)|||[py](./LeetCode/1734.%20Decode%20XORed%20Permutation/solution.py)|||
 [1738. Find Kth Largest XOR Coordinate Value](./LeetCode/1738.%20Find%20Kth%20Largest%20XOR%20Coordinate%20Value)|Medium| [`Array`](https://leetcode-cn.com/tag/array/)|[cpp](./LeetCode/1738.%20Find%20Kth%20Largest%20XOR%20Coordinate%20Value/solution.cpp)||||||
 [1748. Sum of Unique Elements](./LeetCode/1748.%20Sum%20of%20Unique%20Elements)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/1748.%20Sum%20of%20Unique%20Elements/solution.cpp)||||||
