@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 706
+**Problems have been solved:** 707
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -709,6 +709,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2529. Maximum Count of Positive Integer and Negative Integer](./LeetCode/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Counting`](https://leetcode.com/tag/Counting/) [`Binary Search`](https://leetcode.com/tag/binary-search/)|[cpp](./LeetCode/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/solution.cpp)|||[py](./LeetCode/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/solution.py)|||
 [2535. Difference Between Element Sum and Digit Sum of an Array](./LeetCode/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/solution.cpp)|[java](./LeetCode/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/Solution.java)||[py](./LeetCode/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/solution.py)|[go](./LeetCode/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/solution.go)||
 [2544. Alternating Digit Sum](./LeetCode/2544.%20Alternating%20Digit%20Sum)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2544.%20Alternating%20Digit%20Sum/solution.cpp)|||[py](./LeetCode/2544.%20Alternating%20Digit%20Sum/solution.py)|[go](./LeetCode/2544.%20Alternating%20Digit%20Sum/solution.go)||
+[2553. Separate the Digits in an Array](./LeetCode/2553.%20Separate%20the%20Digits%20in%20an%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/2553.%20Separate%20the%20Digits%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/2553.%20Separate%20the%20Digits%20in%20an%20Array/solution.py)|||
 
 
 ------
