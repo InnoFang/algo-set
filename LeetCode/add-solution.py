@@ -124,7 +124,7 @@ check = input("Update the 'LeetCode.md' or not? (Y/N)")
 nums = list(map(int, sys.argv[1:]))
 if check.lower() == 'n':
     print(
-        f"The LeetCode soltion number {nums} has been uploaded, but the 'LeetCode.md' has not been updated")
+        f"The LeetCode soltion number {nums} has been uploaded successfully, but the 'LeetCode.md' file has not been updated.")
 else:
     print("==>", "Update the LeetCode list", "<==")
     os.system("python LeetCode\generate_leetcode_list.py")
