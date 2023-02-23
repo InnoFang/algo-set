@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 710
+**Problems have been solved:** 711
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -631,6 +631,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1790. Check if One String Swap Can Make Strings Equal](./LeetCode/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal)|Easy| [`String`](https://leetcode.com/tag/string/) [`Counting`](https://leetcode.com/tag/counting/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/solution.cpp)|||[py](./LeetCode/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/solution.py)|||
 [1791. Find Center of Star Graph](./LeetCode/1791.%20Find%20Center%20of%20Star%20Graph)|Easy| [`Graph`](https://leetcode.com/tag/graph/)|[cpp](./LeetCode/1791.%20Find%20Center%20of%20Star%20Graph/solution.cpp)||||||
 [1800. Maximum Ascending Subarray Sum](./LeetCode/1800.%20Maximum%20Ascending%20Subarray%20Sum)|Easy| [`Array`](https://leetcode.com/tag/array/)|[cpp](./LeetCode/1800.%20Maximum%20Ascending%20Subarray%20Sum/solution.cpp)|||[py](./LeetCode/1800.%20Maximum%20Ascending%20Subarray%20Sum/solution.py)|||
+[1812. Determine Color of a Chessboard Square](./LeetCode/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square)|Easy| [`String`](https://leetcode.com/tag/string/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square/solution.cpp)|||[py](./LeetCode/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square/solution.py)|||
 [1816. Truncate Sentence](./LeetCode/1816.%20Truncate%20Sentence)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1816.%20Truncate%20Sentence/solution.cpp)||||||
 [1822. Sign of the Product of an Array](./LeetCode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array/solution.cpp)|[java](./LeetCode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array/Solution.java)||[py](./LeetCode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array/solution.py)|||
 [1823. Find the Winner of the Circular Game](./LeetCode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Recursion`](https://leetcode.com/tag/recursion/) [`Queue`](https://leetcode.com/tag/queue/) [`Math`](https://leetcode.com/tag/math/) [`Simulation`](https://leetcode.com/tag/simulation/)|[cpp](./LeetCode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game/solution.cpp)|||[py](./LeetCode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game/solution.py)|||
