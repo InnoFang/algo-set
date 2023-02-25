@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 712
+**Problems have been solved:** 713
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -709,6 +709,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2469. Convert the Temperature](./LeetCode/2469.%20Convert%20the%20Temperature)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2469.%20Convert%20the%20Temperature/solution.cpp)|||[py](./LeetCode/2469.%20Convert%20the%20Temperature/solution.py)|||
 [2485. Find the Pivot Integer](./LeetCode/2485.%20Find%20the%20Pivot%20Integer)|Easy| [`Prefix Sum`](https://leetcode.com/tag/prefix-sum/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2485.%20Find%20the%20Pivot%20Integer/solution.cpp)|||[py](./LeetCode/2485.%20Find%20the%20Pivot%20Integer/solution.py)|||
 [2490. Circular Sentence](./LeetCode/2490.%20Circular%20Sentence)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/2490.%20Circular%20Sentence/solution.cpp)|||[py](./LeetCode/2490.%20Circular%20Sentence/solution.py)|||
+[2496. Maximum Value of a String in an Array](./LeetCode/2496.%20Maximum%20Value%20of%20a%20String%20in%20an%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)||||[py](./LeetCode/2496.%20Maximum%20Value%20of%20a%20String%20in%20an%20Array/solution.py)|||
 [2500. Delete Greatest Value in Each Row](./LeetCode/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/) [`Sorting`](https://leetcode.com/tag/sorting/)|[cpp](./LeetCode/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row/solution.cpp)|||[py](./LeetCode/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row/solution.py)|||
 [2520. Count the Digits That Divide a Number](./LeetCode/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number/solution.cpp)|||[py](./LeetCode/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number/solution.py)|||
 [2529. Maximum Count of Positive Integer and Negative Integer](./LeetCode/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Counting`](https://leetcode.com/tag/Counting/) [`Binary Search`](https://leetcode.com/tag/binary-search/)|[cpp](./LeetCode/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/solution.cpp)|||[py](./LeetCode/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/solution.py)|||
