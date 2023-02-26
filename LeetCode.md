@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 713
+**Problems have been solved:** 714
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -584,6 +584,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [1486. XOR Operation in an Array](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array)|Easy| [`Array`](https://leetcode-cn.com/tag/array/) [`Bit Manipulation`](https://leetcode-cn.com/tag/bit-manipulation/)|[cpp](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.cpp)|||[py](./LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/solution.py)|||
 [1512. Number of Good Pairs](./LeetCode/1512.%20Number%20of%20Good%20Pairs)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Counting`](https://leetcode.com/tag/Counting/) [`Hash Table`](https://leetcode.com/tag/hash-table/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1512.%20Number%20of%20Good%20Pairs/solution.cpp)|||[py](./LeetCode/1512.%20Number%20of%20Good%20Pairs/solution.py)|||
 [1518. Water Bottles](./LeetCode/1518.%20Water%20Bottles)|Hard| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/1518.%20Water%20Bottles/solution.cpp)||||||
+[1528. Shuffle String](./LeetCode/1528.%20Shuffle%20String)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/1528.%20Shuffle%20String/solution.cpp)|||[py](./LeetCode/1528.%20Shuffle%20String/solution.py)|||
 [1557. Minimum Number of Vertices to Reach All Nodes](./LeetCode/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes)|Medium| [`Graph`](https://leetcode.com/tag/graph/)|[cpp](./LeetCode/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/solution.cpp)|||[py](./LeetCode/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/solution.py)|||
 [1567. Maximum Length of Subarray With Positive Product](./LeetCode/1567.%20Maximum%20Length%20of%20Subarray%20With%20Positive%20Product)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Dynamic Programming`](https://leetcode.com/tag/dynamic-programming/) [`Greedy`](https://leetcode.com/tag/greedy/)||||[py](./LeetCode/1567.%20Maximum%20Length%20of%20Subarray%20With%20Positive%20Product/solution.py)|||
 [1572. Matrix Diagonal Sum](./LeetCode/1572.%20Matrix%20Diagonal%20Sum)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/)|[cpp](./LeetCode/1572.%20Matrix%20Diagonal%20Sum/solution.cpp)|||[py](./LeetCode/1572.%20Matrix%20Diagonal%20Sum/solution.py)|||
