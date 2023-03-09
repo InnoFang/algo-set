@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 719
+**Problems have been solved:** 720
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -708,6 +708,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2363. Merge Similar Items](./LeetCode/2363.%20Merge%20Similar%20Items)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Sorting`](https://leetcode.com/tag/sorting/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/2363.%20Merge%20Similar%20Items/solution.cpp)|||[py](./LeetCode/2363.%20Merge%20Similar%20Items/solution.py)|||
 [2367. Number of Arithmetic Triplets](./LeetCode/2367.%20Number%20of%20Arithmetic%20Triplets)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`Hash Table`](https://leetcode.com/tag/hash-table/)|[cpp](./LeetCode/2367.%20Number%20of%20Arithmetic%20Triplets/solution.cpp)|||[py](./LeetCode/2367.%20Number%20of%20Arithmetic%20Triplets/solution.py)|||
 [2373. Largest Local Values in a Matrix](./LeetCode/2373.%20Largest%20Local%20Values%20in%20a%20Matrix)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Matrix`](https://leetcode.com/tag/matrix/)|[cpp](./LeetCode/2373.%20Largest%20Local%20Values%20in%20a%20Matrix/solution.cpp)|[java](./LeetCode/2373.%20Largest%20Local%20Values%20in%20a%20Matrix/Solution.java)||[py](./LeetCode/2373.%20Largest%20Local%20Values%20in%20a%20Matrix/solution.py)|[go](./LeetCode/2373.%20Largest%20Local%20Values%20in%20a%20Matrix/solution.go)||
+[2379. Minimum Recolors to Get K Consecutive Black Blocks](./LeetCode/2379.%20Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks)|Easy| [`String`](https://leetcode.com/tag/string/) [`Sliding Window`](https://leetcode.com/tag/sliding-window/)|[cpp](./LeetCode/2379.%20Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/solution.cpp)|||[py](./LeetCode/2379.%20Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/solution.py)|||
 [2396. Strictly Palindromic Number](./LeetCode/2396.%20Strictly%20Palindromic%20Number)|Medium| [`Two Pointers`](https://leetcode.com/tag/two-pointers/) [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2396.%20Strictly%20Palindromic%20Number/solution.cpp)|||[py](./LeetCode/2396.%20Strictly%20Palindromic%20Number/solution.py)|||
 [2413. Smallest Even Multiple](./LeetCode/2413.%20Smallest%20Even%20Multiple)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2413.%20Smallest%20Even%20Multiple/solution.cpp)|||[py](./LeetCode/2413.%20Smallest%20Even%20Multiple/solution.py)|||
 [2418. Sort the People](./LeetCode/2418.%20Sort%20the%20People)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/) [`Sorting`](https://leetcode.com/tag/sorting/) [`Hash Table`](https://leetcode.com/tag/hash-table/)||||[py](./LeetCode/2418.%20Sort%20the%20People/solution.py)|||
