@@ -1,5 +1,5 @@
 # Leetcode
-**Problems have been solved:** 720
+**Problems have been solved:** 721
 
 Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 ---|---|---|---|---|---|---|---|---|---
@@ -671,6 +671,7 @@ Problem | Difficulty | Tags | Cpp | Java | JS | Python | Go | Kotlin | Rust
 [2047. Number of Valid Words in a Sentence](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence)|Easy| [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence/solution.cpp)||||||
 [2049. Count Nodes With the Highest Score](./LeetCode/2049.%20Count%20Nodes%20With%20the%20Highest%20Score)|Medium| [`Array`](https://leetcode.com/tag/array/) [`Binary Tree`](https://leetcode.com/tag/binary-tree/) [`Tree`](https://leetcode.com/tag/tree/) [`Depth-first Search`](https://leetcode.com/tag/depth-first-search/)||||[py](./LeetCode/2049.%20Count%20Nodes%20With%20the%20Highest%20Score/solution.py)|||
 [2055. Plates Between Candles](./LeetCode/2055.%20Plates%20Between%20Candles)|Medium| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/) [`Binary Search`](https://leetcode.com/tag/binary-search/)|[cpp](./LeetCode/2055.%20Plates%20Between%20Candles/solution.cpp)|||[py](./LeetCode/2055.%20Plates%20Between%20Candles/solution.py)|||
+[2089. Find Target Indices After Sorting Array](./LeetCode/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array)|Easy| [`Array`](https://leetcode.com/tag/array/) [`Sorting`](https://leetcode.com/tag/sorting/) [`Binary Search`](https://leetcode.com/tag/binary-search/)|[cpp](./LeetCode/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array/solution.cpp)|||[py](./LeetCode/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array/solution.py)|||
 [2114. Maximum Number of Words Found in Sentences](./LeetCode/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences)|Easy| [`Array`](https://leetcode.com/tag/array/) [`String`](https://leetcode.com/tag/string/)|[cpp](./LeetCode/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/solution.cpp)|||[py](./LeetCode/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/solution.py)|||
 [2160. Minimum Sum of Four Digit Number After Splitting Digits](./LeetCode/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits)|Easy| [`Math`](https://leetcode.com/tag/math/) [`Greedy`](https://leetcode.com/tag/greedy/) [`Sorting`](https://leetcode.com/tag/sorting/)|[cpp](./LeetCode/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/solution.cpp)|||[py](./LeetCode/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/solution.py)|||
 [2169. Count Operations to Obtain Zero](./LeetCode/2169.%20Count%20Operations%20to%20Obtain%20Zero)|Easy| [`Math`](https://leetcode.com/tag/math/)|[cpp](./LeetCode/2169.%20Count%20Operations%20to%20Obtain%20Zero/solution.cpp)||||||
