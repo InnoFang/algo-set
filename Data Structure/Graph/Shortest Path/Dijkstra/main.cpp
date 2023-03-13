@@ -7,7 +7,7 @@ using namespace std;
 const int INF = 0x7ffffff;
 
 /* find the smallest distance not yet checked */
-int choose(vector<int> distance, vector<bool> found) {
+int choose(const vector<int> &distance, const vector<bool> &found) {
     int min = INF;
     int minPos = -1;
     for (int i = 0; i < distance.size(); ++i) {
@@ -25,7 +25,7 @@ int choose(vector<int> distance, vector<bool> found) {
     found[i] holds a 0 if the shortest path from vertex i has not been found and a 1 if it has
     path[i] represents the precursor node of i
 */
-void shortestPath(int src, vector<vector<int>> adjMat, vector<int> &distance, vector<bool> &found, vector<int> &path) {
+void shortestPath(int src, vector<vector<int>> &adjMat, vector<int> &distance, vector<bool> &found, vector<int> &path) {
     int vertexNum = adjMat.size();
     for (int i = 0; i < vertexNum; ++i) {
         found[i] = false;
@@ -48,7 +48,7 @@ void shortestPath(int src, vector<vector<int>> adjMat, vector<int> &distance, ve
     }
 }
 
-void searchPath(vector<int> path, vector<int> distance, int src, int dest) {
+void searchPath(vector<int> &path, vector<int> &distance, int src, int dest) {
     cout << "Weight: " << distance[dest] << endl;
 
     stack<int> pathStack;
