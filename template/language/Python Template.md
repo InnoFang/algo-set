@@ -50,7 +50,7 @@ if __name__ == '__main__':
 
 ## template v2
 
-Personally, I think this version of the template is easier to use, as it doesn't require changing input/output redirection when running Python programs. It also aligns with the habits and intuitions of most Python users when using the input function to input data.
+Personally, I think this version of the template is easier to use, as it doesn't require changing input/output redirection when running Python programs. It also aligns with the habits and intuitions of most Python users when using the `input` function to input data.
 
 ```python
 import os, sys
